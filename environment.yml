@@ -1,0 +1,16 @@
+name: TER
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - seaborn
+  - ipywidgets
+  - ipykernel
+  - tabulate
+  - jupyterlab>=4.0.0
+  - jupyterlab-myst>=2.0.0
+  - myst-nb

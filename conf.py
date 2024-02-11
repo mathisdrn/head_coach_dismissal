@@ -1,0 +1,1 @@
+myst_render_markdown_format = "myst"

@@ -1,0 +1,31 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  title: Head coach dismissal effect on football team performance
+  github: https://github.com/mathisdrn/head_coach_dismissal
+  license: 
+    content: CC-BY-SA-4.0
+    code: MIT
+  subject: research 
+  date: 2024/02/10
+  authors: 
+    - name: Mathis Derenne
+      affiliation: uor
+      github: mathisdrn
+    - name: Ewann x
+      affiliation: uor
+    - name: Scott daz
+      affiliation: uor
+    - name: Romain dcv
+      affiliation: uor
+  affiliations: 
+    - id: uor
+      institution: University of Rennes
+  exports:
+    # - format: pdf
+    #   article: 01 - Paper.ipynb
+    - format: docx
+      article: 01 - Paper.ipynb
+site:
+  title: "Head coach dismissal effect on team performance"
+  template: article-theme
