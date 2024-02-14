@@ -1,4 +1,4 @@
-league,country,season_year,date,home,home_goals,away,away_goals
+league,country,season_year,date,home_team,home_goals,away_team,away_goals
 Premier League,England,2018,2017-08-11,Arsenal,4.0,Leicester City,3.0
 Premier League,England,2018,2017-08-12,Watford,3.0,Liverpool,3.0
 Premier League,England,2018,2017-08-12,Crystal Palace,0.0,Huddersfield,3.0

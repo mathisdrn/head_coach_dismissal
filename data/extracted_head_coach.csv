@@ -1,0 +1,299 @@
+team_name,league,country,coach_name,staff_url,staff_dob,staff_nationality,staff_nationality_secondary,appointed,end_date,days_in_post,matches,wins,draws,losses
+Manchester City,Premier League,England,Pep Guardiola,https://www.transfermarkt.com/pep-guardiola/profil/trainer/5672,"Jan 18, 1971",Spain,,2016-07-01,,2784,450,333,53,64
+Liverpool FC,Premier League,England,Jürgen Klopp,https://www.transfermarkt.com/jurgen-klopp/profil/trainer/118,"Jun 16, 1967",Germany,,2015-10-08,2024-06-30,3188,468,291,96,81
+Chelsea FC,Premier League,England,Graham Potter,https://www.transfermarkt.com/graham-potter/profil/trainer/23954,"May 20, 1975",England,,2022-09-08,2023-04-02,206,31,12,8,11
+Chelsea FC,Premier League,England,Thomas Tuchel,https://www.transfermarkt.com/thomas-tuchel/profil/trainer/7471,"Aug 29, 1973",Germany,,2021-01-26,2022-09-07,589,100,63,19,18
+Chelsea FC,Premier League,England,Frank Lampard,https://www.transfermarkt.com/frank-lampard/profil/trainer/60805,"Jun 20, 1978",England,,2019-07-04,2021-01-25,571,84,44,15,25
+Chelsea FC,Premier League,England,Maurizio Sarri,https://www.transfermarkt.com/maurizio-sarri/profil/trainer/10073,"Jan 10, 1959",Italy,,2018-07-14,2019-06-30,351,63,40,11,12
+Chelsea FC,Premier League,England,Antonio Conte,https://www.transfermarkt.com/antonio-conte/profil/trainer/3517,"Jul 31, 1969",Italy,,2016-07-01,2018-07-13,742,106,70,15,21
+Tottenham Hotspur,Premier League,England,Antonio Conte,https://www.transfermarkt.com/antonio-conte/profil/trainer/3517,"Jul 31, 1969",Italy,,2021-11-02,2023-03-26,509,76,41,12,23
+Tottenham Hotspur,Premier League,England,Nuno Espírito Santo,https://www.transfermarkt.com/nuno-espirito-santo/profil/trainer/16520,"Jan 25, 1974",Portugal,Sao Tome and Principe,2021-07-01,2021-11-01,123,17,9,1,7
+Tottenham Hotspur,Premier League,England,José Mourinho,https://www.transfermarkt.com/jose-mourinho/profil/trainer/781,"Jan 26, 1963",Portugal,,2019-11-20,2021-04-19,516,86,45,17,24
+Tottenham Hotspur,Premier League,England,Mauricio Pochettino,https://www.transfermarkt.com/mauricio-pochettino/profil/trainer/9044,"Mar 2, 1972",Argentina,Spain,2014-07-01,2019-11-19,1967,293,160,60,73
+Manchester United,Premier League,England,Erik ten Hag,https://www.transfermarkt.com/erik-ten-hag/profil/trainer/3816,"Feb 2, 1970",Netherlands,,2022-07-01,,593,96,59,11,26
+Manchester United,Premier League,England,Ole Gunnar Solskjaer,https://www.transfermarkt.com/ole-gunnar-solskjaer/profil/trainer/7286,"Feb 26, 1973",Norway,,2019-03-28,2021-11-21,969,149,78,33,38
+Manchester United,Premier League,England,José Mourinho,https://www.transfermarkt.com/jose-mourinho/profil/trainer/781,"Jan 26, 1963",Portugal,,2016-07-01,2018-12-18,900,144,84,31,29
+Arsenal FC,Premier League,England,Mikel Arteta,https://www.transfermarkt.com/mikel-arteta/profil/trainer/47620,"Mar 26, 1982",Spain,,2019-12-22,,1515,213,127,32,54
+Arsenal FC,Premier League,England,Unai Emery,https://www.transfermarkt.com/unai-emery/profil/trainer/5075,"Nov 3, 1971",Spain,,2018-07-01,2019-11-29,516,78,43,15,20
+Arsenal FC,Premier League,England,Arsène Wenger,https://www.transfermarkt.com/arsene-wenger/profil/trainer/280,"Oct 22, 1949",France,,1996-10-01,2018-06-30,7942,1234,715,267,252
+Everton FC,Premier League,England,Frank Lampard,https://www.transfermarkt.com/frank-lampard/profil/trainer/60805,"Jun 20, 1978",England,,2022-01-31,2023-01-23,357,44,12,8,24
+Everton FC,Premier League,England,Rafael Benítez,https://www.transfermarkt.com/rafael-benitez/profil/trainer/1522,"Apr 16, 1960",Spain,,2021-07-01,2022-01-16,199,22,7,4,11
+Everton FC,Premier League,England,Carlo Ancelotti,https://www.transfermarkt.com/carlo-ancelotti/profil/trainer/523,"Jun 10, 1959",Italy,,2019-12-22,2021-06-30,556,67,31,14,22
+Everton FC,Premier League,England,Marco Silva,https://www.transfermarkt.com/marco-silva/profil/trainer/19631,"Jul 12, 1977",Portugal,,2018-05-31,2019-12-05,553,60,24,11,25
+Everton FC,Premier League,England,Sam Allardyce,https://www.transfermarkt.com/sam-allardyce/profil/trainer/445,"Oct 19, 1954",England,,2017-11-30,2018-05-16,167,26,10,7,9
+West Ham United,Premier League,England,David Moyes,https://www.transfermarkt.com/david-moyes/profil/trainer/450,"Apr 25, 1963",Scotland,,2019-12-29,,1508,212,98,38,76
+West Ham United,Premier League,England,Manuel Pellegrini,https://www.transfermarkt.com/manuel-pellegrini/profil/trainer/1558,"Sep 16, 1953",Chile,Italy,2018-07-01,2019-12-28,545,64,24,11,29
+West Ham United,Premier League,England,David Moyes,https://www.transfermarkt.com/david-moyes/profil/trainer/450,"Apr 25, 1963",Scotland,,2017-11-07,2018-05-16,190,31,9,10,12
+AFC Bournemouth,Premier League,England,Gary O'Neil,https://www.transfermarkt.com/gary-oneil/profil/trainer/82647,"May 18, 1983",England,,2022-11-28,2023-06-19,203,25,7,2,16
+AFC Bournemouth,Premier League,England,Scott Parker,https://www.transfermarkt.com/scott-parker/profil/trainer/54455,"Oct 13, 1980",England,,2021-07-01,2022-08-30,425,55,29,13,13
+AFC Bournemouth,Premier League,England,Jonathan Woodgate,https://www.transfermarkt.com/jonathan-woodgate/profil/trainer/48568,"Jan 22, 1980",England,,2021-02-04,2021-06-30,146,23,13,2,8
+AFC Bournemouth,Premier League,England,Jason Tindall,https://www.transfermarkt.com/jason-tindall/profil/trainer/15662,"Nov 15, 1977",England,,2020-08-08,2021-02-03,179,31,14,9,8
+AFC Bournemouth,Premier League,England,Eddie Howe,https://www.transfermarkt.com/eddie-howe/profil/trainer/10976,"Nov 29, 1977",England,,2012-10-14,2020-08-01,2848,355,144,75,136
+Wolverhampton Wanderers,Premier League,England,Julen Lopetegui,https://www.transfermarkt.com/julen-lopetegui/profil/trainer/6615,"Aug 28, 1966",Spain,,2022-11-14,2023-08-08,267,27,10,5,12
+Wolverhampton Wanderers,Premier League,England,Bruno Lage,https://www.transfermarkt.com/bruno-lage/profil/trainer/61477,"May 12, 1976",Portugal,,2021-07-01,2022-10-02,458,51,19,9,23
+Wolverhampton Wanderers,Premier League,England,Nuno Espírito Santo,https://www.transfermarkt.com/nuno-espirito-santo/profil/trainer/16520,"Jan 25, 1974",Portugal,Sao Tome and Principe,2017-07-01,2021-06-30,1460,199,96,46,57
+Crystal Palace,Premier League,England,Patrick Vieira,https://www.transfermarkt.com/patrick-vieira/profil/trainer/20029,"Jun 23, 1976",France,Senegal,2021-07-04,2023-03-17,621,74,22,24,28
+Crystal Palace,Premier League,England,Roy Hodgson,https://www.transfermarkt.com/roy-hodgson/profil/trainer/1775,"Aug 9, 1947",England,,2017-09-12,2021-06-30,1387,162,54,36,72
+Fulham FC,Premier League,England,Marco Silva,https://www.transfermarkt.com/marco-silva/profil/trainer/19631,"Jul 12, 1977",Portugal,,2021-07-01,,958,126,60,23,43
+Fulham FC,Premier League,England,Scott Parker,https://www.transfermarkt.com/scott-parker/profil/trainer/54455,"Oct 13, 1980",England,,2019-02-28,2021-06-30,853,105,37,25,43
+Fulham FC,Premier League,England,Claudio Ranieri,https://www.transfermarkt.com/claudio-ranieri/profil/trainer/456,"Oct 20, 1951",Italy,,2018-11-14,2019-02-28,106,17,3,3,11
+Fulham FC,Premier League,England,Slavisa Jokanovic,https://www.transfermarkt.com/slavisa-jokanovic/profil/trainer/5627,"Aug 16, 1968",Serbia,Spain,2015-12-27,2018-11-14,1053,144,63,36,45
+Newcastle United,Premier League,England,Eddie Howe,https://www.transfermarkt.com/eddie-howe/profil/trainer/10976,"Nov 29, 1977",England,,2021-11-08,,828,109,54,24,31
+Newcastle United,Premier League,England,Steve Bruce,https://www.transfermarkt.com/steve-bruce/profil/trainer/447,"Dec 31, 1960",England,,2019-07-17,2021-10-20,826,97,29,25,43
+Newcastle United,Premier League,England,Rafael Benítez,https://www.transfermarkt.com/rafael-benitez/profil/trainer/1522,"Apr 16, 1960",Spain,,2016-03-11,2019-06-30,1206,146,62,30,54
+Burnley FC,Premier League,England,Vincent Kompany,https://www.transfermarkt.com/vincent-kompany/profil/trainer/69681,"Apr 10, 1986",Belgium,DR Congo,2022-07-01,,593,82,39,19,24
+Burnley FC,Premier League,England,Sean Dyche,https://www.transfermarkt.com/sean-dyche/profil/trainer/15856,"Jun 28, 1971",England,,2012-10-30,2022-04-15,3454,425,152,114,159
+Brighton & Hove Albion,Premier League,England,Roberto De Zerbi,https://www.transfermarkt.com/roberto-de-zerbi/profil/trainer/32157,"Jun 6, 1979",Italy,,2022-09-18,,514,72,34,16,22
+Brighton & Hove Albion,Premier League,England,Graham Potter,https://www.transfermarkt.com/graham-potter/profil/trainer/23954,"May 20, 1975",England,,2019-05-20,2022-09-07,1206,134,43,43,48
+Brighton & Hove Albion,Premier League,England,Chris Hughton,https://www.transfermarkt.com/chris-hughton/profil/trainer/2654,"Dec 11, 1958",Ireland,England,2014-12-31,2019-05-13,1594,215,89,56,70
+FC Barcelona,LaLiga,Spain,Xavi,https://www.transfermarkt.com/xavi/profil/trainer/59876,"Jan 25, 1980",Spain,,2021-11-06,2024-06-30,967,125,78,21,26
+FC Barcelona,LaLiga,Spain,Ronald Koeman,https://www.transfermarkt.com/ronald-koeman/profil/trainer/439,"Mar 21, 1963",Netherlands,,2020-08-19,2021-10-28,435,67,40,11,16
+FC Barcelona,LaLiga,Spain,Quique Setién,https://www.transfermarkt.com/quique-setien/profil/trainer/12440,"Sep 27, 1958",Spain,,2020-01-13,2020-08-17,217,25,16,4,5
+FC Barcelona,LaLiga,Spain,Ernesto Valverde,https://www.transfermarkt.com/ernesto-valverde/profil/trainer/1559,"Feb 9, 1964",Spain,,2017-07-01,2020-01-13,926,145,97,32,16
+Atlético de Madrid,LaLiga,Spain,Diego Simeone,https://www.transfermarkt.com/diego-simeone/profil/trainer/2868,"Apr 28, 1970",Argentina,Italy,2011-12-23,,4436,662,392,147,123
+Real Madrid,LaLiga,Spain,Carlo Ancelotti,https://www.transfermarkt.com/carlo-ancelotti/profil/trainer/523,"Jun 10, 1959",Italy,,2021-07-01,,958,152,109,20,23
+Real Madrid,LaLiga,Spain,Zinédine Zidane,https://www.transfermarkt.com/zinedine-zidane/profil/trainer/21284,"Jun 23, 1972",France,Algeria,2019-03-11,2021-06-30,842,114,69,25,20
+Real Madrid,LaLiga,Spain,Santiago Solari,https://www.transfermarkt.com/santiago-solari/profil/trainer/30782,"Oct 7, 1976",Argentina,Spain,2018-11-13,2019-03-11,118,28,18,2,8
+Real Madrid,LaLiga,Spain,Julen Lopetegui,https://www.transfermarkt.com/julen-lopetegui/profil/trainer/6615,"Aug 28, 1966",Spain,,2018-07-01,2018-10-29,120,14,6,2,6
+Real Madrid,LaLiga,Spain,Zinédine Zidane,https://www.transfermarkt.com/zinedine-zidane/profil/trainer/21284,"Jun 23, 1972",France,Algeria,2016-01-04,2018-05-31,878,149,105,28,16
+Valencia CF,LaLiga,Spain,Gennaro Gattuso,https://www.transfermarkt.com/gennaro-gattuso/profil/trainer/27803,"Jan 9, 1978",Italy,,2022-07-01,2023-01-30,213,22,7,5,10
+Valencia CF,LaLiga,Spain,Pepe Bordalás,https://www.transfermarkt.com/pepe-bordalas/profil/trainer/6440,"Mar 5, 1964",Spain,,2021-07-01,2022-06-03,337,46,17,16,13
+Valencia CF,LaLiga,Spain,Javi Gracia,https://www.transfermarkt.com/javi-gracia/profil/trainer/10254,"May 1, 1970",Spain,,2020-07-27,2021-05-03,280,38,11,12,15
+Valencia CF,LaLiga,Spain,Albert Celades,https://www.transfermarkt.com/albert-celades/profil/trainer/34279,"Sep 29, 1975",Spain,Andorra,2019-09-11,2020-06-29,292,41,16,11,14
+Valencia CF,LaLiga,Spain,Marcelino,https://www.transfermarkt.com/marcelino/profil/trainer/5095,"Aug 14, 1965",Spain,,2017-07-01,2019-09-11,802,110,56,29,25
+Sevilla FC,LaLiga,Spain,Jorge Sampaoli,https://www.transfermarkt.com/jorge-sampaoli/profil/trainer/10819,"Mar 13, 1960",Argentina,,2022-10-06,2023-03-20,165,31,13,6,12
+Sevilla FC,LaLiga,Spain,Julen Lopetegui,https://www.transfermarkt.com/julen-lopetegui/profil/trainer/6615,"Aug 28, 1966",Spain,,2019-07-01,2022-10-06,1193,170,90,44,36
+Sevilla FC,LaLiga,Spain,Joaquín Caparrós,https://www.transfermarkt.com/joaquin-caparros/profil/trainer/1550,"Oct 15, 1955",Spain,,2019-03-15,2019-06-30,107,11,6,1,4
+Sevilla FC,LaLiga,Spain,Pablo Machín,https://www.transfermarkt.com/pablo-machin/profil/trainer/6386,"Apr 7, 1975",Spain,,2018-07-01,2019-03-15,257,50,26,9,15
+Sevilla FC,LaLiga,Spain,Vincenzo Montella,https://www.transfermarkt.com/vincenzo-montella/profil/trainer/11795,"Jun 18, 1974",Italy,,2017-12-30,2018-04-28,119,28,11,7,10
+Real Sociedad,LaLiga,Spain,Imanol Alguacil,https://www.transfermarkt.com/imanol-alguacil/profil/trainer/33333,"Jul 4, 1971",Spain,,2018-12-27,,1875,257,122,71,64
+Real Sociedad,LaLiga,Spain,Asier Garitano,https://www.transfermarkt.com/asier-garitano/profil/trainer/7921,"Dec 6, 1969",Spain,,2018-07-01,2018-12-26,178,19,6,5,8
+Real Sociedad,LaLiga,Spain,Imanol Alguacil,https://www.transfermarkt.com/imanol-alguacil/profil/trainer/33333,"Jul 4, 1971",Spain,,2018-03-19,2018-06-30,103,9,5,1,3
+Real Sociedad,LaLiga,Spain,Eusebio,https://www.transfermarkt.com/eusebio/profil/trainer/818,"Apr 13, 1964",Spain,,2015-11-09,2018-03-18,860,112,46,23,43
+Real Betis Balompié,LaLiga,Spain,Manuel Pellegrini,https://www.transfermarkt.com/manuel-pellegrini/profil/trainer/1558,"Sep 16, 1953",Chile,Italy,2020-08-01,,1292,181,88,43,50
+Real Betis Balompié,LaLiga,Spain,Rubi,https://www.transfermarkt.com/rubi/profil/trainer/24307,"Feb 5, 1970",Spain,,2019-07-01,2020-06-21,356,33,10,10,13
+Real Betis Balompié,LaLiga,Spain,Quique Setién,https://www.transfermarkt.com/quique-setien/profil/trainer/12440,"Sep 27, 1958",Spain,,2017-07-01,2019-06-30,729,94,39,22,33
+Athletic Bilbao,LaLiga,Spain,Ernesto Valverde,https://www.transfermarkt.com/ernesto-valverde/profil/trainer/1559,"Feb 9, 1964",Spain,,2022-07-01,,593,75,38,17,20
+Athletic Bilbao,LaLiga,Spain,Marcelino,https://www.transfermarkt.com/marcelino/profil/trainer/5095,"Aug 14, 1965",Spain,,2021-01-04,2022-06-30,542,75,29,25,21
+Athletic Bilbao,LaLiga,Spain,Gaizka Garitano,https://www.transfermarkt.com/gaizka-garitano/profil/trainer/10781,"Jul 9, 1975",Spain,,2018-12-05,2021-01-03,760,89,39,21,29
+Athletic Bilbao,LaLiga,Spain,Eduardo Berizzo,https://www.transfermarkt.com/eduardo-berizzo/profil/trainer/22079,"Nov 13, 1969",Argentina,Italy,2018-07-01,2018-12-04,156,15,2,8,5
+Athletic Bilbao,LaLiga,Spain,Cuco Ziganda,https://www.transfermarkt.com/cuco-ziganda/profil/trainer/3270,"Oct 1, 1966",Spain,,2017-07-01,2018-06-30,364,54,17,17,20
+Celta de Vigo,LaLiga,Spain,Carlos Carvalhal,https://www.transfermarkt.com/carlos-carvalhal/profil/trainer/1588,"Dec 4, 1965",Portugal,,2022-11-02,2023-06-30,240,29,10,8,11
+Celta de Vigo,LaLiga,Spain,Eduardo Coudet,https://www.transfermarkt.com/eduardo-coudet/profil/trainer/38808,"Sep 12, 1974",Argentina,Italy,2020-11-12,2022-11-02,720,84,31,19,34
+Celta de Vigo,LaLiga,Spain,Óscar García,https://www.transfermarkt.com/oscar-garcia/profil/trainer/16362,"Apr 26, 1973",Spain,,2019-11-04,2020-11-09,371,38,8,17,13
+Celta de Vigo,LaLiga,Spain,Fran Escribá,https://www.transfermarkt.com/fran-escriba/profil/trainer/2562,"May 3, 1965",Spain,,2019-03-03,2019-11-03,245,24,6,7,11
+Celta de Vigo,LaLiga,Spain,Miguel Cardoso,https://www.transfermarkt.com/miguel-cardoso/profil/trainer/11664,"May 28, 1972",Portugal,,2018-11-12,2019-03-03,111,15,3,2,10
+Celta de Vigo,LaLiga,Spain,Antonio Mohamed,https://www.transfermarkt.com/antonio-mohamed/profil/trainer/4882,"Apr 2, 1970",Argentina,Mexico,2018-07-01,2018-11-12,134,13,3,6,4
+Celta de Vigo,LaLiga,Spain,Juan Carlos Unzué,https://www.transfermarkt.com/juan-carlos-unzue/profil/trainer/822,"Apr 22, 1967",Spain,,2017-07-01,2018-06-30,364,42,15,11,16
+Villarreal CF,LaLiga,Spain,Quique Setién,https://www.transfermarkt.com/quique-setien/profil/trainer/12440,"Sep 27, 1958",Spain,,2022-10-26,2023-09-05,314,39,18,6,15
+Villarreal CF,LaLiga,Spain,Unai Emery,https://www.transfermarkt.com/unai-emery/profil/trainer/5075,"Nov 3, 1971",Spain,,2020-07-23,2022-10-25,824,129,66,32,31
+Villarreal CF,LaLiga,Spain,Javier Calleja,https://www.transfermarkt.com/javier-calleja/profil/trainer/42706,"May 12, 1978",Spain,,2019-01-29,2020-07-20,538,66,32,12,22
+Villarreal CF,LaLiga,Spain,Luis García,https://www.transfermarkt.com/luis-garcia/profil/trainer/6444,"Dec 1, 1972",Spain,,2018-12-10,2019-01-29,50,9,1,5,3
+Villarreal CF,LaLiga,Spain,Javier Calleja,https://www.transfermarkt.com/javier-calleja/profil/trainer/42706,"May 12, 1978",Spain,,2017-09-25,2018-12-10,441,65,25,18,22
+Getafe CF,LaLiga,Spain,Quique Sánchez Flores,https://www.transfermarkt.com/quique-sanchez-flores/profil/trainer/1553,"Feb 2, 1965",Spain,,2021-10-06,2023-04-27,568,66,18,24,24
+Getafe CF,LaLiga,Spain,Michel,https://www.transfermarkt.com/michel/profil/trainer/9897,"Mar 23, 1963",Spain,,2021-07-01,2021-10-04,95,8,0,1,7
+Getafe CF,LaLiga,Spain,Pepe Bordalás,https://www.transfermarkt.com/pepe-bordalas/profil/trainer/6440,"Mar 5, 1964",Spain,,2016-09-27,2021-06-30,1737,212,83,60,69
+Deportivo Alavés,LaLiga,Spain,Luis García,https://www.transfermarkt.com/luis-garcia/profil/trainer/6444,"Dec 1, 1972",Spain,,2022-07-01,,593,78,34,22,22
+Deportivo Alavés,LaLiga,Spain,Julio Velázquez,https://www.transfermarkt.com/julio-velazquez/profil/trainer/17326,"Oct 5, 1981",Spain,,2022-04-05,2022-06-30,86,8,3,0,5
+Deportivo Alavés,LaLiga,Spain,José Luis Mendilibar,https://www.transfermarkt.com/jose-luis-mendilibar/profil/trainer/2662,"Mar 14, 1961",Spain,,2021-12-28,2022-04-04,97,12,1,4,7
+Deportivo Alavés,LaLiga,Spain,Javier Calleja,https://www.transfermarkt.com/javier-calleja/profil/trainer/42706,"May 12, 1978",Spain,,2021-04-05,2021-12-28,267,29,9,6,14
+Deportivo Alavés,LaLiga,Spain,Abelardo,https://www.transfermarkt.com/abelardo/profil/trainer/6809,"Apr 19, 1970",Spain,,2021-01-12,2021-04-05,83,12,1,2,9
+Deportivo Alavés,LaLiga,Spain,Pablo Machín,https://www.transfermarkt.com/pablo-machin/profil/trainer/6386,"Apr 7, 1975",Spain,,2020-08-05,2021-01-12,160,20,6,6,8
+Deportivo Alavés,LaLiga,Spain,Juan Muñiz,https://www.transfermarkt.com/juan-muniz/profil/trainer/5177,"Nov 2, 1968",Spain,,2020-07-05,2020-07-20,15,4,1,1,2
+Deportivo Alavés,LaLiga,Spain,Asier Garitano,https://www.transfermarkt.com/asier-garitano/profil/trainer/7921,"Dec 6, 1969",Spain,,2019-07-01,2020-07-05,370,35,9,8,18
+Deportivo Alavés,LaLiga,Spain,Abelardo,https://www.transfermarkt.com/abelardo/profil/trainer/6809,"Apr 19, 1970",Spain,,2017-12-01,2019-06-30,576,69,28,14,27
+Girona FC,LaLiga,Spain,Míchel,https://www.transfermarkt.com/michel/profil/trainer/33636,"Oct 30, 1975",Spain,,2021-07-09,,950,120,60,25,35
+Girona FC,LaLiga,Spain,Francisco Rodríguez,https://www.transfermarkt.com/francisco-rodriguez/profil/trainer/28876,"Jun 17, 1978",Spain,,2020-07-01,2021-06-30,364,60,30,15,15
+Girona FC,LaLiga,Spain,Josep Lluís Martí,https://www.transfermarkt.com/josep-lluis-marti/profil/trainer/43406,"Apr 28, 1975",Spain,,2019-10-28,2020-06-30,246,26,11,8,7
+Girona FC,LaLiga,Spain,Juan Carlos Unzué,https://www.transfermarkt.com/juan-carlos-unzue/profil/trainer/822,"Apr 22, 1967",Spain,,2019-07-01,2019-10-21,112,12,5,1,6
+Girona FC,LaLiga,Spain,Eusebio,https://www.transfermarkt.com/eusebio/profil/trainer/818,"Apr 13, 1964",Spain,,2018-07-01,2019-06-30,364,44,10,13,21
+Girona FC,LaLiga,Spain,Pablo Machín,https://www.transfermarkt.com/pablo-machin/profil/trainer/6386,"Apr 7, 1975",Spain,,2014-03-10,2018-06-30,1573,189,84,48,57
+Rayo Vallecano,LaLiga,Spain,Andoni Iraola,https://www.transfermarkt.com/andoni-iraola/profil/trainer/60677,"Jun 22, 1982",Spain,,2020-08-06,2023-06-30,1058,136,56,30,50
+Rayo Vallecano,LaLiga,Spain,Paco Jémez,https://www.transfermarkt.com/paco-jemez/profil/trainer/5174,"Apr 18, 1970",Spain,,2019-03-19,2020-07-31,500,56,18,24,14
+Rayo Vallecano,LaLiga,Spain,Míchel,https://www.transfermarkt.com/michel/profil/trainer/33636,"Oct 30, 1975",Spain,,2017-02-21,2019-03-18,755,89,34,23,32
+Juventus FC,Serie A,Italy,Massimiliano Allegri,https://www.transfermarkt.com/massimiliano-allegri/profil/trainer/7671,"Aug 11, 1967",Italy,,2021-05-28,,992,134,76,26,32
+Juventus FC,Serie A,Italy,Andrea Pirlo,https://www.transfermarkt.com/andrea-pirlo/profil/trainer/62049,"May 19, 1979",Italy,,2020-08-08,2021-05-28,293,52,34,10,8
+Juventus FC,Serie A,Italy,Maurizio Sarri,https://www.transfermarkt.com/maurizio-sarri/profil/trainer/10073,"Jan 10, 1959",Italy,,2019-07-01,2020-08-08,404,52,34,8,10
+Juventus FC,Serie A,Italy,Massimiliano Allegri,https://www.transfermarkt.com/massimiliano-allegri/profil/trainer/7671,"Aug 11, 1967",Italy,,2014-07-16,2019-06-30,1810,271,191,41,39
+SSC Napoli,Serie A,Italy,Luciano Spalletti,https://www.transfermarkt.com/luciano-spalletti/profil/trainer/517,"Mar 7, 1959",Italy,,2021-07-01,2023-06-30,729,96,62,16,18
+SSC Napoli,Serie A,Italy,Gennaro Gattuso,https://www.transfermarkt.com/gennaro-gattuso/profil/trainer/27803,"Jan 9, 1978",Italy,,2019-12-11,2021-06-30,567,81,47,12,22
+SSC Napoli,Serie A,Italy,Carlo Ancelotti,https://www.transfermarkt.com/carlo-ancelotti/profil/trainer/523,"Jun 10, 1959",Italy,,2018-07-01,2019-12-10,527,73,38,19,16
+SSC Napoli,Serie A,Italy,Maurizio Sarri,https://www.transfermarkt.com/maurizio-sarri/profil/trainer/10073,"Jan 10, 1959",Italy,,2015-06-11,2018-07-13,1128,148,98,25,25
+Inter Milan,Serie A,Italy,Simone Inzaghi,https://www.transfermarkt.com/simone-inzaghi/profil/trainer/21624,"Apr 5, 1976",Italy,,2021-06-03,,986,141,93,24,24
+Inter Milan,Serie A,Italy,Antonio Conte,https://www.transfermarkt.com/antonio-conte/profil/trainer/3517,"Jul 31, 1969",Italy,,2019-05-31,2021-05-26,726,102,64,23,15
+Inter Milan,Serie A,Italy,Luciano Spalletti,https://www.transfermarkt.com/luciano-spalletti/profil/trainer/517,"Mar 7, 1959",Italy,,2017-06-09,2019-05-30,720,90,46,24,20
+AC Milan,Serie A,Italy,Stefano Pioli,https://www.transfermarkt.com/stefano-pioli/profil/trainer/2135,"Oct 20, 1965",Italy,,2019-10-09,,1589,220,123,51,46
+AC Milan,Serie A,Italy,Marco Giampaolo,https://www.transfermarkt.com/marco-giampaolo/profil/trainer/3257,"Aug 2, 1967",Italy,,2019-06-19,2019-10-08,111,7,3,0,4
+AC Milan,Serie A,Italy,Gennaro Gattuso,https://www.transfermarkt.com/gennaro-gattuso/profil/trainer/27803,"Jan 9, 1978",Italy,,2017-11-28,2019-05-28,546,83,41,22,20
+AS Roma,Serie A,Italy,José Mourinho,https://www.transfermarkt.com/jose-mourinho/profil/trainer/781,"Jan 26, 1963",Portugal,,2021-07-01,2024-01-16,929,138,68,30,40
+AS Roma,Serie A,Italy,Paulo Fonseca,https://www.transfermarkt.com/paulo-fonseca/profil/trainer/19944,"Mar 5, 1973",Portugal,Mozambique,2019-07-01,2021-06-30,730,102,53,21,28
+AS Roma,Serie A,Italy,Claudio Ranieri,https://www.transfermarkt.com/claudio-ranieri/profil/trainer/456,"Oct 20, 1951",Italy,,2019-03-08,2019-06-30,114,12,6,4,2
+AS Roma,Serie A,Italy,Eusebio Di Francesco,https://www.transfermarkt.com/eusebio-di-francesco/profil/trainer/12924,"Sep 8, 1969",Italy,,2017-06-13,2019-03-07,632,87,46,18,23
+Atalanta BC,Serie A,Italy,Gian Piero Gasperini,https://www.transfermarkt.com/gian-piero-gasperini/profil/trainer/3436,"Jan 26, 1958",Italy,,2016-06-14,,2801,362,188,85,89
+ACF Fiorentina,Serie A,Italy,Vincenzo Italiano,https://www.transfermarkt.com/vincenzo-italiano/profil/trainer/47288,"Dec 10, 1977",Italy,,2021-07-01,,958,138,69,26,43
+ACF Fiorentina,Serie A,Italy,Giuseppe Iachini,https://www.transfermarkt.com/giuseppe-iachini/profil/trainer/2132,"May 7, 1964",Italy,,2021-03-24,2021-06-30,98,10,2,5,3
+ACF Fiorentina,Serie A,Italy,Cesare Prandelli,https://www.transfermarkt.com/cesare-prandelli/profil/trainer/521,"Aug 19, 1957",Italy,,2020-11-09,2021-03-23,134,23,6,6,11
+ACF Fiorentina,Serie A,Italy,Giuseppe Iachini,https://www.transfermarkt.com/giuseppe-iachini/profil/trainer/2132,"May 7, 1964",Italy,,2019-12-23,2020-11-09,322,31,12,10,9
+ACF Fiorentina,Serie A,Italy,Vincenzo Montella,https://www.transfermarkt.com/vincenzo-montella/profil/trainer/11795,"Jun 18, 1974",Italy,,2019-04-10,2019-12-21,255,27,6,7,14
+ACF Fiorentina,Serie A,Italy,Stefano Pioli,https://www.transfermarkt.com/stefano-pioli/profil/trainer/2135,"Oct 20, 1965",Italy,,2017-07-01,2019-04-09,647,74,27,25,22
+SS Lazio,Serie A,Italy,Maurizio Sarri,https://www.transfermarkt.com/maurizio-sarri/profil/trainer/10073,"Jan 10, 1959",Italy,,2021-06-09,,980,130,63,30,37
+SS Lazio,Serie A,Italy,Simone Inzaghi,https://www.transfermarkt.com/simone-inzaghi/profil/trainer/21624,"Apr 5, 1976",Italy,,2016-07-08,2021-06-02,1790,244,131,43,70
+US Sassuolo,Serie A,Italy,Alessio Dionisi,https://www.transfermarkt.com/alessio-dionisi/profil/trainer/36126,"Apr 1, 1980",Italy,,2021-07-01,,958,105,33,25,47
+US Sassuolo,Serie A,Italy,Roberto De Zerbi,https://www.transfermarkt.com/roberto-de-zerbi/profil/trainer/32157,"Jun 6, 1979",Italy,,2018-07-01,2021-05-24,1058,120,43,36,41
+US Sassuolo,Serie A,Italy,Giuseppe Iachini,https://www.transfermarkt.com/giuseppe-iachini/profil/trainer/2132,"May 7, 1964",Italy,,2017-11-27,2018-06-05,190,26,9,8,9
+Torino FC,Serie A,Italy,Ivan Juric,https://www.transfermarkt.com/ivan-juric/profil/trainer/16508,"Aug 25, 1975",Croatia,,2021-07-01,,958,107,40,31,36
+Torino FC,Serie A,Italy,Davide Nicola,https://www.transfermarkt.com/davide-nicola/profil/trainer/14892,"Mar 5, 1973",Italy,,2021-01-19,2021-05-28,129,20,5,9,6
+Torino FC,Serie A,Italy,Marco Giampaolo,https://www.transfermarkt.com/marco-giampaolo/profil/trainer/3257,"Aug 2, 1967",Italy,,2020-08-07,2021-01-18,164,21,4,7,10
+Torino FC,Serie A,Italy,Moreno Longo,https://www.transfermarkt.com/moreno-longo/profil/trainer/25681,"Feb 14, 1976",Italy,,2020-02-04,2020-08-07,185,16,3,4,9
+Torino FC,Serie A,Italy,Walter Mazzarri,https://www.transfermarkt.com/walter-mazzarri/profil/trainer/1933,"Oct 1, 1961",Italy,,2018-01-04,2020-02-04,761,90,38,24,28
+Torino FC,Serie A,Italy,Siniša Mihajlović,https://www.transfermarkt.com/sinisa-mihajlovic/profil/trainer/3896,"Feb 20, 1969",Serbia,Italy,2016-05-25,2018-01-04,589,64,23,24,17
+Udinese Calcio,Serie A,Italy,Andrea Sottil,https://www.transfermarkt.com/andrea-sottil/profil/trainer/19718,"Jan 4, 1974",Italy,,2022-06-07,2023-10-24,504,50,13,19,18
+Udinese Calcio,Serie A,Italy,Gabriele Cioffi,https://www.transfermarkt.com/gabriele-cioffi/profil/trainer/31903,"Sep 7, 1975",Italy,,2021-12-07,2022-06-07,182,24,9,7,8
+Udinese Calcio,Serie A,Italy,Luca Gotti,https://www.transfermarkt.com/luca-gotti/profil/trainer/7521,"Sep 13, 1967",Italy,,2019-11-01,2021-12-07,767,87,25,25,37
+Udinese Calcio,Serie A,Italy,Igor Tudor,https://www.transfermarkt.com/igor-tudor/profil/trainer/28632,"Apr 16, 1978",Croatia,,2019-03-20,2019-11-01,226,21,8,4,9
+Udinese Calcio,Serie A,Italy,Davide Nicola,https://www.transfermarkt.com/davide-nicola/profil/trainer/14892,"Mar 5, 1973",Italy,,2018-11-13,2019-03-20,127,15,4,4,7
+Udinese Calcio,Serie A,Italy,Julio Velázquez,https://www.transfermarkt.com/julio-velazquez/profil/trainer/17326,"Oct 5, 1981",Spain,,2018-07-01,2018-11-13,135,13,2,3,8
+Udinese Calcio,Serie A,Italy,Igor Tudor,https://www.transfermarkt.com/igor-tudor/profil/trainer/28632,"Apr 16, 1978",Croatia,,2018-04-24,2018-06-30,67,4,2,1,1
+Udinese Calcio,Serie A,Italy,Massimo Oddo,https://www.transfermarkt.com/massimo-oddo/profil/trainer/35938,"Jun 14, 1976",Italy,,2017-11-21,2018-04-24,154,23,7,3,13
+Genoa CFC,Serie A,Italy,Alberto Gilardino,https://www.transfermarkt.com/alberto-gilardino/profil/trainer/64045,"Jul 5, 1982",Italy,,2022-12-06,,435,51,24,14,13
+Genoa CFC,Serie A,Italy,Alexander Blessin,https://www.transfermarkt.com/alexander-blessin/profil/trainer/26099,"May 28, 1973",Germany,,2022-01-19,2022-12-06,321,33,11,12,10
+Genoa CFC,Serie A,Italy,Andriy Shevchenko,https://www.transfermarkt.com/andriy-shevchenko/profil/trainer/45350,"Sep 29, 1976",Ukraine,,2021-11-07,2022-01-15,69,11,1,3,7
+Genoa CFC,Serie A,Italy,Davide Ballardini,https://www.transfermarkt.com/davide-ballardini/profil/trainer/3793,"Jan 6, 1964",Italy,,2020-12-21,2021-11-06,320,39,11,14,14
+Genoa CFC,Serie A,Italy,Rolando Maran,https://www.transfermarkt.com/rolando-maran/profil/trainer/3018,"Jul 14, 1963",Italy,,2020-08-26,2020-12-21,117,15,3,4,8
+Genoa CFC,Serie A,Italy,Davide Nicola,https://www.transfermarkt.com/davide-nicola/profil/trainer/14892,"Mar 5, 1973",Italy,,2019-12-28,2020-08-26,242,22,8,4,10
+Genoa CFC,Serie A,Italy,Thiago Motta,https://www.transfermarkt.com/thiago-motta/profil/trainer/61868,"Aug 28, 1982",Italy,Brazil,2019-10-22,2019-12-28,67,10,2,3,5
+Genoa CFC,Serie A,Italy,Aurelio Andreazzoli,https://www.transfermarkt.com/aurelio-andreazzoli/profil/trainer/8646,"Nov 5, 1953",Italy,,2019-07-01,2019-10-22,113,9,2,2,5
+Genoa CFC,Serie A,Italy,Cesare Prandelli,https://www.transfermarkt.com/cesare-prandelli/profil/trainer/521,"Aug 19, 1957",Italy,,2018-12-07,2019-06-30,205,24,4,11,9
+Genoa CFC,Serie A,Italy,Ivan Juric,https://www.transfermarkt.com/ivan-juric/profil/trainer/16508,"Aug 25, 1975",Croatia,,2018-10-09,2018-12-06,58,8,0,3,5
+Genoa CFC,Serie A,Italy,Davide Ballardini,https://www.transfermarkt.com/davide-ballardini/profil/trainer/3793,"Jan 6, 1964",Italy,,2017-11-06,2018-10-09,337,36,16,5,15
+Cagliari Calcio,Serie A,Italy,Fabio Liverani,https://www.transfermarkt.com/fabio-liverani/profil/trainer/27554,"Apr 29, 1976",Italy,Somalia,2022-07-01,2022-12-20,172,20,6,7,7
+Cagliari Calcio,Serie A,Italy,Walter Mazzarri,https://www.transfermarkt.com/walter-mazzarri/profil/trainer/1933,"Oct 1, 1961",Italy,,2021-09-15,2022-05-02,229,34,7,9,18
+Cagliari Calcio,Serie A,Italy,Leonardo Semplici,https://www.transfermarkt.com/leonardo-semplici/profil/trainer/14546,"Jul 18, 1967",Italy,,2021-02-22,2021-09-14,204,19,7,5,7
+Cagliari Calcio,Serie A,Italy,Eusebio Di Francesco,https://www.transfermarkt.com/eusebio-di-francesco/profil/trainer/12924,"Sep 8, 1969",Italy,,2020-08-03,2021-02-22,203,26,5,6,15
+Cagliari Calcio,Serie A,Italy,Walter Zenga,https://www.transfermarkt.com/walter-zenga/profil/trainer/1799,"Apr 28, 1960",Italy,Romania,2020-03-03,2020-08-02,152,13,3,4,6
+Cagliari Calcio,Serie A,Italy,Rolando Maran,https://www.transfermarkt.com/rolando-maran/profil/trainer/3018,"Jul 14, 1963",Italy,,2018-07-01,2020-03-03,611,69,22,19,28
+Cagliari Calcio,Serie A,Italy,Diego López,https://www.transfermarkt.com/diego-lopez/profil/trainer/24863,"Aug 22, 1974",Uruguay,Spain,2017-10-18,2018-06-30,255,31,9,6,16
+Bologna FC 1909,Serie A,Italy,Thiago Motta,https://www.transfermarkt.com/thiago-motta/profil/trainer/61868,"Aug 28, 1982",Italy,Brazil,2022-09-12,,520,61,27,18,16
+Bologna FC 1909,Serie A,Italy,Siniša Mihajlović,https://www.transfermarkt.com/sinisa-mihajlovic/profil/trainer/3896,"Feb 20, 1969",Serbia,Italy,2019-01-28,2022-09-06,1317,131,43,35,53
+Bologna FC 1909,Serie A,Italy,Filippo Inzaghi,https://www.transfermarkt.com/filippo-inzaghi/profil/trainer/25149,"Aug 9, 1973",Italy,,2018-07-01,2019-01-28,211,24,4,8,12
+Bologna FC 1909,Serie A,Italy,Roberto Donadoni,https://www.transfermarkt.com/roberto-donadoni/profil/trainer/2047,"Sep 9, 1963",Italy,,2015-10-28,2018-06-30,976,108,33,23,52
+FC Empoli,Serie A,Italy,Paolo Zanetti,https://www.transfermarkt.com/paolo-zanetti/profil/trainer/52249,"Dec 16, 1982",Italy,,2022-06-06,2023-09-19,470,44,10,13,21
+FC Empoli,Serie A,Italy,Aurelio Andreazzoli,https://www.transfermarkt.com/aurelio-andreazzoli/profil/trainer/8646,"Nov 5, 1953",Italy,,2021-06-21,2022-06-01,345,41,12,11,18
+FC Empoli,Serie A,Italy,Alessio Dionisi,https://www.transfermarkt.com/alessio-dionisi/profil/trainer/36126,"Apr 1, 1980",Italy,,2020-08-19,2021-06-15,300,42,22,16,4
+FC Empoli,Serie A,Italy,Pasquale Marino,https://www.transfermarkt.com/pasquale-marino/profil/trainer/3776,"Jul 13, 1962",Italy,,2020-01-26,2020-08-11,198,18,9,4,5
+FC Empoli,Serie A,Italy,Roberto Muzzi,https://www.transfermarkt.com/roberto-muzzi/profil/trainer/27669,"Sep 21, 1971",Italy,,2019-11-14,2020-01-26,73,10,1,4,5
+FC Empoli,Serie A,Italy,Cristian Bucchi,https://www.transfermarkt.com/cristian-bucchi/profil/trainer/25228,"May 30, 1977",Italy,,2019-06-18,2019-11-12,147,14,6,5,3
+FC Empoli,Serie A,Italy,Aurelio Andreazzoli,https://www.transfermarkt.com/aurelio-andreazzoli/profil/trainer/8646,"Nov 5, 1953",Italy,,2019-03-13,2019-06-30,109,11,5,1,5
+FC Empoli,Serie A,Italy,Giuseppe Iachini,https://www.transfermarkt.com/giuseppe-iachini/profil/trainer/2132,"May 7, 1964",Italy,,2018-11-06,2019-03-13,127,16,4,4,8
+FC Empoli,Serie A,Italy,Aurelio Andreazzoli,https://www.transfermarkt.com/aurelio-andreazzoli/profil/trainer/8646,"Nov 5, 1953",Italy,,2017-12-17,2018-11-05,323,35,17,10,8
+Frosinone Calcio,Serie A,Italy,Fabio Grosso,https://www.transfermarkt.com/fabio-grosso/profil/trainer/34361,"Nov 28, 1977",Italy,,2021-03-23,2023-06-30,829,86,42,24,20
+Frosinone Calcio,Serie A,Italy,Alessandro Nesta,https://www.transfermarkt.com/alessandro-nesta/profil/trainer/34187,"Mar 19, 1976",Italy,,2019-07-01,2021-03-22,630,77,28,23,26
+Frosinone Calcio,Serie A,Italy,Marco Baroni,https://www.transfermarkt.com/marco-baroni/profil/trainer/12015,"Sep 11, 1963",Italy,,2018-12-19,2019-06-02,165,22,4,5,13
+Frosinone Calcio,Serie A,Italy,Moreno Longo,https://www.transfermarkt.com/moreno-longo/profil/trainer/25681,"Feb 14, 1976",Italy,,2017-06-14,2018-12-19,553,65,22,22,21
+Bayern Munich,Bundesliga,Germany,Julian Nagelsmann,https://www.transfermarkt.com/julian-nagelsmann/profil/trainer/8402,"Jul 23, 1987",Germany,,2021-07-01,2023-03-24,631,84,60,14,10
+Bayern Munich,Bundesliga,Germany,Hansi Flick,https://www.transfermarkt.com/hansi-flick/profil/trainer/67,"Feb 24, 1965",Germany,,2019-11-03,2021-06-30,605,86,70,8,8
+Bayern Munich,Bundesliga,Germany,Niko Kovac,https://www.transfermarkt.com/niko-kovac/profil/trainer/10463,"Oct 15, 1971",Croatia,,2018-07-01,2019-11-03,490,65,45,12,8
+Bayern Munich,Bundesliga,Germany,Jupp Heynckes,https://www.transfermarkt.com/jupp-heynckes/profil/trainer/90,"May 9, 1945",Germany,,2017-10-09,2018-06-30,264,41,33,3,5
+Borussia Dortmund,Bundesliga,Germany,Edin Terzic,https://www.transfermarkt.com/edin-terzic/profil/trainer/14226,"Oct 30, 1982",Germany,Croatia,2022-07-01,,593,76,44,17,15
+Borussia Dortmund,Bundesliga,Germany,Marco Rose,https://www.transfermarkt.com/marco-rose/profil/trainer/24197,"Sep 11, 1976",Germany,,2021-07-01,2022-05-20,323,46,27,4,15
+Borussia Dortmund,Bundesliga,Germany,Edin Terzic,https://www.transfermarkt.com/edin-terzic/profil/trainer/14226,"Oct 30, 1982",Germany,Croatia,2020-12-29,2021-06-30,183,29,18,4,7
+Borussia Dortmund,Bundesliga,Germany,Lucien Favre,https://www.transfermarkt.com/lucien-favre/profil/trainer/535,"Nov 2, 1957",Switzerland,,2018-07-01,2020-12-13,896,110,68,17,25
+Borussia Dortmund,Bundesliga,Germany,Peter Stöger,https://www.transfermarkt.com/peter-stoger/profil/trainer/1648,"Apr 11, 1966",Austria,,2017-12-10,2018-06-30,202,24,10,8,6
+RB Leipzig,Bundesliga,Germany,Marco Rose,https://www.transfermarkt.com/marco-rose/profil/trainer/24197,"Sep 11, 1976",Germany,,2022-09-08,,524,72,45,9,18
+RB Leipzig,Bundesliga,Germany,Domenico Tedesco,https://www.transfermarkt.com/domenico-tedesco/profil/trainer/30857,"Sep 12, 1985",Italy,Germany,2021-12-09,2022-09-07,272,38,21,8,9
+RB Leipzig,Bundesliga,Germany,Jesse Marsch,https://www.transfermarkt.com/jesse-marsch/profil/trainer/17275,"Nov 8, 1973",United States,,2021-07-01,2021-12-05,157,20,7,4,9
+RB Leipzig,Bundesliga,Germany,Julian Nagelsmann,https://www.transfermarkt.com/julian-nagelsmann/profil/trainer/8402,"Jul 23, 1987",Germany,,2019-07-01,2021-06-30,730,95,54,22,19
+RB Leipzig,Bundesliga,Germany,Ralf Rangnick,https://www.transfermarkt.com/ralf-rangnick/profil/trainer/196,"Jun 29, 1958",Germany,,2018-07-09,2019-06-30,356,52,29,13,10
+RB Leipzig,Bundesliga,Germany,Ralph Hasenhüttl,https://www.transfermarkt.com/ralph-hasenhuttl/profil/trainer/2300,"Aug 9, 1967",Austria,,2016-07-01,2018-05-16,684,83,41,17,25
+Bayer 04 Leverkusen,Bundesliga,Germany,Xabi Alonso,https://www.transfermarkt.com/xabi-alonso/profil/trainer/63052,"Nov 25, 1981",Spain,,2022-10-05,,497,68,44,14,10
+Bayer 04 Leverkusen,Bundesliga,Germany,Gerardo Seoane,https://www.transfermarkt.com/gerardo-seoane/profil/trainer/23817,"Oct 30, 1978",Switzerland,Spain,2021-07-01,2022-10-05,461,56,26,10,20
+Bayer 04 Leverkusen,Bundesliga,Germany,Peter Bosz,https://www.transfermarkt.com/peter-bosz/profil/trainer/1269,"Nov 21, 1963",Netherlands,,2018-12-23,2021-03-23,821,108,59,16,33
+Bayer 04 Leverkusen,Bundesliga,Germany,Heiko Herrlich,https://www.transfermarkt.com/heiko-herrlich/profil/trainer/4044,"Dec 3, 1971",Germany,,2017-07-01,2018-12-23,540,64,32,14,18
+TSG 1899 Hoffenheim,Bundesliga,Germany,André Breitenreiter,https://www.transfermarkt.com/andre-breitenreiter/profil/trainer/17465,"Oct 2, 1973",Germany,,2022-07-01,2023-02-06,220,22,7,4,11
+TSG 1899 Hoffenheim,Bundesliga,Germany,Sebastian Hoeneß,https://www.transfermarkt.com/sebastian-hoeness/profil/trainer/20940,"May 12, 1982",Germany,,2020-08-02,2022-06-30,697,81,32,19,30
+TSG 1899 Hoffenheim,Bundesliga,Germany,Marcel Rapp,https://www.transfermarkt.com/marcel-rapp/profil/trainer/24235,"Apr 16, 1979",Germany,,2020-06-25,2020-06-30,5,1,1,0,0
+TSG 1899 Hoffenheim,Bundesliga,Germany,Alfred Schreuder,https://www.transfermarkt.com/alfred-schreuder/profil/trainer/10267,"Nov 2, 1972",Netherlands,,2019-07-01,2020-06-09,344,33,14,7,12
+TSG 1899 Hoffenheim,Bundesliga,Germany,Julian Nagelsmann,https://www.transfermarkt.com/julian-nagelsmann/profil/trainer/8402,"Jul 23, 1987",Germany,,2016-02-11,2019-06-30,1235,136,55,43,38
+Eintracht Frankfurt,Bundesliga,Germany,Oliver Glasner,https://www.transfermarkt.com/oliver-glasner/profil/trainer/22891,"Aug 28, 1974",Austria,,2021-07-01,2023-06-30,729,97,39,29,29
+Eintracht Frankfurt,Bundesliga,Germany,Adi Hütter,https://www.transfermarkt.com/adi-hutter/profil/trainer/5018,"Feb 11, 1970",Austria,,2018-07-01,2021-06-30,1095,141,67,31,43
+Eintracht Frankfurt,Bundesliga,Germany,Niko Kovac,https://www.transfermarkt.com/niko-kovac/profil/trainer/10463,"Oct 15, 1971",Croatia,,2016-03-08,2018-06-30,844,91,41,17,33
+Borussia Mönchengladbach,Bundesliga,Germany,Daniel Farke,https://www.transfermarkt.com/daniel-farke/profil/trainer/10939,"Oct 30, 1976",Germany,,2022-07-01,2023-06-02,336,36,12,10,14
+Borussia Mönchengladbach,Bundesliga,Germany,Adi Hütter,https://www.transfermarkt.com/adi-hutter/profil/trainer/5018,"Feb 11, 1970",Austria,,2021-07-01,2022-06-30,364,37,14,9,14
+Borussia Mönchengladbach,Bundesliga,Germany,Marco Rose,https://www.transfermarkt.com/marco-rose/profil/trainer/24197,"Sep 11, 1976",Germany,,2019-07-01,2021-06-30,730,88,41,19,28
+Borussia Mönchengladbach,Bundesliga,Germany,Dieter Hecking,https://www.transfermarkt.com/dieter-hecking/profil/trainer/306,"Sep 12, 1964",Germany,,2016-12-21,2019-06-30,921,98,43,22,33
+VfL Wolfsburg,Bundesliga,Germany,Niko Kovac,https://www.transfermarkt.com/niko-kovac/profil/trainer/10463,"Oct 15, 1971",Croatia,,2022-07-01,,593,61,23,15,23
+VfL Wolfsburg,Bundesliga,Germany,Florian Kohfeldt,https://www.transfermarkt.com/florian-kohfeldt/profil/trainer/16013,"Oct 5, 1982",Germany,,2021-10-26,2022-05-15,201,28,9,5,14
+VfL Wolfsburg,Bundesliga,Germany,Mark van Bommel,https://www.transfermarkt.com/mark-van-bommel/profil/trainer/33479,"Apr 22, 1977",Netherlands,,2021-07-01,2021-10-24,115,13,4,3,6
+VfL Wolfsburg,Bundesliga,Germany,Oliver Glasner,https://www.transfermarkt.com/oliver-glasner/profil/trainer/22891,"Aug 28, 1974",Austria,,2019-07-01,2021-06-30,730,87,41,22,24
+VfL Wolfsburg,Bundesliga,Germany,Bruno Labbadia,https://www.transfermarkt.com/bruno-labbadia/profil/trainer/588,"Feb 8, 1966",Germany,,2018-02-20,2019-06-30,495,50,22,10,18
+VfL Wolfsburg,Bundesliga,Germany,Martin Schmidt,https://www.transfermarkt.com/martin-schmidt/profil/trainer/15119,"Apr 12, 1967",Switzerland,,2017-09-18,2018-02-19,154,22,5,11,6
+SV Werder Bremen,Bundesliga,Germany,Ole Werner,https://www.transfermarkt.com/ole-werner/profil/trainer/34514,"May 4, 1988",Germany,,2021-11-28,,808,77,31,15,31
+SV Werder Bremen,Bundesliga,Germany,Markus Anfang,https://www.transfermarkt.com/markus-anfang/profil/trainer/20170,"Jun 12, 1974",Germany,,2021-06-01,2021-11-19,171,14,5,4,5
+SV Werder Bremen,Bundesliga,Germany,Florian Kohfeldt,https://www.transfermarkt.com/florian-kohfeldt/profil/trainer/16013,"Oct 5, 1982",Germany,,2017-11-10,2021-05-16,1283,142,51,37,54
+1.FSV Mainz 05,Bundesliga,Germany,Bo Svensson,https://www.transfermarkt.com/bo-svensson/profil/trainer/35997,"Aug 4, 1979",Denmark,,2021-01-04,2023-11-02,1032,104,39,26,39
+1.FSV Mainz 05,Bundesliga,Germany,Jan-Moritz Lichte,https://www.transfermarkt.com/jan-moritz-lichte/profil/trainer/8468,"Jan 12, 1980",Germany,,2020-09-28,2020-12-28,91,12,1,3,8
+1.FSV Mainz 05,Bundesliga,Germany,Achim Beierlorzer,https://www.transfermarkt.com/achim-beierlorzer/profil/trainer/15487,"Nov 20, 1967",Germany,,2019-11-18,2020-09-28,315,26,9,4,13
+1.FSV Mainz 05,Bundesliga,Germany,Sandro Schwarz,https://www.transfermarkt.com/sandro-schwarz/profil/trainer/9570,"Oct 17, 1978",Germany,,2017-07-01,2019-11-10,862,85,27,16,42
+VfB Stuttgart,Bundesliga,Germany,Bruno Labbadia,https://www.transfermarkt.com/bruno-labbadia/profil/trainer/588,"Feb 8, 1966",Germany,,2022-12-05,2023-04-03,119,12,2,3,7
+VfB Stuttgart,Bundesliga,Germany,Pellegrino Matarazzo,https://www.transfermarkt.com/pellegrino-matarazzo/profil/trainer/10906,"Nov 28, 1977",United States,Italy,2019-12-30,2022-10-10,1015,100,31,29,40
+VfB Stuttgart,Bundesliga,Germany,Tim Walter,https://www.transfermarkt.com/tim-walter/profil/trainer/30352,"Nov 8, 1975",Germany,,2019-07-01,2019-12-23,175,20,11,4,5
+VfB Stuttgart,Bundesliga,Germany,Nico Willig,https://www.transfermarkt.com/nico-willig/profil/trainer/29144,"Dec 11, 1980",Germany,,2019-05-06,2019-06-30,55,4,1,3,0
+VfB Stuttgart,Bundesliga,Germany,Markus Weinzierl,https://www.transfermarkt.com/markus-weinzierl/profil/trainer/8513,"Dec 28, 1974",Germany,,2018-10-09,2019-04-20,193,23,4,4,15
+VfB Stuttgart,Bundesliga,Germany,Tayfun Korkut,https://www.transfermarkt.com/tayfun-korkut/profil/trainer/12668,"Apr 2, 1974",Türkiye,Germany,2018-01-30,2018-10-07,250,22,10,6,6
+VfB Stuttgart,Bundesliga,Germany,Hannes Wolf,https://www.transfermarkt.com/hannes-wolf/profil/trainer/16320,"Apr 15, 1981",Germany,,2016-09-21,2018-01-28,494,52,25,8,19
+FC Augsburg,Bundesliga,Germany,Enrico Maaßen,https://www.transfermarkt.com/enrico-maassen/profil/trainer/35442,"Mar 10, 1984",Germany,,2022-07-01,2023-10-09,465,44,11,9,24
+FC Augsburg,Bundesliga,Germany,Markus Weinzierl,https://www.transfermarkt.com/markus-weinzierl/profil/trainer/8513,"Dec 28, 1974",Germany,,2021-04-26,2022-06-30,430,38,12,8,18
+FC Augsburg,Bundesliga,Germany,Heiko Herrlich,https://www.transfermarkt.com/heiko-herrlich/profil/trainer/4044,"Dec 3, 1971",Germany,,2020-03-10,2021-04-26,412,42,12,9,21
+FC Augsburg,Bundesliga,Germany,Martin Schmidt,https://www.transfermarkt.com/martin-schmidt/profil/trainer/15119,"Apr 12, 1967",Switzerland,,2019-04-09,2020-03-09,335,32,9,7,16
+FC Augsburg,Bundesliga,Germany,Manuel Baum,https://www.transfermarkt.com/manuel-baum/profil/trainer/10070,"Aug 30, 1979",Germany,,2016-12-28,2019-04-09,832,85,24,23,38
+SC Freiburg,Bundesliga,Germany,Christian Streich,https://www.transfermarkt.com/christian-streich/profil/trainer/2989,"Jun 11, 1965",Germany,,2012-01-01,,4427,472,190,118,164
+Paris Saint-Germain,Ligue 1,France,Christophe Galtier,https://www.transfermarkt.com/christophe-galtier/profil/trainer/5035,"Aug 23, 1966",France,,2022-07-05,2023-06-30,360,50,34,6,10
+Paris Saint-Germain,Ligue 1,France,Mauricio Pochettino,https://www.transfermarkt.com/mauricio-pochettino/profil/trainer/9044,"Mar 2, 1972",Argentina,Spain,2021-01-02,2022-07-05,549,84,56,13,15
+Paris Saint-Germain,Ligue 1,France,Thomas Tuchel,https://www.transfermarkt.com/thomas-tuchel/profil/trainer/7471,"Aug 29, 1973",Germany,,2018-07-01,2020-12-29,912,127,96,11,20
+Paris Saint-Germain,Ligue 1,France,Unai Emery,https://www.transfermarkt.com/unai-emery/profil/trainer/5075,"Nov 3, 1971",Spain,,2016-07-01,2018-06-30,729,114,87,15,12
+Olympique Lyon,Ligue 1,France,Laurent Blanc,https://www.transfermarkt.com/laurent-blanc/profil/trainer/4589,"Nov 19, 1965",France,,2022-10-09,2023-09-11,337,37,18,7,12
+Olympique Lyon,Ligue 1,France,Peter Bosz,https://www.transfermarkt.com/peter-bosz/profil/trainer/1269,"Nov 21, 1963",Netherlands,,2021-05-29,2022-10-09,498,58,27,16,15
+Olympique Lyon,Ligue 1,France,Rudi Garcia,https://www.transfermarkt.com/rudi-garcia/profil/trainer/1537,"Feb 20, 1964",France,,2019-10-14,2021-05-24,588,78,44,15,19
+Olympique Lyon,Ligue 1,France,Sylvinho,https://www.transfermarkt.com/sylvinho/profil/trainer/24104,"Apr 12, 1974",Brazil,Spain,2019-07-01,2019-10-07,98,11,3,4,4
+Olympique Lyon,Ligue 1,France,Bruno Génésio,https://www.transfermarkt.com/bruno-genesio/profil/trainer/5036,"Sep 1, 1966",France,,2015-12-24,2019-06-30,1284,185,101,37,47
+AS Monaco,Ligue 1,France,Philippe Clement,https://www.transfermarkt.com/philippe-clement/profil/trainer/26691,"Mar 22, 1974",Belgium,,2022-01-03,2023-06-04,517,73,37,15,21
+AS Monaco,Ligue 1,France,Niko Kovac,https://www.transfermarkt.com/niko-kovac/profil/trainer/10463,"Oct 15, 1971",Croatia,,2020-07-19,2022-01-01,531,74,43,15,16
+AS Monaco,Ligue 1,France,Robert Moreno,https://www.transfermarkt.com/robert-moreno/profil/trainer/20727,"Sep 19, 1977",Spain,,2019-12-28,2020-07-18,203,13,5,3,5
+AS Monaco,Ligue 1,France,Leonardo Jardim,https://www.transfermarkt.com/leonardo-jardim/profil/trainer/10682,"Aug 1, 1974",Portugal,Venezuela,2019-01-27,2019-12-27,334,37,14,10,13
+AS Monaco,Ligue 1,France,Thierry Henry,https://www.transfermarkt.com/thierry-henry/profil/trainer/48805,"Aug 17, 1977",France,Guadeloupe,2018-10-13,2019-01-24,103,20,5,4,11
+AS Monaco,Ligue 1,France,Leonardo Jardim,https://www.transfermarkt.com/leonardo-jardim/profil/trainer/10682,"Aug 1, 1974",Portugal,Venezuela,2014-07-01,2018-10-11,1563,233,127,51,55
+LOSC Lille,Ligue 1,France,Paulo Fonseca,https://www.transfermarkt.com/paulo-fonseca/profil/trainer/19944,"Mar 5, 1973",Portugal,Mozambique,2022-07-01,,593,74,38,21,15
+LOSC Lille,Ligue 1,France,Jocelyn Gourvennec,https://www.transfermarkt.com/jocelyn-gourvennec/profil/trainer/14011,"Mar 22, 1972",France,,2021-07-05,2022-06-16,346,49,19,15,15
+LOSC Lille,Ligue 1,France,Christophe Galtier,https://www.transfermarkt.com/christophe-galtier/profil/trainer/5035,"Aug 23, 1966",France,,2017-12-29,2021-06-30,1279,152,78,31,43
+Olympique Marseille,Ligue 1,France,Igor Tudor,https://www.transfermarkt.com/igor-tudor/profil/trainer/28632,"Apr 16, 1978",Croatia,,2022-07-04,2023-06-30,361,48,27,7,14
+Olympique Marseille,Ligue 1,France,Jorge Sampaoli,https://www.transfermarkt.com/jorge-sampaoli/profil/trainer/10819,"Mar 13, 1960",Argentina,,2021-03-08,2022-07-01,480,67,37,16,14
+Olympique Marseille,Ligue 1,France,André Villas-Boas,https://www.transfermarkt.com/andre-villas-boas/profil/trainer/1696,"Oct 17, 1977",Portugal,,2019-07-01,2021-02-02,582,60,29,13,18
+Olympique Marseille,Ligue 1,France,Rudi Garcia,https://www.transfermarkt.com/rudi-garcia/profil/trainer/1537,"Feb 20, 1964",France,,2016-10-20,2019-06-30,983,142,69,31,42
+OGC Nice,Ligue 1,France,Lucien Favre,https://www.transfermarkt.com/lucien-favre/profil/trainer/535,"Nov 2, 1957",Switzerland,,2022-07-01,2023-01-09,192,26,8,9,9
+OGC Nice,Ligue 1,France,Christophe Galtier,https://www.transfermarkt.com/christophe-galtier/profil/trainer/5035,"Aug 23, 1966",France,,2021-07-01,2022-06-30,364,43,24,7,12
+OGC Nice,Ligue 1,France,Adrian Ursea,https://www.transfermarkt.com/adrian-ursea/profil/trainer/1450,"Sep 14, 1967",Romania,,2020-12-04,2021-05-24,171,30,11,5,14
+OGC Nice,Ligue 1,France,Patrick Vieira,https://www.transfermarkt.com/patrick-vieira/profil/trainer/20029,"Jun 23, 1976",France,Senegal,2018-07-01,2020-12-04,887,89,35,21,33
+OGC Nice,Ligue 1,France,Lucien Favre,https://www.transfermarkt.com/lucien-favre/profil/trainer/535,"Nov 2, 1957",Switzerland,,2016-07-01,2018-06-30,729,99,43,23,33
+Stade Rennais FC,Ligue 1,France,Bruno Génésio,https://www.transfermarkt.com/bruno-genesio/profil/trainer/5036,"Sep 1, 1966",France,,2021-03-04,2023-11-19,990,124,63,25,36
+Stade Rennais FC,Ligue 1,France,Julien Stéphan,https://www.transfermarkt.com/julien-stephan/profil/trainer/61003,"Sep 18, 1980",France,,2018-12-04,2021-03-01,818,110,49,24,37
+Stade Rennais FC,Ligue 1,France,Sabri Lamouchi,https://www.transfermarkt.com/sabri-lamouchi/profil/trainer/24207,"Nov 9, 1971",France,Tunisia,2017-11-08,2018-12-03,390,50,20,12,18
+FC Nantes,Ligue 1,France,Antoine Kombouaré,https://www.transfermarkt.com/antoine-kombouare/profil/trainer/1224,"Nov 16, 1963",France,Neukaledonien,2021-02-11,2023-05-09,817,109,42,28,39
+FC Nantes,Ligue 1,France,Raymond Domenech,https://www.transfermarkt.com/raymond-domenech/profil/trainer/1727,"Jan 24, 1952",France,,2020-12-26,2021-02-10,46,8,0,4,4
+FC Nantes,Ligue 1,France,Christian Gourcuff,https://www.transfermarkt.com/christian-gourcuff/profil/trainer/1539,"Apr 5, 1955",France,,2019-08-08,2020-12-08,488,45,16,8,21
+FC Nantes,Ligue 1,France,Vahid Halilhodzic,https://www.transfermarkt.com/vahid-halilhodzic/profil/trainer/1231,"Oct 15, 1952",Bosnia-Herzegovina,France,2018-10-02,2019-08-02,304,37,17,6,14
+FC Nantes,Ligue 1,France,Miguel Cardoso,https://www.transfermarkt.com/miguel-cardoso/profil/trainer/11664,"May 28, 1972",Portugal,,2018-06-13,2018-10-02,111,8,1,3,4
+FC Nantes,Ligue 1,France,Claudio Ranieri,https://www.transfermarkt.com/claudio-ranieri/profil/trainer/456,"Oct 20, 1951",Italy,,2017-07-01,2018-05-17,320,40,14,10,16
+FC Toulouse,Ligue 1,France,Philippe Montanier,https://www.transfermarkt.com/philippe-montanier/profil/trainer/5065,"Nov 15, 1964",France,,2021-06-23,2023-06-30,737,87,46,19,22
+FC Toulouse,Ligue 1,France,Patrice Garande,https://www.transfermarkt.com/patrice-garande/profil/trainer/5747,"Nov 27, 1960",France,,2020-06-22,2021-06-02,345,46,26,10,10
+FC Toulouse,Ligue 1,France,Antoine Kombouaré,https://www.transfermarkt.com/antoine-kombouare/profil/trainer/1224,"Nov 16, 1963",France,Neukaledonien,2019-10-14,2020-01-05,83,13,2,0,11
+FC Toulouse,Ligue 1,France,Alain Casanova,https://www.transfermarkt.com/alain-casanova/profil/trainer/5034,"Sep 18, 1961",France,,2018-06-25,2019-10-10,472,51,12,17,22
+FC Toulouse,Ligue 1,France,Pascal Dupraz,https://www.transfermarkt.com/pascal-dupraz/profil/trainer/8872,"Sep 19, 1962",France,,2016-03-01,2018-01-22,692,77,24,22,31
+Montpellier HSC,Ligue 1,France,Romain Pitau,https://www.transfermarkt.com/romain-pitau/profil/trainer/58644,"Aug 8, 1977",France,,2022-10-17,2023-02-07,113,12,2,2,8
+Montpellier HSC,Ligue 1,France,Olivier Dall'Oglio,https://www.transfermarkt.com/olivier-dalloglio/profil/trainer/14547,"May 16, 1964",France,Italy,2021-06-01,2022-10-17,503,52,18,7,27
+Montpellier HSC,Ligue 1,France,Michel Der Zakarian,https://www.transfermarkt.com/michel-der-zakarian/profil/trainer/4002,"Feb 18, 1963",Armenia,France,2017-05-23,2021-05-24,1462,161,63,51,47
+RC Strasbourg Alsace,Ligue 1,France,Julien Stéphan,https://www.transfermarkt.com/julien-stephan/profil/trainer/61003,"Sep 18, 1980",France,,2021-05-28,2023-01-09,591,58,19,20,19
+RC Strasbourg Alsace,Ligue 1,France,Thierry Laurey,https://www.transfermarkt.com/thierry-laurey/profil/trainer/7232,"Feb 14, 1964",France,,2016-07-01,2021-05-24,1788,209,81,51,77
+Stade Reims,Ligue 1,France,Will Still,https://www.transfermarkt.com/will-still/profil/trainer/53316,"Oct 14, 1992",Belgium,England,2022-10-13,,489,54,23,13,18
+Stade Reims,Ligue 1,France,Óscar García,https://www.transfermarkt.com/oscar-garcia/profil/trainer/16362,"Apr 26, 1973",Spain,,2021-06-23,2022-10-13,477,51,14,18,19
+Stade Reims,Ligue 1,France,Sébastien Desmazeau,https://www.transfermarkt.com/sebastien-desmazeau/profil/trainer/94064,"Jul 22, 1973",France,,2018-07-01,2019-03-30,272,1,1,0,0
+Stade Reims,Ligue 1,France,David Guion,https://www.transfermarkt.com/david-guion/profil/trainer/5753,"Sep 30, 1967",France,,2017-05-22,2021-05-25,1464,156,66,46,44

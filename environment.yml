@@ -3,14 +3,17 @@ channels:
   - conda-forge
 dependencies:
   - python=3.11
-  - numpy
-  - scipy
   - pandas
+  - numpy
+  - pyarrow
   - matplotlib
   - seaborn
   - ipywidgets
   - ipykernel
-  - tabulate
+  - thefuzz
   - jupyterlab>=4.0.0
   - jupyterlab-myst>=2.0.0
   - myst-nb
+  - r-irkernel # R kernel for 02 - Data extraction.ipynb 
+  - worldfootballR
+  - data.table

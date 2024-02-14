@@ -16,7 +16,7 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: 01 - Paper.ipynb
+root: 01 - Paper.md
 chapters:
   - file: 02 - Data extraction
   - file: 03 - Preprocessing
