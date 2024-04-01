@@ -20,5 +20,6 @@ root: 01 - Paper.md
 chapters:
   - file: 02 - Data extraction
   - file: 03 - Preprocessing
-  - file: 04 - Exploratory data analysis
-  - file: 05 - Statistical analysis
+  - file: 04 - Headcoach analysis
+  - file: 05 - Match results analysis
+  - file: 06 - Extending EDA
