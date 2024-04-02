@@ -20,8 +20,12 @@ Le papier de recherche [](doi:10.3390/economies8040082) sera une référence maj
 
 Utilisation de la librarie [WorldFootBallR] pour collecter des données sur les sites suivant [Fbref] et [Transfermarkt].
 
-## Données descriptives
+## Le jeu de donnée
+- les sites utilisés
+- la fiabilité des données
+- les données concernés
 
+## Statistiques descriptives
 Il existe une différence dans la performance des équipes lorsqu'elle joue à domicile ou à l'extérieur (voir [](#home_away)).
 
 :::{figure} ./figures/home_away_effect.png
@@ -29,28 +33,9 @@ Il existe une différence dans la performance des équipes lorsqu'elle joue à d
 Effet sur les résultats des matchs
 :::
 
-
-## Méthode statistiques
-
-**Test T de Student** : Ce test est utilisé lorsque vous comparez les moyennes de deux groupes. Il suppose que les données suivent une distribution normale et que les variances sont égales.
-
-**Test T de Welch** : Ce test est une version modifiée du test T de Student qui ne suppose pas que les variances soient égales.
-
-**Test ANOVA (Analyse de variance)** : Ce test est utilisé lorsque vous comparez les moyennes de plus de deux groupes. Il suppose que les données suivent une distribution normale et que les variances sont égales.
-
-**Test de Kruskal-Wallis** : Ce test est une version non paramétrique de l'ANOVA qui peut être utilisée lorsque les hypothèses de l'ANOVA ne sont pas respectées.
-
-**Test de Mann-Whitney U** : Ce test est une version non paramétrique du test T de Student qui peut être utilisée lorsque les hypothèses du test T de Student ne sont pas respectées.
-
-$\theta = \frac{x}{2}$
-
-:::{table} Table caption
-:align: center
-
-| foo | bar |
-| --- | --- |
-| baz | bim |
-:::
+- changement des conditions de récupération de donnée [0] https://www.sports-reference.com/bot-traffic.html
+- seule donnée disponible : valeur marchande des joueurs
+- idée du score de propensité : recréer artificiellement un groupe contrôle et un groupe test
 
 ## Conclusion
 
