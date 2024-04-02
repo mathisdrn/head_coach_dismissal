@@ -8,12 +8,11 @@ dependencies:
   - pyarrow
   - matplotlib
   - seaborn
+  - scikit-learn
   - ipywidgets
   - ipykernel
   - thefuzz
   - jupyterlab>=4.0.0
   - jupyterlab-myst>=2.0.0
   - myst-nb
-  - r-irkernel # R kernel for 02 - Data extraction.ipynb 
-  - worldfootballR
-  - data.table
+  - r-irkernel # R kernel for 02 - Data extraction.ipynb
