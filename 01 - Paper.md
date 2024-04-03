@@ -11,7 +11,7 @@ date: 02/10/2024
 +++ {"part": "abstract"}
 
 The goals of this paper is to investigate the effect of coach dismissal on team performance. To do that, we will use traditional statistical method that we apply to football teams. 
-
+J'ajoute une ligne
 +++
 
 ## Introduction 
