@@ -26,11 +26,11 @@ Utilisation de la librarie [WorldFootBallR] pour collecter des données sur les 
 - les données concernés
 
 ## Statistiques descriptives
-Il existe une différence dans la performance des équipes lorsqu'elle joue à domicile ou à l'extérieur (voir [](#home_away)).
+Il existe une différence dans la performance des équipes lorsqu'elle joue à domicile ou à l'extérieur (voir [](#venue_effect)).
 
-:::{figure} ./figures/home_away_effect.png
-:name: home_away
-Effet sur les résultats des matchs
+:::{figure} ./figures/venue_effect.png
+:name: venue_effect
+Venue effect on team's performance
 :::
 
 - changement des conditions de récupération de donnée [0] https://www.sports-reference.com/bot-traffic.html
