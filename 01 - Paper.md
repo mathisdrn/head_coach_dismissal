@@ -61,9 +61,7 @@ Il existe une différence dans la performance des équipes lorsqu'elle joue à d
 Venue effect on team's performance
 :::
 
-- changement des conditions de récupération de donnée [0] https://www.sports-reference.com/bot-traffic.html
-- seule donnée disponible : valeur marchande des joueurs
-- idée du score de propensité : recréer artificiellement un groupe contrôle et un groupe test
+Référence à citer : https://clauswilke.com/dataviz/
 
 ## Conclusion
 
