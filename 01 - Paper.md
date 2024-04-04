@@ -6,10 +6,23 @@ short_title: Paper
 license: CC-BY-4.0
 keywords: coach dismissal, team performance
 date: 02/10/2024
+exports:
+  - format: typst
+    template: lapreprint-typst
+    output: exports/TER_head_coach_dismissal.pdf
+    articles:
+        - file: 01 - Paper.md
+        - file: 02 - Data extraction.ipynb
+        - file: 03 - Preprocessing.ipynb
+        - file: 04 - Headcoach analysis.ipynb
+        - file: 05 - Match results analysis.ipynb
+        - file: 06 - Extending EDA.ipynb
+        - file: 07 - More preprocessing.ipynb
+        - file: 08 - Statistical analysis.ipynb
+        - file: 09 - Conclusion.md
 ---
 
 +++ {"part": "abstract"}
-
 The goals of this paper is to investigate the effect of coach dismissal on team performance. To do that, we will use traditional statistical method that we apply to football teams. 
 J'ajoute une ligne
 +++
@@ -42,27 +55,4 @@ Exemple :  On parle d'agent économique représentatif et rarement d'une économ
 - et NON l'effet d'un agent économique sur l'économie
 (à nuancer pour ne pas déplaire aux micro-économistes et rappeler le cadre statistiques de l'étude d'effets quantifiables !).
 
-## Les données
-
-- Utilisation de la librarie [WorldFootBallR] pour collecter des données
-- les sites utilisés : [Fbref] et [Transfermarkt] (préciser le contenu pour les deux site)
-- la fiabilité de ces sites et de ces données
-- les données concernés
-
-[Fbref]: https://fbref.com/
-[WorldFootballR]: https://github.com/JaseZiv/worldfootballR/
-[Transfermarkt]: https://www.transfermarkt.com/
-
-## Statistiques descriptives
-Il existe une différence dans la performance des équipes lorsqu'elle joue à domicile ou à l'extérieur (voir [](#venue_effect)).
-
-:::{figure} ./figures/venue_effect.png
-:name: venue_effect
-Venue effect on team's performance
-:::
-
 Référence à citer : https://clauswilke.com/dataviz/
-
-## Conclusion
-
-
