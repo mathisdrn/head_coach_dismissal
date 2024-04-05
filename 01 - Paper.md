@@ -56,3 +56,15 @@ Exemple :  On parle d'agent économique représentatif et rarement d'une économ
 (à nuancer pour ne pas déplaire aux micro-économistes et rappeler le cadre statistiques de l'étude d'effets quantifiables !).
 
 Référence à citer : https://clauswilke.com/dataviz/
+
+
+Pour obtenir les données sur lesquels nous avons travaillé, nous avons utilisé plusieurs outils. 
+-	Nous avons utilisé la librairie WorldFootballR disponible par un package qu’il suffit d’installer, pour ainsi appeler les fonctions dont on a besoin afin de collecter les données nécessaires. Cela reste très pratique car cette librairie nous permet de télécharger directement les résultats des matchs de la saison 2019 de Premier League par exemple, mais on peut le faire aussi pour beaucoup d’autres ligues et années. 
+
+Nous avons eu à disposition 2 sites, Fbref et Transfermakt. 
+
+-	FBref est une plateforme en ligne spécialisée dans les statistiques de football. Le site offre une gamme complète de données statistiques sur les joueurs, les équipes, les ligues et les compétitions de football du monde entier. Il propose des informations détaillées telles que les buts marqués, les passes décisives, les tirs au but, les interceptions et bien d'autres statistiques. 
+-	Transfermarkt est une ressource en ligne majeure pour tout ce qui concerne les transferts de joueurs de football, les rumeurs de transferts, les valeurs marchandes des joueurs ainsi que les informations sur les contrats. Il offre une base de données exhaustive des joueurs, des clubs et des agents, ainsi que des détails sur les transferts passés et actuels.
+Ce sont deux sites utiliser par différentes personnes comme les amateurs de football, les journalistes et les professionnels pour rester informés sur les évolutions au cours de la saison ou pendant les trêves/mercatos.
+
+Concernant la fiabilité, ce sont des sites très utilisés et considérés comme fiable. Fbref est entretenu par l’entreprise Sport Reference qui gère également d'autres sites spécialisés dans les statistiques sportives, comme Baseball-Reference et Basketball Reference. Les données sur Fbref sont souvent vérifiées et mises à jour régulièrement, ce qui contribue à leur fiabilité. Pour Transfermakt, c’est aussi un site très utilisé pour les rumeurs de transferts et les transferts en général, il a une réputation de site fiable. Le site recueille des données sur les transferts, les valeurs marchandes des joueurs et d'autres détails liés aux contrats à partir de diverses sources, y compris les médias et les communiqués officiels des clubs. Cependant, c’est un site reliant des rumeurs de transferts, donc il peut y avoir des inexactitudes ou des spéculations qui ne se concrétisent pas toujours. Il est donc conseillé de vérifier les informations avec d'autres sources fiables, notamment lorsqu'il s'agit de transferts non confirmés.
