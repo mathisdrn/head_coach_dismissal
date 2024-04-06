@@ -24,7 +24,6 @@ exports:
 
 +++ {"part": "abstract"}
 The goals of this paper is to investigate the effect of coach dismissal on team performance. To do that, we will use traditional statistical method that we apply to football teams. 
-J'ajoute une ligne
 +++
 
 ## Introduction 
@@ -76,8 +75,8 @@ Ces sites sont très utilisés et considérés comme fiable. Fbref est entretenu
 
 ### Les outils utilisés
 
-La récupération des données sur ces sites a été effectué à l'aide du package R [WorldFootBallR]. Ce package implémente des outils du web scraping pour extraire des données footballistique et est régulièrement mis à jour.
-Le travail a été réalisé au sein de notebook Jupyter et est disponible en open source sur le [dépot GitHub](https://github.com/mathisdrn/head_coach_dismissal).
-MystMD et MysTNB sont deux outils qui ont été utilisés. Il permettent la création de documents structurés et interactifs et incitent au développement d'une science reproductible.
+La récupération des données sur ces sites a été effectué à l'aide du package R [WorldFootBallR](https://github.com/JaseZiv/worldfootballR/). Ce package implémente des outils du web scraping pour extraire des données footballistique et est régulièrement mis à jour. Le travail a été réalisé au sein de notebook Jupyter et est disponible en open source sur le [dépot GitHub](https://github.com/mathisdrn/head_coach_dismissal).
 
-[WorldFootballR]: https://github.com/JaseZiv/worldfootballR/
+[MyST-MD](https://mystmd.org/) a été utilisé pour générer l'export de notre papier sous format web et pdf à partir de Notebook Jupyter et de fichier Markdown. Il permettent la création de documents structurés et interactifs et incitent au développement d'une science reproductible.
+
+Des outils communautaires pour l'avenir de la communication et de la publication techniques.
