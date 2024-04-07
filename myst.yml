@@ -22,9 +22,7 @@ project:
     - id: uor
       institution: University of Rennes
   exports:
-    # - format: pdf
-    #   article: 01 - Paper.md
-    - format: docx
+    - format: typst
       article: Paper.md
 site:
   title: "Head coach dismissal effect on team performance"
