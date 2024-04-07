@@ -97,7 +97,7 @@ Monthly Distribution of Head Coach Appointments
 ```
 
 ```{figure} #hc_tenure 
-:name: hc_dismissal
+:name: hc_tenure
 Monthly Distribution of Head Coach Appointments
 ```
 
@@ -189,15 +189,30 @@ Il existe une différence dans la performance des équipes lorsqu'elle joue à d
 
 ### Graphiques des données jointes
 
-win_over_coach_tenure
+```{figure} #win_over_coach_tenure
+:name: win_over_coach_tenure
+Win ratio over coach tenure
+```
 
-draw_over_coach_tenure
+```{figure} #draw_over_coach_tenure
+:name: draw_over_coach_tenure
+Draw ratio over coach tenure
+```
 
-loss_over_coach_tenure
+```{figure} #loss_over_coach_tenure
+:name: loss_over_coach_tenure
+Loss ratio over coach tenure
+```
 
-match_distribution_over_coach_tenure
+```{figure} #match_distribution_over_coach_tenure
+:name: match_distribution_over_coach_tenure
+Match distribution over coach tenure
+```
 
-match_outcome_over_coach_tenure
+```{figure} #match_outcome_over_coach_tenure
+:name: match_outcome_over_coach_tenure
+Match outcome over coach tenure
+```
 
 Correlation between head coach tenure and team's performance
 - could indicate that club keeps their well performing head-coaches
@@ -205,4 +220,4 @@ Correlation between head coach tenure and team's performance
   - early low performance : coaches need some time once they are appointed to reach previous team performance
   - long term improvement of performance
 
-- expliquer pourquoi cette regression est celle qui devrait le plus statistiquement la corrélationn : on observe match par match et non à l'échelle de la performance total d'un coach au sein d'une équipe
+- expliquer pourquoi cette regression est la plus statistiquement pertinente pour montrer l'effet de l'ancieneté du coach : on observe match par match et non à l'échelle de la performance total d'un coach au sein d'une équipe
