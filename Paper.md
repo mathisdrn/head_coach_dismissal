@@ -36,8 +36,8 @@ Ceci pose plusieurs problèmes :
   4. Le peu de donnée (retrouver le chiffre sur le nombre de club avec au moins 2 ou 3 changements de coach) (expliquer que dans la problématique initiale il y a bien plus de donnée car il y a davantage de club qui ont vu passer de coachs que de parcours individuel de coach au sein de clubs)
   5. Problème de temporalité : les données sur les budgets des équipes, masse salariale ou valeur marchande des équipes ne sont pas disponible sous forme temporelle : impossible de savoir si la hausse de performance de l'équipe est dûe à la hausse du budget de l'équipe ou inversement.
   6. Faible qualité des variables exogènes permettant l'analyse du système : 
-        - Manque " d'objectivabilité " des variables externes : masse salariale (pas représentative, ex : sous-traitance), valeur marchande des joueurs (hautement subjectif)
-        - Manque de diversité des variables  
+    - Manque " d'objectivabilité " des variables externes : masse salariale (pas représentative, ex : sous-traitance), valeur marchande des joueurs (hautement subjectif)
+    - Manque de diversité des variables  
 
 Conclusion :
 Lors de l'analyse des effets dans un système, on raisonne généralement à petite entité égales par ailleurs
@@ -73,10 +73,107 @@ La récupération des données sur ces sites a été effectué à l'aide du pack
 
 Des outils communautaires pour l'avenir de la communication et de la publication techniques.
 
-### Les graphiques 
+## Pré-traitement des données
+
+## Les graphiques 
+
+### Graphique du jeu de donnée head coach
 
 ```{figure} #hc_appointment 
 :name: hc_appointment
 Monthly Distribution of Head Coach Appointments
 ```
+
+```{figure} #hc_dismissal 
+:name: hc_appointment
+Monthly Distribution of Head Coach Appointments
+```
+
+```{figure} #hc_tenure 
+:name: hc_appointment
+Monthly Distribution of Head Coach Appointments
+```
+
+```{figure} #hc_tenure_per_league 
+:name: hc_tenure_per_league
+hc_tenure_per_league
+```
+
+```{figure} #club_per_hc
+:name: club_per_hc
+club_per_hc
+```
+
+```{figure} #hc_per_club
+:name: hc_per_club
+hc_per_club
+```
+
+```{figure} #hc_per_club_per_league
+:name: hc_per_club_per_league
+hc_per_club_per_league
+```
+
+```{figure} #hc_win_ratio_over_days
+:name: hc_win_ratio_over_days
+hc_win_ratio_over_days
+```
+
+```{figure} #hc_draw_ratio_over_days
+:name: hc_draw_ratio_over_days
+hc_draw_ratio_over_days
+```
+
+```{figure} #hc_loss_ratio_over_days
+:name: hc_loss_ratio_over_days
+hc_loss_ratio_over_days
+```
+
+```{figure} #club_win_ratio_over_coach_count
+:name: club_win_ratio_over_coach_count
+club_win_ratio_over_coach_count
+```
+
+```{figure} #club_draw_ratio_over_coach_count
+:name: club_draw_ratio_over_coach_count
+club_draw_ratio_over_coach_count
+```
+
+```{figure} #club_loss_ratio_over_coach_count
+:name: club_loss_ratio_over_coach_count
+club_loss_ratio_over_coach_count
+```
+
+```{figure} #hc_win_ratio_over_club_count
+:name: hc_win_ratio_over_club_count
+hc_win_ratio_over_club_count
+```
+
+```{figure} #hc_draw_ratio_over_club_count
+:name: hc_draw_ratio_over_club_count
+hc_draw_ratio_over_club_count
+```
+
+```{figure} #hc_loss_ratio_over_club_count
+:name: hc_loss_ratio_over_club_count
+hc_loss_ratio_over_club_count
+```
+
+### Graphiques du jeu de donnée match
+
+```{embed} #league_presentation
+:remove_input: True
+```
+
+```{figure} #venue_effect
+:name: venue_effect
+Venue effect on team's performance
+```
+
+```{figure} #match_distribution
+:name: match_distribution
+Monthly Distribution of Matches
+```
+
+Il existe une différence dans la performance des équipes lorsqu'elle joue à domicile ou à l'extérieur (voir [](#venue_effect)).
 
