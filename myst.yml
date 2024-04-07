@@ -25,7 +25,7 @@ project:
     # - format: pdf
     #   article: 01 - Paper.md
     - format: docx
-      article: 01 - Paper.md
+      article: Paper.md
 site:
   title: "Head coach dismissal effect on team performance"
   template: article-theme

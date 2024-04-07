@@ -16,10 +16,12 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: 01 - Paper.md
+root: Paper.md
 chapters:
-  - file: 02 - Data extraction
-  - file: 03 - Preprocessing
-  - file: 04 - Headcoach analysis
-  - file: 05 - Match results analysis
-  - file: 06 - Extending EDA
+  - file: ./src/02 - Data extraction
+  - file: ./src/03 - Preprocessing
+  - file: ./src/04 - Headcoach analysis
+  - file: ./src/05 - Match results analysis
+  - file: ./src/06 - Extending EDA
+  - file: ./src/07 - More preprocessing
+  - file: ./src/08 - Statistical analysis
