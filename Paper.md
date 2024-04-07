@@ -75,9 +75,16 @@ Des outils communautaires pour l'avenir de la communication et de la publication
 
 ## Pré-traitement des données
 
+- expliquer le pré-traitement et l'algorithme fuzzy-word + référence au papier
+    - déplacer et unifier les partie check de More Preprocessing dans Preprocessing
+    - conserver les modifications de données liés à la jointure des deux jeux dans More Preprocessing
+    - observer les valeurs nulles, les quantifier, et les supprimer si pertinents
+
 ## Les graphiques 
 
 ### Graphique du jeu de donnée head coach
+
+- Présenter les graphiques, expliquer les variables utilisés et ce que permettrait d'interpréter un graphique concluant
 
 ```{figure} #hc_appointment 
 :name: hc_appointment
@@ -85,12 +92,12 @@ Monthly Distribution of Head Coach Appointments
 ```
 
 ```{figure} #hc_dismissal 
-:name: hc_appointment
+:name: hc_dismissal
 Monthly Distribution of Head Coach Appointments
 ```
 
 ```{figure} #hc_tenure 
-:name: hc_appointment
+:name: hc_dismissal
 Monthly Distribution of Head Coach Appointments
 ```
 
@@ -113,6 +120,8 @@ hc_per_club
 :name: hc_per_club_per_league
 hc_per_club_per_league
 ```
+
+- importance de bien expliquer chacune des régressions et ce qu'elle permettrait de montrer
 
 ```{figure} #hc_win_ratio_over_days
 :name: hc_win_ratio_over_days
@@ -177,3 +186,23 @@ Monthly Distribution of Matches
 
 Il existe une différence dans la performance des équipes lorsqu'elle joue à domicile ou à l'extérieur (voir [](#venue_effect)).
 
+
+### Graphiques des données jointes
+
+win_over_coach_tenure
+
+draw_over_coach_tenure
+
+loss_over_coach_tenure
+
+match_distribution_over_coach_tenure
+
+match_outcome_over_coach_tenure
+
+Correlation between head coach tenure and team's performance
+- could indicate that club keeps their well performing head-coaches
+- could indicate that head coaches performance improve after time either because:
+  - early low performance : coaches need some time once they are appointed to reach previous team performance
+  - long term improvement of performance
+
+- expliquer pourquoi cette regression est celle qui devrait le plus statistiquement la corrélationn : on observe match par match et non à l'échelle de la performance total d'un coach au sein d'une équipe
