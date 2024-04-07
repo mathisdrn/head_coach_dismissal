@@ -18,10 +18,10 @@
 format: jb-book
 root: Paper.md
 chapters:
-  - file: ./src/02 - Data extraction
-  - file: ./src/03 - Preprocessing
-  - file: ./src/04 - Headcoach analysis
-  - file: ./src/05 - Match results analysis
-  - file: ./src/06 - Extending EDA
-  - file: ./src/07 - More preprocessing
-  - file: ./src/08 - Statistical analysis
+  - file: ./src/00 Data extraction
+  - file: ./src/01 Preprocessing
+  - file: ./src/02 Headcoach analysis
+  - file: ./src/03 Match results analysis
+  - file: ./src/04 Statistical analysis
+  # - file: ./src/06 - Extending EDA
+  # - file: ./src/07 - More preprocessing
