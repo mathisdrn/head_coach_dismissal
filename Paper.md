@@ -1,15 +1,26 @@
 ---
 title: Head coach dismissal effect on football team performance
 subject: Statistical analysis
-subtitle: Evolve your markdown documents into structured data
 short_title: Paper
 license: CC-BY-4.0
 keywords: coach dismissal, team performance
 date: 02/10/2024
+downloads:
+  - file: ./exports/head_coach_dismissal.pdf
+    title: Download PDF
+    filename: head_coach_dismissal.pdf
+  - file: ./Paper.md
+    title: Source File
+    filename: head_coach_dismissal.md
 exports:
   - format: typst
     template: lapreprint-typst
-    output: exports/TER_head_coach_dismissal.pdf
+    output: ./exports/head_coach_dismissal.pdf
+    articles:
+        - file: Paper.md
+  - format: typst
+    template: ieee-typst
+    output: exports/TER_head_coach_dismissal_template2.pdf
     articles:
         - file: Paper.md
 ---
@@ -236,9 +247,23 @@ Loss ratio over coach tenure
 Match distribution over coach tenure
 ```
 
+
 ```{figure} #match_outcome_over_coach_tenure
 :name: match_outcome_over_coach_tenure1
 Match outcome over coach tenure
+```
+
+Explique que graph utilise les moyenne mobile pondérés sur une fenêtre de 30 jours :
+
+```{code} python
+:caption: Calcul des moyennes mobiles pondérées
+import numpy as np
+
+def weighted_rolling_mean(data, weights, window_size=30):
+    def weighted_mean(x):
+        return np.average(data.loc[x.index], weights=weights.loc[x.index])
+
+    return data.rolling(window_size, min_periods=1).apply(weighted_mean, raw=False)
 ```
 
 Correlation between head coach tenure and team's performance
