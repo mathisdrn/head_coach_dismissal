@@ -75,10 +75,31 @@ Des outils communautaires pour l'avenir de la communication et de la publication
 
 ## Pré-traitement des données
 
-- expliquer le pré-traitement et l'algorithme fuzzy-word + référence au papier
-    - déplacer et unifier les partie check de More Preprocessing dans Preprocessing
-    - conserver les modifications de données liés à la jointure des deux jeux dans More Preprocessing
-    - observer les valeurs nulles, les quantifier, et les supprimer si pertinents
+Expliquer le pré-traitement nécessaire pour matcher le nom des clubs entre les deux jeux de données
+Mettre la référence au papier avec le DOI ([](doi:10.3390/economies8040082))
+
+```{code} python
+:caption: Utilisation de l\'algorithme fuzzy-word
+from thefuzz import process
+
+def match_clubs_name(name, list_names, min_score=70):
+    scores = process.extract(name, list_names, limit=1)
+    
+    if len(scores) != 0 and scores[0][1] >= min_score:
+        return scores[0][0]
+    return None
+```
+
+Vérification que tout les clubs ont bien au plus un coach pour chaque période
+
+Reims a plusieurs coachs pour la même période
+
+```{embed} #hc_inconsistency
+:remove-input: True
+```
+
+We will exclude head coaches with more than 3000 days in post. Expliquer que ce sont des cas minoritaire et que l'entraineur le plus ancien a exercé pendant 8000 jours dans un club et que ça déforme les graphs et l'analyse stat.
+
 
 ## Les graphiques 
 
@@ -87,130 +108,136 @@ Des outils communautaires pour l'avenir de la communication et de la publication
 - Présenter les graphiques, expliquer les variables utilisés et ce que permettrait d'interpréter un graphique concluant
 
 ```{figure} #hc_appointment 
-:name: hc_appointment
-Monthly Distribution of Head Coach Appointments
+:name: hc_appointment1
+Monthly Distribution of Head Coaches Appointments
 ```
 
 ```{figure} #hc_dismissal 
-:name: hc_dismissal
-Monthly Distribution of Head Coach Appointments
+:name: hc_dismissal1
+Monthly Distribution of Head Coaches Dismissals
 ```
 
 ```{figure} #hc_tenure 
-:name: hc_tenure
-Monthly Distribution of Head Coach Appointments
+:name: hc_tenure1
+Distribution of Head Coaches Tenure for Completed Appointments 
 ```
 
+Faire remarquer l'augmentation à 365 jours et 730 jours
+(ie. le graph représente la proportion cumulée des durées des missions des coachs)
+
 ```{figure} #hc_tenure_per_league 
-:name: hc_tenure_per_league
-hc_tenure_per_league
+:name: hc_tenure_per_league1
+Average Head Coaches Tenure for Completed Appointments per League
 ```
 
 ```{figure} #club_per_hc
-:name: club_per_hc
-club_per_hc
+:name: club_per_hc1
+Distribution of number of Clubs per Head Coach
 ```
 
 ```{figure} #hc_per_club
-:name: hc_per_club
-hc_per_club
+:name: hc_per_club1
+Distribution of number of Head Coaches recruited by Clubs between 2017 and 2022
 ```
 
 ```{figure} #hc_per_club_per_league
-:name: hc_per_club_per_league
+:name: hc_per_club_per_league1
 hc_per_club_per_league
 ```
 
-- importance de bien expliquer chacune des régressions et ce qu'elle permettrait de montrer
+Expliquer l'chacune des régressions et ce qu'elle permettrait de montrer
+Donner la définition du coefficient de corrélation de Pearson
+Interpréter les valeurs r et p
 
 ```{figure} #hc_win_ratio_over_days
-:name: hc_win_ratio_over_days
+:name: hc_win_ratio_over_days1
 hc_win_ratio_over_days
 ```
 
 ```{figure} #hc_draw_ratio_over_days
-:name: hc_draw_ratio_over_days
+:name: hc_draw_ratio_over_days1
 hc_draw_ratio_over_days
 ```
 
 ```{figure} #hc_loss_ratio_over_days
-:name: hc_loss_ratio_over_days
+:name: hc_loss_ratio_over_days1
 hc_loss_ratio_over_days
 ```
 
 ```{figure} #club_win_ratio_over_coach_count
-:name: club_win_ratio_over_coach_count
+:name: club_win_ratio_over_coach_count1
 club_win_ratio_over_coach_count
 ```
 
 ```{figure} #club_draw_ratio_over_coach_count
-:name: club_draw_ratio_over_coach_count
+:name: club_draw_ratio_over_coach_count1
 club_draw_ratio_over_coach_count
 ```
 
 ```{figure} #club_loss_ratio_over_coach_count
-:name: club_loss_ratio_over_coach_count
+:name: club_loss_ratio_over_coach_count1
 club_loss_ratio_over_coach_count
 ```
 
 ```{figure} #hc_win_ratio_over_club_count
-:name: hc_win_ratio_over_club_count
+:name: hc_win_ratio_over_club_count1
 hc_win_ratio_over_club_count
 ```
 
 ```{figure} #hc_draw_ratio_over_club_count
-:name: hc_draw_ratio_over_club_count
+:name: hc_draw_ratio_over_club_count1
 hc_draw_ratio_over_club_count
 ```
 
 ```{figure} #hc_loss_ratio_over_club_count
-:name: hc_loss_ratio_over_club_count
+:name: hc_loss_ratio_over_club_count1
 hc_loss_ratio_over_club_count
 ```
 
 ### Graphiques du jeu de donnée match
 
 ```{embed} #league_presentation
-:remove_input: True
+:remove-input: True
 ```
 
 ```{figure} #venue_effect
-:name: venue_effect
+:name: venue_effect1
 Venue effect on team's performance
 ```
 
+Il existe une différence dans la performance des équipes lorsqu'elle joue à domicile ou à l'extérieur (voir [](#venue_effect1)).
+
+
 ```{figure} #match_distribution
-:name: match_distribution
+:name: match_distribution1
 Monthly Distribution of Matches
 ```
-
-Il existe une différence dans la performance des équipes lorsqu'elle joue à domicile ou à l'extérieur (voir [](#venue_effect)).
 
 
 ### Graphiques des données jointes
 
 ```{figure} #win_over_coach_tenure
-:name: win_over_coach_tenure
+:name: win_over_coach_tenure1
 Win ratio over coach tenure
 ```
 
 ```{figure} #draw_over_coach_tenure
-:name: draw_over_coach_tenure
+:name: draw_over_coach_tenure1
 Draw ratio over coach tenure
 ```
 
 ```{figure} #loss_over_coach_tenure
-:name: loss_over_coach_tenure
+:name: loss_over_coach_tenure1
 Loss ratio over coach tenure
 ```
 
 ```{figure} #match_distribution_over_coach_tenure
-:name: match_distribution_over_coach_tenure
+:name: match_distribution_over_coach_tenure1
 Match distribution over coach tenure
 ```
 
 ```{figure} #match_outcome_over_coach_tenure
-:name: match_outcome_over_coach_tenure
+:name: match_outcome_over_coach_tenure1
 Match outcome over coach tenure
 ```
 
@@ -221,3 +248,8 @@ Correlation between head coach tenure and team's performance
   - long term improvement of performance
 
 - expliquer pourquoi cette regression est la plus statistiquement pertinente pour montrer l'effet de l'ancieneté du coach : on observe match par match et non à l'échelle de la performance total d'un coach au sein d'une équipe
+
+
+### Tableau de bord interactif
+
+- Création d'un tableau permettant de visualiser... voir notebook 6
