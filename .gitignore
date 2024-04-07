@@ -2,10 +2,9 @@ _build
 __pycache__
 .ipynb_checkpoints
 .lintr
-ressources
 .DS_Store*
 ehthumbs.db
 Icon
 .virtual_documents
-PREP.md
 .vscode
+figures/*
