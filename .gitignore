@@ -8,4 +8,4 @@ Icon
 .virtual_documents
 .vscode
 
-exports/*
+# exports/*
