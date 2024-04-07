@@ -119,9 +119,9 @@ Napoli,Serie A,Italy,Luciano Spalletti,"Mar 7, 1959",Italy,,2021-07-01,2023-06-3
 Napoli,Serie A,Italy,Gennaro Gattuso,"Jan 9, 1978",Italy,,2019-12-11,2021-06-30,567,81,47,12,22
 Napoli,Serie A,Italy,Carlo Ancelotti,"Jun 10, 1959",Italy,,2018-07-01,2019-12-10,527,73,38,19,16
 Napoli,Serie A,Italy,Maurizio Sarri,"Jan 10, 1959",Italy,,2015-06-11,2018-07-13,1128,148,98,25,25
-Inter,Serie A,Italy,Simone Inzaghi,"Apr 5, 1976",Italy,,2021-06-03,,986,141,93,24,24
-Inter,Serie A,Italy,Antonio Conte,"Jul 31, 1969",Italy,,2019-05-31,2021-05-26,726,102,64,23,15
-Inter,Serie A,Italy,Luciano Spalletti,"Mar 7, 1959",Italy,,2017-06-09,2019-05-30,720,90,46,24,20
+Milan,Serie A,Italy,Simone Inzaghi,"Apr 5, 1976",Italy,,2021-06-03,,986,141,93,24,24
+Milan,Serie A,Italy,Antonio Conte,"Jul 31, 1969",Italy,,2019-05-31,2021-05-26,726,102,64,23,15
+Milan,Serie A,Italy,Luciano Spalletti,"Mar 7, 1959",Italy,,2017-06-09,2019-05-30,720,90,46,24,20
 Milan,Serie A,Italy,Stefano Pioli,"Oct 20, 1965",Italy,,2019-10-09,,1589,220,123,51,46
 Milan,Serie A,Italy,Marco Giampaolo,"Aug 2, 1967",Italy,,2019-06-19,2019-10-08,111,7,3,0,4
 Milan,Serie A,Italy,Gennaro Gattuso,"Jan 9, 1978",Italy,,2017-11-28,2019-05-28,546,83,41,22,20
@@ -247,10 +247,10 @@ Augsburg,Bundesliga,Germany,Heiko Herrlich,"Dec 3, 1971",Germany,,2020-03-10,202
 Augsburg,Bundesliga,Germany,Martin Schmidt,"Apr 12, 1967",Switzerland,,2019-04-09,2020-03-09,335,32,9,7,16
 Augsburg,Bundesliga,Germany,Manuel Baum,"Aug 30, 1979",Germany,,2016-12-28,2019-04-09,832,85,24,23,38
 Freiburg,Bundesliga,Germany,Christian Streich,"Jun 11, 1965",Germany,,2012-01-01,,4427,472,190,118,164
-Paris S-G,Ligue 1,France,Christophe Galtier,"Aug 23, 1966",France,,2022-07-05,2023-06-30,360,50,34,6,10
-Paris S-G,Ligue 1,France,Mauricio Pochettino,"Mar 2, 1972",Argentina,Spain,2021-01-02,2022-07-05,549,84,56,13,15
-Paris S-G,Ligue 1,France,Thomas Tuchel,"Aug 29, 1973",Germany,,2018-07-01,2020-12-29,912,127,96,11,20
-Paris S-G,Ligue 1,France,Unai Emery,"Nov 3, 1971",Spain,,2016-07-01,2018-06-30,729,114,87,15,12
+Saint-Étienne,Ligue 1,France,Christophe Galtier,"Aug 23, 1966",France,,2022-07-05,2023-06-30,360,50,34,6,10
+Saint-Étienne,Ligue 1,France,Mauricio Pochettino,"Mar 2, 1972",Argentina,Spain,2021-01-02,2022-07-05,549,84,56,13,15
+Saint-Étienne,Ligue 1,France,Thomas Tuchel,"Aug 29, 1973",Germany,,2018-07-01,2020-12-29,912,127,96,11,20
+Saint-Étienne,Ligue 1,France,Unai Emery,"Nov 3, 1971",Spain,,2016-07-01,2018-06-30,729,114,87,15,12
 Lyon,Ligue 1,France,Laurent Blanc,"Nov 19, 1965",France,,2022-10-09,2023-09-11,337,37,18,7,12
 Lyon,Ligue 1,France,Peter Bosz,"Nov 21, 1963",Netherlands,,2021-05-29,2022-10-09,498,58,27,16,15
 Lyon,Ligue 1,France,Rudi Garcia,"Feb 20, 1964",France,,2019-10-14,2021-05-24,588,78,44,15,19
