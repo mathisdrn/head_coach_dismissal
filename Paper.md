@@ -282,6 +282,15 @@ Draw Ratio of Head Coaches Appointments versus Head Coach Tenure
 Loss Ratio of Head Coaches Appointments versus Head Coach Tenure
 ```
 
+
+Les [](#club_win_ratio_over_coach_count1) et [](#club_draw_ratio_over_coach_count1) et [](#club_loss_ratio_over_coach_count1) s'intéressent aux ratios de victoires, de matchs nuls et de défaites en fonction du nombre d'entraîneurs nommés à la tête de l'équipe. Ces relations pourraient montrer l'effet d'un changement régulier d'entraîneur sur les résultats de l'équipe. Les coefficients sont :
+- Pour les victoires,r=−0.27 et p=0.03. Ceci indique une corrélation négative de faible à modérée entre les deux variables, qui est statistiquement significative.
+- Pour les matchs nuls, r=0.25 et p=0.04. Cela indique une corrélation positive de faible à modérée entre les deux variables, qui est statistiquement significative, mais pas très forte.
+- Pour les défaites, r=0.24 et p=0.05, ce qui indique une corrélation positive de faible à modérée entre les deux variables, qui est statistiquement significative.
+
+On remarque qu'un coefficient de Pearson négatif pour les victoires nous montre que plus il y a d'entraîneurs différents dans un club pour une période donnée (potentiellement courte), moins il y aura de victoires, nous avons ici une relation négative entre les deux variables. En revanche, nous avons une relation positive pour les nuls et les défaites, ce qui signifie que plus il y aura d'entraîneurs, plus il y aura de matchs nuls et de défaites.
+Ainsi, changer d'entraîneurs n'est pas forcément le bon moyen pour gagner davantage, mais c'est potentiellement contre-productif pour l'équipe car pour chaque nouvel entraîneur, il y a un cadre de vie différent, avec des règles et des situations propres à chacun.
+
 ```{figure} #club_win_ratio_over_coach_count
 :name: club_win_ratio_over_coach_count1
 Win Ratio of Clubs versus Number of Head Coaches Appointed by Club
