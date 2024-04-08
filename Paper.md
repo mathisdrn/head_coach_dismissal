@@ -260,10 +260,20 @@ Expliquer chacune des régressions et ce qu'elle permettrait de montrer
 Donner la définition du coefficient de corrélation de Pearson
 Interpréter les valeurs r et p
 
-Le coefficient de corrélation de Pearson est une mesure statistique qui évalue la force et la direction de la relation linéaire entre deux variables continues. Il est souvent utilisé pour quantifier la relation entre deux variables. C'est un coefficient variant entre -1 et 1. Lorsqu'il est de1, il indique une corrélation linéaire parfaite positive, ce qui signifie que lorsque la valeur d'une variable augmente, la valeur de l'autre variable augmente proportionnellement. Lorsqu'il est de -1, il indique une corrélation linéaire parfaite négative, ce qui signifie que lorsque la valeur d'une variable augmente, la valeur de l'autre variable diminue proportionnellement. Ainsi, lorsqu'il est de 0, cela signifife qu'il n'y a aucune correlation linéaire entre les deux variables.
+Le coefficient de corrélation de Pearson (valeur de r) est une mesure statistique qui évalue la force et la direction de la relation linéaire entre deux variables continues. Il est souvent utilisé pour quantifier la relation entre deux variables. C'est un coefficient variant entre -1 et 1. 
+- Lorsqu'il est de 1, il indique une corrélation linéaire parfaite positive, ce qui signifie que lorsque la valeur d'une variable augmente, la valeur de l'autre variable augmente proportionnellement.
+- Lorsqu'il est de -1, il indique une corrélation linéaire parfaite négative, ce qui signifie que lorsque la valeur d'une variable augmente, la valeur de l'autre variable diminue proportionnellement. -
+- De plus, lorsqu'il est de 0, cela signifife qu'il n'y a aucune correlation linéaire entre les deux variables.
 
-La p-value (valeur de p) est une mesure statistique utilisée pour déterminer la signification statistique d'un résultat dans le contexte d'une analyse statistique. Dans le contexte de la corrélation de Pearson, la p-value est utilisée pour évaluer si la corrélation observée entre deux variables est statistiquement significative ou non.
+La p-value (valeur de p) est une mesure statistique utilisée pour déterminer la signification statistique d'un résultat dans le contexte d'une analyse statistique. Dans le contexte de la corrélation de Pearson, la p-value est utilisée pour évaluer si la corrélation observée entre deux variables est statistiquement significative ou non. Si la p-value est inférieure à 0,05, on rejette l'hypothèse selon laquelle il n'y a pas de corrélation dans la population, et on conclut qu'il y a une corrélation significative entre les deux variables.
 
+Les [](#hc_win_ratio_over_days1) et [](#hc_draw_ratio_over_days1) et [](#hc_loss_ratio_over_days1) s'intéressent aux différents ratios de victoires, de matchs nuls et de défaites en fonction de la durée du coach au sein du club. Cette analyse permet de mettre en évidence le lien existant entre les résultats directs du coach et la durée de son mandat à la tête de l'équipe.
+- Les valeurs des coefficients pour les victoires sont : r=0.36 et p=0.00. Cela indique une corrélation positive modérée et statistiquement significative (avec p<0.05) entre les deux variables étudiées.
+- Pour les matchs nuls, r=−0.12 et p=0.05. Ainsi, il existe une corrélation linéaire faible et négative entre les deux variables, ce qui est statistiquement significatif selon le seuil de significativité choisi (ici, p=0.05).
+- Quant aux défaites, r=−0.35 et p=0.00, cela indique une corrélation modérée négative et statistiquement significative entre les deux variables étudiées.
+
+Il est à noter que les trois corrélations sont statistiquement significatives, étant donné que les valeurs de p sont inférieures (ou égales) à 0.05, qui est notre seuil d'acceptation. Ainsi, selon le coefficient de corrélation de Pearson 
+r, nous observons que lorsque qu'un entraîneur gagne ses matchs, il augmente en même temps sa durée à la tête de l'équipe. En revanche, pour les défaites, plus il y en a, moins longtemps il reste coach de l'équipe. Les résultats neutres, représentés par les matchs nuls, ne jouent pas en faveur du coach, étant considérés comme un résultat moyen voire mauvais (r négatif). Par conséquent, plus il y aura de matchs nuls, plus la durée du coach en tant que leader de l'équipe diminuera.
 
 ```{figure} #hc_win_ratio_over_days
 :name: hc_win_ratio_over_days1
