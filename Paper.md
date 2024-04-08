@@ -110,17 +110,19 @@ Nous avons récupéré...
 
 Les données des coachs sont extraites de Fbref. Elles contiennent des informations sur les coachs de football, notamment leur nom, leur date de naissance, leur nationalité, les clubs pour lesquels ils ont travaillé, les dates de début et de fin de leur mandat, ainsi que des statistiques sur les matchs qu'ils ont dirigés.
 
-```{embed} #head_coach
-:remove-input: True
-```
+:::{table} Jeu de donnée des coachs
+:label: head_coach1
+![](#head_coach)
+:::
 
 ### Données sur les matchs
 
 Les données sur les matchs sont extraites de Transfermakt. Elles contiennent des informations sur les matchs de football, notamment les équipes qui ont joué, le score final, le lieu du match, la date du match.
 
-```{embed} #match_results
-:remove-input: True
-```
+:::{table} Jeu de donnée des matchs
+:label: match-results1
+![](#match_results)
+:::
 
 ## Pré-traitement des données
 
