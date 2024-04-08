@@ -29,7 +29,13 @@ exports:
 The goals of this paper is to investigate the effect of coach dismissal on team performance. To do that, we will use traditional statistical method that we apply to football teams. 
 +++
 
++++ {"part": "data_availability"}
+L'ensemble des fichiers et données relatif à ce travail sont disponible  en accès libre sur le [dépot GitHub](https://github.com/mathisdrn/head_coach_dismissal) sous licence MIT.
+
+
 ## Introduction 
+
+### Cadre de la problématique
 
 Sujet du TER : Comprendre l'effet du changement de club sur les performances du coach 
 ET NON, comme le sujet initial ([](doi:10.3390/economies8040082)) Comprendre l'effet du changement de coach sur les performances du club
@@ -57,11 +63,11 @@ Exemple :  On parle d'agent économique représentatif et rarement d'une économ
 - et NON l'effet d'un agent économique sur l'économie
 (à nuancer pour ne pas déplaire aux micro-économistes et rappeler le cadre statistiques de l'étude d'effets quantifiables !).
 
-Référence à citer : https://clauswilke.com/dataviz/
+La lecture de @DataViz a permis l'amélioration de la qualité des graphiques et de la présentation des données.
 
-### Les données
+### Source des données
 
-Les données utilisés au cours de cette analyse sont extraites de deux sites spécialisés dans les statistiques de football : [Fbref] et [Transfermakt]. 
+Les données utilisés au cours de cette analyse sont extraites de deux sites spécialisés dans les statistiques de football : [Fbref](https://fbref.com/) et [Transfermakt](https://www.transfermarkt.com/). 
 
 - FBref offre une gamme complète de données statistiques sur les joueurs, les équipes, les ligues et les compétitions de football du monde entier. Il propose des informations détaillées telles que les buts marqués, les passes décisives, les tirs au but, les interceptions et bien d'autres statistiques.
 
@@ -69,24 +75,55 @@ Les données utilisés au cours de cette analyse sont extraites de deux sites sp
 
 Ces sites sont utilisés par les amateurs de football, les journalistes et les professionnels pour rester informés sur les évolutions au cours de la saison ou pendant les trêves/mercatos.
 
-[Fbref]: https://fbref.com/
-[Transfermarkt]: https://www.transfermarkt.com/
-
-### La fiabilité des données 
+### Fiabilité des données 
 
 Ces sites sont très utilisés et considérés comme fiable. Fbref est entretenu par l’entreprise Sport Reference qui gère également d'autres sites spécialisés dans les statistiques sportives, comme Baseball-Reference et Basketball Reference. Les données sur Fbref sont souvent vérifiées et mises à jour régulièrement, ce qui contribue à leur fiabilité. Pour Transfermakt, c’est aussi un site très utilisé pour les rumeurs de transferts et les transferts en général, il a une réputation de site fiable. Le site recueille des données sur les transferts, les valeurs marchandes des joueurs et d'autres détails liés aux contrats à partir de diverses sources, y compris les médias et les communiqués officiels des clubs. Cependant, c’est un site reliant des rumeurs de transferts, donc il peut y avoir des inexactitudes ou des spéculations qui ne se concrétisent pas toujours. Il est donc conseillé de vérifier les informations avec d'autres sources fiables, notamment lorsqu'il s'agit de transferts non confirmés
 
 ### Les outils utilisés
 
-La récupération des données sur ces sites a été effectué à l'aide du package R [WorldFootBallR](https://github.com/JaseZiv/worldfootballR/). Ce package implémente des outils du web scraping pour extraire des données footballistique et est régulièrement mis à jour. Le travail a été réalisé au sein de notebook Jupyter et est disponible en open source sur le [dépot GitHub](https://github.com/mathisdrn/head_coach_dismissal).
+L'intégralité du travail de récupération, de pré-traitement, d'analyse et visualisation des données a été réalisé au sein de Notebook Jupyter. 
 
-[MyST-MD](https://mystmd.org/) a été utilisé pour générer l'export de notre papier sous format web et pdf à partir de Notebook Jupyter et de fichier Markdown. Il permettent la création de documents structurés et interactifs et incitent au développement d'une science reproductible.
+La récupération des données footballistique a été effectué à l'aide du package R [WorldFootBallR](https://github.com/JaseZiv/worldfootballR/). Ce package est régulièrement mis à jour et implémente des outils de web scraping afin d'extraire les données des principaux sites footballistiques.
 
-Des outils communautaires pour l'avenir de la communication et de la publication techniques.
+Le pré-traitement et l'analyse des données s'est effectué sous Python à l'aide des librairies standards : Pandas, Numpy, Matplotlib, Seaborn, Scipy, Statsmodels et Scikit-learn. 
+
+La création d'un tableau de bord interactif a été réalisé à l'aide de la librairie ipywidgets.
+
+L'écriture de ce papier a été réalisé dans un fichier Markdown.
+
+[MyST](https://mystmd.org/) fait partie d'un écosystème d'outils qui améliore le travail de communication scientifique en favorisant le développement d'une science reproducible et indexable. Cet outil a été utilisé pour générer l'export de notre papier sous format d'un [site statique]('https://mathisdrn.github.io/head_coach_dismissal/') et d'un [PDF]('https://raw.githubusercontent.com/mathisdrn/head_coach_dismissal/master/exports/head_coach_dismissal.pdf') de qualité scientifique. MyST permet la réutilisation des entrées et sorties des Notebooks Jupyter. Ainsi l'ensemble des figures, tableaux et variables présentes dans ce papier sont directement issus des Notebooks Jupyter. À titre d'exemple, il est possible de renouveller l'intégralité de l'étude à d'autres ligues ou d'autres périodes en modifiant simplement les paramètres des fonctions utilisées dans les Notebooks Jupyter :
+
+```{code} r
+:filename: 00 Data extraction.ipynb
+country <- c("ENG", "ESP", "ITA", "GER", "FRA")
+year <- c(2018, 2019, 2020, 2021, 2022)
+```
+## Présentation des données extraites
+
+% ne pas rajouter + de choses à cette section
+% il doit être possible de réutiliser directement les cellules markdown des notebook qui contiennent les {eval}
+
+Nous avons récupéré...
+
+### Données des coachs
+
+Les données des coachs sont extraites de Fbref. Elles contiennent des informations sur les coachs de football, notamment leur nom, leur date de naissance, leur nationalité, les clubs pour lesquels ils ont travaillé, les dates de début et de fin de leur mandat, ainsi que des statistiques sur les matchs qu'ils ont dirigés.
+
+```{embed} #head_coach
+:remove-input: True
+```
+
+### Données sur les matchs
+
+Les données sur les matchs sont extraites de Transfermakt. Elles contiennent des informations sur les matchs de football, notamment les équipes qui ont joué, le score final, le lieu du match, la date du match.
+
+```{embed} #match_results
+:remove-input: True
+```
 
 ## Pré-traitement des données
 
-Utilisation de l'algorithme de la distance Levenshtein [](doi:10.48550/arXiv.1101.1232) pour matcher les noms des clubs entre les deux jeux de données
+Utilisation de l'algorithme de la distance Levenshtein [@Levenshtein1965BinaryCC] pour matcher les noms des clubs entre les deux jeux de données
 
 ```{code} python
 :caption: Utilisation de l\'algorithme de la distance Levenshtein
@@ -110,7 +147,6 @@ Reims a plusieurs coachs pour la même période
 
 We will exclude head coaches with more than 3000 days in post. Expliquer que ce sont des cas minoritaire et que l'entraineur le plus ancien a exercé pendant 8000 jours dans un club et que ça déforme les graphs et l'analyse stat.
 
-
 ## Les graphiques 
 
 ### Graphique du jeu de donnée head coach
@@ -131,34 +167,40 @@ Monthly Distribution of Head Coaches Appointments
 Monthly Distribution of Head Coaches Dismissals
 ```
 
+Plus de 50% des coachs sportifs sont renouvelés après 1 an de mandat.
+Ce pourcentage augmente à 80% après 2 ans de mandat et à 90% après 3 ans de mandat (voir [](#hc_tenure1))
+
 ```{figure} #hc_tenure 
 :name: hc_tenure1
 Empirical Cumulative Distribution Function of Head Coaches Tenure For Completed Appointments
 ```
-- plus de 90% des coachs sont renouvelés au delà de 3 ans
-- on observe une saisonnalité annuelle : les coachs restent pour des mandats de 1 an ou 2 ans.
 
-
-
-```{figure} #hc_tenure_per_league 
-:name: hc_tenure_per_league1
-Average Head Coach Tenure for Completed Appointments per League
-```
+Au cours de la période 2017 - 2022, plus de 55% des coachs sportifs n'ont entrainé qu'un seul club. Environ 30% des coachs ont entraîné 2 clubs et seulement 10% des coachs ont entraîné plus de 3 clubs au cours de cette période (voir [](#club_per_hc1)).
 
 ```{figure} #club_per_hc
 :name: club_per_hc1
 Proportion of Head Coaches by Number of Club Appointments (2017 - 2022)
 ```
+Lorsque l'on s'intéresse au nombre de coach employés par les clubs durant la période 2017 - 2022, on observe que plus de 90% des clubs ont employés au moins 3 coachs différents (voir [](#hc_per_club1)).
 
 ```{figure} #hc_per_club
 :name: hc_per_club1
 Proportion of Clubs by Number of Head Coaches Appointed (2017 - 2022)
 ```
 
+Les [](#hc_tenure_per_league1) et [](#hc_per_club_per_league1) observent s'intéresse à l'ancienneté des coachs sportif et au renouvellement des coachs sportifs par rapport aux ligues d'interêt.
+
+```{figure} #hc_tenure_per_league 
+:name: hc_tenure_per_league1
+Average Head Coach Tenure for Completed Appointments per League
+```
+
 ```{figure} #hc_per_club_per_league
 :name: hc_per_club_per_league1
 Average Number of Head Coaches Appointed per Club versus League (2017 - 2022)
 ```
+
+On observe que les coachs de la Premier League ont une ancienneté plus longue que les coachs des autres ligues. De plus, les clubs de la Premier League ont tendance à nommer moins de coachs que les clubs des autres ligues. Inversement, c'est LaLiga qui a la plus faible ancienneté moyenne des coachs et qui nomme le plus de coachs.
 
 Expliquer chacune des régressions et ce qu'elle permettrait de montrer
 Donner la définition du coefficient de corrélation de Pearson
@@ -251,6 +293,14 @@ Match Draw Outcome versus Head Coach Tenure on Match Day
 Match Loss Outcome versus Head Coach Tenure on Match Day
 ```
 
+Correlation between head coach tenure and team's performance
+- could indicate that club keeps their well performing head-coaches
+- could indicate that head coaches performance improve after time either because:
+  - early low performance : coaches need some time once they are appointed to reach previous team performance
+  - long term improvement of performance
+
+- expliquer pourquoi cette regression est la plus statistiquement pertinente pour montrer l'effet de l'ancieneté du coach : on observe match par match et non à l'échelle de la performance total d'un coach au sein d'une équipe
+
 
 ```{figure} #match_outcome_over_coach_tenure
 :name: match_outcome_over_coach_tenure1
@@ -270,15 +320,8 @@ def weighted_rolling_mean(data, weights, window_size=30):
     return data.rolling(window_size, min_periods=1).apply(weighted_mean, raw=False)
 ```
 
-Correlation between head coach tenure and team's performance
-- could indicate that club keeps their well performing head-coaches
-- could indicate that head coaches performance improve after time either because:
-  - early low performance : coaches need some time once they are appointed to reach previous team performance
-  - long term improvement of performance
 
-- expliquer pourquoi cette regression est la plus statistiquement pertinente pour montrer l'effet de l'ancieneté du coach : on observe match par match et non à l'échelle de la performance total d'un coach au sein d'une équipe
+### Création d'un tableau de bord interactif
 
-
-### Tableau de bord interactif
 
 - Création d'un tableau permettant de visualiser... voir notebook 6
