@@ -18,6 +18,7 @@ exports:
     output: ./exports/head_coach_dismissal.pdf
     articles:
         - file: Paper.md
+banner: ./misc/banner.jpg
 ---
 
   <!-- - format: typst
@@ -132,6 +133,7 @@ Les données sur les matchs sont extraites de Transfermakt. Elles contiennent de
 ## Pré-traitement des données
 
 % continuer la présentation sur la cellule correspondante dans le notebook
+Par soucis de simplicité, seule les données étant réellement utilisé au cours de l'analyse sont présenté ici.
 
 ```{embed} #inconsistent_team_names
 ```
