@@ -86,11 +86,10 @@ Des outils communautaires pour l'avenir de la communication et de la publication
 
 ## Pré-traitement des données
 
-Expliquer le pré-traitement nécessaire pour matcher le nom des clubs entre les deux jeux de données
-Mettre la référence au papier avec le DOI ([](doi:10.3390/economies8040082))
+Utilisation de l'algorithme de la distance Levenshtein [](doi:10.48550/arXiv.1101.1232) pour matcher les noms des clubs entre les deux jeux de données
 
 ```{code} python
-:caption: Utilisation de l\'algorithme fuzzy-word
+:caption: Utilisation de l\'algorithme de la distance Levenshtein
 from thefuzz import process
 
 def match_clubs_name(name, list_names, min_score=70):
@@ -116,7 +115,11 @@ We will exclude head coaches with more than 3000 days in post. Expliquer que ce 
 
 ### Graphique du jeu de donnée head coach
 
-- Présenter les graphiques, expliquer les variables utilisés et ce que permettrait d'interpréter un graphique concluant
+**Présenter les graphiques, expliquer les variables utilisés et ce que permettrait d'interpréter un graphique concluant**
+
+Les saisons de football sont divisées en deux périodes : la saison régulière et la saison hors-saison. La saison régulière est la période pendant laquelle les équipes jouent des matchs de championnat et de coupe, tandis que la saison hors-saison est la période pendant laquelle les équipes se préparent pour la saison suivante, notamment en recrutant de nouveaux joueurs et en changeant d'entraîneur.
+
+Les licenciements de coachs sont plus fréquents en fin de saison (voir [](#hc_appointment1)), tandis que les nominations de coachs sont plus fréquentes en début de saison (voir [](#hc_dismissal1)). Cela peut s'expliquer par le fait que les clubs cherchent à renouveler leur effectif et à se donner les meilleures chances de succès pour la saison suivante.
 
 ```{figure} #hc_appointment 
 :name: hc_appointment1
@@ -130,79 +133,80 @@ Monthly Distribution of Head Coaches Dismissals
 
 ```{figure} #hc_tenure 
 :name: hc_tenure1
-Distribution of Head Coaches Tenure for Completed Appointments 
+Empirical Cumulative Distribution Function of Head Coaches Tenure For Completed Appointments
 ```
+- plus de 90% des coachs sont renouvelés au delà de 3 ans
+- on observe une saisonnalité annuelle : les coachs restent pour des mandats de 1 an ou 2 ans.
 
-Faire remarquer l'augmentation à 365 jours et 730 jours
-(ie. le graph représente la proportion cumulée des durées des missions des coachs)
+
 
 ```{figure} #hc_tenure_per_league 
 :name: hc_tenure_per_league1
-Average Head Coaches Tenure for Completed Appointments per League
+Average Head Coach Tenure for Completed Appointments per League
 ```
 
 ```{figure} #club_per_hc
 :name: club_per_hc1
-Distribution of number of Clubs per Head Coach
+Proportion of Head Coaches by Number of Club Appointments (2017 - 2022)
 ```
 
 ```{figure} #hc_per_club
 :name: hc_per_club1
-Distribution of number of Head Coaches recruited by Clubs between 2017 and 2022
+Proportion of Clubs by Number of Head Coaches Appointed (2017 - 2022)
 ```
 
 ```{figure} #hc_per_club_per_league
 :name: hc_per_club_per_league1
-hc_per_club_per_league
+Average Number of Head Coaches Appointed per Club versus League (2017 - 2022)
 ```
 
-Expliquer l'chacune des régressions et ce qu'elle permettrait de montrer
+Expliquer chacune des régressions et ce qu'elle permettrait de montrer
 Donner la définition du coefficient de corrélation de Pearson
 Interpréter les valeurs r et p
 
 ```{figure} #hc_win_ratio_over_days
 :name: hc_win_ratio_over_days1
-hc_win_ratio_over_days
+Win Ratio of Head Coaches Appointments versus Head Coach Tenure
 ```
 
 ```{figure} #hc_draw_ratio_over_days
 :name: hc_draw_ratio_over_days1
-hc_draw_ratio_over_days
+Draw Ratio of Head Coaches Appointments versus Head Coach Tenure
 ```
 
 ```{figure} #hc_loss_ratio_over_days
 :name: hc_loss_ratio_over_days1
-hc_loss_ratio_over_days
+Loss Ratio of Head Coaches Appointments versus Head Coach Tenure
 ```
 
 ```{figure} #club_win_ratio_over_coach_count
 :name: club_win_ratio_over_coach_count1
-club_win_ratio_over_coach_count
+Win Ratio of Clubs versus Number of Head Coaches Appointed by Club
 ```
 
 ```{figure} #club_draw_ratio_over_coach_count
 :name: club_draw_ratio_over_coach_count1
-club_draw_ratio_over_coach_count
+Draw Ratio of Clubs versus Number of Head Coaches Appointed by Club
 ```
 
 ```{figure} #club_loss_ratio_over_coach_count
 :name: club_loss_ratio_over_coach_count1
-club_loss_ratio_over_coach_count
+Loss Ratio of Clubs versus Number of Head Coaches Appointed by Club
 ```
 
 ```{figure} #hc_win_ratio_over_club_count
 :name: hc_win_ratio_over_club_count1
-hc_win_ratio_over_club_count
+Win Ratio of Head Coaches vers Number of Clubs Appointments
 ```
 
 ```{figure} #hc_draw_ratio_over_club_count
 :name: hc_draw_ratio_over_club_count1
-hc_draw_ratio_over_club_count
+Draw Ratio of Head Coaches vers Number of Clubs Appointments
 ```
 
 ```{figure} #hc_loss_ratio_over_club_count
 :name: hc_loss_ratio_over_club_count1
-hc_loss_ratio_over_club_count
+Loss Ratio of Head Coaches vers Number of Clubs Appointments
 ```
 
 ### Graphiques du jeu de donnée match
@@ -213,7 +217,7 @@ hc_loss_ratio_over_club_count
 
 ```{figure} #venue_effect
 :name: venue_effect1
-Venue effect on team's performance
+Venue effect on team's performance (2017 - 2022)
 ```
 
 Il existe une différence dans la performance des équipes lorsqu'elle joue à domicile ou à l'extérieur (voir [](#venue_effect1)).
@@ -221,36 +225,36 @@ Il existe une différence dans la performance des équipes lorsqu'elle joue à d
 
 ```{figure} #match_distribution
 :name: match_distribution1
-Monthly Distribution of Matches
+Monthly Distribution of Matches (2017 - 2022)
 ```
 
 
 ### Graphiques des données jointes
 
+```{figure} #match_distribution_over_coach_tenure
+:name: match_distribution_over_coach_tenure1
+Proportion of Matches versus Head Coach Tenure on Match Day
+```
+
 ```{figure} #win_over_coach_tenure
 :name: win_over_coach_tenure1
-Win ratio over coach tenure
+Match Win Outcome versus Head Coach Tenure on Match Day
 ```
 
 ```{figure} #draw_over_coach_tenure
 :name: draw_over_coach_tenure1
-Draw ratio over coach tenure
+Match Draw Outcome versus Head Coach Tenure on Match Day
 ```
 
 ```{figure} #loss_over_coach_tenure
 :name: loss_over_coach_tenure1
-Loss ratio over coach tenure
-```
-
-```{figure} #match_distribution_over_coach_tenure
-:name: match_distribution_over_coach_tenure1
-Match distribution over coach tenure
+Match Loss Outcome versus Head Coach Tenure on Match Day
 ```
 
 
 ```{figure} #match_outcome_over_coach_tenure
 :name: match_outcome_over_coach_tenure1
-Match outcome over coach tenure
+Weighted Rolling Average of Match Outcome vers Head Coach Tenure on Match Day
 ```
 
 Explique que graph utilise les moyenne mobile pondérés sur une fenêtre de 30 jours :
