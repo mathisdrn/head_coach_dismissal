@@ -337,6 +337,57 @@ Draw Ratio of Head Coaches Appointments versus Head Coach Tenure
 Loss Ratio of Head Coaches Appointments versus Head Coach Tenure
 ```
 
+### L'effet du renouvellement régulier du coach sur la performance de l'équipe
+
+Les [](#club_win_ratio_over_coach_count1) et [](#club_draw_ratio_over_coach_count1) et [](#club_loss_ratio_over_coach_count1) s'intéressent aux ratios de victoires, de matchs nuls et de défaites en fonction du nombre d'entraîneurs nommés à la tête de l'équipe. Ces relations pourraient montrer l'effet d'un changement régulier d'entraîneur sur les résultats de l'équipe. Les coefficients sont :
+- Pour les victoires,r=−0.27 et p=0.03. Ceci indique une corrélation négative de faible à modérée entre les deux variables, qui est statistiquement significative.
+- Pour les matchs nuls, r=0.25 et p=0.04. Cela indique une corrélation positive de faible à modérée entre les deux variables, qui est statistiquement significative, mais pas très forte.
+- Pour les défaites, r=0.24 et p=0.05, ce qui indique une corrélation positive de faible à modérée entre les deux variables, qui est statistiquement significative.
+
+On remarque qu'un coefficient de Pearson négatif pour les victoires nous montre que plus il y a d'entraîneurs différents dans un club pour une période donnée (potentiellement courte), moins il y aura de victoires, nous avons ici une relation négative entre les deux variables. En revanche, nous avons une relation positive pour les nuls et les défaites, ce qui signifie que plus il y aura d'entraîneurs, plus il y aura de matchs nuls et de défaites.
+Ainsi, changer d'entraîneurs n'est pas forcément le bon moyen pour gagner davantage, mais c'est potentiellement contre-productif pour l'équipe car pour chaque nouvel entraîneur, il y a un cadre de vie différent, avec des règles et des situations propres à chacun.
+
+```{figure} #club_win_ratio_over_coach_count
+:name: club_win_ratio_over_coach_count1
+Win Ratio of Clubs versus Number of Head Coaches Appointed by Club
+```
+
+```{figure} #club_draw_ratio_over_coach_count
+:name: club_draw_ratio_over_coach_count1
+Draw Ratio of Clubs versus Number of Head Coaches Appointed by Club
+```
+
+```{figure} #club_loss_ratio_over_coach_count
+:name: club_loss_ratio_over_coach_count1
+Loss Ratio of Clubs versus Number of Head Coaches Appointed by Club
+```
+
+### Le lien entre la mobilité du coach et la performance de l'équipe
+
+Les [](#hc_win_ratio_over_club_count1) et [](#hc_draw_ratio_over_club_count1) et [](#hc_loss_ratio_over_club_count1) aux ratios de victoires, de matchs nuls et de défaites en fonction du nombre de clubs différents dans lesquels l'entraîneur est passé. Dans ces régressions linéaires, nous examinerons l'effet de l'expérience de coaching d'un entraîneur sur ses résultats. Voici les coefficients obtenus :
+- Pour les victoires, r=0.19 et p=0.01. Nous observons une corrélation positive de faible à modérée entre les deux variables, qui est statistiquement significative.
+- Pour les matchs nuls, r=−0.09 et p=0.25. Cela indique une corrélation très faible et non significative entre les deux variables, ce qui ne nous permet pas de conclure.
+- Pour les défaites, r=−0.18 et p=0.02. Nous constatons donc une corrélation négative faible mais statistiquement significative entre les deux variables examinées.
+
+Nous observons un coefficient de Pearson positif pour les victoires, ce qui suggère que plus l'entraîneur a d'expérience (nombre de clubs entraînés), plus il y a de victoires. En revanche, pour les matchs nuls et les défaites, moins l'entraîneur a d'expérience dans différents clubs, plus il y a de matchs nuls et de défaites. On peut donc conclure que l'expérience de l'entraîneur est un facteur important pour la performance lors des matchs.
+
+
+```{figure} #hc_win_ratio_over_club_count
+:name: hc_win_ratio_over_club_count1
+Win Ratio of Head Coaches versus Number of Clubs Appointments
+```
+
+```{figure} #hc_draw_ratio_over_club_count
+:name: hc_draw_ratio_over_club_count1
+Draw Ratio of Head Coaches versus Number of Clubs Appointments
+```
+
+```{figure} #hc_loss_ratio_over_club_count
+:name: hc_loss_ratio_over_club_count1
+Loss Ratio of Head Coaches versus Number of Clubs Appointments
+```
+
+### Lien plus fin entre ancienneté du coach et performance de l'équipe
 #### Lien plus fin entre ancienneté du coach et performance de l'équipe
 
 % Paragraphe introductif
