@@ -84,7 +84,7 @@ L'intégralité du travail de récupération, de pré-traitement, d'analyse et v
 
 La récupération des données footballistique a été effectué à l'aide du package R [WorldFootBallR](https://github.com/JaseZiv/worldfootballR/). Ce package est régulièrement mis à jour et implémente des outils de web scraping afin d'extraire les données des principaux sites footballistiques.
 
-Le pré-traitement et l'analyse des données s'est effectué sous Python à l'aide des librairies standards : Pandas, Numpy, Matplotlib, Seaborn, Scipy, Statsmodels et Scikit-learn. 
+Le pré-traitement, l'analyse et la visualisation des données a été effectué sous Python à l'aide de librairies standards : Pandas, Numpy, Matplotlib, Seaborn, Scipy, Statsmodels et Scikit-learn. 
 
 La création d'un tableau de bord interactif a été réalisé à l'aide de la librairie ipywidgets.
 
