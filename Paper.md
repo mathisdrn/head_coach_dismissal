@@ -309,6 +309,14 @@ Draw Ratio of Clubs versus Number of Head Coaches Appointed by Club
 Loss Ratio of Clubs versus Number of Head Coaches Appointed by Club
 ```
 
+Les [](#hc_win_ratio_over_club_count1) et [](#hc_draw_ratio_over_club_count1) et [](#hc_loss_ratio_over_club_count1) aux ratios de victoires, de matchs nuls et de défaites en fonction du nombre de clubs différents dans lesquels l'entraîneur est passé. Dans ces régressions linéaires, nous examinerons l'effet de l'expérience de coaching d'un entraîneur sur ses résultats. Voici les coefficients obtenus :
+- Pour les victoires, r=0.19 et p=0.01. Nous observons une corrélation positive de faible à modérée entre les deux variables, qui est statistiquement significative.
+- Pour les matchs nuls, r=−0.09 et p=0.25. Cela indique une corrélation très faible et non significative entre les deux variables, ce qui ne nous permet pas de conclure.
+- Pour les défaites, r=−0.18 et p=0.02. Nous constatons donc une corrélation négative faible mais statistiquement significative entre les deux variables examinées.
+
+Nous observons un coefficient de Pearson positif pour les victoires, ce qui suggère que plus l'entraîneur a d'expérience (nombre de clubs entraînés), plus il y a de victoires. En revanche, pour les matchs nuls et les défaites, moins l'entraîneur a d'expérience dans différents clubs, plus il y a de matchs nuls et de défaites. On peut donc conclure que l'expérience de l'entraîneur est un facteur important pour la performance lors des matchs.
+
+
 ```{figure} #hc_win_ratio_over_club_count
 :name: hc_win_ratio_over_club_count1
 Win Ratio of Head Coaches versus Number of Clubs Appointments
