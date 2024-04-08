@@ -255,6 +255,11 @@ Expliquer chacune des régressions et ce qu'elle permettrait de montrer
 Donner la définition du coefficient de corrélation de Pearson
 Interpréter les valeurs r et p
 
+Le coefficient de corrélation de Pearson est une mesure statistique qui évalue la force et la direction de la relation linéaire entre deux variables continues. Il est souvent utilisé pour quantifier la relation entre deux variables. C'est un coefficient variant entre -1 et 1. Lorsqu'il est de1, il indique une corrélation linéaire parfaite positive, ce qui signifie que lorsque la valeur d'une variable augmente, la valeur de l'autre variable augmente proportionnellement. Lorsqu'il est de -1, il indique une corrélation linéaire parfaite négative, ce qui signifie que lorsque la valeur d'une variable augmente, la valeur de l'autre variable diminue proportionnellement. Ainsi, lorsqu'il est de 0, cela signifife qu'il n'y a aucune correlation linéaire entre les deux variables.
+
+La p-value (valeur de p) est une mesure statistique utilisée pour déterminer la signification statistique d'un résultat dans le contexte d'une analyse statistique. Dans le contexte de la corrélation de Pearson, la p-value est utilisée pour évaluer si la corrélation observée entre deux variables est statistiquement significative ou non.
+
+
 ```{figure} #hc_win_ratio_over_days
 :name: hc_win_ratio_over_days1
 Win Ratio of Head Coaches Appointments versus Head Coach Tenure
