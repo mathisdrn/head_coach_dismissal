@@ -101,11 +101,6 @@ year <- c(2018, 2019, 2020, 2021, 2022)
 ```
 ## Présentation des données extraites
 
-% ne pas rajouter + de choses à cette section
-% il doit être possible de réutiliser directement les cellules markdown des notebook qui contiennent les {eval}
-
-Nous avons récupéré...
-
 ### Données des coachs
 
 Les données des coachs sont extraites de Fbref. Elles contiennent des informations sur les coachs de football, notamment leur nom, leur date de naissance, leur nationalité, les clubs pour lesquels ils ont travaillé, les dates de début et de fin de leur mandat, ainsi que des statistiques sur les matchs qu'ils ont dirigés.
@@ -115,6 +110,11 @@ Les données des coachs sont extraites de Fbref. Elles contiennent des informati
 ![](#head_coach)
 :::
 
+% continuer la présentation sur la cellule correspondante dans le notebook
+
+```{embed} #hc_data_presentation
+```
+
 ### Données sur les matchs
 
 Les données sur les matchs sont extraites de Transfermakt. Elles contiennent des informations sur les matchs de football, notamment les équipes qui ont joué, le score final, le lieu du match, la date du match.
@@ -123,6 +123,11 @@ Les données sur les matchs sont extraites de Transfermakt. Elles contiennent de
 :label: match-results1
 ![](#match_results)
 :::
+
+% continuer la présentation sur la cellule correspondante dans le notebook
+
+```{embed} #match_data_presentation
+```
 
 ## Pré-traitement des données
 
