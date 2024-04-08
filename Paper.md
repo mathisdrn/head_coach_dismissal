@@ -282,6 +282,13 @@ Monthly Distribution of Matches (2017 - 2022)
 
 ### Graphiques des données jointes
 
+En joignant les deux jeux de données, il est possible d'associer à chaque match l'ancienneté du coach de l'équipe à domicile et de l'équipe à l'extérieur le jour du match. Le jeu de données est modifié de manière à ce que chaque ligne corresponde à une équipe, le résultat du match et l'ancienneté du joueurs :
+
+:::{table} Jeu de donnée final
+:label: joint_data1
+![](#joint_data)
+:::
+
 ```{figure} #match_distribution_over_coach_tenure
 :name: match_distribution_over_coach_tenure1
 Distribution of Matches versus Head Coach Tenure on Match Day
