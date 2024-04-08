@@ -100,74 +100,107 @@ MyST permet de réutiliser les entrées et les sorties des Notebooks Jupyter. Ai
 country <- c("ENG", "ESP", "ITA", "GER", "FRA")
 year <- c(2018, 2019, 2020, 2021, 2022)
 ```
-## Présentation des données extraites
+## Extraction des données
 
-### Données des coachs
+L'extraction se fait aisément à l'aide de [WorldFootballR](https://github.com/JaseZiv/worldfootballR/). 
 
-Les données des coachs sont extraites de Fbref. Elles contiennent des informations sur les coachs de football, notamment leur nom, leur date de naissance, leur nationalité, les clubs pour lesquels ils ont travaillé, les dates de début et de fin de leur mandat, ainsi que des statistiques sur les matchs qu'ils ont dirigés.
+Un premier jeu de données concernant les matchs est récupéré à partir de [Fbref](). Il contient des informations sur les matchs de football, notamment les équipes qui ont joués, le score final, le lieu du match et la date du match.
+Un second jeu de données concernant les coachs sportifs est récupéré à partir de [Transfermakt](). Il contient des informations sur les coachs de football, notamment leur nom, leur date de naissance, leur nationalité, les dates de début et de fin de leur mandat, ainsi que des statistiques sur les matchs qu'ils ont dirigés.
 
-:::{table} Jeu de donnée des coachs
-:label: head_coach1
-![](#head_coach)
-:::
+Les jeux de données dans leurs formes finales seront présentés dans le chapitre [](#data-presentation).
 
-% continuer la présentation sur la cellule correspondante dans le notebook
+## Pré-traitement des données
 
-```{embed} #hc_data_presentation
-```
-
-### Données sur les matchs
-
-Les données sur les matchs sont extraites de Transfermakt. Elles contiennent des informations sur les matchs de football, notamment les équipes qui ont joué, le score final, le lieu du match, la date du match.
-
-:::{table} Jeu de donnée des matchs
+:::{table} Extrait du jeu de donnée des résultats de matchs
 :label: match-results1
 ![](#match_results)
 :::
 
-% continuer la présentation sur la cellule correspondante dans le notebook
-
-```{embed} #match_data_presentation
+```{embed} #split_match_results
 ```
 
-## Pré-traitement des données
+:::{table} Extrait du jeu de donnée sur les mandats des coachs sportif
+:label: head_coach1
+![](#head_coach)
+:::
 
-% continuer la présentation sur la cellule correspondante dans le notebook
-Par soucis de simplicité, seule les données étant réellement utilisé au cours de l'analyse sont présenté ici.
+On filtre dans un premier temps les coachs qui n'ont pas été actif entre 2018 et 2022.
+
+De plus, en vérifiant la qualité des données, nous avons remarqué qu'il existait parfois plus d'un coach pour une même période donnée :
+
+```{embed} #overlapping_coach
+```
+
+:::{table} Example of inconsistency in the head coach data
+:label: hc_inconsistency1
+![](#hc_inconsistency)
+:::
+
+On exclu ces enregistrements de coachs.
+
+```{embed} #join_head_coach_match
+```
 
 ```{embed} #inconsistent_team_names
 ```
 
-Utilisation de l'algorithme de la distance Levenshtein [@Levenshtein1965BinaryCC] pour matcher les noms des clubs entre les deux jeux de données
+L'algorithme de la distance Levenshtein [@Levenshtein1965BinaryCC] a été utiliser pour faire correspondre les noms des équipes. Cet algorithme permet de calculer la distance entre deux chaînes de caractères en mesurant le nombre minimum d'opérations nécessaires pour transformer une chaîne en une autre.
 
 ```{code} python
 :caption: Utilisation de l\'algorithme de la distance Levenshtein
 :linenos:
 from thefuzz import process
 
-def match_clubs_name(name, list_names, min_score=70):
-    scores = process.extract(name, list_names, limit=1)
+team_name_mapping = {}
+
+for coach_team in coach_teams:
+    matching_scores = process.extract(coach_team, match_teams, limit=1)
     
-    if len(scores) != 0 and scores[0][1] >= min_score:
-        return scores[0][0]
-    return None
+    if len(matching_scores) != 0 and matching_scores[0][1] >= 60:
+        team_name_mapping[coach_team] = matching_scores[0][0]
+    else:
+        team_name_mapping[coach_team] = None
+        print(f"No match found for {coach_team}")
+```
+:::{table} Exemple de correspondance des noms d'équipes
+:label: team_match_table1
+![](#team_match_table)
+:::
+
+L'ancienneté du coach sportifs au sein de l'équipe est ajouté à chaque ligne des données de résultat de match. Le tableau ainsi obtenu :
+
+:::{table} Extrait du jeu de donnée sur les matchs transformés
+:label: final_match_results1
+![](#final_match_results)
+:::
+
+
+(data-presentation)= 
+## Présentation des données
+
+```{embed} #match_data_summary
+````
+
+:::{table} Summary of the match data
+:label: data_summary1
+![](#data_summary)
+:::
+
+:::{figure} #match_distribution
+:name: match_distribution1
+Monthly Distribution of Matches (2017 - 2022)
+:::
+
+```{embed} #home_advantage_text
 ```
 
-Vérification que tout les clubs ont bien au plus un coach pour chaque période
-
-Reims a plusieurs coachs pour la même période
-
-```{embed} #hc_inconsistency
-:remove-input: True
-```
-
-We will exclude head coaches with more than 3000 days in post. Expliquer que ce sont des cas minoritaire et que l'entraineur le plus ancien a exercé pendant 8000 jours dans un club et que ça déforme les graphs et l'analyse stat.
-
-## Les graphiques 
-
-### Graphique du jeu de donnée head coach
+:::{figure} #venue_effect
+:name: venue_effect1
+Venue effect on team's performance (2017 - 2022)
+:::
 
 **Présenter les graphiques, expliquer les variables utilisés et ce que permettrait d'interpréter un graphique concluant**
+
 
 Les saisons de football sont divisées en deux périodes : la saison régulière et la saison hors-saison. La saison régulière est la période pendant laquelle les équipes jouent des matchs de championnat et de coupe, tandis que la saison hors-saison est la période pendant laquelle les équipes se préparent pour la saison suivante, notamment en recrutant de nouveaux joueurs et en changeant d'entraîneur.
 
@@ -271,26 +304,6 @@ Draw Ratio of Head Coaches versus Number of Clubs Appointments
 :name: hc_loss_ratio_over_club_count1
 Loss Ratio of Head Coaches versus Number of Clubs Appointments
 ```
-
-### Graphiques du jeu de donnée match
-
-```{embed} #league_presentation
-:remove-input: True
-```
-
-```{figure} #venue_effect
-:name: venue_effect1
-Venue effect on team's performance (2017 - 2022)
-```
-
-Il existe une différence dans la performance des équipes lorsqu'elle joue à domicile ou à l'extérieur (voir [](#venue_effect1)).
-
-
-```{figure} #match_distribution
-:name: match_distribution1
-Monthly Distribution of Matches (2017 - 2022)
-```
-
 
 ### Graphiques des données jointes
 

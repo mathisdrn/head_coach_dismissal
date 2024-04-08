@@ -1,299 +1,295 @@
-team,league,country,coach_name,staff_dob,staff_nationality,staff_nationality_secondary,appointed,end_date,days_in_post,matches,wins,draws,losses
-Manchester City,Premier League,England,Pep Guardiola,"Jan 18, 1971",Spain,,2016-07-01,,2784,450,333,53,64
-Liverpool,Premier League,England,Jürgen Klopp,"Jun 16, 1967",Germany,,2015-10-08,2024-06-30,3188,468,291,96,81
-Chelsea,Premier League,England,Graham Potter,"May 20, 1975",England,,2022-09-08,2023-04-02,206,31,12,8,11
-Chelsea,Premier League,England,Thomas Tuchel,"Aug 29, 1973",Germany,,2021-01-26,2022-09-07,589,100,63,19,18
-Chelsea,Premier League,England,Frank Lampard,"Jun 20, 1978",England,,2019-07-04,2021-01-25,571,84,44,15,25
-Chelsea,Premier League,England,Maurizio Sarri,"Jan 10, 1959",Italy,,2018-07-14,2019-06-30,351,63,40,11,12
-Chelsea,Premier League,England,Antonio Conte,"Jul 31, 1969",Italy,,2016-07-01,2018-07-13,742,106,70,15,21
-Tottenham,Premier League,England,Antonio Conte,"Jul 31, 1969",Italy,,2021-11-02,2023-03-26,509,76,41,12,23
-Tottenham,Premier League,England,Nuno Espírito Santo,"Jan 25, 1974",Portugal,Sao Tome and Principe,2021-07-01,2021-11-01,123,17,9,1,7
-Tottenham,Premier League,England,José Mourinho,"Jan 26, 1963",Portugal,,2019-11-20,2021-04-19,516,86,45,17,24
-Tottenham,Premier League,England,Mauricio Pochettino,"Mar 2, 1972",Argentina,Spain,2014-07-01,2019-11-19,1967,293,160,60,73
-Manchester Utd,Premier League,England,Erik ten Hag,"Feb 2, 1970",Netherlands,,2022-07-01,,593,96,59,11,26
-Manchester Utd,Premier League,England,Ole Gunnar Solskjaer,"Feb 26, 1973",Norway,,2019-03-28,2021-11-21,969,149,78,33,38
-Manchester Utd,Premier League,England,José Mourinho,"Jan 26, 1963",Portugal,,2016-07-01,2018-12-18,900,144,84,31,29
-Arsenal,Premier League,England,Mikel Arteta,"Mar 26, 1982",Spain,,2019-12-22,,1515,213,127,32,54
-Arsenal,Premier League,England,Unai Emery,"Nov 3, 1971",Spain,,2018-07-01,2019-11-29,516,78,43,15,20
-Arsenal,Premier League,England,Arsène Wenger,"Oct 22, 1949",France,,1996-10-01,2018-06-30,7942,1234,715,267,252
-Everton,Premier League,England,Frank Lampard,"Jun 20, 1978",England,,2022-01-31,2023-01-23,357,44,12,8,24
-Everton,Premier League,England,Rafael Benítez,"Apr 16, 1960",Spain,,2021-07-01,2022-01-16,199,22,7,4,11
-Everton,Premier League,England,Carlo Ancelotti,"Jun 10, 1959",Italy,,2019-12-22,2021-06-30,556,67,31,14,22
-Everton,Premier League,England,Marco Silva,"Jul 12, 1977",Portugal,,2018-05-31,2019-12-05,553,60,24,11,25
-Everton,Premier League,England,Sam Allardyce,"Oct 19, 1954",England,,2017-11-30,2018-05-16,167,26,10,7,9
-West Ham,Premier League,England,David Moyes,"Apr 25, 1963",Scotland,,2019-12-29,,1508,212,98,38,76
-West Ham,Premier League,England,Manuel Pellegrini,"Sep 16, 1953",Chile,Italy,2018-07-01,2019-12-28,545,64,24,11,29
-West Ham,Premier League,England,David Moyes,"Apr 25, 1963",Scotland,,2017-11-07,2018-05-16,190,31,9,10,12
-Bournemouth,Premier League,England,Gary O'Neil,"May 18, 1983",England,,2022-11-28,2023-06-19,203,25,7,2,16
-Bournemouth,Premier League,England,Scott Parker,"Oct 13, 1980",England,,2021-07-01,2022-08-30,425,55,29,13,13
-Bournemouth,Premier League,England,Jonathan Woodgate,"Jan 22, 1980",England,,2021-02-04,2021-06-30,146,23,13,2,8
-Bournemouth,Premier League,England,Jason Tindall,"Nov 15, 1977",England,,2020-08-08,2021-02-03,179,31,14,9,8
-Bournemouth,Premier League,England,Eddie Howe,"Nov 29, 1977",England,,2012-10-14,2020-08-01,2848,355,144,75,136
-Wolves,Premier League,England,Julen Lopetegui,"Aug 28, 1966",Spain,,2022-11-14,2023-08-08,267,27,10,5,12
-Wolves,Premier League,England,Bruno Lage,"May 12, 1976",Portugal,,2021-07-01,2022-10-02,458,51,19,9,23
-Wolves,Premier League,England,Nuno Espírito Santo,"Jan 25, 1974",Portugal,Sao Tome and Principe,2017-07-01,2021-06-30,1460,199,96,46,57
-Crystal Palace,Premier League,England,Patrick Vieira,"Jun 23, 1976",France,Senegal,2021-07-04,2023-03-17,621,74,22,24,28
-Crystal Palace,Premier League,England,Roy Hodgson,"Aug 9, 1947",England,,2017-09-12,2021-06-30,1387,162,54,36,72
-Fulham,Premier League,England,Marco Silva,"Jul 12, 1977",Portugal,,2021-07-01,,958,126,60,23,43
-Fulham,Premier League,England,Scott Parker,"Oct 13, 1980",England,,2019-02-28,2021-06-30,853,105,37,25,43
-Fulham,Premier League,England,Claudio Ranieri,"Oct 20, 1951",Italy,,2018-11-14,2019-02-28,106,17,3,3,11
-Fulham,Premier League,England,Slavisa Jokanovic,"Aug 16, 1968",Serbia,Spain,2015-12-27,2018-11-14,1053,144,63,36,45
-Newcastle Utd,Premier League,England,Eddie Howe,"Nov 29, 1977",England,,2021-11-08,,828,109,54,24,31
-Newcastle Utd,Premier League,England,Steve Bruce,"Dec 31, 1960",England,,2019-07-17,2021-10-20,826,97,29,25,43
-Newcastle Utd,Premier League,England,Rafael Benítez,"Apr 16, 1960",Spain,,2016-03-11,2019-06-30,1206,146,62,30,54
-Burnley,Premier League,England,Vincent Kompany,"Apr 10, 1986",Belgium,DR Congo,2022-07-01,,593,82,39,19,24
-Burnley,Premier League,England,Sean Dyche,"Jun 28, 1971",England,,2012-10-30,2022-04-15,3454,425,152,114,159
-Brighton,Premier League,England,Roberto De Zerbi,"Jun 6, 1979",Italy,,2022-09-18,,514,72,34,16,22
-Brighton,Premier League,England,Graham Potter,"May 20, 1975",England,,2019-05-20,2022-09-07,1206,134,43,43,48
-Brighton,Premier League,England,Chris Hughton,"Dec 11, 1958",Ireland,England,2014-12-31,2019-05-13,1594,215,89,56,70
-Barcelona,LaLiga,Spain,Xavi,"Jan 25, 1980",Spain,,2021-11-06,2024-06-30,967,125,78,21,26
-Barcelona,LaLiga,Spain,Ronald Koeman,"Mar 21, 1963",Netherlands,,2020-08-19,2021-10-28,435,67,40,11,16
-Barcelona,LaLiga,Spain,Quique Setién,"Sep 27, 1958",Spain,,2020-01-13,2020-08-17,217,25,16,4,5
-Barcelona,LaLiga,Spain,Ernesto Valverde,"Feb 9, 1964",Spain,,2017-07-01,2020-01-13,926,145,97,32,16
-Atlético Madrid,LaLiga,Spain,Diego Simeone,"Apr 28, 1970",Argentina,Italy,2011-12-23,,4436,662,392,147,123
-Real Madrid,LaLiga,Spain,Carlo Ancelotti,"Jun 10, 1959",Italy,,2021-07-01,,958,152,109,20,23
-Real Madrid,LaLiga,Spain,Zinédine Zidane,"Jun 23, 1972",France,Algeria,2019-03-11,2021-06-30,842,114,69,25,20
-Real Madrid,LaLiga,Spain,Santiago Solari,"Oct 7, 1976",Argentina,Spain,2018-11-13,2019-03-11,118,28,18,2,8
-Real Madrid,LaLiga,Spain,Julen Lopetegui,"Aug 28, 1966",Spain,,2018-07-01,2018-10-29,120,14,6,2,6
-Real Madrid,LaLiga,Spain,Zinédine Zidane,"Jun 23, 1972",France,Algeria,2016-01-04,2018-05-31,878,149,105,28,16
-Valencia,LaLiga,Spain,Gennaro Gattuso,"Jan 9, 1978",Italy,,2022-07-01,2023-01-30,213,22,7,5,10
-Valencia,LaLiga,Spain,Pepe Bordalás,"Mar 5, 1964",Spain,,2021-07-01,2022-06-03,337,46,17,16,13
-Valencia,LaLiga,Spain,Javi Gracia,"May 1, 1970",Spain,,2020-07-27,2021-05-03,280,38,11,12,15
-Valencia,LaLiga,Spain,Albert Celades,"Sep 29, 1975",Spain,Andorra,2019-09-11,2020-06-29,292,41,16,11,14
-Valencia,LaLiga,Spain,Marcelino,"Aug 14, 1965",Spain,,2017-07-01,2019-09-11,802,110,56,29,25
-Sevilla,LaLiga,Spain,Jorge Sampaoli,"Mar 13, 1960",Argentina,,2022-10-06,2023-03-20,165,31,13,6,12
-Sevilla,LaLiga,Spain,Julen Lopetegui,"Aug 28, 1966",Spain,,2019-07-01,2022-10-06,1193,170,90,44,36
-Sevilla,LaLiga,Spain,Joaquín Caparrós,"Oct 15, 1955",Spain,,2019-03-15,2019-06-30,107,11,6,1,4
-Sevilla,LaLiga,Spain,Pablo Machín,"Apr 7, 1975",Spain,,2018-07-01,2019-03-15,257,50,26,9,15
-Sevilla,LaLiga,Spain,Vincenzo Montella,"Jun 18, 1974",Italy,,2017-12-30,2018-04-28,119,28,11,7,10
-Real Sociedad,LaLiga,Spain,Imanol Alguacil,"Jul 4, 1971",Spain,,2018-12-27,,1875,257,122,71,64
-Real Sociedad,LaLiga,Spain,Asier Garitano,"Dec 6, 1969",Spain,,2018-07-01,2018-12-26,178,19,6,5,8
-Real Sociedad,LaLiga,Spain,Imanol Alguacil,"Jul 4, 1971",Spain,,2018-03-19,2018-06-30,103,9,5,1,3
-Real Sociedad,LaLiga,Spain,Eusebio,"Apr 13, 1964",Spain,,2015-11-09,2018-03-18,860,112,46,23,43
-Betis,LaLiga,Spain,Manuel Pellegrini,"Sep 16, 1953",Chile,Italy,2020-08-01,,1292,181,88,43,50
-Betis,LaLiga,Spain,Rubi,"Feb 5, 1970",Spain,,2019-07-01,2020-06-21,356,33,10,10,13
-Betis,LaLiga,Spain,Quique Setién,"Sep 27, 1958",Spain,,2017-07-01,2019-06-30,729,94,39,22,33
-Athletic Club,LaLiga,Spain,Ernesto Valverde,"Feb 9, 1964",Spain,,2022-07-01,,593,75,38,17,20
-Athletic Club,LaLiga,Spain,Marcelino,"Aug 14, 1965",Spain,,2021-01-04,2022-06-30,542,75,29,25,21
-Athletic Club,LaLiga,Spain,Gaizka Garitano,"Jul 9, 1975",Spain,,2018-12-05,2021-01-03,760,89,39,21,29
-Athletic Club,LaLiga,Spain,Eduardo Berizzo,"Nov 13, 1969",Argentina,Italy,2018-07-01,2018-12-04,156,15,2,8,5
-Athletic Club,LaLiga,Spain,Cuco Ziganda,"Oct 1, 1966",Spain,,2017-07-01,2018-06-30,364,54,17,17,20
-Celta Vigo,LaLiga,Spain,Carlos Carvalhal,"Dec 4, 1965",Portugal,,2022-11-02,2023-06-30,240,29,10,8,11
-Celta Vigo,LaLiga,Spain,Eduardo Coudet,"Sep 12, 1974",Argentina,Italy,2020-11-12,2022-11-02,720,84,31,19,34
-Celta Vigo,LaLiga,Spain,Óscar García,"Apr 26, 1973",Spain,,2019-11-04,2020-11-09,371,38,8,17,13
-Celta Vigo,LaLiga,Spain,Fran Escribá,"May 3, 1965",Spain,,2019-03-03,2019-11-03,245,24,6,7,11
-Celta Vigo,LaLiga,Spain,Miguel Cardoso,"May 28, 1972",Portugal,,2018-11-12,2019-03-03,111,15,3,2,10
-Celta Vigo,LaLiga,Spain,Antonio Mohamed,"Apr 2, 1970",Argentina,Mexico,2018-07-01,2018-11-12,134,13,3,6,4
-Celta Vigo,LaLiga,Spain,Juan Carlos Unzué,"Apr 22, 1967",Spain,,2017-07-01,2018-06-30,364,42,15,11,16
-Villarreal,LaLiga,Spain,Quique Setién,"Sep 27, 1958",Spain,,2022-10-26,2023-09-05,314,39,18,6,15
-Villarreal,LaLiga,Spain,Unai Emery,"Nov 3, 1971",Spain,,2020-07-23,2022-10-25,824,129,66,32,31
-Villarreal,LaLiga,Spain,Javier Calleja,"May 12, 1978",Spain,,2019-01-29,2020-07-20,538,66,32,12,22
-Villarreal,LaLiga,Spain,Luis García,"Dec 1, 1972",Spain,,2018-12-10,2019-01-29,50,9,1,5,3
-Villarreal,LaLiga,Spain,Javier Calleja,"May 12, 1978",Spain,,2017-09-25,2018-12-10,441,65,25,18,22
-Getafe,LaLiga,Spain,Quique Sánchez Flores,"Feb 2, 1965",Spain,,2021-10-06,2023-04-27,568,66,18,24,24
-Getafe,LaLiga,Spain,Michel,"Mar 23, 1963",Spain,,2021-07-01,2021-10-04,95,8,0,1,7
-Getafe,LaLiga,Spain,Pepe Bordalás,"Mar 5, 1964",Spain,,2016-09-27,2021-06-30,1737,212,83,60,69
-Alavés,LaLiga,Spain,Luis García,"Dec 1, 1972",Spain,,2022-07-01,,593,78,34,22,22
-Alavés,LaLiga,Spain,Julio Velázquez,"Oct 5, 1981",Spain,,2022-04-05,2022-06-30,86,8,3,0,5
-Alavés,LaLiga,Spain,José Luis Mendilibar,"Mar 14, 1961",Spain,,2021-12-28,2022-04-04,97,12,1,4,7
-Alavés,LaLiga,Spain,Javier Calleja,"May 12, 1978",Spain,,2021-04-05,2021-12-28,267,29,9,6,14
-Alavés,LaLiga,Spain,Abelardo,"Apr 19, 1970",Spain,,2021-01-12,2021-04-05,83,12,1,2,9
-Alavés,LaLiga,Spain,Pablo Machín,"Apr 7, 1975",Spain,,2020-08-05,2021-01-12,160,20,6,6,8
-Alavés,LaLiga,Spain,Juan Muñiz,"Nov 2, 1968",Spain,,2020-07-05,2020-07-20,15,4,1,1,2
-Alavés,LaLiga,Spain,Asier Garitano,"Dec 6, 1969",Spain,,2019-07-01,2020-07-05,370,35,9,8,18
-Alavés,LaLiga,Spain,Abelardo,"Apr 19, 1970",Spain,,2017-12-01,2019-06-30,576,69,28,14,27
-Girona,LaLiga,Spain,Míchel,"Oct 30, 1975",Spain,,2021-07-09,,950,120,60,25,35
-Girona,LaLiga,Spain,Francisco Rodríguez,"Jun 17, 1978",Spain,,2020-07-01,2021-06-30,364,60,30,15,15
-Girona,LaLiga,Spain,Josep Lluís Martí,"Apr 28, 1975",Spain,,2019-10-28,2020-06-30,246,26,11,8,7
-Girona,LaLiga,Spain,Juan Carlos Unzué,"Apr 22, 1967",Spain,,2019-07-01,2019-10-21,112,12,5,1,6
-Girona,LaLiga,Spain,Eusebio,"Apr 13, 1964",Spain,,2018-07-01,2019-06-30,364,44,10,13,21
-Girona,LaLiga,Spain,Pablo Machín,"Apr 7, 1975",Spain,,2014-03-10,2018-06-30,1573,189,84,48,57
-Rayo Vallecano,LaLiga,Spain,Andoni Iraola,"Jun 22, 1982",Spain,,2020-08-06,2023-06-30,1058,136,56,30,50
-Rayo Vallecano,LaLiga,Spain,Paco Jémez,"Apr 18, 1970",Spain,,2019-03-19,2020-07-31,500,56,18,24,14
-Rayo Vallecano,LaLiga,Spain,Míchel,"Oct 30, 1975",Spain,,2017-02-21,2019-03-18,755,89,34,23,32
-Juventus,Serie A,Italy,Massimiliano Allegri,"Aug 11, 1967",Italy,,2021-05-28,,992,134,76,26,32
-Juventus,Serie A,Italy,Andrea Pirlo,"May 19, 1979",Italy,,2020-08-08,2021-05-28,293,52,34,10,8
-Juventus,Serie A,Italy,Maurizio Sarri,"Jan 10, 1959",Italy,,2019-07-01,2020-08-08,404,52,34,8,10
-Juventus,Serie A,Italy,Massimiliano Allegri,"Aug 11, 1967",Italy,,2014-07-16,2019-06-30,1810,271,191,41,39
-Napoli,Serie A,Italy,Luciano Spalletti,"Mar 7, 1959",Italy,,2021-07-01,2023-06-30,729,96,62,16,18
-Napoli,Serie A,Italy,Gennaro Gattuso,"Jan 9, 1978",Italy,,2019-12-11,2021-06-30,567,81,47,12,22
-Napoli,Serie A,Italy,Carlo Ancelotti,"Jun 10, 1959",Italy,,2018-07-01,2019-12-10,527,73,38,19,16
-Napoli,Serie A,Italy,Maurizio Sarri,"Jan 10, 1959",Italy,,2015-06-11,2018-07-13,1128,148,98,25,25
-Milan,Serie A,Italy,Simone Inzaghi,"Apr 5, 1976",Italy,,2021-06-03,,986,141,93,24,24
-Milan,Serie A,Italy,Antonio Conte,"Jul 31, 1969",Italy,,2019-05-31,2021-05-26,726,102,64,23,15
-Milan,Serie A,Italy,Luciano Spalletti,"Mar 7, 1959",Italy,,2017-06-09,2019-05-30,720,90,46,24,20
-Milan,Serie A,Italy,Stefano Pioli,"Oct 20, 1965",Italy,,2019-10-09,,1589,220,123,51,46
-Milan,Serie A,Italy,Marco Giampaolo,"Aug 2, 1967",Italy,,2019-06-19,2019-10-08,111,7,3,0,4
-Milan,Serie A,Italy,Gennaro Gattuso,"Jan 9, 1978",Italy,,2017-11-28,2019-05-28,546,83,41,22,20
-Roma,Serie A,Italy,José Mourinho,"Jan 26, 1963",Portugal,,2021-07-01,2024-01-16,929,138,68,30,40
-Roma,Serie A,Italy,Paulo Fonseca,"Mar 5, 1973",Portugal,Mozambique,2019-07-01,2021-06-30,730,102,53,21,28
-Roma,Serie A,Italy,Claudio Ranieri,"Oct 20, 1951",Italy,,2019-03-08,2019-06-30,114,12,6,4,2
-Roma,Serie A,Italy,Eusebio Di Francesco,"Sep 8, 1969",Italy,,2017-06-13,2019-03-07,632,87,46,18,23
-Atalanta,Serie A,Italy,Gian Piero Gasperini,"Jan 26, 1958",Italy,,2016-06-14,,2801,362,188,85,89
-Fiorentina,Serie A,Italy,Vincenzo Italiano,"Dec 10, 1977",Italy,,2021-07-01,,958,138,69,26,43
-Fiorentina,Serie A,Italy,Giuseppe Iachini,"May 7, 1964",Italy,,2021-03-24,2021-06-30,98,10,2,5,3
-Fiorentina,Serie A,Italy,Cesare Prandelli,"Aug 19, 1957",Italy,,2020-11-09,2021-03-23,134,23,6,6,11
-Fiorentina,Serie A,Italy,Giuseppe Iachini,"May 7, 1964",Italy,,2019-12-23,2020-11-09,322,31,12,10,9
-Fiorentina,Serie A,Italy,Vincenzo Montella,"Jun 18, 1974",Italy,,2019-04-10,2019-12-21,255,27,6,7,14
-Fiorentina,Serie A,Italy,Stefano Pioli,"Oct 20, 1965",Italy,,2017-07-01,2019-04-09,647,74,27,25,22
-Lazio,Serie A,Italy,Maurizio Sarri,"Jan 10, 1959",Italy,,2021-06-09,,980,130,63,30,37
-Lazio,Serie A,Italy,Simone Inzaghi,"Apr 5, 1976",Italy,,2016-07-08,2021-06-02,1790,244,131,43,70
-Sassuolo,Serie A,Italy,Alessio Dionisi,"Apr 1, 1980",Italy,,2021-07-01,,958,105,33,25,47
-Sassuolo,Serie A,Italy,Roberto De Zerbi,"Jun 6, 1979",Italy,,2018-07-01,2021-05-24,1058,120,43,36,41
-Sassuolo,Serie A,Italy,Giuseppe Iachini,"May 7, 1964",Italy,,2017-11-27,2018-06-05,190,26,9,8,9
-Torino,Serie A,Italy,Ivan Juric,"Aug 25, 1975",Croatia,,2021-07-01,,958,107,40,31,36
-Torino,Serie A,Italy,Davide Nicola,"Mar 5, 1973",Italy,,2021-01-19,2021-05-28,129,20,5,9,6
-Torino,Serie A,Italy,Marco Giampaolo,"Aug 2, 1967",Italy,,2020-08-07,2021-01-18,164,21,4,7,10
-Torino,Serie A,Italy,Moreno Longo,"Feb 14, 1976",Italy,,2020-02-04,2020-08-07,185,16,3,4,9
-Torino,Serie A,Italy,Walter Mazzarri,"Oct 1, 1961",Italy,,2018-01-04,2020-02-04,761,90,38,24,28
-Torino,Serie A,Italy,Siniša Mihajlović,"Feb 20, 1969",Serbia,Italy,2016-05-25,2018-01-04,589,64,23,24,17
-Udinese,Serie A,Italy,Andrea Sottil,"Jan 4, 1974",Italy,,2022-06-07,2023-10-24,504,50,13,19,18
-Udinese,Serie A,Italy,Gabriele Cioffi,"Sep 7, 1975",Italy,,2021-12-07,2022-06-07,182,24,9,7,8
-Udinese,Serie A,Italy,Luca Gotti,"Sep 13, 1967",Italy,,2019-11-01,2021-12-07,767,87,25,25,37
-Udinese,Serie A,Italy,Igor Tudor,"Apr 16, 1978",Croatia,,2019-03-20,2019-11-01,226,21,8,4,9
-Udinese,Serie A,Italy,Davide Nicola,"Mar 5, 1973",Italy,,2018-11-13,2019-03-20,127,15,4,4,7
-Udinese,Serie A,Italy,Julio Velázquez,"Oct 5, 1981",Spain,,2018-07-01,2018-11-13,135,13,2,3,8
-Udinese,Serie A,Italy,Igor Tudor,"Apr 16, 1978",Croatia,,2018-04-24,2018-06-30,67,4,2,1,1
-Udinese,Serie A,Italy,Massimo Oddo,"Jun 14, 1976",Italy,,2017-11-21,2018-04-24,154,23,7,3,13
-Genoa,Serie A,Italy,Alberto Gilardino,"Jul 5, 1982",Italy,,2022-12-06,,435,51,24,14,13
-Genoa,Serie A,Italy,Alexander Blessin,"May 28, 1973",Germany,,2022-01-19,2022-12-06,321,33,11,12,10
-Genoa,Serie A,Italy,Andriy Shevchenko,"Sep 29, 1976",Ukraine,,2021-11-07,2022-01-15,69,11,1,3,7
-Genoa,Serie A,Italy,Davide Ballardini,"Jan 6, 1964",Italy,,2020-12-21,2021-11-06,320,39,11,14,14
-Genoa,Serie A,Italy,Rolando Maran,"Jul 14, 1963",Italy,,2020-08-26,2020-12-21,117,15,3,4,8
-Genoa,Serie A,Italy,Davide Nicola,"Mar 5, 1973",Italy,,2019-12-28,2020-08-26,242,22,8,4,10
-Genoa,Serie A,Italy,Thiago Motta,"Aug 28, 1982",Italy,Brazil,2019-10-22,2019-12-28,67,10,2,3,5
-Genoa,Serie A,Italy,Aurelio Andreazzoli,"Nov 5, 1953",Italy,,2019-07-01,2019-10-22,113,9,2,2,5
-Genoa,Serie A,Italy,Cesare Prandelli,"Aug 19, 1957",Italy,,2018-12-07,2019-06-30,205,24,4,11,9
-Genoa,Serie A,Italy,Ivan Juric,"Aug 25, 1975",Croatia,,2018-10-09,2018-12-06,58,8,0,3,5
-Genoa,Serie A,Italy,Davide Ballardini,"Jan 6, 1964",Italy,,2017-11-06,2018-10-09,337,36,16,5,15
-Cagliari,Serie A,Italy,Fabio Liverani,"Apr 29, 1976",Italy,Somalia,2022-07-01,2022-12-20,172,20,6,7,7
-Cagliari,Serie A,Italy,Walter Mazzarri,"Oct 1, 1961",Italy,,2021-09-15,2022-05-02,229,34,7,9,18
-Cagliari,Serie A,Italy,Leonardo Semplici,"Jul 18, 1967",Italy,,2021-02-22,2021-09-14,204,19,7,5,7
-Cagliari,Serie A,Italy,Eusebio Di Francesco,"Sep 8, 1969",Italy,,2020-08-03,2021-02-22,203,26,5,6,15
-Cagliari,Serie A,Italy,Walter Zenga,"Apr 28, 1960",Italy,Romania,2020-03-03,2020-08-02,152,13,3,4,6
-Cagliari,Serie A,Italy,Rolando Maran,"Jul 14, 1963",Italy,,2018-07-01,2020-03-03,611,69,22,19,28
-Cagliari,Serie A,Italy,Diego López,"Aug 22, 1974",Uruguay,Spain,2017-10-18,2018-06-30,255,31,9,6,16
-Bologna,Serie A,Italy,Thiago Motta,"Aug 28, 1982",Italy,Brazil,2022-09-12,,520,61,27,18,16
-Bologna,Serie A,Italy,Siniša Mihajlović,"Feb 20, 1969",Serbia,Italy,2019-01-28,2022-09-06,1317,131,43,35,53
-Bologna,Serie A,Italy,Filippo Inzaghi,"Aug 9, 1973",Italy,,2018-07-01,2019-01-28,211,24,4,8,12
-Bologna,Serie A,Italy,Roberto Donadoni,"Sep 9, 1963",Italy,,2015-10-28,2018-06-30,976,108,33,23,52
-Empoli,Serie A,Italy,Paolo Zanetti,"Dec 16, 1982",Italy,,2022-06-06,2023-09-19,470,44,10,13,21
-Empoli,Serie A,Italy,Aurelio Andreazzoli,"Nov 5, 1953",Italy,,2021-06-21,2022-06-01,345,41,12,11,18
-Empoli,Serie A,Italy,Alessio Dionisi,"Apr 1, 1980",Italy,,2020-08-19,2021-06-15,300,42,22,16,4
-Empoli,Serie A,Italy,Pasquale Marino,"Jul 13, 1962",Italy,,2020-01-26,2020-08-11,198,18,9,4,5
-Empoli,Serie A,Italy,Roberto Muzzi,"Sep 21, 1971",Italy,,2019-11-14,2020-01-26,73,10,1,4,5
-Empoli,Serie A,Italy,Cristian Bucchi,"May 30, 1977",Italy,,2019-06-18,2019-11-12,147,14,6,5,3
-Empoli,Serie A,Italy,Aurelio Andreazzoli,"Nov 5, 1953",Italy,,2019-03-13,2019-06-30,109,11,5,1,5
-Empoli,Serie A,Italy,Giuseppe Iachini,"May 7, 1964",Italy,,2018-11-06,2019-03-13,127,16,4,4,8
-Empoli,Serie A,Italy,Aurelio Andreazzoli,"Nov 5, 1953",Italy,,2017-12-17,2018-11-05,323,35,17,10,8
-Frosinone,Serie A,Italy,Fabio Grosso,"Nov 28, 1977",Italy,,2021-03-23,2023-06-30,829,86,42,24,20
-Frosinone,Serie A,Italy,Alessandro Nesta,"Mar 19, 1976",Italy,,2019-07-01,2021-03-22,630,77,28,23,26
-Frosinone,Serie A,Italy,Marco Baroni,"Sep 11, 1963",Italy,,2018-12-19,2019-06-02,165,22,4,5,13
-Frosinone,Serie A,Italy,Moreno Longo,"Feb 14, 1976",Italy,,2017-06-14,2018-12-19,553,65,22,22,21
-Bayern Munich,Bundesliga,Germany,Julian Nagelsmann,"Jul 23, 1987",Germany,,2021-07-01,2023-03-24,631,84,60,14,10
-Bayern Munich,Bundesliga,Germany,Hansi Flick,"Feb 24, 1965",Germany,,2019-11-03,2021-06-30,605,86,70,8,8
-Bayern Munich,Bundesliga,Germany,Niko Kovac,"Oct 15, 1971",Croatia,,2018-07-01,2019-11-03,490,65,45,12,8
-Bayern Munich,Bundesliga,Germany,Jupp Heynckes,"May 9, 1945",Germany,,2017-10-09,2018-06-30,264,41,33,3,5
-Dortmund,Bundesliga,Germany,Edin Terzic,"Oct 30, 1982",Germany,Croatia,2022-07-01,,593,76,44,17,15
-Dortmund,Bundesliga,Germany,Marco Rose,"Sep 11, 1976",Germany,,2021-07-01,2022-05-20,323,46,27,4,15
-Dortmund,Bundesliga,Germany,Edin Terzic,"Oct 30, 1982",Germany,Croatia,2020-12-29,2021-06-30,183,29,18,4,7
-Dortmund,Bundesliga,Germany,Lucien Favre,"Nov 2, 1957",Switzerland,,2018-07-01,2020-12-13,896,110,68,17,25
-Dortmund,Bundesliga,Germany,Peter Stöger,"Apr 11, 1966",Austria,,2017-12-10,2018-06-30,202,24,10,8,6
-RB Leipzig,Bundesliga,Germany,Marco Rose,"Sep 11, 1976",Germany,,2022-09-08,,524,72,45,9,18
-RB Leipzig,Bundesliga,Germany,Domenico Tedesco,"Sep 12, 1985",Italy,Germany,2021-12-09,2022-09-07,272,38,21,8,9
-RB Leipzig,Bundesliga,Germany,Jesse Marsch,"Nov 8, 1973",United States,,2021-07-01,2021-12-05,157,20,7,4,9
-RB Leipzig,Bundesliga,Germany,Julian Nagelsmann,"Jul 23, 1987",Germany,,2019-07-01,2021-06-30,730,95,54,22,19
-RB Leipzig,Bundesliga,Germany,Ralf Rangnick,"Jun 29, 1958",Germany,,2018-07-09,2019-06-30,356,52,29,13,10
-RB Leipzig,Bundesliga,Germany,Ralph Hasenhüttl,"Aug 9, 1967",Austria,,2016-07-01,2018-05-16,684,83,41,17,25
-Leverkusen,Bundesliga,Germany,Xabi Alonso,"Nov 25, 1981",Spain,,2022-10-05,,497,68,44,14,10
-Leverkusen,Bundesliga,Germany,Gerardo Seoane,"Oct 30, 1978",Switzerland,Spain,2021-07-01,2022-10-05,461,56,26,10,20
-Leverkusen,Bundesliga,Germany,Peter Bosz,"Nov 21, 1963",Netherlands,,2018-12-23,2021-03-23,821,108,59,16,33
-Leverkusen,Bundesliga,Germany,Heiko Herrlich,"Dec 3, 1971",Germany,,2017-07-01,2018-12-23,540,64,32,14,18
-Hoffenheim,Bundesliga,Germany,André Breitenreiter,"Oct 2, 1973",Germany,,2022-07-01,2023-02-06,220,22,7,4,11
-Hoffenheim,Bundesliga,Germany,Sebastian Hoeneß,"May 12, 1982",Germany,,2020-08-02,2022-06-30,697,81,32,19,30
-Hoffenheim,Bundesliga,Germany,Marcel Rapp,"Apr 16, 1979",Germany,,2020-06-25,2020-06-30,5,1,1,0,0
-Hoffenheim,Bundesliga,Germany,Alfred Schreuder,"Nov 2, 1972",Netherlands,,2019-07-01,2020-06-09,344,33,14,7,12
-Hoffenheim,Bundesliga,Germany,Julian Nagelsmann,"Jul 23, 1987",Germany,,2016-02-11,2019-06-30,1235,136,55,43,38
-Eint Frankfurt,Bundesliga,Germany,Oliver Glasner,"Aug 28, 1974",Austria,,2021-07-01,2023-06-30,729,97,39,29,29
-Eint Frankfurt,Bundesliga,Germany,Adi Hütter,"Feb 11, 1970",Austria,,2018-07-01,2021-06-30,1095,141,67,31,43
-Eint Frankfurt,Bundesliga,Germany,Niko Kovac,"Oct 15, 1971",Croatia,,2016-03-08,2018-06-30,844,91,41,17,33
-M'Gladbach,Bundesliga,Germany,Daniel Farke,"Oct 30, 1976",Germany,,2022-07-01,2023-06-02,336,36,12,10,14
-M'Gladbach,Bundesliga,Germany,Adi Hütter,"Feb 11, 1970",Austria,,2021-07-01,2022-06-30,364,37,14,9,14
-M'Gladbach,Bundesliga,Germany,Marco Rose,"Sep 11, 1976",Germany,,2019-07-01,2021-06-30,730,88,41,19,28
-M'Gladbach,Bundesliga,Germany,Dieter Hecking,"Sep 12, 1964",Germany,,2016-12-21,2019-06-30,921,98,43,22,33
-Wolfsburg,Bundesliga,Germany,Niko Kovac,"Oct 15, 1971",Croatia,,2022-07-01,,593,61,23,15,23
-Wolfsburg,Bundesliga,Germany,Florian Kohfeldt,"Oct 5, 1982",Germany,,2021-10-26,2022-05-15,201,28,9,5,14
-Wolfsburg,Bundesliga,Germany,Mark van Bommel,"Apr 22, 1977",Netherlands,,2021-07-01,2021-10-24,115,13,4,3,6
-Wolfsburg,Bundesliga,Germany,Oliver Glasner,"Aug 28, 1974",Austria,,2019-07-01,2021-06-30,730,87,41,22,24
-Wolfsburg,Bundesliga,Germany,Bruno Labbadia,"Feb 8, 1966",Germany,,2018-02-20,2019-06-30,495,50,22,10,18
-Wolfsburg,Bundesliga,Germany,Martin Schmidt,"Apr 12, 1967",Switzerland,,2017-09-18,2018-02-19,154,22,5,11,6
-Werder Bremen,Bundesliga,Germany,Ole Werner,"May 4, 1988",Germany,,2021-11-28,,808,77,31,15,31
-Werder Bremen,Bundesliga,Germany,Markus Anfang,"Jun 12, 1974",Germany,,2021-06-01,2021-11-19,171,14,5,4,5
-Werder Bremen,Bundesliga,Germany,Florian Kohfeldt,"Oct 5, 1982",Germany,,2017-11-10,2021-05-16,1283,142,51,37,54
-Mainz 05,Bundesliga,Germany,Bo Svensson,"Aug 4, 1979",Denmark,,2021-01-04,2023-11-02,1032,104,39,26,39
-Mainz 05,Bundesliga,Germany,Jan-Moritz Lichte,"Jan 12, 1980",Germany,,2020-09-28,2020-12-28,91,12,1,3,8
-Mainz 05,Bundesliga,Germany,Achim Beierlorzer,"Nov 20, 1967",Germany,,2019-11-18,2020-09-28,315,26,9,4,13
-Mainz 05,Bundesliga,Germany,Sandro Schwarz,"Oct 17, 1978",Germany,,2017-07-01,2019-11-10,862,85,27,16,42
-Stuttgart,Bundesliga,Germany,Bruno Labbadia,"Feb 8, 1966",Germany,,2022-12-05,2023-04-03,119,12,2,3,7
-Stuttgart,Bundesliga,Germany,Pellegrino Matarazzo,"Nov 28, 1977",United States,Italy,2019-12-30,2022-10-10,1015,100,31,29,40
-Stuttgart,Bundesliga,Germany,Tim Walter,"Nov 8, 1975",Germany,,2019-07-01,2019-12-23,175,20,11,4,5
-Stuttgart,Bundesliga,Germany,Nico Willig,"Dec 11, 1980",Germany,,2019-05-06,2019-06-30,55,4,1,3,0
-Stuttgart,Bundesliga,Germany,Markus Weinzierl,"Dec 28, 1974",Germany,,2018-10-09,2019-04-20,193,23,4,4,15
-Stuttgart,Bundesliga,Germany,Tayfun Korkut,"Apr 2, 1974",Türkiye,Germany,2018-01-30,2018-10-07,250,22,10,6,6
-Stuttgart,Bundesliga,Germany,Hannes Wolf,"Apr 15, 1981",Germany,,2016-09-21,2018-01-28,494,52,25,8,19
-Augsburg,Bundesliga,Germany,Enrico Maaßen,"Mar 10, 1984",Germany,,2022-07-01,2023-10-09,465,44,11,9,24
-Augsburg,Bundesliga,Germany,Markus Weinzierl,"Dec 28, 1974",Germany,,2021-04-26,2022-06-30,430,38,12,8,18
-Augsburg,Bundesliga,Germany,Heiko Herrlich,"Dec 3, 1971",Germany,,2020-03-10,2021-04-26,412,42,12,9,21
-Augsburg,Bundesliga,Germany,Martin Schmidt,"Apr 12, 1967",Switzerland,,2019-04-09,2020-03-09,335,32,9,7,16
-Augsburg,Bundesliga,Germany,Manuel Baum,"Aug 30, 1979",Germany,,2016-12-28,2019-04-09,832,85,24,23,38
-Freiburg,Bundesliga,Germany,Christian Streich,"Jun 11, 1965",Germany,,2012-01-01,,4427,472,190,118,164
-Saint-Étienne,Ligue 1,France,Christophe Galtier,"Aug 23, 1966",France,,2022-07-05,2023-06-30,360,50,34,6,10
-Saint-Étienne,Ligue 1,France,Mauricio Pochettino,"Mar 2, 1972",Argentina,Spain,2021-01-02,2022-07-05,549,84,56,13,15
-Saint-Étienne,Ligue 1,France,Thomas Tuchel,"Aug 29, 1973",Germany,,2018-07-01,2020-12-29,912,127,96,11,20
-Saint-Étienne,Ligue 1,France,Unai Emery,"Nov 3, 1971",Spain,,2016-07-01,2018-06-30,729,114,87,15,12
-Lyon,Ligue 1,France,Laurent Blanc,"Nov 19, 1965",France,,2022-10-09,2023-09-11,337,37,18,7,12
-Lyon,Ligue 1,France,Peter Bosz,"Nov 21, 1963",Netherlands,,2021-05-29,2022-10-09,498,58,27,16,15
-Lyon,Ligue 1,France,Rudi Garcia,"Feb 20, 1964",France,,2019-10-14,2021-05-24,588,78,44,15,19
-Lyon,Ligue 1,France,Sylvinho,"Apr 12, 1974",Brazil,Spain,2019-07-01,2019-10-07,98,11,3,4,4
-Lyon,Ligue 1,France,Bruno Génésio,"Sep 1, 1966",France,,2015-12-24,2019-06-30,1284,185,101,37,47
-Monaco,Ligue 1,France,Philippe Clement,"Mar 22, 1974",Belgium,,2022-01-03,2023-06-04,517,73,37,15,21
-Monaco,Ligue 1,France,Niko Kovac,"Oct 15, 1971",Croatia,,2020-07-19,2022-01-01,531,74,43,15,16
-Monaco,Ligue 1,France,Robert Moreno,"Sep 19, 1977",Spain,,2019-12-28,2020-07-18,203,13,5,3,5
-Monaco,Ligue 1,France,Leonardo Jardim,"Aug 1, 1974",Portugal,Venezuela,2019-01-27,2019-12-27,334,37,14,10,13
-Monaco,Ligue 1,France,Thierry Henry,"Aug 17, 1977",France,Guadeloupe,2018-10-13,2019-01-24,103,20,5,4,11
-Monaco,Ligue 1,France,Leonardo Jardim,"Aug 1, 1974",Portugal,Venezuela,2014-07-01,2018-10-11,1563,233,127,51,55
-Lille,Ligue 1,France,Paulo Fonseca,"Mar 5, 1973",Portugal,Mozambique,2022-07-01,,593,74,38,21,15
-Lille,Ligue 1,France,Jocelyn Gourvennec,"Mar 22, 1972",France,,2021-07-05,2022-06-16,346,49,19,15,15
-Lille,Ligue 1,France,Christophe Galtier,"Aug 23, 1966",France,,2017-12-29,2021-06-30,1279,152,78,31,43
-Marseille,Ligue 1,France,Igor Tudor,"Apr 16, 1978",Croatia,,2022-07-04,2023-06-30,361,48,27,7,14
-Marseille,Ligue 1,France,Jorge Sampaoli,"Mar 13, 1960",Argentina,,2021-03-08,2022-07-01,480,67,37,16,14
-Marseille,Ligue 1,France,André Villas-Boas,"Oct 17, 1977",Portugal,,2019-07-01,2021-02-02,582,60,29,13,18
-Marseille,Ligue 1,France,Rudi Garcia,"Feb 20, 1964",France,,2016-10-20,2019-06-30,983,142,69,31,42
-Nice,Ligue 1,France,Lucien Favre,"Nov 2, 1957",Switzerland,,2022-07-01,2023-01-09,192,26,8,9,9
-Nice,Ligue 1,France,Christophe Galtier,"Aug 23, 1966",France,,2021-07-01,2022-06-30,364,43,24,7,12
-Nice,Ligue 1,France,Adrian Ursea,"Sep 14, 1967",Romania,,2020-12-04,2021-05-24,171,30,11,5,14
-Nice,Ligue 1,France,Patrick Vieira,"Jun 23, 1976",France,Senegal,2018-07-01,2020-12-04,887,89,35,21,33
-Nice,Ligue 1,France,Lucien Favre,"Nov 2, 1957",Switzerland,,2016-07-01,2018-06-30,729,99,43,23,33
-Rennes,Ligue 1,France,Bruno Génésio,"Sep 1, 1966",France,,2021-03-04,2023-11-19,990,124,63,25,36
-Rennes,Ligue 1,France,Julien Stéphan,"Sep 18, 1980",France,,2018-12-04,2021-03-01,818,110,49,24,37
-Rennes,Ligue 1,France,Sabri Lamouchi,"Nov 9, 1971",France,Tunisia,2017-11-08,2018-12-03,390,50,20,12,18
-Nantes,Ligue 1,France,Antoine Kombouaré,"Nov 16, 1963",France,Neukaledonien,2021-02-11,2023-05-09,817,109,42,28,39
-Nantes,Ligue 1,France,Raymond Domenech,"Jan 24, 1952",France,,2020-12-26,2021-02-10,46,8,0,4,4
-Nantes,Ligue 1,France,Christian Gourcuff,"Apr 5, 1955",France,,2019-08-08,2020-12-08,488,45,16,8,21
-Nantes,Ligue 1,France,Vahid Halilhodzic,"Oct 15, 1952",Bosnia-Herzegovina,France,2018-10-02,2019-08-02,304,37,17,6,14
-Nantes,Ligue 1,France,Miguel Cardoso,"May 28, 1972",Portugal,,2018-06-13,2018-10-02,111,8,1,3,4
-Nantes,Ligue 1,France,Claudio Ranieri,"Oct 20, 1951",Italy,,2017-07-01,2018-05-17,320,40,14,10,16
-Toulouse,Ligue 1,France,Philippe Montanier,"Nov 15, 1964",France,,2021-06-23,2023-06-30,737,87,46,19,22
-Toulouse,Ligue 1,France,Patrice Garande,"Nov 27, 1960",France,,2020-06-22,2021-06-02,345,46,26,10,10
-Toulouse,Ligue 1,France,Antoine Kombouaré,"Nov 16, 1963",France,Neukaledonien,2019-10-14,2020-01-05,83,13,2,0,11
-Toulouse,Ligue 1,France,Alain Casanova,"Sep 18, 1961",France,,2018-06-25,2019-10-10,472,51,12,17,22
-Toulouse,Ligue 1,France,Pascal Dupraz,"Sep 19, 1962",France,,2016-03-01,2018-01-22,692,77,24,22,31
-Montpellier,Ligue 1,France,Romain Pitau,"Aug 8, 1977",France,,2022-10-17,2023-02-07,113,12,2,2,8
-Montpellier,Ligue 1,France,Olivier Dall'Oglio,"May 16, 1964",France,Italy,2021-06-01,2022-10-17,503,52,18,7,27
-Montpellier,Ligue 1,France,Michel Der Zakarian,"Feb 18, 1963",Armenia,France,2017-05-23,2021-05-24,1462,161,63,51,47
-Strasbourg,Ligue 1,France,Julien Stéphan,"Sep 18, 1980",France,,2021-05-28,2023-01-09,591,58,19,20,19
-Strasbourg,Ligue 1,France,Thierry Laurey,"Feb 14, 1964",France,,2016-07-01,2021-05-24,1788,209,81,51,77
-Reims,Ligue 1,France,Will Still,"Oct 14, 1992",Belgium,England,2022-10-13,,489,54,23,13,18
-Reims,Ligue 1,France,Óscar García,"Apr 26, 1973",Spain,,2021-06-23,2022-10-13,477,51,14,18,19
-Reims,Ligue 1,France,Sébastien Desmazeau,"Jul 22, 1973",France,,2018-07-01,2019-03-30,272,1,1,0,0
-Reims,Ligue 1,France,David Guion,"Sep 30, 1967",France,,2017-05-22,2021-05-25,1464,156,66,46,44
+Team,League,Country,HeadCoach,Appointed,EndDate,Tenure,Matches,Wins,Draws,Losses
+Manchester City,Premier League,England,Pep Guardiola,2016-07-01,,2838,461,341,56,64
+Liverpool,Premier League,England,Jürgen Klopp,2015-10-08,2024-06-30,3188,480,300,98,82
+Chelsea,Premier League,England,Graham Potter,2022-09-08,2023-04-02,206,31,12,8,11
+Chelsea,Premier League,England,Thomas Tuchel,2021-01-26,2022-09-07,589,100,63,19,18
+Chelsea,Premier League,England,Frank Lampard,2019-07-04,2021-01-25,571,84,44,15,25
+Chelsea,Premier League,England,Maurizio Sarri,2018-07-14,2019-06-30,351,63,40,11,12
+Chelsea,Premier League,England,Antonio Conte,2016-07-01,2018-07-13,742,106,70,15,21
+Tottenham,Premier League,England,Antonio Conte,2021-11-02,2023-03-26,509,76,41,12,23
+Tottenham,Premier League,England,Nuno Espírito Santo,2021-07-01,2021-11-01,123,17,9,1,7
+Tottenham,Premier League,England,José Mourinho,2019-11-20,2021-04-19,516,86,45,17,24
+Tottenham,Premier League,England,Mauricio Pochettino,2014-07-01,2019-11-19,1967,293,160,60,73
+Manchester Utd,Premier League,England,Erik ten Hag,2022-07-01,,647,105,63,13,29
+Manchester Utd,Premier League,England,Ole Gunnar Solskjær,2019-03-28,2021-11-21,969,149,78,33,38
+Manchester Utd,Premier League,England,José Mourinho,2016-07-01,2018-12-18,900,144,84,31,29
+Arsenal,Premier League,England,Mikel Arteta,2019-12-22,,1569,222,134,33,55
+Arsenal,Premier League,England,Unai Emery,2018-07-01,2019-11-29,516,78,43,15,20
+Arsenal,Premier League,England,Arsène Wenger,1996-10-01,2018-06-30,7942,1234,715,267,252
+Everton,Premier League,England,Frank Lampard,2022-01-31,2023-01-23,357,44,12,8,24
+Everton,Premier League,England,Rafael Benítez,2021-07-01,2022-01-16,199,22,7,4,11
+Everton,Premier League,England,Carlo Ancelotti,2019-12-22,2021-06-30,556,67,31,14,22
+Everton,Premier League,England,Marco Silva,2018-05-31,2019-12-05,553,60,24,11,25
+Everton,Premier League,England,Sam Allardyce,2017-11-30,2018-05-16,167,26,10,7,9
+West Ham,Premier League,England,David Moyes,2019-12-29,,1562,222,102,41,79
+West Ham,Premier League,England,Manuel Pellegrini,2018-07-01,2019-12-28,545,64,24,11,29
+West Ham,Premier League,England,David Moyes,2017-11-07,2018-05-16,190,31,9,10,12
+Bournemouth,Premier League,England,Gary O'Neil,2022-11-28,2023-06-19,203,25,7,2,16
+Bournemouth,Premier League,England,Scott Parker,2021-07-01,2022-08-30,425,55,29,13,13
+Bournemouth,Premier League,England,Jonathan Woodgate,2021-02-04,2021-06-30,146,23,13,2,8
+Bournemouth,Premier League,England,Jason Tindall,2020-08-08,2021-02-03,179,31,14,9,8
+Bournemouth,Premier League,England,Eddie Howe,2012-10-14,2020-08-01,2848,355,144,75,136
+Wolves,Premier League,England,Julen Lopetegui,2022-11-14,2023-08-08,267,27,10,5,12
+Wolves,Premier League,England,Bruno Lage,2021-07-01,2022-10-02,458,51,19,9,23
+Wolves,Premier League,England,Nuno Espírito Santo,2017-07-01,2021-06-30,1460,199,96,46,57
+Crystal Palace,Premier League,England,Patrick Vieira,2021-07-04,2023-03-17,621,74,22,24,28
+Crystal Palace,Premier League,England,Roy Hodgson,2017-09-12,2021-06-30,1387,162,54,36,72
+Fulham,Premier League,England,Marco Silva,2021-07-01,,1012,134,63,24,47
+Fulham,Premier League,England,Scott Parker,2019-02-28,2021-06-30,853,105,37,25,43
+Fulham,Premier League,England,Claudio Ranieri,2018-11-14,2019-02-28,106,17,3,3,11
+Fulham,Premier League,England,Slavisa Jokanovic,2015-12-27,2018-11-14,1053,144,63,36,45
+Newcastle Utd,Premier League,England,Eddie Howe,2021-11-08,,882,118,58,26,34
+Newcastle Utd,Premier League,England,Steve Bruce,2019-07-17,2021-10-20,826,97,29,25,43
+Newcastle Utd,Premier League,England,Rafael Benítez,2016-03-11,2019-06-30,1206,146,62,30,54
+Burnley,Premier League,England,Vincent Kompany,2022-07-01,,647,90,40,22,28
+Burnley,Premier League,England,Sean Dyche,2012-10-30,2022-04-15,3454,425,152,114,159
+Brighton,Premier League,England,Roberto De Zerbi,2022-09-18,,568,82,37,18,27
+Brighton,Premier League,England,Graham Potter,2019-05-20,2022-09-07,1206,134,43,43,48
+Brighton,Premier League,England,Chris Hughton,2014-12-31,2019-05-13,1594,215,89,56,70
+Barcelona,LaLiga,Spain,Xavi,2021-11-06,2024-06-30,967,133,84,23,26
+Barcelona,LaLiga,Spain,Ronald Koeman,2020-08-19,2021-10-28,435,67,40,11,16
+Barcelona,LaLiga,Spain,Quique Setién,2020-01-13,2020-08-17,217,25,16,4,5
+Barcelona,LaLiga,Spain,Ernesto Valverde,2017-07-01,2020-01-13,926,145,97,32,16
+Real Madrid,LaLiga,Spain,Diego Simeone,2011-12-23,,4490,671,396,148,127
+Real Madrid,LaLiga,Spain,Carlo Ancelotti,2021-07-01,,1012,160,113,24,23
+Real Madrid,LaLiga,Spain,Zinédine Zidane,2019-03-11,2021-06-30,842,114,69,25,20
+Real Madrid,LaLiga,Spain,Santiago Solari,2018-11-13,2019-03-11,118,28,18,2,8
+Real Madrid,LaLiga,Spain,Julen Lopetegui,2018-07-01,2018-10-29,120,14,6,2,6
+Real Madrid,LaLiga,Spain,Zinédine Zidane,2016-01-04,2018-05-31,878,149,105,28,16
+Valencia,LaLiga,Spain,Gennaro Gattuso,2022-07-01,2023-01-30,213,22,7,5,10
+Valencia,LaLiga,Spain,Pepe Bordalás,2021-07-01,2022-06-03,337,46,17,16,13
+Valencia,LaLiga,Spain,Javi Gracia,2020-07-27,2021-05-03,280,38,11,12,15
+Valencia,LaLiga,Spain,Albert Celades,2019-09-11,2020-06-29,292,41,16,11,14
+Valencia,LaLiga,Spain,Marcelino,2017-07-01,2019-09-11,802,110,56,29,25
+Sevilla,LaLiga,Spain,Jorge Sampaoli,2022-10-06,2023-03-20,165,31,13,6,12
+Sevilla,LaLiga,Spain,Julen Lopetegui,2019-07-01,2022-10-06,1193,170,90,44,36
+Sevilla,LaLiga,Spain,Joaquín Caparrós,2019-03-15,2019-06-30,107,11,6,1,4
+Sevilla,LaLiga,Spain,Pablo Machín,2018-07-01,2019-03-15,257,50,26,9,15
+Sevilla,LaLiga,Spain,Vincenzo Montella,2017-12-30,2018-04-28,119,28,11,7,10
+Real Sociedad,LaLiga,Spain,Imanol Alguacil,2018-12-27,,1929,266,127,70,69
+Real Sociedad,LaLiga,Spain,Asier Garitano,2018-07-01,2018-12-26,178,19,6,5,8
+Real Sociedad,LaLiga,Spain,Imanol Alguacil,2018-03-19,2018-06-30,103,9,5,1,3
+Real Sociedad,LaLiga,Spain,Eusebio,2015-11-09,2018-03-18,860,112,46,23,43
+Betis,LaLiga,Spain,Manuel Pellegrini,2020-08-01,,1346,189,89,45,55
+Betis,LaLiga,Spain,Rubi,2019-07-01,2020-06-21,356,33,10,10,13
+Betis,LaLiga,Spain,Quique Setién,2017-07-01,2019-06-30,729,94,39,22,33
+Athletic Club,LaLiga,Spain,Ernesto Valverde,2022-07-01,,647,83,43,18,22
+Athletic Club,LaLiga,Spain,Marcelino,2021-01-04,2022-06-30,542,75,29,25,21
+Athletic Club,LaLiga,Spain,Gaizka Garitano,2018-12-05,2021-01-03,760,89,39,21,29
+Athletic Club,LaLiga,Spain,Eduardo Berizzo,2018-07-01,2018-12-04,156,15,2,8,5
+Athletic Club,LaLiga,Spain,Cuco Ziganda,2017-07-01,2018-06-30,364,54,17,17,20
+Celta Vigo,LaLiga,Spain,Carlos Carvalhal,2022-11-02,2023-06-30,240,29,10,8,11
+Celta Vigo,LaLiga,Spain,Eduardo Coudet,2020-11-12,2022-11-02,720,84,31,19,34
+Celta Vigo,LaLiga,Spain,Óscar García,2019-11-04,2020-11-09,371,38,8,17,13
+Celta Vigo,LaLiga,Spain,Fran Escribá,2019-03-03,2019-11-03,245,24,6,7,11
+Celta Vigo,LaLiga,Spain,Miguel Cardoso,2018-11-12,2019-03-03,111,15,3,2,10
+Celta Vigo,LaLiga,Spain,Antonio Mohamed,2018-07-01,2018-11-12,134,13,3,6,4
+Celta Vigo,LaLiga,Spain,Juan Carlos Unzué,2017-07-01,2018-06-30,364,42,15,11,16
+Villarreal,LaLiga,Spain,Quique Setién,2022-10-26,2023-09-05,314,39,18,6,15
+Villarreal,LaLiga,Spain,Unai Emery,2020-07-23,2022-10-25,824,129,66,32,31
+Villarreal,LaLiga,Spain,Javier Calleja,2019-01-29,2020-07-20,538,66,32,12,22
+Villarreal,LaLiga,Spain,Luis García,2018-12-10,2019-01-29,50,9,1,5,3
+Villarreal,LaLiga,Spain,Javier Calleja,2017-09-25,2018-12-10,441,65,25,18,22
+Getafe,LaLiga,Spain,Quique Sánchez Flores,2021-10-06,2023-04-27,568,66,18,24,24
+Getafe,LaLiga,Spain,Michel,2021-07-01,2021-10-04,95,8,0,1,7
+Getafe,LaLiga,Spain,Pepe Bordalás,2016-09-27,2021-06-30,1737,212,83,60,69
+Empoli,LaLiga,Spain,Luis García,2022-07-01,,647,84,35,24,25
+Empoli,LaLiga,Spain,Julio Velázquez,2022-04-05,2022-06-30,86,8,3,0,5
+Empoli,LaLiga,Spain,José Luis Mendilibar,2021-12-28,2022-04-04,97,12,1,4,7
+Empoli,LaLiga,Spain,Javier Calleja,2021-04-05,2021-12-28,267,29,9,6,14
+Empoli,LaLiga,Spain,Abelardo,2021-01-12,2021-04-05,83,12,1,2,9
+Empoli,LaLiga,Spain,Pablo Machín,2020-08-05,2021-01-12,160,20,6,6,8
+Empoli,LaLiga,Spain,Juan Muñiz,2020-07-05,2020-07-20,15,4,1,1,2
+Empoli,LaLiga,Spain,Asier Garitano,2019-07-01,2020-07-05,370,35,9,8,18
+Empoli,LaLiga,Spain,Abelardo,2017-12-01,2019-06-30,576,69,28,14,27
+Girona,LaLiga,Spain,Míchel,2021-07-09,,1004,125,63,24,38
+Girona,LaLiga,Spain,Francisco Rodríguez,2020-07-01,2021-06-30,364,60,30,15,15
+Girona,LaLiga,Spain,Josep Lluís Martí,2019-10-28,2020-06-30,246,26,11,8,7
+Girona,LaLiga,Spain,Juan Carlos Unzué,2019-07-01,2019-10-21,112,12,5,1,6
+Girona,LaLiga,Spain,Eusebio,2018-07-01,2019-06-30,364,44,10,13,21
+Girona,LaLiga,Spain,Pablo Machín,2014-03-10,2018-06-30,1573,189,84,48,57
+Rayo Vallecano,LaLiga,Spain,Andoni Iraola,2020-08-06,2023-06-30,1058,136,56,30,50
+Rayo Vallecano,LaLiga,Spain,Paco Jémez,2019-03-19,2020-07-31,500,56,18,24,14
+Rayo Vallecano,LaLiga,Spain,Míchel,2017-02-21,2019-03-18,755,89,34,23,32
+Juventus,Serie A,Italy,Massimiliano Allegri,2021-05-28,,1046,142,79,29,34
+Juventus,Serie A,Italy,Andrea Pirlo,2020-08-08,2021-05-28,293,52,34,10,8
+Juventus,Serie A,Italy,Maurizio Sarri,2019-07-01,2020-08-08,404,52,34,8,10
+Juventus,Serie A,Italy,Massimiliano Allegri,2014-07-16,2019-06-30,1810,271,191,41,39
+Napoli,Serie A,Italy,Luciano Spalletti,2021-07-01,2023-06-30,729,96,62,16,18
+Napoli,Serie A,Italy,Gennaro Gattuso,2019-12-11,2021-06-30,567,81,47,12,22
+Napoli,Serie A,Italy,Carlo Ancelotti,2018-07-01,2019-12-10,527,73,38,19,16
+Milan,Serie A,Italy,Simone Inzaghi,2021-06-03,,1040,150,100,25,25
+Milan,Serie A,Italy,Antonio Conte,2019-05-31,2021-05-26,726,102,64,23,15
+Milan,Serie A,Italy,Luciano Spalletti,2017-06-09,2019-05-30,720,90,46,24,20
+Milan,Serie A,Italy,Stefano Pioli,2019-10-09,,1643,231,131,52,48
+Milan,Serie A,Italy,Marco Giampaolo,2019-06-19,2019-10-08,111,7,3,0,4
+Milan,Serie A,Italy,Gennaro Gattuso,2017-11-28,2019-05-28,546,83,41,22,20
+Roma,Serie A,Italy,José Mourinho,2021-07-01,2024-01-16,929,138,68,30,40
+Roma,Serie A,Italy,Paulo Fonseca,2019-07-01,2021-06-30,730,102,53,21,28
+Roma,Serie A,Italy,Claudio Ranieri,2019-03-08,2019-06-30,114,12,6,4,2
+Roma,Serie A,Italy,Eusebio Di Francesco,2017-06-13,2019-03-07,632,87,46,18,23
+Atalanta,Serie A,Italy,Gian Piero Gasperini,2016-06-14,,2855,372,191,88,93
+Fiorentina,Serie A,Italy,Vincenzo Italiano,2021-07-01,,1012,148,72,30,46
+Fiorentina,Serie A,Italy,Giuseppe Iachini,2021-03-24,2021-06-30,98,10,2,5,3
+Fiorentina,Serie A,Italy,Cesare Prandelli,2020-11-09,2021-03-23,134,23,6,6,11
+Fiorentina,Serie A,Italy,Giuseppe Iachini,2019-12-23,2020-11-09,322,31,12,10,9
+Fiorentina,Serie A,Italy,Vincenzo Montella,2019-04-10,2019-12-21,255,27,6,7,14
+Fiorentina,Serie A,Italy,Stefano Pioli,2017-07-01,2019-04-09,647,74,27,25,22
+Lazio,Serie A,Italy,Maurizio Sarri,2021-06-09,2024-03-13,1008,137,65,30,42
+Lazio,Serie A,Italy,Simone Inzaghi,2016-07-08,2021-06-02,1790,244,131,43,70
+Sassuolo,Serie A,Italy,Alessio Dionisi,2021-07-01,2024-02-25,969,107,33,25,49
+Sassuolo,Serie A,Italy,Roberto De Zerbi,2018-07-01,2021-05-24,1058,120,43,36,41
+Sassuolo,Serie A,Italy,Giuseppe Iachini,2017-11-27,2018-06-05,190,26,9,8,9
+Torino,Serie A,Italy,Ivan Juric,2021-07-01,,1012,115,43,33,39
+Torino,Serie A,Italy,Davide Nicola,2021-01-19,2021-05-28,129,20,5,9,6
+Torino,Serie A,Italy,Marco Giampaolo,2020-08-07,2021-01-18,164,21,4,7,10
+Torino,Serie A,Italy,Moreno Longo,2020-02-04,2020-08-07,185,16,3,4,9
+Torino,Serie A,Italy,Walter Mazzarri,2018-01-04,2020-02-04,761,90,38,24,28
+Torino,Serie A,Italy,Siniša Mihajlović,2016-05-25,2018-01-04,589,64,23,24,17
+Udinese,Serie A,Italy,Andrea Sottil,2022-06-07,2023-10-24,504,50,13,19,18
+Udinese,Serie A,Italy,Gabriele Cioffi,2021-12-07,2022-06-07,182,24,9,7,8
+Udinese,Serie A,Italy,Luca Gotti,2019-11-01,2021-12-07,767,87,25,25,37
+Udinese,Serie A,Italy,Igor Tudor,2019-03-20,2019-11-01,226,21,8,4,9
+Udinese,Serie A,Italy,Davide Nicola,2018-11-13,2019-03-20,127,15,4,4,7
+Udinese,Serie A,Italy,Julio Velázquez,2018-07-01,2018-11-13,135,13,2,3,8
+Udinese,Serie A,Italy,Igor Tudor,2018-04-24,2018-06-30,67,4,2,1,1
+Udinese,Serie A,Italy,Massimo Oddo,2017-11-21,2018-04-24,154,23,7,3,13
+Genoa,Serie A,Italy,Alberto Gilardino,2022-12-06,,489,58,26,17,15
+Genoa,Serie A,Italy,Alexander Blessin,2022-01-19,2022-12-06,321,33,11,12,10
+Genoa,Serie A,Italy,Andriy Shevchenko,2021-11-07,2022-01-15,69,11,1,3,7
+Genoa,Serie A,Italy,Davide Ballardini,2020-12-21,2021-11-06,320,39,11,14,14
+Genoa,Serie A,Italy,Rolando Maran,2020-08-26,2020-12-21,117,15,3,4,8
+Genoa,Serie A,Italy,Davide Nicola,2019-12-28,2020-08-26,242,22,8,4,10
+Genoa,Serie A,Italy,Thiago Motta,2019-10-22,2019-12-28,67,10,2,3,5
+Genoa,Serie A,Italy,Aurelio Andreazzoli,2019-07-01,2019-10-22,113,9,2,2,5
+Genoa,Serie A,Italy,Cesare Prandelli,2018-12-07,2019-06-30,205,24,4,11,9
+Genoa,Serie A,Italy,Ivan Juric,2018-10-09,2018-12-06,58,8,0,3,5
+Genoa,Serie A,Italy,Davide Ballardini,2017-11-06,2018-10-09,337,36,16,5,15
+Cagliari,Serie A,Italy,Fabio Liverani,2022-07-01,2022-12-20,172,20,6,7,7
+Cagliari,Serie A,Italy,Walter Mazzarri,2021-09-15,2022-05-02,229,34,7,9,18
+Cagliari,Serie A,Italy,Leonardo Semplici,2021-02-22,2021-09-14,204,19,7,5,7
+Cagliari,Serie A,Italy,Eusebio Di Francesco,2020-08-03,2021-02-22,203,26,5,6,15
+Cagliari,Serie A,Italy,Walter Zenga,2020-03-03,2020-08-02,152,13,3,4,6
+Cagliari,Serie A,Italy,Rolando Maran,2018-07-01,2020-03-03,611,69,22,19,28
+Cagliari,Serie A,Italy,Diego López,2017-10-18,2018-06-30,255,31,9,6,16
+Bologna,Serie A,Italy,Thiago Motta,2022-09-12,,574,69,33,19,17
+Bologna,Serie A,Italy,Siniša Mihajlović,2019-01-28,2022-09-06,1317,131,43,35,53
+Bologna,Serie A,Italy,Filippo Inzaghi,2018-07-01,2019-01-28,211,24,4,8,12
+Bologna,Serie A,Italy,Roberto Donadoni,2015-10-28,2018-06-30,976,108,33,23,52
+Empoli,Serie A,Italy,Paolo Zanetti,2022-06-06,2023-09-19,470,44,10,13,21
+Empoli,Serie A,Italy,Aurelio Andreazzoli,2021-06-21,2022-06-01,345,41,12,11,18
+Empoli,Serie A,Italy,Alessio Dionisi,2020-08-19,2021-06-15,300,42,22,16,4
+Empoli,Serie A,Italy,Pasquale Marino,2020-01-26,2020-08-11,198,18,9,4,5
+Empoli,Serie A,Italy,Roberto Muzzi,2019-11-14,2020-01-26,73,10,1,4,5
+Empoli,Serie A,Italy,Cristian Bucchi,2019-06-18,2019-11-12,147,14,6,5,3
+Empoli,Serie A,Italy,Giuseppe Iachini,2018-11-06,2019-03-13,127,16,4,4,8
+Empoli,Serie A,Italy,Aurelio Andreazzoli,2017-12-17,2018-11-05,323,35,17,10,8
+Frosinone,Serie A,Italy,Fabio Grosso,2021-03-23,2023-06-30,829,86,42,24,20
+Frosinone,Serie A,Italy,Alessandro Nesta,2019-07-01,2021-03-22,630,77,28,23,26
+Frosinone,Serie A,Italy,Marco Baroni,2018-12-19,2019-06-02,165,22,4,5,13
+Frosinone,Serie A,Italy,Moreno Longo,2017-06-14,2018-12-19,553,65,22,22,21
+Bayern Munich,Bundesliga,Germany,Julian Nagelsmann,2021-07-01,2023-03-24,631,84,60,14,10
+Bayern Munich,Bundesliga,Germany,Hansi Flick,2019-11-03,2021-06-30,605,86,70,8,8
+Bayern Munich,Bundesliga,Germany,Niko Kovac,2018-07-01,2019-11-03,490,65,45,12,8
+Bayern Munich,Bundesliga,Germany,Jupp Heynckes,2017-10-09,2018-06-30,264,41,33,3,5
+Dortmund,Bundesliga,Germany,Edin Terzic,2022-07-01,,647,85,49,19,17
+Dortmund,Bundesliga,Germany,Marco Rose,2021-07-01,2022-05-20,323,46,27,4,15
+Dortmund,Bundesliga,Germany,Edin Terzic,2020-12-29,2021-06-30,183,29,18,4,7
+Dortmund,Bundesliga,Germany,Lucien Favre,2018-07-01,2020-12-13,896,110,68,17,25
+Dortmund,Bundesliga,Germany,Peter Stöger,2017-12-10,2018-06-30,202,24,10,8,6
+RB Leipzig,Bundesliga,Germany,Marco Rose,2022-09-08,,578,80,50,11,19
+RB Leipzig,Bundesliga,Germany,Domenico Tedesco,2021-12-09,2022-09-07,272,38,21,8,9
+RB Leipzig,Bundesliga,Germany,Jesse Marsch,2021-07-01,2021-12-05,157,20,7,4,9
+RB Leipzig,Bundesliga,Germany,Julian Nagelsmann,2019-07-01,2021-06-30,730,95,54,22,19
+RB Leipzig,Bundesliga,Germany,Ralf Rangnick,2018-07-09,2019-06-30,356,52,29,13,10
+RB Leipzig,Bundesliga,Germany,Ralph Hasenhüttl,2016-07-01,2018-05-16,684,83,41,17,25
+Leverkusen,Bundesliga,Germany,Xabi Alonso,2022-10-05,,551,78,53,15,10
+Leverkusen,Bundesliga,Germany,Gerardo Seoane,2021-07-01,2022-10-05,461,56,26,10,20
+Leverkusen,Bundesliga,Germany,Peter Bosz,2018-12-23,2021-03-23,821,108,59,16,33
+Leverkusen,Bundesliga,Germany,Heiko Herrlich,2017-07-01,2018-12-23,540,64,32,14,18
+Hoffenheim,Bundesliga,Germany,André Breitenreiter,2022-07-01,2023-02-06,220,22,7,4,11
+Hoffenheim,Bundesliga,Germany,Sebastian Hoeneß,2020-08-02,2022-06-30,697,81,32,19,30
+Hoffenheim,Bundesliga,Germany,Marcel Rapp,2020-06-25,2020-06-30,5,1,1,0,0
+Hoffenheim,Bundesliga,Germany,Alfred Schreuder,2019-07-01,2020-06-09,344,33,14,7,12
+Hoffenheim,Bundesliga,Germany,Julian Nagelsmann,2016-02-11,2019-06-30,1235,136,55,43,38
+Eint Frankfurt,Bundesliga,Germany,Oliver Glasner,2021-07-01,2023-06-30,729,97,39,29,29
+Eint Frankfurt,Bundesliga,Germany,Adi Hütter,2018-07-01,2021-06-30,1095,141,67,31,43
+Eint Frankfurt,Bundesliga,Germany,Niko Kovac,2016-03-08,2018-06-30,844,91,41,17,33
+M'Gladbach,Bundesliga,Germany,Daniel Farke,2022-07-01,2023-06-02,336,36,12,10,14
+M'Gladbach,Bundesliga,Germany,Adi Hütter,2021-07-01,2022-06-30,364,37,14,9,14
+M'Gladbach,Bundesliga,Germany,Marco Rose,2019-07-01,2021-06-30,730,88,41,19,28
+M'Gladbach,Bundesliga,Germany,Dieter Hecking,2016-12-21,2019-06-30,921,98,43,22,33
+Wolfsburg,Bundesliga,Germany,Niko Kovac,2022-07-01,2024-03-17,625,66,23,17,26
+Wolfsburg,Bundesliga,Germany,Florian Kohfeldt,2021-10-26,2022-05-15,201,28,9,5,14
+Wolfsburg,Bundesliga,Germany,Mark van Bommel,2021-07-01,2021-10-24,115,13,4,3,6
+Wolfsburg,Bundesliga,Germany,Oliver Glasner,2019-07-01,2021-06-30,730,87,41,22,24
+Wolfsburg,Bundesliga,Germany,Bruno Labbadia,2018-02-20,2019-06-30,495,50,22,10,18
+Wolfsburg,Bundesliga,Germany,Martin Schmidt,2017-09-18,2018-02-19,154,22,5,11,6
+Werder Bremen,Bundesliga,Germany,Ole Werner,2021-11-28,,862,84,32,17,35
+Werder Bremen,Bundesliga,Germany,Markus Anfang,2021-06-01,2021-11-19,171,14,5,4,5
+Werder Bremen,Bundesliga,Germany,Florian Kohfeldt,2017-11-10,2021-05-16,1283,142,51,37,54
+Mainz 05,Bundesliga,Germany,Bo Svensson,2021-01-04,2023-11-02,1032,104,39,26,39
+Mainz 05,Bundesliga,Germany,Jan-Moritz Lichte,2020-09-28,2020-12-28,91,12,1,3,8
+Mainz 05,Bundesliga,Germany,Achim Beierlorzer,2019-11-18,2020-09-28,315,26,9,4,13
+Mainz 05,Bundesliga,Germany,Sandro Schwarz,2017-07-01,2019-11-10,862,85,27,16,42
+Stuttgart,Bundesliga,Germany,Bruno Labbadia,2022-12-05,2023-04-03,119,12,2,3,7
+Stuttgart,Bundesliga,Germany,Pellegrino Matarazzo,2019-12-30,2022-10-10,1015,100,31,29,40
+Stuttgart,Bundesliga,Germany,Tim Walter,2019-07-01,2019-12-23,175,20,11,4,5
+Stuttgart,Bundesliga,Germany,Nico Willig,2019-05-06,2019-06-30,55,4,1,3,0
+Stuttgart,Bundesliga,Germany,Markus Weinzierl,2018-10-09,2019-04-20,193,23,4,4,15
+Stuttgart,Bundesliga,Germany,Tayfun Korkut,2018-01-30,2018-10-07,250,22,10,6,6
+Stuttgart,Bundesliga,Germany,Hannes Wolf,2016-09-21,2018-01-28,494,52,25,8,19
+Augsburg,Bundesliga,Germany,Enrico Maaßen,2022-07-01,2023-10-09,465,44,11,9,24
+Augsburg,Bundesliga,Germany,Markus Weinzierl,2021-04-26,2022-06-30,430,38,12,8,18
+Augsburg,Bundesliga,Germany,Heiko Herrlich,2020-03-10,2021-04-26,412,42,12,9,21
+Augsburg,Bundesliga,Germany,Martin Schmidt,2019-04-09,2020-03-09,335,32,9,7,16
+Augsburg,Bundesliga,Germany,Manuel Baum,2016-12-28,2019-04-09,832,85,24,23,38
+Freiburg,Bundesliga,Germany,Christian Streich,2011-12-29,2024-06-30,4567,483,194,121,168
+Paris S-G,Ligue 1,France,Christophe Galtier,2022-07-05,2023-06-30,360,50,34,6,10
+Paris S-G,Ligue 1,France,Mauricio Pochettino,2021-01-02,2022-07-05,549,84,56,13,15
+Paris S-G,Ligue 1,France,Thomas Tuchel,2018-07-01,2020-12-29,912,127,96,11,20
+Paris S-G,Ligue 1,France,Unai Emery,2016-07-01,2018-06-30,729,114,87,15,12
+Lyon,Ligue 1,France,Laurent Blanc,2022-10-09,2023-09-11,337,37,18,7,12
+Lyon,Ligue 1,France,Peter Bosz,2021-05-29,2022-10-09,498,58,27,16,15
+Lyon,Ligue 1,France,Rudi Garcia,2019-10-14,2021-05-24,588,78,44,15,19
+Lyon,Ligue 1,France,Sylvinho,2019-07-01,2019-10-07,98,11,3,4,4
+Lyon,Ligue 1,France,Bruno Génésio,2015-12-24,2019-06-30,1284,185,101,37,47
+Monaco,Ligue 1,France,Philippe Clement,2022-01-03,2023-06-04,517,73,37,15,21
+Monaco,Ligue 1,France,Niko Kovac,2020-07-19,2022-01-01,531,74,43,15,16
+Monaco,Ligue 1,France,Robert Moreno,2019-12-28,2020-07-18,203,13,5,3,5
+Monaco,Ligue 1,France,Leonardo Jardim,2019-01-27,2019-12-27,334,37,14,10,13
+Monaco,Ligue 1,France,Thierry Henry,2018-10-13,2019-01-24,103,20,5,4,11
+Monaco,Ligue 1,France,Leonardo Jardim,2014-07-01,2018-10-11,1563,233,127,51,55
+Lille,Ligue 1,France,Paulo Fonseca,2022-07-01,,647,82,42,24,16
+Lille,Ligue 1,France,Jocelyn Gourvennec,2021-07-05,2022-06-16,346,49,19,15,15
+Lille,Ligue 1,France,Christophe Galtier,2017-12-29,2021-06-30,1279,152,78,31,43
+Marseille,Ligue 1,France,Igor Tudor,2022-07-04,2023-06-30,361,48,27,7,14
+Marseille,Ligue 1,France,Jorge Sampaoli,2021-03-08,2022-07-01,480,67,37,16,14
+Marseille,Ligue 1,France,André Villas-Boas,2019-07-01,2021-02-02,582,60,29,13,18
+Marseille,Ligue 1,France,Rudi Garcia,2016-10-20,2019-06-30,983,142,69,31,42
+Nice,Ligue 1,France,Lucien Favre,2022-07-01,2023-01-09,192,26,8,9,9
+Nice,Ligue 1,France,Christophe Galtier,2021-07-01,2022-06-30,364,43,24,7,12
+Nice,Ligue 1,France,Adrian Ursea,2020-12-04,2021-05-24,171,30,11,5,14
+Nice,Ligue 1,France,Patrick Vieira,2018-07-01,2020-12-04,887,89,35,21,33
+Nice,Ligue 1,France,Lucien Favre,2016-07-01,2018-06-30,729,99,43,23,33
+Rennes,Ligue 1,France,Bruno Génésio,2021-03-04,2023-11-19,990,124,63,25,36
+Rennes,Ligue 1,France,Julien Stéphan,2018-12-04,2021-03-01,818,110,49,24,37
+Rennes,Ligue 1,France,Sabri Lamouchi,2017-11-08,2018-12-03,390,50,20,12,18
+Nantes,Ligue 1,France,Antoine Kombouaré,2021-02-11,2023-05-09,817,109,42,28,39
+Nantes,Ligue 1,France,Raymond Domenech,2020-12-26,2021-02-10,46,8,0,4,4
+Nantes,Ligue 1,France,Christian Gourcuff,2019-08-08,2020-12-08,488,45,16,8,21
+Nantes,Ligue 1,France,Vahid Halilhodzic,2018-10-02,2019-08-02,304,37,17,6,14
+Nantes,Ligue 1,France,Miguel Cardoso,2018-06-13,2018-10-02,111,8,1,3,4
+Nantes,Ligue 1,France,Claudio Ranieri,2017-07-01,2018-05-17,320,40,14,10,16
+Toulouse,Ligue 1,France,Philippe Montanier,2021-06-23,2023-06-30,737,87,46,19,22
+Toulouse,Ligue 1,France,Patrice Garande,2020-06-22,2021-06-02,345,46,26,10,10
+Toulouse,Ligue 1,France,Antoine Kombouaré,2019-10-14,2020-01-05,83,13,2,0,11
+Toulouse,Ligue 1,France,Alain Casanova,2018-06-25,2019-10-10,472,51,12,17,22
+Toulouse,Ligue 1,France,Pascal Dupraz,2016-03-01,2018-01-22,692,77,24,22,31
+Montpellier,Ligue 1,France,Romain Pitau,2022-10-17,2023-02-07,113,12,2,2,8
+Montpellier,Ligue 1,France,Olivier Dall'Oglio,2021-06-01,2022-10-17,503,52,18,7,27
+Montpellier,Ligue 1,France,Michel Der Zakarian,2017-05-23,2021-05-24,1462,161,63,51,47
+Strasbourg,Ligue 1,France,Julien Stéphan,2021-05-28,2023-01-09,591,58,19,20,19
+Strasbourg,Ligue 1,France,Thierry Laurey,2016-07-01,2021-05-24,1788,209,81,51,77
+Reims,Ligue 1,France,Will Still,2022-10-13,,543,62,26,17,19
+Reims,Ligue 1,France,Óscar García,2021-06-23,2022-10-13,477,51,14,18,19

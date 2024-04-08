@@ -20,8 +20,6 @@ root: Paper.md
 chapters:
   - file: ./src/00 Data extraction
   - file: ./src/01 Preprocessing
-  - file: ./src/02 Headcoach analysis
-  - file: ./src/03 Match results analysis
+  - file: ./src/02 Exploratory data analysis
+  - file: ./src/03 Headcoach analysis
   - file: ./src/04 Statistical analysis
-  # - file: ./src/06 - Extending EDA
-  # - file: ./src/07 - More preprocessing
