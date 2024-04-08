@@ -2,6 +2,7 @@
 title: Head coach dismissal effect on football team performance
 subject: Statistical analysis
 short_title: Paper
+banner: ./misc/banner.jpg
 license: CC-BY-4.0
 keywords: coach dismissal, team performance
 date: 02/10/2024
@@ -18,14 +19,13 @@ exports:
     output: ./exports/head_coach_dismissal.pdf
     articles:
         - file: Paper.md
-banner: ./misc/banner.jpg
----
-
-  <!-- - format: typst
-    template: ieee-typst
-    output: exports/TER_head_coach_dismissal_template2.pdf
+  - format: pdf
+    template: arxiv_two_column
+    output: ./exports/head_coach_dismissal_arxiv.pdf
     articles:
-        - file: Paper.md -->
+        - file: Paper.md
+
+---
 
 +++ {"part": "abstract"}
 The goals of this paper is to investigate the effect of coach dismissal on team performance. To do that, we will use traditional statistical method that we apply to football teams. 
