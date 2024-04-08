@@ -247,17 +247,17 @@ Loss Ratio of Clubs versus Number of Head Coaches Appointed by Club
 
 ```{figure} #hc_win_ratio_over_club_count
 :name: hc_win_ratio_over_club_count1
-Win Ratio of Head Coaches vers Number of Clubs Appointments
+Win Ratio of Head Coaches versus Number of Clubs Appointments
 ```
 
 ```{figure} #hc_draw_ratio_over_club_count
 :name: hc_draw_ratio_over_club_count1
-Draw Ratio of Head Coaches vers Number of Clubs Appointments
+Draw Ratio of Head Coaches versus Number of Clubs Appointments
 ```
 
 ```{figure} #hc_loss_ratio_over_club_count
 :name: hc_loss_ratio_over_club_count1
-Loss Ratio of Head Coaches vers Number of Clubs Appointments
+Loss Ratio of Head Coaches versus Number of Clubs Appointments
 ```
 
 ### Graphiques du jeu de donnée match
@@ -313,7 +313,7 @@ Correlation between head coach tenure and team's performance
 
 ```{figure} #match_outcome_over_coach_tenure
 :name: match_outcome_over_coach_tenure1
-Weighted Rolling Average of Match Outcome vers Head Coach Tenure on Match Day
+Weighted Rolling Average of Match Outcome versus Head Coach Tenure on Match Day
 ```
 
 Explique que graph utilise les moyenne mobile pondérés sur une fenêtre de 30 jours :
