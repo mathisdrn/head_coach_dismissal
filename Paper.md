@@ -29,10 +29,6 @@ exports:
 The goals of this paper is to investigate the effect of coach dismissal on team performance. To do that, we will use traditional statistical method that we apply to football teams. 
 +++
 
-+++ {"part": "data_availability"}
-L'ensemble des fichiers et données relatif à ce travail sont disponible  en accès libre sur le [dépot GitHub](https://github.com/mathisdrn/head_coach_dismissal) sous licence MIT.
-
-
 ## Introduction 
 
 ### Cadre de la problématique
@@ -91,7 +87,7 @@ La création d'un tableau de bord interactif a été réalisé à l'aide de la l
 
 L'écriture de ce papier a été réalisé dans un fichier Markdown.
 
-[MyST](https://mystmd.org/) fait partie d'un écosystème d'outils qui améliore le travail de communication scientifique en favorisant le développement d'une science reproducible et indexable. Cet outil a été utilisé pour générer l'export de notre papier sous format d'un [site statique]('https://mathisdrn.github.io/head_coach_dismissal/') et d'un [PDF]('https://raw.githubusercontent.com/mathisdrn/head_coach_dismissal/master/exports/head_coach_dismissal.pdf') de qualité scientifique. MyST permet la réutilisation des entrées et sorties des Notebooks Jupyter. Ainsi l'ensemble des figures, tableaux et variables présentes dans ce papier sont directement issus des Notebooks Jupyter. À titre d'exemple, il est possible de renouveller l'intégralité de l'étude à d'autres ligues ou d'autres périodes en modifiant simplement les paramètres des fonctions utilisées dans les Notebooks Jupyter :
+[MyST](https://mystmd.org/) fait partie d'un écosystème d'outils qui chercher à améliorer le travail de communication scientifique en favorisant le développement d'une science reproducible et indexable. Cet outil a été utilisé pour générer l'export de notre papier sous format d'un [site statique]('https://mathisdrn.github.io/head_coach_dismissal/') et d'un [PDF]('https://raw.githubusercontent.com/mathisdrn/head_coach_dismissal/master/exports/head_coach_dismissal.pdf') de qualité scientifique. MyST permet la réutilisation des entrées et sorties des Notebooks Jupyter. Ainsi l'ensemble des figures, tableaux et variables présentes dans ce papier sont directement issus des Notebooks Jupyter. À titre d'exemple, il est possible de renouveller l'intégralité de l'étude à d'autres ligues ou d'autres périodes en modifiant simplement les paramètres des fonctions utilisées dans les Notebooks Jupyter :
 
 ```{code} r
 :filename: 00 Data extraction.ipynb
@@ -275,7 +271,7 @@ Monthly Distribution of Matches (2017 - 2022)
 
 ```{figure} #match_distribution_over_coach_tenure
 :name: match_distribution_over_coach_tenure1
-Proportion of Matches versus Head Coach Tenure on Match Day
+Distribution of Matches versus Head Coach Tenure on Match Day
 ```
 
 ```{figure} #win_over_coach_tenure
@@ -323,5 +319,10 @@ def weighted_rolling_mean(data, weights, window_size=30):
 
 ### Création d'un tableau de bord interactif
 
+% Ajouter image voir doc sur mystmd.org
+Création d'un tableau permettant de visualiser
 
-- Création d'un tableau permettant de visualiser... voir notebook 6
+
++++ {"part": "data_availability"}
+L'ensemble des fichiers et données relatif à ce travail sont disponible en accès libre sur le [dépot GitHub](https://github.com/mathisdrn/head_coach_dismissal) sous licence MIT.
++++
