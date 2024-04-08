@@ -18,12 +18,13 @@ exports:
     output: ./exports/head_coach_dismissal.pdf
     articles:
         - file: Paper.md
-  - format: typst
+---
+
+  <!-- - format: typst
     template: ieee-typst
     output: exports/TER_head_coach_dismissal_template2.pdf
     articles:
-        - file: Paper.md
----
+        - file: Paper.md -->
 
 +++ {"part": "abstract"}
 The goals of this paper is to investigate the effect of coach dismissal on team performance. To do that, we will use traditional statistical method that we apply to football teams. 
@@ -32,6 +33,8 @@ The goals of this paper is to investigate the effect of coach dismissal on team 
 ## Introduction 
 
 ### Cadre de la problématique
+
+Rappeler le rôle du coach dans le football et l'importance de son rôle dans la performance de l'équipe.
 
 Sujet du TER : Comprendre l'effet du changement de club sur les performances du coach 
 ET NON, comme le sujet initial ([](doi:10.3390/economies8040082)) Comprendre l'effet du changement de coach sur les performances du club
@@ -87,7 +90,9 @@ La création d'un tableau de bord interactif a été réalisé à l'aide de la l
 
 L'écriture de ce papier a été réalisé dans un fichier Markdown.
 
-[MyST](https://mystmd.org/) fait partie d'un écosystème d'outils qui chercher à améliorer le travail de communication scientifique en favorisant le développement d'une science reproducible et indexable. Cet outil a été utilisé pour générer l'export de notre papier sous format d'un [site statique]('https://mathisdrn.github.io/head_coach_dismissal/') et d'un [PDF]('https://raw.githubusercontent.com/mathisdrn/head_coach_dismissal/master/exports/head_coach_dismissal.pdf') de qualité scientifique. MyST permet la réutilisation des entrées et sorties des Notebooks Jupyter. Ainsi l'ensemble des figures, tableaux et variables présentes dans ce papier sont directement issus des Notebooks Jupyter. À titre d'exemple, il est possible de renouveller l'intégralité de l'étude à d'autres ligues ou d'autres périodes en modifiant simplement les paramètres des fonctions utilisées dans les Notebooks Jupyter :
+[MyST](https://mystmd.org/) fait partie d'un écosystème d'outils qui chercher à améliorer le travail de communication scientifique en favorisant le développement d'une science reproducible et indexable. Cet outil a été utilisé pour permettre la diffusion de ce papier de recherche au format d'un [site statique](https://mathisdrn.github.io/head_coach_dismissal/) et d'un [PDF](https://raw.githubusercontent.com/mathisdrn/head_coach_dismissal/master/exports/head_coach_dismissal.pdf) de qualité scientifique.
+
+MyST permet de réutiliser les entrées et les sorties des Notebooks Jupyter. Ainsi l'ensemble des figures, tableaux et variables présentes dans ce papier sont directement issus des Notebooks Jupyter. À titre d'exemple, il est possible de renouveller l'intégralité de l'étude à d'autres ligues ou d'autres périodes en modifiant simplement les paramètres des fonctions utilisées dans les Notebooks Jupyter :
 
 ```{code} r
 :filename: 00 Data extraction.ipynb
@@ -123,6 +128,7 @@ Utilisation de l'algorithme de la distance Levenshtein [@Levenshtein1965BinaryCC
 
 ```{code} python
 :caption: Utilisation de l\'algorithme de la distance Levenshtein
+:linenos:
 from thefuzz import process
 
 def match_clubs_name(name, list_names, min_score=70):
@@ -307,6 +313,7 @@ Explique que graph utilise les moyenne mobile pondérés sur une fenêtre de 30 
 
 ```{code} python
 :caption: Calcul des moyennes mobiles pondérées
+:linenos:
 import numpy as np
 
 def weighted_rolling_mean(data, weights, window_size=30):
