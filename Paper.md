@@ -186,11 +186,6 @@ L'ancienneté du coach sportifs au sein de l'équipe est ajouté à chaque ligne
 ![](#data_summary)
 :::
 
-:::{figure} #match_distribution
-:name: match_distribution1
-Monthly Distribution of Matches (2017 - 2022)
-:::
-
 ```{embed} #home_advantage_text
 ```
 
@@ -199,10 +194,14 @@ Monthly Distribution of Matches (2017 - 2022)
 Venue effect on team's performance (2017 - 2022)
 :::
 
-**Présenter les graphiques, expliquer les variables utilisés et ce que permettrait d'interpréter un graphique concluant**
-
-
 Les saisons de football sont divisées en deux périodes : la saison régulière et la saison hors-saison. La saison régulière est la période pendant laquelle les équipes jouent des matchs de championnat et de coupe, tandis que la saison hors-saison est la période pendant laquelle les équipes se préparent pour la saison suivante, notamment en recrutant de nouveaux joueurs et en changeant d'entraîneur.
+
+% Ajouter describution figure
+
+:::{figure} #match_distribution
+:name: match_distribution1
+Monthly Distribution of Matches (2017 - 2022)
+:::
 
 Les licenciements de coachs sont plus fréquents en fin de saison (voir [](#hc_appointment1)), tandis que les nominations de coachs sont plus fréquentes en début de saison (voir [](#hc_dismissal1)). Cela peut s'expliquer par le fait que les clubs cherchent à renouveler leur effectif et à se donner les meilleures chances de succès pour la saison suivante.
 
@@ -251,9 +250,9 @@ Average Number of Head Coaches Appointed per Club versus League (2017 - 2022)
 
 On observe que les coachs de la Premier League ont une ancienneté plus longue que les coachs des autres ligues. De plus, les clubs de la Premier League ont tendance à nommer moins de coachs que les clubs des autres ligues. Inversement, c'est LaLiga qui a la plus faible ancienneté moyenne des coachs et qui nomme le plus de coachs.
 
-Expliquer chacune des régressions et ce qu'elle permettrait de montrer
-Donner la définition du coefficient de corrélation de Pearson
-Interpréter les valeurs r et p
+## Analyse statistiques
+
+### Définition
 
 Le coefficient de corrélation de Pearson (valeur de r) est une mesure statistique qui évalue la force et la direction de la relation linéaire entre deux variables continues. Il est souvent utilisé pour quantifier la relation entre deux variables. C'est un coefficient variant entre -1 et 1. 
 - Lorsqu'il est de 1, il indique une corrélation linéaire parfaite positive, ce qui signifie que lorsque la valeur d'une variable augmente, la valeur de l'autre variable augmente proportionnellement.
@@ -261,6 +260,8 @@ Le coefficient de corrélation de Pearson (valeur de r) est une mesure statistiq
 - De plus, lorsqu'il est de 0, cela signifife qu'il n'y a aucune correlation linéaire entre les deux variables.
 
 La p-value (valeur de p) est une mesure statistique utilisée pour déterminer la signification statistique d'un résultat dans le contexte d'une analyse statistique. Dans le contexte de la corrélation de Pearson, la p-value est utilisée pour évaluer si la corrélation observée entre deux variables est statistiquement significative ou non. Si la p-value est inférieure à 0,05, on rejette l'hypothèse selon laquelle il n'y a pas de corrélation dans la population, et on conclut qu'il y a une corrélation significative entre les deux variables.
+
+### L'ancienneté du coach sur la performance de l'équipe 
 
 Les [](#hc_win_ratio_over_days1) et [](#hc_draw_ratio_over_days1) et [](#hc_loss_ratio_over_days1) s'intéressent aux différents ratios de victoires, de matchs nuls et de défaites en fonction de la durée du coach au sein du club. Cette analyse permet de mettre en évidence le lien existant entre les résultats directs du coach et la durée de son mandat à la tête de l'équipe.
 - Les valeurs des coefficients pour les victoires sont : r=0.36 et p=0.00. Cela indique une corrélation positive modérée et statistiquement significative (avec p<0.05) entre les deux variables étudiées.
@@ -285,6 +286,7 @@ Draw Ratio of Head Coaches Appointments versus Head Coach Tenure
 Loss Ratio of Head Coaches Appointments versus Head Coach Tenure
 ```
 
+### L'effet du renouvellement régulier du coach sur la performance de l'équipe
 
 Les [](#club_win_ratio_over_coach_count1) et [](#club_draw_ratio_over_coach_count1) et [](#club_loss_ratio_over_coach_count1) s'intéressent aux ratios de victoires, de matchs nuls et de défaites en fonction du nombre d'entraîneurs nommés à la tête de l'équipe. Ces relations pourraient montrer l'effet d'un changement régulier d'entraîneur sur les résultats de l'équipe. Les coefficients sont :
 - Pour les victoires,r=−0.27 et p=0.03. Ceci indique une corrélation négative de faible à modérée entre les deux variables, qui est statistiquement significative.
@@ -309,6 +311,8 @@ Draw Ratio of Clubs versus Number of Head Coaches Appointed by Club
 Loss Ratio of Clubs versus Number of Head Coaches Appointed by Club
 ```
 
+### Le lien entre la mobilité du coach et la performance de l'équipe
+
 Les [](#hc_win_ratio_over_club_count1) et [](#hc_draw_ratio_over_club_count1) et [](#hc_loss_ratio_over_club_count1) aux ratios de victoires, de matchs nuls et de défaites en fonction du nombre de clubs différents dans lesquels l'entraîneur est passé. Dans ces régressions linéaires, nous examinerons l'effet de l'expérience de coaching d'un entraîneur sur ses résultats. Voici les coefficients obtenus :
 - Pour les victoires, r=0.19 et p=0.01. Nous observons une corrélation positive de faible à modérée entre les deux variables, qui est statistiquement significative.
 - Pour les matchs nuls, r=−0.09 et p=0.25. Cela indique une corrélation très faible et non significative entre les deux variables, ce qui ne nous permet pas de conclure.
@@ -332,14 +336,7 @@ Draw Ratio of Head Coaches versus Number of Clubs Appointments
 Loss Ratio of Head Coaches versus Number of Clubs Appointments
 ```
 
-### Graphiques des données jointes
-
-En joignant les deux jeux de données, il est possible d'associer à chaque match l'ancienneté du coach de l'équipe à domicile et de l'équipe à l'extérieur le jour du match. Le jeu de données est modifié de manière à ce que chaque ligne corresponde à une équipe, le résultat du match et l'ancienneté du joueurs :
-
-:::{table} Jeu de donnée final
-:label: joint_data1
-![](#joint_data)
-:::
+### Lien plus fin entre ancienneté du coach et performance de l'équipe
 
 ```{figure} #match_distribution_over_coach_tenure
 :name: match_distribution_over_coach_tenure1
@@ -355,6 +352,8 @@ Match Win Outcome versus Head Coach Tenure on Match Day
 :name: draw_over_coach_tenure1
 Match Draw Outcome versus Head Coach Tenure on Match Day
 ```
+
+### Une visualisation graphique de l'effet de l'ancienneté du coach sur la performance de l'équipe
 
 ```{figure} #loss_over_coach_tenure
 :name: loss_over_coach_tenure1
@@ -389,12 +388,14 @@ def weighted_rolling_mean(data, weights, window_size=30):
     return data.rolling(window_size, min_periods=1).apply(weighted_mean, raw=False)
 ```
 
+## Conclusion
 
-### Création d'un tableau de bord interactif
+L'analyse des données a permis de mettre en évidence l'effet du licenciement d'un coach sur la performance de l'équipe. Les résultats montrent que l'ancienneté du coach au sein de l'équipe est corrélée positivement avec la performance de l'équipe. En d'autres termes, plus un coach reste longtemps à la tête de l'équipe, meilleures sont les performances de l'équipe. De plus, le renouvellement régulier d'un coach sportif est corrélé négativement avec la performance de l'équipe. Ces résultats suggèrent que la stabilité et la continuité sont des facteurs importants pour la réussite d'une équipe de football.
+Dans la seconde séries de graphiques nous avons montrée que les clubs qui renouvelle régulièrement leur coach ont tendance à voir une dégradation de leurs performances. 
+Dans la troisième série de graphiques nous montrons que les coachs qui changent régulièrement de club ont tendance à voir une amélioration de la performance de l'équipe.
+Cela semble indiquer qu'un renouvellement régulier des coachs peut être bénéfique pour l'équipe, mais que la stabilité et la continuité d'un coach peuvent également avoir un impact significatif sur les performances de l'équipe, en particulier à court terme.
 
-% Ajouter image voir doc sur mystmd.org
-Création d'un tableau permettant de visualiser
-
+Cependant, il est difficile de tirer des conclusions définitives sur la causalité de ces relations, car il existe de nombreux autres facteurs qui peuvent influencer la performance d'une équipe de football. Par exemple, la qualité des joueurs, la stratégie de jeu, la gestion du club et d'autres facteurs peuvent également jouer un rôle important dans la performance de l'équipe. Il est donc important de prendre en compte ces facteurs lors de l'analyse des données et de ne pas tirer de conclusions hâtives sur la relation entre le licenciement d'un coach et la performance de l'équipe.
 
 +++ {"part": "data_availability"}
 L'ensemble des fichiers et données relatif à ce travail sont disponible en accès libre sur le [dépot GitHub](https://github.com/mathisdrn/head_coach_dismissal) sous licence MIT.
