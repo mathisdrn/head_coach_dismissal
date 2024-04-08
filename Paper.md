@@ -230,23 +230,18 @@ Au cours de la période 2017 - 2022, plus de 55% des coachs sportifs n'ont entra
 :name: club_per_hc1
 Proportion of Head Coaches by Number of Club Appointments (2017 - 2022)
 ```
-Lorsque l'on s'intéresse au nombre de coach employés par les clubs durant la période 2017 - 2022, on observe que plus de 90% des clubs ont employés au moins 3 coachs différents (voir [](#hc_per_club1)).
+Lorsque l'on s'intéresse au nombre de coach employés par les clubs durant la période 2017 - 2022, on observe que plus de 85% des clubs ont employés au moins 3 coachs différents (voir [](#hc_per_club1)).
 
 ```{figure} #hc_per_club
 :name: hc_per_club1
 Proportion of Clubs by Number of Head Coaches Appointed (2017 - 2022)
 ```
 
-Les [](#hc_tenure_per_league1) et [](#hc_per_club_per_league1) et [](#hc_tenure_per_league_kde1) s'intéresse à l'ancienneté des coachs sportif et au renouvellement des coachs sportifs par rapport aux ligues d'interêt.
+Les [](#hc_tenure_per_league1) et [](#hc_per_club_per_league1) s'intéressent à l'ancienneté des coachs sportif et au renouvellement des coachs sportifs par rapport aux ligues d'interêt.
 
 ```{figure} #hc_tenure_per_league 
 :name: hc_tenure_per_league1
 Average Head Coach Tenure for Completed Appointments per League
-```
-
-```{figure} #hc_tenure_per_league_kde
-:name: hc_tenure_per_league_kde1
-Kernel Density Estimation of Head Coach Tenure for Completed Appointments per League (2017 - 2022)
 ```
 
 ```{figure} #hc_per_club_per_league
