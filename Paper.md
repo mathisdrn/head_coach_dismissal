@@ -90,7 +90,7 @@ La création d'un tableau de bord interactif a été réalisé à l'aide de la l
 
 L'écriture de ce papier a été réalisé dans un fichier Markdown.
 
-[MyST](https://mystmd.org/) fait partie d'un écosystème d'outils qui chercher à améliorer le travail de communication scientifique en favorisant le développement d'une science reproducible et indexable. Cet outil a été utilisé pour permettre la diffusion de ce papier de recherche au format d'un [site statique](https://mathisdrn.github.io/head_coach_dismissal/) et d'un [PDF](https://raw.githubusercontent.com/mathisdrn/head_coach_dismissal/master/exports/head_coach_dismissal.pdf) de qualité scientifique.
+[MyST](https://mystmd.org/) fait partie d'un écosystème d'outils qui chercher à améliorer le travail de communication scientifique en favorisant le développement d'une science reproducible et indexable. Cet outil a été utilisé pour permettre la diffusion de ce papier de recherche au format d'un [site statique](https://mathisdrn.github.io/head_coach_dismissal/) et d'un [PDF](https://raw.githubusercontent.com/mathisdrn/head_coach_dismissal/master/exports/head_coach_dismissal.pdf) répondant aux exigences de qualité scientifique.
 
 MyST permet de réutiliser les entrées et les sorties des Notebooks Jupyter. Ainsi l'ensemble des figures, tableaux et variables présentes dans ce papier sont directement issus des Notebooks Jupyter. À titre d'exemple, il est possible de renouveller l'intégralité de l'étude à d'autres ligues ou d'autres périodes en modifiant simplement les paramètres des fonctions utilisées dans les Notebooks Jupyter :
 
@@ -130,6 +130,11 @@ Les données sur les matchs sont extraites de Transfermakt. Elles contiennent de
 ```
 
 ## Pré-traitement des données
+
+% continuer la présentation sur la cellule correspondante dans le notebook
+
+```{embed} #inconsistent_team_names
+```
 
 Utilisation de l'algorithme de la distance Levenshtein [@Levenshtein1965BinaryCC] pour matcher les noms des clubs entre les deux jeux de données
 
@@ -197,11 +202,16 @@ Lorsque l'on s'intéresse au nombre de coach employés par les clubs durant la p
 Proportion of Clubs by Number of Head Coaches Appointed (2017 - 2022)
 ```
 
-Les [](#hc_tenure_per_league1) et [](#hc_per_club_per_league1) observent s'intéresse à l'ancienneté des coachs sportif et au renouvellement des coachs sportifs par rapport aux ligues d'interêt.
+Les [](#hc_tenure_per_league1) et [](#hc_per_club_per_league1) et [](#hc_tenure_per_league_kde1) s'intéresse à l'ancienneté des coachs sportif et au renouvellement des coachs sportifs par rapport aux ligues d'interêt.
 
 ```{figure} #hc_tenure_per_league 
 :name: hc_tenure_per_league1
 Average Head Coach Tenure for Completed Appointments per League
+```
+
+```{figure} #hc_tenure_per_league_kde
+:name: hc_tenure_per_league_kde1
+Kernel Density Estimation of Head Coach Tenure for Completed Appointments per League (2017 - 2022)
 ```
 
 ```{figure} #hc_per_club_per_league
