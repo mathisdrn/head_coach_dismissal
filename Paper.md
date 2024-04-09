@@ -14,17 +14,26 @@ downloads:
     title: Source File
     filename: head_coach_dismissal.md
 exports:
-  - format: typst
-    template: lapreprint-typst
-    output: ./exports/head_coach_dismissal.pdf
-    articles:
-        - file: Paper.md
+  # - format: typst
+  #   template: lapreprint-typst
+  #   output: ./exports/head_coach_dismissal.pdf
+  #   articles:
+  #       - file: Paper.md
   - format: pdf
     template: arxiv_two_column
     output: ./exports/head_coach_dismissal_arxiv.pdf
     articles:
         - file: Paper.md
-
+  - format: pdf
+    template: lapreprint
+    output: ./exports/head_coach_dismissal_lapreprint.pdf
+    articles:
+        - file: Paper.md
+  - format: pdf
+    template: arxiv_nips
+    output: ./exports/head_coach_dismissal_arxiv_nips.pdf
+    articles:
+        - file: Paper.md
 ---
 
 +++ {"part": "abstract"}
