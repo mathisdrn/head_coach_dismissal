@@ -8,4 +8,5 @@ Icon
 .virtual_documents
 .vscode
 
-# exports/*
+exports/*
+!exports/head_coach_dismissal.pdf
