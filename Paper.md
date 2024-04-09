@@ -37,42 +37,14 @@ exports:
 ---
 
 +++ {"part": "abstract"}
-The goals of this paper is to investigate the effect of coach dismissal on team performance. To do that, we will use traditional statistical method that we apply to football teams. 
+This paper aims to explore the relationship between the team's performance and sports coach. To do that, we use traditional statistical methods applied to Men’s Football First Divisions of major leagues between 2017 and 2022. We investigate this relation on three different aspects: the effect of head coach tenure, the effect of regular renewal of sports coach by club, and the effect of changing clubs on the coach's performance. Our results show that there is a positive correlation between head coach tenure and team's performance, while the regular renewal of a sports coach by a club has a negative relation on the team's performance. We also find that head coach who regularly change club is negatively correlated with team's performance. These results suggest that stability and continuity are important factors for the success of a football team.
 +++
 
 ## Introduction 
 
 ### Cadre de la problématique
 
-Rappeler le rôle du coach dans le football et l'importance de son rôle dans la performance de l'équipe.
-
-Sujet du TER : Comprendre l'effet du changement de club sur les performances du coach 
-ET NON, comme le sujet initial ([](doi:10.3390/economies8040082)) Comprendre l'effet du changement de coach sur les performances du club
-Idée du prof : toutes choses étant égales par ailleurs (ceteris paribus) (idée d'un club représentatif), quelles sont les variations de performances d'un coach au cours du temps et lorsqu'il change de club
-
-Impossible de créer "ce club égal par ailleurs" :
-
-La création d'un club égal par ailleurs nécessite l'intervention d'un modèle qui permettrait, à partir des données du club (masse salariale, budget, performance passé du club, etc.) de normaliser la performance du club afin d'étudier précisemment l'impact du coach sur cette performance 
-
-Ceci pose plusieurs problèmes :
-  1. Les variations de performances du coach sont difficilement observable au travers la performance de l'équipe (détailler)
-  2. Impossible de respecter l'hypothèse d'uncounfoundness requise par de nombreux modèles statistiques corrigeant les externalités (ex: propensity score / PSM) (citer papier propensity score + expliquer l'idée du propensity score pour artificiellement recréer un groupe contrôle et test artificiel, expliquer l'hypothèse d'uncounfoundness et pourquoi elle est nécessaire)
-  3. Biais de causalité (point le plus important !) : on suppose que c'est la performance du coach qui fait varier la performance de l'équipe or, dès lors que cette causalité n'est plus vérifiée on se mord la queue dans la création du modèle explicatif :
-  Supposons que ce soit la performance de l'équipe qui causent les variations de performance du coach. Le modèle explicatif, censé créer ce club égale par ailleurs, va être amené à normaliser plus fortement un club qui performe bien par le passé. Or si c'est la performance de l'équipe qui cause la performance du coach on est en train de normaliser les variations de performance du coach. (mentionner l'existence de test d'inversion de la causalité + référence au papier) (expliquer ce que sont les fuites de données (data leakage) et que l'absence de cette hypothèse de causalité provoque des fuites de données entre les externalités et la variable d'interêt (la performance du coach)).
-  4. Le peu de donnée (retrouver le chiffre sur le nombre de club avec au moins 2 ou 3 changements de coach) (expliquer que dans la problématique initiale il y a bien plus de donnée car il y a davantage de club qui ont vu passer de coachs que de parcours individuel de coach au sein de clubs)
-  5. Problème de temporalité : les données sur les budgets des équipes, masse salariale ou valeur marchande des équipes ne sont pas disponible sous forme temporelle : impossible de savoir si la hausse de performance de l'équipe est dûe à la hausse du budget de l'équipe ou inversement.
-  6. Faible qualité des variables exogènes permettant l'analyse du système : 
-    - Manque " d'objectivabilité " des variables externes : masse salariale (pas représentative, ex : sous-traitance), valeur marchande des joueurs (hautement subjectif)
-    - Manque de diversité des variables  
-
-Conclusion :
-Lors de l'analyse des effets dans un système, on raisonne généralement à petite entité égales par ailleurs
-Exemple :  On parle d'agent économique représentatif et rarement d'une économie représentative :
-- On observe l'effet de l'économie sur un agent économique 
-- et NON l'effet d'un agent économique sur l'économie
-(à nuancer pour ne pas déplaire aux micro-économistes et rappeler le cadre statistiques de l'étude d'effets quantifiables !).
-
-La lecture de @DataViz a permis l'amélioration de la qualité des graphiques et de la présentation des données.
+% Écrire l'introduction
 
 ### Source des données
 
@@ -88,7 +60,7 @@ Ces sites sont utilisés par les amateurs de football, les journalistes et les p
 
 Ces sites sont très utilisés et considérés comme fiable. Fbref est entretenu par l’entreprise Sport Reference qui gère également d'autres sites spécialisés dans les statistiques sportives, comme Baseball-Reference et Basketball Reference. Les données sur Fbref sont souvent vérifiées et mises à jour régulièrement, ce qui contribue à leur fiabilité. Pour Transfermakt, c’est aussi un site très utilisé pour les rumeurs de transferts et les transferts en général, il a une réputation de site fiable. Le site recueille des données sur les transferts, les valeurs marchandes des joueurs et d'autres détails liés aux contrats à partir de diverses sources, y compris les médias et les communiqués officiels des clubs. Cependant, c’est un site reliant des rumeurs de transferts, donc il peut y avoir des inexactitudes ou des spéculations qui ne se concrétisent pas toujours. Il est donc conseillé de vérifier les informations avec d'autres sources fiables, notamment lorsqu'il s'agit de transferts non confirmés
 
-### Les outils utilisés
+### Références et outils utilisés
 
 L'intégralité du travail de récupération, de pré-traitement, d'analyse et visualisation des données a été réalisé au sein de Notebook Jupyter. 
 
@@ -109,6 +81,9 @@ MyST permet de réutiliser les entrées et les sorties des Notebooks Jupyter. Ai
 country <- c("ENG", "ESP", "ITA", "GER", "FRA")
 year <- c(2018, 2019, 2020, 2021, 2022)
 ```
+
+Enfin, la lecture de @DataViz a permis d'améliorer la qualité des graphiques et de la présentation des données en les rendants plus clairs et informatifs.
+
 ## Extraction des données
 
 L'extraction se fait aisément à l'aide de [WorldFootballR](https://github.com/JaseZiv/worldfootballR/). 
@@ -174,7 +149,7 @@ for coach_team in coach_teams:
 ![](#team_match_table)
 :::
 
-L'ancienneté du coach sportifs au sein de l'équipe est ajouté à chaque ligne des données de résultat de match. Le tableau ainsi obtenu :
+L'ancienneté du coach sportif au sein de l'équipe lors du match est ajouté à chaque ligne des données de résultat de match. Le tableau suivant est ainsi obtenu :
 
 :::{table} Extrait du jeu de donnée sur les matchs transformés
 :label: final_match_results1
@@ -225,35 +200,27 @@ Monthly Distribution of Head Coaches Dismissals
 
 Les licenciements de coachs sont plus fréquents en fin de saison (voir [](#hc_appointment1)), tandis que les nominations de coachs sont plus fréquentes en début de saison (voir [](#hc_dismissal1)). Cela peut s'expliquer par le fait que les clubs cherchent à renouveler leur effectif et à se donner les meilleures chances de succès pour la saison suivante.
 
-## Analyse statistiques
+## Analyse statistique
 
 ### Définitions
 
-Le coefficient de corrélation de Pearson (valeur de r) est une mesure statistique qui évalue la force et la direction de la relation linéaire entre deux variables continues. Il est souvent utilisé pour quantifier la relation entre deux variables. C'est un coefficient variant entre -1 et 1. 
-- Lorsqu'il est de 1, il indique une corrélation linéaire parfaite positive, ce qui signifie que lorsque la valeur d'une variable augmente, la valeur de l'autre variable augmente proportionnellement.
-- Lorsqu'il est de -1, il indique une corrélation linéaire parfaite négative, ce qui signifie que lorsque la valeur d'une variable augmente, la valeur de l'autre variable diminue proportionnellement. -
+Le coefficient de corrélation de Pearson (valeur de r) est une mesure statistique qui évalue la force et la direction de la relation linéaire entre deux variables continues. Il est souvent utilisé pour quantifier la relation entre deux variables. 
+- Lorsqu'il est de 1, il indique une corrélation linéaire parfaite positive.
+- Lorsqu'il est de -1, il indique une corrélation linéaire parfaite négative.
 - De plus, lorsqu'il est de 0, cela signifife qu'il n'y a aucune correlation linéaire entre les deux variables.
 
-La p-value (valeur de p) est une mesure statistique utilisée pour déterminer la signification statistique d'un résultat dans le contexte d'une analyse statistique. Dans le contexte de la corrélation de Pearson, la p-value est utilisée pour évaluer si la corrélation observée entre deux variables est statistiquement significative ou non. Si la p-value est inférieure à 0,05, on rejette l'hypothèse selon laquelle il n'y a pas de corrélation dans la population, et on conclut qu'il y a une corrélation significative entre les deux variables.
+La p-value (valeur de p) est une mesure statistique utilisée pour déterminer la signification statistique d'un résultat. Dans le contexte de la corrélation de Pearson, la p-value est utilisée pour évaluer si la corrélation observée entre deux variables est statistiquement significative ou non. Si la p-value est inférieure à seuil, de 5% par exemple, on rejette l'hypothèse selon laquelle il n'y a pas de corrélation dans la population, et on conclut qu'il y a une corrélation significative entre les deux variables.
 
 ### L'effet du changement de club sur la performance du coach
 
 % Paragraphe introductif
-
-Au cours de la période 2017 - 2022, plus de 55% des coachs sportifs n'ont entrainé qu'un seul club. Environ 30% des coachs ont entraîné 2 clubs et seulement 10% des coachs ont entraîné plus de 3 clubs au cours de cette période (voir [](#club_per_hc1)).
 
 ```{figure} #club_per_hc
 :name: club_per_hc1
 Proportion of Head Coaches by Number of Club Appointments (2017 - 2022)
 ```
 
-Les [](#hc_win_ratio_over_club_count1) et [](#hc_draw_ratio_over_club_count1) et [](#hc_loss_ratio_over_club_count1) aux ratios de victoires, de matchs nuls et de défaites en fonction du nombre de clubs différents dans lesquels l'entraîneur est passé. Dans ces régressions linéaires, nous examinerons l'effet de l'expérience de coaching d'un entraîneur sur ses résultats. Voici les coefficients obtenus :
-- Pour les victoires, r=0.19 et p=0.01. Nous observons une corrélation positive de faible à modérée entre les deux variables, qui est statistiquement significative.
-- Pour les matchs nuls, r=−0.09 et p=0.25. Cela indique une corrélation très faible et non significative entre les deux variables, ce qui ne nous permet pas de conclure.
-- Pour les défaites, r=−0.18 et p=0.02. Nous constatons donc une corrélation négative faible mais statistiquement significative entre les deux variables examinées.
-
-Nous observons un coefficient de Pearson positif pour les victoires, ce qui suggère que plus l'entraîneur a d'expérience (nombre de clubs entraînés), plus il y a de victoires. En revanche, pour les matchs nuls et les défaites, moins l'entraîneur a d'expérience dans différents clubs, plus il y a de matchs nuls et de défaites. On peut donc conclure que l'expérience de l'entraîneur est un facteur important pour la performance lors des matchs.
-
+Au cours de la période 2017 - 2022, plus de 55% des coachs sportifs n'ont entrainé qu'un seul club. Environ 30% des coachs ont entraîné 2 clubs et seulement 10% des coachs ont entraîné plus de 3 clubs au cours de cette période (voir [](#club_per_hc1)).
 
 ```{figure} #hc_win_ratio_over_club_count
 :name: hc_win_ratio_over_club_count1
@@ -270,7 +237,14 @@ Draw Ratio of Head Coaches versus Number of Clubs Appointments
 Loss Ratio of Head Coaches versus Number of Clubs Appointments
 ```
 
-% Ajouter conclusion
+Les [](#hc_win_ratio_over_club_count1), [](#hc_draw_ratio_over_club_count1) et [](#hc_loss_ratio_over_club_count1) s'intéressent respectivement, aux ratios de victoires, de matchs nuls et de défaites en fonction du nombre de clubs pour lesquels l'entraîneur a travaillé durant la saison 2017 - 2022. Nous avons tracé dans chacun de ces graphiques une régression polynomiale de degrée 2. Ainsi, nous observons :
+- Pour les victoires, une corrélation positive faible (r = 0.19) qui est statistiquement significative (p = 0.01) entre le nombre de clubs entraînés par le coach et son ratio de victoires.
+- Pour les matchs nuls, une corrélation négative faible (r = -0.09) qui n'est pas statistiquement significative (p = 0.25).
+- Pour les défaites, une corrélation négative faible (r = -0.18) qui est statistiquement significative (p = 0.02).
+
+Ces graphiques suggèrent que le nombre de clubs pour lesquels un entraîneur a travaillé a un impact positif sur la performance des équipes qu'il entraine. Cela pourrait s'expliquer par le fait que les entraîneurs qui ont travaillé pour plusieurs clubs ont une plus grande expérience et une meilleure connaissance du jeu, ce qui peut les aider à obtenir de meilleurs résultats. Il est aussi envisageable que les entraîneurs performant soit davantage reconnu et donc sollicité par d'autres clubs, favorisant ainsi leur mobilité entre les clubs.
+
+Il reste néanmoins impossible d'établir une relation de causalité entre ces deux variables à l'aide de cette analyse. De nombreux autres facteurs peuvent influencer la performance des équipes, comme la qualité des joueurs, la stratégie de jeu, la gestion du club, etc.
 
 ### L'effet du renouvellement régulier du coach sur la performance de l'équipe
 
@@ -280,20 +254,15 @@ Loss Ratio of Head Coaches versus Number of Clubs Appointments
 :name: hc_per_club1
 Proportion of Clubs by Number of Head Coaches Appointed (2017 - 2022)
 ```
-Lorsque l'on s'intéresse au nombre de coach employés par les clubs durant la période 2017 - 2022, on observe que plus de 85% des clubs ont employés au moins 3 coachs différents (voir [](#hc_per_club1)).
 
-% À remplir
-La [](#hc_per_club_per_league1) nous montre que les coachs de la Premier League ont une ancienneté plus longue que les coachs des autres ligues. De plus, les clubs de la Premier League ont tendance à nommer moins de coachs que les clubs des autres ligues. Inversement, c'est LaLiga qui a la plus faible ancienneté moyenne des coachs et qui nomme le plus de coachs.
+La [](#hc_per_club1) nous informe quand à la distribution du nombre de coachs employés par les clubs durant la période 2017 - 2022. On observe que plus de 85% des clubs ont employés au moins 3 coachs différents suggérant qu'il y a un renouvellement régulier des coachs dans les clubs de football.
 
 ```{figure} #hc_per_club_per_league
 :name: hc_per_club_per_league1
 Average Number of Head Coaches Appointed per Club versus League (2017 - 2022)
 ```
 
-Les [](#club_win_ratio_over_coach_count1) et [](#club_draw_ratio_over_coach_count1) et [](#club_loss_ratio_over_coach_count1) s'intéressent aux ratios de victoires, de matchs nuls et de défaites en fonction du nombre d'entraîneurs nommés à la tête de l'équipe. Ces relations pourraient montrer l'effet d'un changement régulier d'entraîneur sur les résultats de l'équipe. Les coefficients sont :
-- Pour les victoires,r=−0.27 et p=0.03. Ceci indique une corrélation négative de faible à modérée entre les deux variables, qui est statistiquement significative.
-- Pour les matchs nuls, r=0.25 et p=0.04. Cela indique une corrélation positive de faible à modérée entre les deux variables, qui est statistiquement significative, mais pas très forte.
-- Pour les défaites, r=0.24 et p=0.05, ce qui indique une corrélation positive de faible à modérée entre les deux variables, qui est statistiquement significative.
+La [](#hc_per_club_per_league1) montre que les entraîneurs de la Premier League restent en poste plus longtemps que ceux des autres ligues. De plus, les équipes de la Premier League changent moins souvent d'entraîneur que celles des autres ligues. À l'inverse, la LaLiga renouvelle fréquemment ses entraîneur.
 
 ```{figure} #club_win_ratio_over_coach_count
 :name: club_win_ratio_over_coach_count1
@@ -309,33 +278,33 @@ Draw Ratio of Clubs versus Number of Head Coaches Appointed by Club
 :name: club_loss_ratio_over_coach_count1
 Loss Ratio of Clubs versus Number of Head Coaches Appointed by Club
 ```
-On remarque qu'un coefficient de Pearson négatif pour les victoires nous montre que plus il y a d'entraîneurs différents dans un club pour une période donnée (potentiellement courte), moins il y aura de victoires, nous avons ici une relation négative entre les deux variables. En revanche, nous avons une relation positive pour les nuls et les défaites, ce qui signifie que plus il y aura d'entraîneurs, plus il y aura de matchs nuls et de défaites.
-Ainsi, changer d'entraîneurs n'est pas forcément le bon moyen pour gagner davantage, mais c'est potentiellement contre-productif pour l'équipe car pour chaque nouvel entraîneur, il y a un cadre de vie différent, avec des règles et des situations propres à chacun.
+
+Les [](#club_win_ratio_over_coach_count1), [](#club_draw_ratio_over_coach_count1) et [](#club_loss_ratio_over_coach_count1) s'intéressent aux ratios de victoires, de matchs nuls et de défaites des clubs en fonction du nombre d'entraîneurs nommés à la tête de l'équipe durant la période 2017 - 2022. Ces relations pourraient montrer l'effet de la fréquence de remplacement d'un coach sur les performances de l'équipe. Ainsi, nous observons :
+- Pour les victoires, une corrélation négative de faible à modérée (r = −0.27) statistiquement significative (p = 0.03).
+- Pour les matchs nuls, une corrélation positive de faible à modérée (r=0.25) statistiquement significative (p = 0.04).
+- Pour les défaites, une corrélation positive de faible à modérée (r=0.24) statistiquement significative (p = 0.05).
+
+Ces résultats suggèrent que le renouvellement régulier des coachs a un impact négatif sur les performances des équipes.
+Cela pourrait s'expliquer par le fait que les coachs ont besoin de temps pour s'adapter à leur nouvel environnement et pour mettre en place leur stratégie de jeu. De plus, les coachs qui restent plus longtemps à la tête de l'équipe ont tendance à mieux connaître les joueurs et à mieux comprendre les forces et les faiblesses de l'équipe, ce qui peut contribuer à améliorer les performances de l'équipe.
 
 ### L'effet de l'ancieneté du coach sur la performance de l'équipe 
 
-Plus de 50% des coachs sportifs sont renouvelés après 1 an de mandat.
-Ce pourcentage augmente à 80% après 2 ans de mandat et à 90% après 3 ans de mandat (voir [](#hc_tenure1))
+% paragraphe introductif
 
 ```{figure} #hc_tenure 
 :name: hc_tenure1
 Empirical Cumulative Distribution Function of Head Coaches Tenure For Completed Appointments
 ```
 
-Les [](#hc_tenure_per_league1)  à l'ancienneté des coachs sportif et au renouvellement des coachs sportifs par rapport aux ligues d'interêt.
+Plus de 50% des coachs sportifs sont renouvelés après 1 an de mandat.
+Ce pourcentage augmente à 80% après 2 ans de mandat et à 90% après 3 ans de mandat (voir [](#hc_tenure1))
 
 ```{figure} #hc_tenure_per_league 
 :name: hc_tenure_per_league1
 Average Head Coach Tenure for Completed Appointments per League
 ```
 
-Les [](#hc_win_ratio_over_days1) et [](#hc_draw_ratio_over_days1) et [](#hc_loss_ratio_over_days1) s'intéressent aux différents ratios de victoires, de matchs nuls et de défaites en fonction de la durée du coach au sein du club. Cette analyse permet de mettre en évidence le lien existant entre les résultats directs du coach et la durée de son mandat à la tête de l'équipe.
-- Les valeurs des coefficients pour les victoires sont : r=0.36 et p=0.00. Cela indique une corrélation positive modérée et statistiquement significative (avec p<0.05) entre les deux variables étudiées.
-- Pour les matchs nuls, r=−0.12 et p=0.05. Ainsi, il existe une corrélation linéaire faible et négative entre les deux variables, ce qui est statistiquement significatif selon le seuil de significativité choisi (ici, p=0.05).
-- Quant aux défaites, r=−0.35 et p=0.00, cela indique une corrélation modérée négative et statistiquement significative entre les deux variables étudiées.
-
-Il est à noter que les trois corrélations sont statistiquement significatives, étant donné que les valeurs de p sont inférieures (ou égales) à 0.05, qui est notre seuil d'acceptation. Ainsi, selon le coefficient de corrélation de Pearson 
-r, nous observons que lorsque qu'un entraîneur gagne ses matchs, il augmente en même temps sa durée à la tête de l'équipe. En revanche, pour les défaites, plus il y en a, moins longtemps il reste coach de l'équipe. Les résultats neutres, représentés par les matchs nuls, ne jouent pas en faveur du coach, étant considérés comme un résultat moyen voire mauvais (r négatif). Par conséquent, plus il y aura de matchs nuls, plus la durée du coach en tant que leader de l'équipe diminuera.
+Les [](#hc_tenure_per_league1)  à l'ancienneté des coachs sportif et au renouvellement des coachs sportifs par rapport aux ligues d'interêt.
 
 ```{figure} #hc_win_ratio_over_days
 :name: hc_win_ratio_over_days1
@@ -351,6 +320,14 @@ Draw Ratio of Head Coaches Appointments versus Head Coach Tenure
 :name: hc_loss_ratio_over_days1
 Loss Ratio of Head Coaches Appointments versus Head Coach Tenure
 ```
+
+Les [](#hc_win_ratio_over_days1) et [](#hc_draw_ratio_over_days1) et [](#hc_loss_ratio_over_days1) s'intéressent aux différents ratios de victoires, de matchs nuls et de défaites en fonction de la durée du coach au sein du club. Cette analyse permet de mettre en évidence le lien existant entre les résultats directs du coach et la durée de son mandat à la tête de l'équipe.
+- Les valeurs des coefficients pour les victoires sont : r=0.36 et p=0.00. Cela indique une corrélation positive modérée et statistiquement significative (avec p<0.05) entre les deux variables étudiées.
+- Pour les matchs nuls, r=−0.12 et p=0.05. Ainsi, il existe une corrélation linéaire faible et négative entre les deux variables, ce qui est statistiquement significatif selon le seuil de significativité choisi (ici, p=0.05).
+- Quant aux défaites, r=−0.35 et p=0.00, cela indique une corrélation modérée négative et statistiquement significative entre les deux variables étudiées.
+
+Il est à noter que les trois corrélations sont statistiquement significatives, étant donné que les valeurs de p sont inférieures (ou égales) à 0.05, qui est notre seuil d'acceptation. Ainsi, selon le coefficient de corrélation de Pearson 
+r, nous observons que lorsque qu'un entraîneur gagne ses matchs, il augmente en même temps sa durée à la tête de l'équipe. En revanche, pour les défaites, plus il y en a, moins longtemps il reste coach de l'équipe. Les résultats neutres, représentés par les matchs nuls, ne jouent pas en faveur du coach, étant considérés comme un résultat moyen voire mauvais (r négatif). Par conséquent, plus il y aura de matchs nuls, plus la durée du coach en tant que leader de l'équipe diminuera.
 
 #### Lien plus fin entre ancienneté du coach et performance de l'équipe
 
@@ -377,6 +354,7 @@ Match Draw Outcome versus Head Coach Tenure on Match Day
 :name: loss_over_coach_tenure1
 Match Loss Outcome versus Head Coach Tenure on Match Day
 ```
+
 L'ancienneté, tout coachs confondus a un effet positif sur la performance de l'équipe. Cela peut s'expliquer par le fait que les coachs ont besoin de temps pour s'adapter à leur nouvel environnement et pour mettre en place leur stratégie de jeu. De plus, les coachs qui restent plus longtemps à la tête de l'équipe ont tendance à mieux connaître les joueurs et à mieux comprendre les forces et les faiblesses de l'équipe, ce qui peut contribuer à améliorer les performances de l'équipe.
 Néanmoins, il est aussi probable que les équipes qui ont de bons résultats ont tendance à garder leur coachs plus longtemps, ce qui peut expliquer en partie la corrélation positive entre l'ancienneté du coach et la performance de l'équipe.
 
@@ -387,7 +365,7 @@ Néanmoins, il est aussi probable que les équipes qui ont de bons résultats on
 Weighted Rolling Average of Match Outcome versus Head Coach Tenure on Match Day
 ```
 
-Explique que graph utilise les moyenne mobile pondérés sur une fenêtre de 30 jours :
+Le [graphique](#match_outcome_over_coach_tenure1) illustre la proportion des résultats des matchs en fonction de l'ancienneté de l'entraîneur principal lors du match. Cette proportion est calculé à l'aide d'une moyenne pondérée sur une période de 100 jours. La zone verte représente les victoires, la zone grise représente les matchs nuls et la zone rouge représente les défaites. On peut observer que les victoires tendent à augmenter avec l'ancienneté de l'entraîneur, tandis que les défaites ont tendance à diminuer.
 
 ```{code} python
 :caption: Calcul des moyennes mobiles pondérées
