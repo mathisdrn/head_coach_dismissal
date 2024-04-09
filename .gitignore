@@ -10,3 +10,5 @@ Icon
 
 exports/*
 !exports/head_coach_dismissal.pdf
+
+src/data/extracted*
