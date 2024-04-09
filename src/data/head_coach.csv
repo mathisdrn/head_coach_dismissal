@@ -50,7 +50,7 @@ Barcelona,LaLiga,Spain,Xavi,2021-11-06,2024-06-30,967,133,84,23,26
 Barcelona,LaLiga,Spain,Ronald Koeman,2020-08-19,2021-10-28,435,67,40,11,16
 Barcelona,LaLiga,Spain,Quique Setién,2020-01-13,2020-08-17,217,25,16,4,5
 Barcelona,LaLiga,Spain,Ernesto Valverde,2017-07-01,2020-01-13,926,145,97,32,16
-Real Madrid,LaLiga,Spain,Diego Simeone,2011-12-23,,4490,671,396,148,127
+Atl<U+00C3><U+00A9>tico Madrid,LaLiga,Spain,Diego Simeone,2011-12-23,,4490,671,396,148,127
 Real Madrid,LaLiga,Spain,Carlo Ancelotti,2021-07-01,,1012,160,113,24,23
 Real Madrid,LaLiga,Spain,Zinédine Zidane,2019-03-11,2021-06-30,842,114,69,25,20
 Real Madrid,LaLiga,Spain,Santiago Solari,2018-11-13,2019-03-11,118,28,18,2,8
@@ -93,15 +93,15 @@ Villarreal,LaLiga,Spain,Javier Calleja,2017-09-25,2018-12-10,441,65,25,18,22
 Getafe,LaLiga,Spain,Quique Sánchez Flores,2021-10-06,2023-04-27,568,66,18,24,24
 Getafe,LaLiga,Spain,Michel,2021-07-01,2021-10-04,95,8,0,1,7
 Getafe,LaLiga,Spain,Pepe Bordalás,2016-09-27,2021-06-30,1737,212,83,60,69
-Empoli,LaLiga,Spain,Luis García,2022-07-01,,647,84,35,24,25
-Empoli,LaLiga,Spain,Julio Velázquez,2022-04-05,2022-06-30,86,8,3,0,5
-Empoli,LaLiga,Spain,José Luis Mendilibar,2021-12-28,2022-04-04,97,12,1,4,7
-Empoli,LaLiga,Spain,Javier Calleja,2021-04-05,2021-12-28,267,29,9,6,14
-Empoli,LaLiga,Spain,Abelardo,2021-01-12,2021-04-05,83,12,1,2,9
-Empoli,LaLiga,Spain,Pablo Machín,2020-08-05,2021-01-12,160,20,6,6,8
-Empoli,LaLiga,Spain,Juan Muñiz,2020-07-05,2020-07-20,15,4,1,1,2
-Empoli,LaLiga,Spain,Asier Garitano,2019-07-01,2020-07-05,370,35,9,8,18
-Empoli,LaLiga,Spain,Abelardo,2017-12-01,2019-06-30,576,69,28,14,27
+Torino,LaLiga,Spain,Luis García,2022-07-01,,647,84,35,24,25
+Torino,LaLiga,Spain,Julio Velázquez,2022-04-05,2022-06-30,86,8,3,0,5
+Torino,LaLiga,Spain,José Luis Mendilibar,2021-12-28,2022-04-04,97,12,1,4,7
+Torino,LaLiga,Spain,Javier Calleja,2021-04-05,2021-12-28,267,29,9,6,14
+Torino,LaLiga,Spain,Abelardo,2021-01-12,2021-04-05,83,12,1,2,9
+Torino,LaLiga,Spain,Pablo Machín,2020-08-05,2021-01-12,160,20,6,6,8
+Torino,LaLiga,Spain,Juan Muñiz,2020-07-05,2020-07-20,15,4,1,1,2
+Torino,LaLiga,Spain,Asier Garitano,2019-07-01,2020-07-05,370,35,9,8,18
+Torino,LaLiga,Spain,Abelardo,2017-12-01,2019-06-30,576,69,28,14,27
 Girona,LaLiga,Spain,Míchel,2021-07-09,,1004,125,63,24,38
 Girona,LaLiga,Spain,Francisco Rodríguez,2020-07-01,2021-06-30,364,60,30,15,15
 Girona,LaLiga,Spain,Josep Lluís Martí,2019-10-28,2020-06-30,246,26,11,8,7
