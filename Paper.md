@@ -5,17 +5,17 @@ short_title: Paper
 banner: ./misc/banner.jpg
 license: CC-BY-4.0
 keywords: coach dismissal, team performance
-date: 02/10/2024
+date: 04/14/2024
 downloads:
   - file: https://raw.githubusercontent.com/mathisdrn/head_coach_dismissal/master/exports/head_coach_dismissal.pdf
     title: Download PDF version
     filename: head_coach_dismissal.pdf
 exports:
-  # - format: typst
-  #   template: lapreprint-typst
-  #   output: ./exports/head_coach_dismissal.pdf
-  #   articles:
-  #       - file: Paper.md
+  - format: typst
+    template: lapreprint-typst
+    output: ./exports/head_coach_dismissal.pdf
+    articles:
+        - file: Paper.md
   - format: pdf
     template: arxiv_two_column
     output: ./exports/head_coach_dismissal_arxiv.pdf
@@ -71,7 +71,7 @@ L'écriture de ce papier a été réalisé dans un fichier Markdown.
 
 MyST permet de réutiliser les entrées et les sorties des Notebooks Jupyter. Ainsi l'ensemble des figures, tableaux et une majorité des variables présentes dans ce papier sont directement issus des Notebooks Jupyter. À titre d'exemple, il est possible de renouveller l'intégralité de l'étude à d'autres ligues ou d'autres périodes en modifiant simplement les valeurs des variables utilisées dans les Notebooks Jupyter :
 
-:::code} r
+:::{code} r
 :filename: 00 Data extraction.ipynb
 country <- c("ENG", "ESP", "ITA", "GER", "FRA")
 year <- c(2018, 2019, 2020, 2021, 2022)
