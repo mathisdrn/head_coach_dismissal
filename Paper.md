@@ -265,9 +265,9 @@ Loss Ratio of Clubs versus Number of Head Coaches Appointed by Club
 :::
 
 Ainsi, nous observons :
-- [({number})](#club_win_vs_cc) une corrélation négative modérée ($r = −0.27$) statistiquement significative ($p = 0.03$) entre le nombre d'entraîneurs nommés par le club et son ratio de victoires.
-- [({number})](#club_draw_vs_cc) une corrélation positive modérée ($r = 0.25$) statistiquement significative ($p = 0.04$) entre le nombre d'entraîneurs nommés par le club et son ratio de matchs nuls.
-- [({number})](#club_loss_vs_cc) une corrélation positive faible ($r = 0.24$) statistiquement significative ($p = 0.05$) entre le nombre d'entraîneurs nommés par le club et son ratio de défaites.
+- [({number})](#club_win_vs_cc) une corrélation négative modérée ($r = −0.33$) statistiquement significative ($p = 0.01$) entre le nombre d'entraîneurs nommés par le club et son ratio de victoires.
+- [({number})](#club_draw_vs_cc) une corrélation positive modérée ($r = 0.35$) statistiquement significative ($p = 0.00$) entre le nombre d'entraîneurs nommés par le club et son ratio de matchs nuls.
+- [({number})](#club_loss_vs_cc) une corrélation positive faible ($r = 0.28$) statistiquement significative ($p = 0.03$) entre le nombre d'entraîneurs nommés par le club et son ratio de défaites.
 
 Ces résultats suggèrent que le renouvellement régulier des entraîneurs a un impact négatif sur les performances des équipes.
 Cela pourrait s'expliquer par le fait que les entraîneurs ont besoin de temps pour s'adapter à leur nouvel environnement et pour mettre en place leur stratégie de jeu. De plus, les entraîneurs qui restent plus longtemps à la tête de l'équipe ont tendance à mieux connaître les joueurs et à mieux comprendre les forces et les faiblesses de l'équipe, ce qui peut contribuer à améliorer les performances de l'équipe.
@@ -302,7 +302,7 @@ Head Coach Appointment Performance versus Appointment Count
 
 La [](#hc_results_over_appointment_count) s'intéresse aux pourcentage de victoires, de matchs nuls et de défaites des mandats individuel des entraîneurs par rapport au nombre de clubs pour lesquel ils ont travaillés durant la saison 2017 - 2022. Ces graphiques permettent de visualiser la relation entre l'expérience acquise par l'entraîneur et l'impact sur la performance de leurs équipes. 
 
-Nous observons qu'il n'existe pas de corrélation entre le nombre de clubs pour lesquels un entraîneur a travaillé et son pourcentage de victoires ($p = 0.27$), de matchs nuls ($p = 0.37$) ou de défaites ($p = 0.49$). Cela suggère que l'expérience acquise par l'entraîneur en travaillant pour plusieurs clubs n'a pas d'impact statistiquement observable sur la performance de l'équipe.
+Nous observons qu'il n'existe pas de corrélation entre le nombre de clubs pour lesquels un entraîneur a travaillé et son pourcentage de victoires ($p = 0.48$), de matchs nuls ($p = 0.09$) ou de défaites ($p = 0.07$). Cela suggère que l'expérience acquise par l'entraîneur en travaillant pour plusieurs clubs n'a pas d'impact statistiquement observable sur la performance de l'équipe.
 
 La [](#hc_results_over_club_count) suivante diffère quant à elle car elle s'intéresse à la performance agrégé des entraîneurs par rapport au nombre total de club pour lesquels ils ont travaillés durant la saison 2017 - 2022.
 
@@ -323,9 +323,9 @@ Performance of Head Coaches versus Number of Clubs Appointments
 :::
 
 Ces graphiques permettent de visualiser la relation entre la mobilité des entraîneurs par rapport à la performance de leurs équipes. Ainsi, nous observons :
-- [({number})](#hc_win_vs_cc) une corrélation positive faible ($r = 0.19$) statistiquement significative ($p = 0.01$) entre le nombre de clubs entraînés par le coach et son ratio de victoires.
-- [({number})](#hc_draw_vs_cc) une corrélation négative faible ($r = -0.09$) mais statistiquement non significative ($p = 0.25$) entre le nombre de clubs entraînés par le coach et son ratio de matchs nuls.
-- [({number})](#hc_loss_vs_cc) une corrélation négative faible ($r = -0.18$) statistiquement significative ($p = 0.02$) entre le nombre de clubs entraînés par le coach et son ratio de défaites.
+- [({number})](#hc_win_vs_cc) une corrélation positive faible ($r = 0.23$) statistiquement significative ($p = 0.00$) entre le nombre de clubs entraînés par le coach et son ratio de victoires.
+- [({number})](#hc_draw_vs_cc) une corrélation positive très faible ($r = 0.01$) mais statistiquement non significative ($p = 0.89$) entre le nombre de clubs entraînés par le coach et son ratio de matchs nuls.
+- [({number})](#hc_loss_vs_cc) une corrélation négative faible ($r = -0.25$) statistiquement significative ($p = 0.00$) entre le nombre de clubs entraînés par le coach et son ratio de défaites.
 
 Ces graphiques ne suggèrent pas que le nombre de clubs pour lesquels un entraîneur a travaillé a un impact positif sur la performance des équipes qu'il entraîne car l'on a précédemment montré avec la [](#hc_results_over_appointment_count) qu'il n'existait pas de corrélation statistiquement significative. Cependant, ce graphique suggère que les entraîneurs qui ont montré une performance supérieure à celle de leurs pairs ont tendance à travailler pour un plus grand nombre de clubs.
 
@@ -370,12 +370,12 @@ Loss Ratio of Head Coaches Appointments versus Head Coach Tenure
 :::
 
 Les [](#hc_win_vs_tenure) et [](#hc_draw_vs_tenure) et [](#hc_loss_vs_tenure) s'intéressent aux différents ratios de victoires, de matchs nuls et de défaites en fonction de la durée du coach au sein du club. Cette analyse permet de mettre en évidence le lien existant entre les résultats directs du coach et la durée de son mandat à la tête de l'équipe.
-- [({number})](#hc_win_vs_tenure) une corrélation positive modérée ($r = 0.36$) statistiquement significative ($p = 0.00$) entre la durée du coach et le ratio de victoires.
-- [({number})](#hc_draw_vs_tenure) une corrélation négative faible ($r = −0.12$) statistiquement significative ($p = 0.05$) entre la durée du coach et le ratio de matchs nuls.
-- [({number})](#hc_loss_vs_tenure) une corrélation négative modérée ($r = −0.35$) statistiquement significative ($p = 0.00$) entre la durée du coach et le ratio de défaites.
+- [({number})](#hc_win_vs_tenure) une corrélation positive modérée ($r = 0.38$) statistiquement significative ($p = 0.00$) entre la durée du coach et le ratio de victoires.
+- [({number})](#hc_draw_vs_tenure) une corrélation négative faible ($r = −0.06$) mais statistiquement non significative ($p = 0.25$) entre la durée du coach et le ratio de matchs nuls.
+- [({number})](#hc_loss_vs_tenure) une corrélation négative modérée ($r = −0.37$) statistiquement significative ($p = 0.00$) entre la durée du coach et le ratio de défaites.
 
-Il est à noter que les trois corrélations sont statistiquement significatives, étant donné que les valeurs de p sont inférieures (ou égales) à 0.05, qui est notre seuil d'acceptation. Ainsi, selon le coefficient de corrélation de Pearson 
-r, nous observons que lorsque qu'un entraîneur gagne ses matchs, il augmente en même temps sa durée à la tête de l'équipe. En revanche, pour les défaites, plus il y en a, moins longtemps il reste coach de l'équipe. Les résultats neutres, représentés par les matchs nuls, ne jouent pas en faveur du coach, étant considérés comme un résultat moyen voire mauvais (r négatif). Par conséquent, plus il y aura de matchs nuls, plus la durée du coach en tant que leader de l'équipe diminuera.
+Il est à noter que deux des trois corrélations sont statistiquement significatives, étant donné que les valeurs de p sont inférieures à 0.05, qui est notre seuil d'acceptation. Ainsi, selon le coefficient de corrélation de Pearson 
+r, nous observons que lorsque qu'un entraîneur gagne ses matchs, il augmente en même temps sa durée à la tête de l'équipe. En revanche, pour les défaites, plus il y en a, moins longtemps il reste coach de l'équipe. Les résultats neutres, représentés par les matchs nuls, non pas de signification statistique au vue du coefficient p > 0.05.
 
 #### Lien plus fin entre ancienneté du coach et performance de l'équipe
 
