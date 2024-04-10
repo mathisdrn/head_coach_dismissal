@@ -5,15 +5,12 @@ dependencies:
   - python=3.11
   - pandas
   - numpy
+  - scikit-learn
+  - statsmodels
   - pyarrow
   - matplotlib
   - seaborn
-  - scikit-learn
-  - ipywidgets
-  - ipykernel
   - thefuzz
-  - jupyterlab>=4.0.0
-  - jupyterlab-myst>=2.0.0
-  - myst-nb
   - mystmd
-  - r-irkernel # R kernel for 02 - Data extraction.ipynb
+  - ipykernel
+  - r-irkernel # R kernel for 00 - Data extraction.ipynb
