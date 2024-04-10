@@ -65,8 +65,6 @@ La récupération des données footballistique a été effectué à l'aide du pa
 
 Le pré-traitement, l'analyse et la visualisation des données a été effectué sous Python à l'aide de librairies standards : Pandas, Numpy, Matplotlib, Seaborn, Scipy.
 
-La création d'un tableau de bord interactif a été réalisé à l'aide de la librairie ipywidgets.
-
 L'écriture de ce papier a été réalisé dans un fichier Markdown.
 
 [MyST](https://mystmd.org/) fait partie d'un écosystème d'outils qui chercher à améliorer le travail de communication scientifique en favorisant le développement d'une science reproducible et indexable. Cet outil a été utilisé pour permettre la diffusion de ce papier de recherche au format d'un [site statique](https://mathisdrn.github.io/head_coach_dismissal/) et d'un [PDF](https://raw.githubusercontent.com/mathisdrn/head_coach_dismissal/master/exports/head_coach_dismissal.pdf) répondant aux exigences de qualité scientifique.
