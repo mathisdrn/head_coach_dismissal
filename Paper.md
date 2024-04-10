@@ -63,7 +63,7 @@ L'intégralité du travail de récupération, de pré-traitement, d'analyse et v
 
 La récupération des données footballistique a été effectué à l'aide du package R [WorldFootBallR](https://github.com/JaseZiv/worldfootballR/). Ce package est régulièrement mis à jour et implémente des outils de web scraping afin d'extraire les données des principaux sites footballistiques.
 
-Le pré-traitement, l'analyse et la visualisation des données a été effectué sous Python à l'aide de librairies standards : Pandas, Numpy, Matplotlib, Seaborn, Scipy, Statsmodels et Scikit-learn. 
+Le pré-traitement, l'analyse et la visualisation des données a été effectué sous Python à l'aide de librairies standards : Pandas, Numpy, Matplotlib, Seaborn, Scipy.
 
 La création d'un tableau de bord interactif a été réalisé à l'aide de la librairie ipywidgets.
 
@@ -73,11 +73,11 @@ L'écriture de ce papier a été réalisé dans un fichier Markdown.
 
 MyST permet de réutiliser les entrées et les sorties des Notebooks Jupyter. Ainsi l'ensemble des figures, tableaux et une majorité des variables présentes dans ce papier sont directement issus des Notebooks Jupyter. À titre d'exemple, il est possible de renouveller l'intégralité de l'étude à d'autres ligues ou d'autres périodes en modifiant simplement les valeurs des variables utilisées dans les Notebooks Jupyter :
 
-```{code} r
+:::code} r
 :filename: 00 Data extraction.ipynb
 country <- c("ENG", "ESP", "ITA", "GER", "FRA")
 year <- c(2018, 2019, 2020, 2021, 2022)
-```
+:::
 
 Enfin, la lecture de @DataViz a permis d'améliorer la qualité des graphiques et de la présentation des données en les rendants plus clairs et informatifs.
 
@@ -97,8 +97,7 @@ Un second jeu de données concernant les entraîneurs sportifs est récupéré �
 ![](#match_results)
 :::
 
-```{embed} #split_match_results
-```
+![](#split_match_results)
 
 :::{table} Extrait du jeu de donnée sur les mandats des entraîneurs sportif
 :label: head_coach1
@@ -109,8 +108,7 @@ On filtre dans un premier temps les entraîneurs qui n'ont pas été actif entre
 
 De plus, en vérifiant la qualité des données, nous avons remarqué qu'il existait parfois plus d'un coach pour une même période donnée :
 
-```{embed} #overlapping_coach
-```
+![](#overlapping_coach)
 
 :::{table} Example of inconsistency in the head coach data
 :label: hc_inconsistency1
@@ -119,30 +117,38 @@ De plus, en vérifiant la qualité des données, nous avons remarqué qu'il exis
 
 On exclu ces enregistrements du jeu de donnée.
 
-```{embed} #join_head_coach_match
-```
+![](#join_head_coach_match)
 
-```{embed} #inconsistent_team_names
-```
+
+![](#inconsistent_team_names)
 
 L'algorithme de la distance Levenshtein [@Levenshtein1965BinaryCC] a été utilisé pour faire correspondre les noms des équipes. Cet algorithme permet de calculer la distance entre deux chaînes de caractères en mesurant le nombre minimum d'opérations nécessaires pour transformer une chaîne en une autre.
 
-```{code} python
+:::{code} python
 :caption: Utilisation de l\'algorithme de la distance Levenshtein
 :linenos:
 from thefuzz import process
 
 team_name_mapping = {}
 
-for coach_team in coach_teams:
-    matching_scores = process.extract(coach_team, match_teams, limit=1)
-    
-    if len(matching_scores) != 0 and matching_scores[0][1] >= 60:
-        team_name_mapping[coach_team] = matching_scores[0][0]
-    else:
-        team_name_mapping[coach_team] = None
-        print(f"No match found for {coach_team}")
-```
+# For each country
+for country in coach_teams_by_country.index:
+    # Get teams for this country
+    coach_teams = coach_teams_by_country[country]
+    match_teams = match_teams_by_country.get(country, [])
+
+    # For each team in coach_teams
+    for coach_team in coach_teams:
+        # Find the best match in match_teams
+        matching_scores = process.extract(coach_team, match_teams, limit=1)
+
+        if len(matching_scores) != 0 and matching_scores[0][1] >= 60:
+            team_name_mapping[coach_team] = matching_scores[0][0]
+        else:
+            team_name_mapping[coach_team] = None
+            print(f"No match found for {coach_team} among {match_teams} in {country}")
+:::
+
 :::{table} Exemple de correspondance des noms d'équipes
 :label: team_match_table1
 ![](#team_match_table)
@@ -157,8 +163,7 @@ L'ancienneté du coach sportif au sein de l'équipe lors du match est ajouté à
 
 ## Présentation des données
 
-```{embed} #match_data_summary
-````
+![](#match_data_summary)
 
 :::{table} Summary of the match data
 :label: data_summary1
@@ -167,8 +172,7 @@ L'ancienneté du coach sportif au sein de l'équipe lors du match est ajouté à
 
 ### L'avantage de jouer à domicile
 
-:::{embed} #home_advantage_text
-:::
+![](#home_advantage_text)
 
 :::{figure} #venue_effect
 :name: venue_effect1
@@ -214,19 +218,21 @@ La p-value (valeur de $p$) est une mesure statistique utilisée pour déterminer
 
 % Paragraphe introductif
 
+La [](#hc_per_club1) nous informe quand à la distribution du nombre d'entraîneurs employés par les clubs durant la période 2017 - 2022. On observe que plus de 85% des clubs ont employés au moins 3 entraîneurs différents suggérant qu'il y a un renouvellement régulier des entraîneurs dans les clubs de football.
+
 :::{figure} #hc_per_club
 :name: hc_per_club1
 Proportion of Clubs by Number of Head Coaches Appointed (2017 - 2022)
 :::
 
-La [](#hc_per_club1) nous informe quand à la distribution du nombre d'entraîneurs employés par les clubs durant la période 2017 - 2022. On observe que plus de 85% des clubs ont employés au moins 3 entraîneurs différents suggérant qu'il y a un renouvellement régulier des entraîneurs dans les clubs de football.
+La [](#hc_per_club_per_league1) montre que les entraîneurs de la Premier League restent en poste plus longtemps que ceux des autres ligues. De plus, les équipes de la Premier League changent moins souvent d'entraîneur que celles des autres ligues. À l'inverse, la LaLiga renouvelle fréquemment ses entraîneur.
 
 :::{figure} #hc_per_club_per_league
 :name: hc_per_club_per_league1
 Average Number of Head Coaches Appointed per Club versus League (2017 - 2022)
 :::
 
-La [](#hc_per_club_per_league1) montre que les entraîneurs de la Premier League restent en poste plus longtemps que ceux des autres ligues. De plus, les équipes de la Premier League changent moins souvent d'entraîneur que celles des autres ligues. À l'inverse, la LaLiga renouvelle fréquemment ses entraîneur.
+Les [](#club_win_vs_cc), [](#club_draw_vs_cc) et [](#club_loss_vs_cc) s'intéressent aux ratios de victoires, de matchs nuls et de défaites des clubs en fonction du nombre d'entraîneurs nommés à la tête de l'équipe durant la période 2017 - 2022. Ces relations pourraient montrer l'effet de la fréquence de remplacement d'un coach sur les performances de l'équipe. 
 
 :::{figure} #club_win_ratio_over_coach_count
 :name: club_win_vs_cc
@@ -243,7 +249,7 @@ Draw Ratio of Clubs versus Number of Head Coaches Appointed by Club
 Loss Ratio of Clubs versus Number of Head Coaches Appointed by Club
 :::
 
-Les [](#club_win_vs_cc), [](#club_draw_vs_cc) et [](#club_loss_vs_cc) s'intéressent aux ratios de victoires, de matchs nuls et de défaites des clubs en fonction du nombre d'entraîneurs nommés à la tête de l'équipe durant la période 2017 - 2022. Ces relations pourraient montrer l'effet de la fréquence de remplacement d'un coach sur les performances de l'équipe. Ainsi, nous observons :
+Ainsi, nous observons :
 - [({number})](#club_win_vs_cc) une corrélation négative modérée ($r = −0.27$) statistiquement significative ($p = 0.03$) entre le nombre d'entraîneurs nommés par le club et son ratio de victoires.
 - [({number})](#club_draw_vs_cc) une corrélation positive modérée ($r = 0.25$) statistiquement significative ($p = 0.04$) entre le nombre d'entraîneurs nommés par le club et son ratio de matchs nuls.
 - [({number})](#club_loss_vs_cc) une corrélation positive faible ($r = 0.24$) statistiquement significative ($p = 0.05$) entre le nombre d'entraîneurs nommés par le club et son ratio de défaites.
@@ -325,7 +331,7 @@ La [](#hc_tenure1) montre la distribution de l'ancienneté des entraîneurs spor
 Average Head Coach Tenure for Completed Appointments per League
 :::
 
-Les [](#hc_tenure_per_league1)  à l'ancienneté des entraîneurs sportif et au renouvellement des entraîneurs sportifs par rapport aux ligues d'interêt.
+La [](#hc_tenure_per_league1) s'intéresse à l'ancienneté des entraîneurs sportif et au renouvellement des entraîneurs sportifs par rapport aux ligues d'interêt.
 
 :::{figure} #hc_win_ratio_over_days
 :name: hc_win_vs_tenure
@@ -388,6 +394,8 @@ L'ancienneté, tout entraîneurs confondus a un effet positif sur la performance
 Néanmoins, il est aussi probable que les équipes qui ont de bons résultats ont tendance à garder leur entraîneurs plus longtemps, ce qui peut expliquer en partie la corrélation positive entre l'ancienneté du coach et la performance de l'équipe.
 
 #### Une visualisation graphique de l'effet de l'ancienneté du coach sur la performance de l'équipe
+
+![](#match_stats)
 
 :::{figure} #match_outcome_over_coach_tenure
 :name: match_outcome_vs_days
