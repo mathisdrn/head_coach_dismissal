@@ -2,11 +2,11 @@
 version: 1
 project:
   title: Head coach dismissal effect on football team performance
-  github: https://github.com/mathisdrn/head_coach_dismissal
+  github: https://github.com/mathisdrn/head_coach_dismissal/
   license: 
     content: CC-BY-SA-4.0
     code: MIT
-  subject: research 
+  subject: research
   date: 2024/02/10
   authors: 
     - name: Mathis Derenne
@@ -23,7 +23,29 @@ project:
       institution: University of Rennes
   exports:
     - format: typst
-      article: Paper.md
+      template: lapreprint-typst
+      output: ./exports/head_coach_dismissal.pdf
+      articles:
+        - file: Paper.md
+  downloads:
+  - file: https://raw.githubusercontent.com/mathisdrn/head_coach_dismissal/master/exports/head_coach_dismissal.pdf
+    title: Download PDF version
+    filename: head_coach_dismissal.pdf
+    # - format: pdf
+    #   template: arxiv_two_column
+    #   output: ./exports/head_coach_dismissal_arxiv.pdf
+    #   articles:
+    #       - file: Paper.md
+    # - format: pdf
+    #   template: lapreprint
+    #   output: ./exports/head_coach_dismissal_lapreprint.pdf
+    #   articles:
+    #       - file: Paper.md
+    # - format: pdf
+    #   template: arxiv_nips
+    #   output: ./exports/head_coach_dismissal_arxiv_nips.pdf
+    #   articles:
+    #       - file: Paper.md
 site:
   title: "Head coach dismissal effect on team performance"
   template: article-theme

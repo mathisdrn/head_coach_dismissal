@@ -6,31 +6,6 @@ banner: ./misc/banner.jpg
 license: CC-BY-4.0
 keywords: coach dismissal, team performance
 date: 04/14/2024
-downloads:
-  - file: https://raw.githubusercontent.com/mathisdrn/head_coach_dismissal/master/exports/head_coach_dismissal.pdf
-    title: Download PDF version
-    filename: head_coach_dismissal.pdf
-exports:
-  - format: typst
-    template: lapreprint-typst
-    output: ./exports/head_coach_dismissal.pdf
-    articles:
-        - file: Paper.md
-  - format: pdf
-    template: arxiv_two_column
-    output: ./exports/head_coach_dismissal_arxiv.pdf
-    articles:
-        - file: Paper.md
-  - format: pdf
-    template: lapreprint
-    output: ./exports/head_coach_dismissal_lapreprint.pdf
-    articles:
-        - file: Paper.md
-  - format: pdf
-    template: arxiv_nips
-    output: ./exports/head_coach_dismissal_arxiv_nips.pdf
-    articles:
-        - file: Paper.md
 ---
 
 +++ {"part": "abstract"}
@@ -170,7 +145,7 @@ L'ancienneté du coach sportif au sein de l'équipe lors du match est ajouté à
 
 :::{table} Summary of the match data
 :label: data_summary1
-:aligh: center
+:align: center
 ![](#data_summary)
 :::
 
