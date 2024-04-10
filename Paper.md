@@ -92,6 +92,7 @@ Un second jeu de données concernant les entraîneurs sportifs est récupéré �
 
 :::{table} Extrait du jeu de donnée des résultats de matchs
 :label: match-results1
+:align: center
 ![](#match_results)
 :::
 
@@ -99,6 +100,7 @@ Un second jeu de données concernant les entraîneurs sportifs est récupéré �
 
 :::{table} Extrait du jeu de donnée sur les mandats des entraîneurs sportif
 :label: head_coach1
+:align: center
 ![](#head_coach)
 :::
 
@@ -110,6 +112,7 @@ De plus, en vérifiant la qualité des données, nous avons remarqué qu'il exis
 
 :::{table} Example of inconsistency in the head coach data
 :label: hc_inconsistency1
+:align: center
 ![](#hc_inconsistency)
 :::
 
@@ -149,6 +152,7 @@ for country in coach_teams_by_country.index:
 
 :::{table} Exemple de correspondance des noms d'équipes
 :label: team_match_table1
+:align: center
 ![](#team_match_table)
 :::
 
@@ -156,6 +160,7 @@ L'ancienneté du coach sportif au sein de l'équipe lors du match est ajouté à
 
 :::{table} Extrait du jeu de donnée sur les matchs après pré-traitement
 :label: final_match_results1
+:align: center
 ![](#final_match_results)
 :::
 
@@ -165,6 +170,7 @@ L'ancienneté du coach sportif au sein de l'équipe lors du match est ajouté à
 
 :::{table} Summary of the match data
 :label: data_summary1
+:aligh: center
 ![](#data_summary)
 :::
 
@@ -174,6 +180,9 @@ L'ancienneté du coach sportif au sein de l'équipe lors du match est ajouté à
 
 :::{figure} #venue_effect
 :name: venue_effect1
+:align: center
+:height: 2em
+:width: 2em
 Venue effect on team's performance (2017 - 2022)
 :::
 
@@ -183,6 +192,7 @@ Les saisons de football sont divisées en deux périodes : la saison régulière
 
 :::{figure} #match_distribution
 :name: match_distribution1
+:align: center
 Monthly Distribution of Matches (2017 - 2022)
 :::
 
@@ -191,11 +201,13 @@ Monthly Distribution of Matches (2017 - 2022)
 
 :::{figure} #hc_appointment 
 :name: hc_appointment1
+:align: center
 Monthly Distribution of Head Coaches Appointments
 :::
 
 :::{figure} #hc_dismissal 
 :name: hc_dismissal1
+:align: center
 Monthly Distribution of Head Coaches Dismissals
 :::
 
@@ -220,6 +232,7 @@ La [](#hc_per_club1) nous informe quand à la distribution du nombre d'entraîne
 
 :::{figure} #hc_per_club
 :name: hc_per_club1
+:align: center
 Proportion of Clubs by Number of Head Coaches Appointed (2017 - 2022)
 :::
 
@@ -227,6 +240,7 @@ La [](#hc_per_club_per_league1) montre que les entraîneurs de la Premier League
 
 :::{figure} #hc_per_club_per_league
 :name: hc_per_club_per_league1
+:align: center
 Average Number of Head Coaches Appointed per Club versus League (2017 - 2022)
 :::
 
@@ -234,16 +248,19 @@ Les [](#club_win_vs_cc), [](#club_draw_vs_cc) et [](#club_loss_vs_cc) s'intéres
 
 :::{figure} #club_win_ratio_over_coach_count
 :name: club_win_vs_cc
+:align: center
 Win Ratio of Clubs versus Number of Head Coaches Appointed by Club
 :::
 
 :::{figure} #club_draw_ratio_over_coach_count
 :name: club_draw_vs_cc
+:align: center
 Draw Ratio of Clubs versus Number of Head Coaches Appointed by Club
 :::
 
 :::{figure} #club_loss_ratio_over_coach_count
 :name: club_loss_vs_cc
+:align: center
 Loss Ratio of Clubs versus Number of Head Coaches Appointed by Club
 :::
 
@@ -261,6 +278,7 @@ Cela pourrait s'expliquer par le fait que les entraîneurs ont besoin de temps p
 
 :::{figure} #club_per_hc
 :name: club_per_hc1
+:align: center
 Proportion of Head Coaches by Number of Club Appointments (2017 - 2022)
 :::
 
@@ -319,6 +337,7 @@ Cela pourrait s'expliquer par le fait que les entraîneurs performant soient dav
 
 :::{figure} #hc_tenure 
 :name: hc_tenure1
+:align: center
 Empirical Cumulative Distribution Function of Head Coaches Tenure For Completed Appointments
 :::
 
@@ -326,6 +345,7 @@ La [](#hc_tenure1) montre la distribution de l'ancienneté des entraîneurs spor
 
 :::{figure} #hc_tenure_per_league 
 :name: hc_tenure_per_league1
+:align: center
 Average Head Coach Tenure for Completed Appointments per League
 :::
 
@@ -333,16 +353,19 @@ La [](#hc_tenure_per_league1) s'intéresse à l'ancienneté des entraîneurs spo
 
 :::{figure} #hc_win_ratio_over_days
 :name: hc_win_vs_tenure
+:align: center
 Win Ratio of Head Coaches Appointments versus Head Coach Tenure
 :::
 
 :::{figure} #hc_draw_ratio_over_days
 :name: hc_draw_vs_tenure
+:align: center
 Draw Ratio of Head Coaches Appointments versus Head Coach Tenure
 :::
 
 :::{figure} #hc_loss_ratio_over_days
 :name: hc_loss_vs_tenure
+:align: center
 Loss Ratio of Head Coaches Appointments versus Head Coach Tenure
 :::
 
@@ -362,6 +385,7 @@ r, nous observons que lorsque qu'un entraîneur gagne ses matchs, il augmente en
 
 :::{figure} #match_distribution_over_coach_tenure
 :name: match_distribution_over_coach_tenure1
+:align: center
 Distribution of Matches versus Head Coach Tenure on Match Day
 :::
 
@@ -371,16 +395,19 @@ Distribution of Matches versus Head Coach Tenure on Match Day
 
 :::{figure} #win_over_coach_tenure
 :name: match_win_vs_days
+:align: center
 Match Win Outcome versus Head Coach Tenure on Match Day
 :::
 
 :::{figure} #draw_over_coach_tenure
 :name: match_draw_vs_days
+:align: center
 Match Draw Outcome versus Head Coach Tenure on Match Day
 :::
 
 :::{figure} #loss_over_coach_tenure
 :name: match_loss_vs_days
+:align: center
 Match Loss Outcome versus Head Coach Tenure on Match Day
 :::
 
@@ -397,6 +424,7 @@ Néanmoins, il est aussi probable que les équipes qui ont de bons résultats on
 
 :::{figure} #match_outcome_over_coach_tenure
 :name: match_outcome_vs_days
+:align: center
 Weighted Rolling Average of Match Outcome versus Head Coach Tenure on Match Day
 :::
 
