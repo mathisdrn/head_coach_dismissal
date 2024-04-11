@@ -1,7 +1,7 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
-  title: Head coach dismissal effect on football team performance
+  title: Étude des relations entre l'entraîneur sportif et la performance du club
   github: https://github.com/mathisdrn/head_coach_dismissal/
   license: 
     content: CC-BY-SA-4.0
@@ -29,7 +29,7 @@ project:
         - file: Paper.md
   downloads:
   - file: https://raw.githubusercontent.com/mathisdrn/head_coach_dismissal/master/exports/head_coach_dismissal.pdf
-    title: Download PDF version
+    title: PDF version
     filename: head_coach_dismissal.pdf
     # - format: pdf
     #   template: arxiv_two_column

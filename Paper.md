@@ -17,6 +17,9 @@ This paper aims to explore the relationship between the team's performance and s
 ### Cadre de la problématique
 
 % Écrire l'introduction
+% Men's first division football leagues
+% 2015 - 2023
+% Relation entre performance de l'équipe et entraîneur sportif
 
 ### Source des données
 
@@ -61,44 +64,41 @@ L'extraction se fait aisément à l'aide de [WorldFootballR](https://github.com/
 Un premier jeu de données concernant les matchs est récupéré à partir de [Fbref](). Il contient des informations sur les matchs de football, notamment les équipes qui ont joués, le score final, le lieu du match et la date du match.
 Un second jeu de données concernant les entraîneurs sportifs est récupéré à partir de [Transfermakt](). Il contient des informations sur les entraîneurs de football, notamment leur nom, leur date de naissance, leur nationalité, les dates de début et de fin de leur mandat, ainsi que des statistiques sur les matchs qu'ils ont dirigés.
 
-## Pré-traitement des données
-
-% Paragraphe introductif + préciser que les données seront présentés après le pré-traitement
-
-:::{table} Extrait du jeu de donnée des résultats de matchs
-:label: match-results1
-:align: center
-![](#match_results)
-:::
-
-![](#split_match_results)
-
 :::{table} Extrait du jeu de donnée sur les mandats des entraîneurs sportif
 :label: head_coach1
 :align: center
 ![](#head_coach)
 :::
 
-On filtre dans un premier temps les entraîneurs qui n'ont pas été actif entre 2017 et 2022.
-
-De plus, en vérifiant la qualité des données, nous avons remarqué qu'il existait parfois plus d'un coach pour une même période donnée :
-
-![](#overlapping_coach)
-
-:::{table} Example of inconsistency in the head coach data
-:label: hc_inconsistency1
+:::{table} Extrait du jeu de donnée sur les matchs
+:label: match_results1
 :align: center
-![](#hc_inconsistency)
+![](#match_results)
 :::
 
-On exclu ces enregistrements du jeu de donnée.
+## Traitement des données
 
-![](#join_head_coach_match)
+Le traitement des données est une étape essentielle dans le processus d'analyse des données. Il permet de vérifier l'intégrité des données, de les adapter aux besoins de l'étude et de les préparer pour l'analyse statistique.
 
+Davantage de détails sur le traitement des données sont disponibles dans les Notebooks Jupyter associés à ce papier.
+
+### Données d'interêts
+
+On exclut des données de résultat de matchs, les matchs ne concernant pas des équipes de première division.
+De plus, on exclut des données les entraîneurs sportifs n'ayant pas été actif entre le début de la saison 2015 et la fin de la saison 2023 (14/02/2024). 
+
+### Correspondance des noms d'équipes
 
 ![](#inconsistent_team_names)
 
-L'algorithme de la distance Levenshtein [@Levenshtein1965BinaryCC] a été utilisé pour faire correspondre les noms des équipes. Cet algorithme permet de calculer la distance entre deux chaînes de caractères en mesurant le nombre minimum d'opérations nécessaires pour transformer une chaîne en une autre.
+:::{table} Exemple de correspondance des noms d'équipes
+:label: team_match_table1
+:align: center
+![](#team_match_table)
+:::
+
+Nous avons utilisé l'algorithme de la distance Levenshtein [@Levenshtein1965BinaryCC] afin de faire correspondre les équipes des mandats d'entraîneurs aux équipes des résultats de matchs. Nous restreignons par ailleurs la recherche d'une équipe correspondante à la liste des équipes du pays correspondant afin de limiter le nombre de correspondances possibles.
+L'ajustement du score de Levenshtein a permis de rapidement vérifier la validité des correspondances de plus faible certitude.
 
 :::{code} python
 :caption: Utilisation de l\'algorithme de la distance Levenshtein
@@ -125,13 +125,26 @@ for country in coach_teams_by_country.index:
             print(f"No match found for {coach_team} among {match_teams} in {country}")
 :::
 
-:::{table} Exemple de correspondance des noms d'équipes
-:label: team_match_table1
+### Intégrité des données
+
+La vérification de la qualité des données est une étape essentielle dans le processus d'analyse des données. Elle permet de s'assurer que les données sont complètes, cohérentes et fiables. Ces vérifications ont été effectués par le biais d'hypothèses simples sur les données :
+- un seul coach par équipe à une date donnée
+- le nombre total de match est égale à la somme du nombre de victoires, de matchs nuls et de défaites
+- etc.
+
+![](#overlapping_coach)
+
+:::{table} Example of inconsistency in the head coach data
+:label: hc_inconsistency1
 :align: center
-![](#team_match_table)
+![](#hc_inconsistency)
 :::
 
-L'ancienneté du coach sportif au sein de l'équipe lors du match est ajouté à chaque ligne des données de résultat de match. Le tableau suivant est ainsi obtenu :
+### Modification des données des matchs
+
+Les [données sur les résultats des matchs](#match_results1) sont modifiés de manière à ce que chaque match soit divisé en deux lignes : une pour chaque équipe. Ainsi, chaque ligne représente le résultat d'une équipe lors d'un match : la date du match, le résultat final, la présence ou non de l'équipe à domicile, le score final de l'équipe ainsi que le nom de l'équipe.
+
+De plus, nous ajoutons aux données de match l'ancienneté du coach au sein de l'équipe lorsque ce match a été joué. Cela nous permettra de voir si l'ancienneté de l'entraîneur au sein d'une équipe a un impact sur sa performance. Le tableau suivant est ainsi obtenu :
 
 :::{table} Extrait du jeu de donnée sur les matchs après pré-traitement
 :label: final_match_results1
@@ -349,6 +362,7 @@ Les [](#hc_win_vs_tenure) et [](#hc_draw_vs_tenure) et [](#hc_loss_vs_tenure) s'
 - [({number})](#hc_draw_vs_tenure) une corrélation négative faible ($r = −0.06$) mais statistiquement non significative ($p = 0.25$) entre la durée du coach et le ratio de matchs nuls.
 - [({number})](#hc_loss_vs_tenure) une corrélation négative modérée ($r = −0.37$) statistiquement significative ($p = 0.00$) entre la durée du coach et le ratio de défaites.
 
+% Réécrire en prenant example sur les autres paragraphes
 Il est à noter que deux des trois corrélations sont statistiquement significatives, étant donné que les valeurs de p sont inférieures à 0.05, qui est notre seuil d'acceptation. Ainsi, selon le coefficient de corrélation de Pearson 
 r, nous observons que lorsque qu'un entraîneur gagne ses matchs, il augmente en même temps sa durée à la tête de l'équipe. En revanche, pour les défaites, plus il y en a, moins longtemps il reste coach de l'équipe. Les résultats neutres, représentés par les matchs nuls, non pas de signification statistique au vue du coefficient p > 0.05.
 
