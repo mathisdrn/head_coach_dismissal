@@ -214,7 +214,7 @@ La p-value (valeur de $p$) est une mesure statistique utilisée pour déterminer
 
 ### Fréquence de renouvellement du coach sur la performance du club
 
-% Paragraphe introductif
+Dans cette partie, nous allons étudier les effets de la fréquence de renouvellement des coachs sur la performance d'une équipe. L'objectif est de voir les effets sur les résultats obtenus lorsque qu'une équipe change régulièrement d'entraîneur.
 
 La [](#hc_per_club1) nous informe quand à la distribution du nombre d'entraîneurs employés par les clubs durant la période 2017 - 2022. On observe que plus de 85% des clubs ont employés au moins 3 entraîneurs différents suggérant qu'il y a un renouvellement régulier des entraîneurs dans les clubs de football.
 
@@ -262,7 +262,7 @@ Cela pourrait s'expliquer par le fait que les entraîneurs ont besoin de temps p
 
 ### Mobilité des coachs sur la performance des équipes
 
-% Paragraphe introductif
+Ici, nous allons observer la relation entre les performances des entraîneurs et le nombre de clubs par lesquels ils sont passés. Cette relation nous permettra de voir si le nombre de clubs qu'un entraîneur a faits a un impact sur les résultats de l'équipe.
 
 :::{figure} #club_per_hc
 :name: club_per_hc1
@@ -270,7 +270,7 @@ Cela pourrait s'expliquer par le fait que les entraîneurs ont besoin de temps p
 Proportion of Head Coaches by Number of Club Appointments (2017 - 2022)
 :::
 
-Au cours de la période 2017 - 2022, plus de 55% des entraîneurs sportifs n'ont entrainé qu'un seul club. Environ 30% des entraîneurs ont entraîné 2 clubs et seulement 10% des entraîneurs ont entraîné plus de 3 clubs au cours de cette période (voir [](#club_per_hc1)).
+Au cours de la période 2017 - 2022, plus de 60% des entraîneurs sportifs n'ont entrainé qu'un seul club. Environ 20% des entraîneurs ont entraîné 2 clubs et seulement 10% des entraîneurs ont entraîné plus de 3 clubs au cours de cette période (voir [](#club_per_hc1)).
 
 :::{figure}
 :name: hc_results_over_appointment_count
@@ -321,7 +321,7 @@ Cela pourrait s'expliquer par le fait que les entraîneurs performant soient dav
 
 ### Ancienneté du coach sur la performance de l'équipe 
 
-% paragraphe introductif
+Dans cette partie, nous cherchons une éventuelle relation entre l'expérience qu'un entraîneur a pu accumuler avec son ancienneté et les performances de l'équipe lorsqu'il est à sa tête. L'ancienneté pourrait bien être un facteur important au sein d'une équipe, car l'entraîneur gagne en expérience au fil des clubs par lesquels il est passé. Mais cette expérience a-t-elle une réelle incidence sur les résultats obtenus ?
 
 :::{figure} #hc_tenure 
 :name: hc_tenure1
@@ -363,12 +363,12 @@ Les [](#hc_win_vs_tenure) et [](#hc_draw_vs_tenure) et [](#hc_loss_vs_tenure) s'
 - [({number})](#hc_loss_vs_tenure) une corrélation négative modérée ($r = −0.37$) statistiquement significative ($p = 0.00$) entre la durée du coach et le ratio de défaites.
 
 % Réécrire en prenant example sur les autres paragraphes
-Il est à noter que deux des trois corrélations sont statistiquement significatives, étant donné que les valeurs de p sont inférieures à 0.05, qui est notre seuil d'acceptation. Ainsi, selon le coefficient de corrélation de Pearson 
-r, nous observons que lorsque qu'un entraîneur gagne ses matchs, il augmente en même temps sa durée à la tête de l'équipe. En revanche, pour les défaites, plus il y en a, moins longtemps il reste coach de l'équipe. Les résultats neutres, représentés par les matchs nuls, non pas de signification statistique au vue du coefficient p > 0.05.
+Il est à noter que deux des trois corrélations sont statistiquement significatives, étant donné que les valeurs de p sont inférieures à 0.05, qui est notre seuil d'acceptation. Ainsi, selon le coefficient de corrélation de Pearson r, nous observons que lorsque qu'un entraîneur gagne ses matchs, il augmente en même temps sa durée à la tête de l'équipe. En revanche, pour les défaites, plus il y en a, moins longtemps il reste coach de l'équipe. Les résultats neutres, représentés par les matchs nuls, non pas de signification statistique au vue du coefficient p > 0.05.
 
 #### Lien plus fin entre ancienneté du coach et performance de l'équipe
 
-% Paragraphe introductif
+Cette partie est différente de la précédente, car ici, on associe les résultats de l'entraîneur à son ancienneté lors du match. Dans ce cas, nous avons un lien plus précis et statistiquement significatif entre les deux variables que lorsque l'on regarde la performance moyenne de l'entraîneur par rapport à son ancienneté dans un club.
+
 
 % Expliquer le graphique
 
