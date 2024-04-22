@@ -18,11 +18,9 @@ Werder Bremen,Bundesliga,Germany,Alexander Nouri,2016-10-02,2017-10-30,393,40,14
 Stuttgart,Bundesliga,Germany,Alexander Zorniger,2015-07-01,2015-11-24,146,15,5,1,9,1
 Hoffenheim,Bundesliga,Germany,Alfred Schreuder,2019-07-01,2020-06-09,344,33,14,7,12,1
 Hellas Verona,Serie A,Italy,Alfredo Aglietti,2019-05-02,2019-06-30,59,7,4,1,2,1
-Rayo Vallecano,LaLiga,Spain,Andoni Iraola,2020-08-06,2023-06-30,1058,136,56,30,50,1
 Hellas Verona,Serie A,Italy,Andrea Mandorlini,2010-11-09,2015-11-30,1847,216,94,59,63,1
 Genoa,Serie A,Italy,Andrea Mandorlini,2017-02-20,2017-04-10,49,6,1,1,4,2
 Juventus,Serie A,Italy,Andrea Pirlo,2020-08-08,2021-05-28,293,52,34,10,8,1
-Udinese,Serie A,Italy,Andrea Sottil,2022-06-07,2023-10-24,504,50,13,19,18,1
 Udinese,Serie A,Italy,Andrea Stramaccioni,2014-07-01,2015-06-04,338,41,12,11,18,1
 Wolfsburg,Bundesliga,Germany,Andries Jonker,2017-02-27,2017-09-18,203,19,8,4,7,1
 Genoa,Serie A,Italy,Andriy Shevchenko,2021-11-07,2022-01-15,69,11,1,3,7,1
@@ -33,9 +31,9 @@ Toulouse,Ligue 1,France,Antoine Kombouaré,2019-10-14,2020-01-05,83,13,2,0,11,1
 Nantes,Ligue 1,France,Antoine Kombouaré,2021-02-11,2023-05-09,817,109,42,28,39,2
 Chelsea,Premier League,England,Antonio Conte,2016-07-01,2018-07-13,742,106,70,15,21,1
 Milan,Serie A,Italy,Antonio Conte,2019-05-31,2021-05-26,726,102,64,23,15,2
-Tottenham,Premier League,England,Antonio Conte,2021-11-02,2023-03-26,509,76,41,12,23,3
 Celta Vigo,LaLiga,Spain,Antonio Mohamed,2018-07-01,2018-11-12,134,13,3,6,4,1
-Eint Frankfurt,Bundesliga,Germany,Armin Veh,2015-07-01,2016-03-06,249,27,6,9,12,1
+Stuttgart,Bundesliga,Germany,Armin Veh,2014-07-01,2014-11-24,146,13,2,3,8,1
+Eint Frankfurt,Bundesliga,Germany,Armin Veh,2015-07-01,2016-03-06,249,27,6,9,12,2
 Arsenal,Premier League,England,Arsène Wenger,1996-10-01,2018-06-30,7942,1234,715,267,252,1
 Real Sociedad,LaLiga,Spain,Asier Garitano,2018-07-01,2018-12-26,178,19,6,5,8,1
 Empoli,Serie A,Italy,Aurelio Andreazzoli,2017-12-17,2018-11-05,323,35,17,10,8,1
@@ -43,17 +41,14 @@ Empoli,Serie A,Italy,Aurelio Andreazzoli,2019-03-13,2019-06-30,109,11,5,1,5,2
 Genoa,Serie A,Italy,Aurelio Andreazzoli,2019-07-01,2019-10-22,113,9,2,2,5,3
 Empoli,Serie A,Italy,Aurelio Andreazzoli,2021-06-21,2022-06-01,345,41,12,11,18,4
 Lorient,Ligue 1,France,Bernard Casoni,2016-11-08,2017-05-29,202,31,10,6,15,1
-Mainz 05,Bundesliga,Germany,Bo Svensson,2021-01-04,2023-11-02,1032,104,39,26,39,1
 Liverpool,Premier League,England,Brendan Rodgers,2012-07-01,2015-10-04,1190,166,85,39,42,1
 Lyon,Ligue 1,France,Bruno Génésio,2015-12-24,2019-06-30,1284,185,101,37,47,1
-Bastia,Ligue 1,France,Bruno Génésio,2021-03-04,2023-11-19,990,124,63,25,36,2
 Wolfsburg,Bundesliga,Germany,Bruno Labbadia,2018-02-20,2019-06-30,495,50,22,10,18,1
 Stuttgart,Bundesliga,Germany,Bruno Labbadia,2022-12-05,2023-04-03,119,12,2,3,7,2
 Real Madrid,LaLiga,Spain,Carlo Ancelotti,2013-07-01,2015-05-25,693,119,89,14,16,1
 Bayern Munich,Bundesliga,Germany,Carlo Ancelotti,2016-07-01,2017-09-28,454,60,43,8,9,2
 Napoli,Serie A,Italy,Carlo Ancelotti,2018-07-01,2019-12-10,527,73,38,19,16,3
 Everton,Premier League,England,Carlo Ancelotti,2019-12-22,2021-06-30,556,67,31,14,22,4
-Celta Vigo,LaLiga,Spain,Carlos Carvalhal,2022-11-02,2023-06-30,240,29,10,8,11,1
 Valencia,LaLiga,Spain,Cesare Prandelli,2016-10-03,2016-12-30,88,10,3,3,4,1
 Genoa,Serie A,Italy,Cesare Prandelli,2018-12-07,2019-06-30,205,24,4,11,9,2
 Fiorentina,Serie A,Italy,Cesare Prandelli,2020-11-09,2021-03-23,134,23,6,6,11,3
@@ -61,7 +56,6 @@ Bastia,Ligue 1,France,Christian Gourcuff,2016-07-01,2017-11-07,494,55,19,17,19,1
 Nantes,Ligue 1,France,Christian Gourcuff,2019-08-08,2020-12-08,488,45,16,8,21,2
 Lille,Ligue 1,France,Christophe Galtier,2017-12-29,2021-06-30,1279,152,78,31,43,1
 Nice,Ligue 1,France,Christophe Galtier,2021-07-01,2022-06-30,364,43,24,7,12,2
-Paris S-G,Ligue 1,France,Christophe Galtier,2022-07-05,2023-06-30,360,50,34,6,10,3
 Lorient,Ligue 1,France,Christophe Pélissier,2019-05-29,2022-06-26,1124,112,40,24,48,1
 Nice,Ligue 1,France,Claude Puel,2012-05-23,2016-06-30,1499,169,69,34,66,1
 Nantes,Ligue 1,France,Claudio Ranieri,2017-07-01,2018-05-17,320,40,14,10,16,1
@@ -80,7 +74,6 @@ Genoa,Serie A,Italy,Davide Nicola,2019-12-28,2020-08-26,242,22,8,4,10,2
 Torino,Serie A,Italy,Davide Nicola,2021-01-19,2021-05-28,129,20,5,9,6,3
 Aston Villa,Premier League,England,Dean Smith,2018-10-10,2021-11-07,1124,138,56,27,55,1
 Bologna,Serie A,Italy,Delio Rossi,2015-05-04,2015-10-28,177,18,4,4,10,1
-Sevilla,LaLiga,Spain,Diego Alonso,2023-10-10,2023-12-16,67,14,2,5,7,1
 Bologna,Serie A,Italy,Diego López,2014-07-01,2015-05-04,307,40,16,15,9,1
 Granada,LaLiga,Spain,Diego Martínez,2018-07-01,2021-06-30,1095,146,69,30,47,1
 Wolfsburg,Bundesliga,Germany,Dieter Hecking,2013-01-01,2016-10-17,1385,165,83,39,43,1
@@ -97,15 +90,12 @@ Celta Vigo,LaLiga,Spain,Eduardo Berizzo,2014-07-01,2017-06-30,1095,148,61,36,51,
 Sevilla,LaLiga,Spain,Eduardo Berizzo,2017-07-01,2017-12-22,174,27,14,6,7,2
 Athletic Club,LaLiga,Spain,Eduardo Berizzo,2018-07-01,2018-12-04,156,15,2,8,5,3
 Celta Vigo,LaLiga,Spain,Eduardo Coudet,2020-11-12,2022-11-02,720,84,31,19,34,1
-Augsburg,Bundesliga,Germany,Enrico Maaßen,2022-07-01,2023-10-09,465,44,11,9,24,1
 Athletic Club,LaLiga,Spain,Ernesto Valverde,2013-07-01,2017-06-30,1460,213,101,46,66,1
 Barcelona,LaLiga,Spain,Ernesto Valverde,2017-07-01,2020-01-13,926,145,97,32,16,2
 Real Sociedad,LaLiga,Spain,Eusebio,2015-11-09,2018-03-18,860,112,46,23,43,1
 Sassuolo,Serie A,Italy,Eusebio Di Francesco,2014-03-03,2017-06-12,1197,142,52,39,51,1
 Roma,Serie A,Italy,Eusebio Di Francesco,2017-06-13,2019-03-07,632,87,46,18,23,2
 Hellas Verona,Serie A,Italy,Fabio Grosso,2018-06-21,2019-05-01,314,36,13,13,10,1
-Frosinone,Serie A,Italy,Fabio Grosso,2021-03-23,2023-06-30,829,86,42,24,20,2
-Lyon,Ligue 1,France,Fabio Grosso,2023-09-18,2023-11-30,73,7,1,2,4,3
 Hellas Verona,Serie A,Italy,Fabio Pecchia,2016-07-01,2018-06-30,729,86,31,18,37,1
 Milan,Serie A,Italy,Filippo Inzaghi,2014-06-09,2015-06-16,372,40,14,13,13,1
 Bologna,Serie A,Italy,Filippo Inzaghi,2018-07-01,2019-01-28,211,24,4,8,12,2
@@ -124,7 +114,6 @@ Udinese,Serie A,Italy,Gabriele Cioffi,2021-12-07,2022-06-07,182,24,9,7,8,1
 Hellas Verona,Serie A,Italy,Gabriele Cioffi,2022-06-14,2022-10-11,119,10,1,2,7,2
 Athletic Club,LaLiga,Spain,Gaizka Garitano,2018-12-05,2021-01-03,760,89,39,21,29,1
 Valencia,LaLiga,Spain,Gary Neville,2015-12-08,2016-03-30,113,28,10,7,11,1
-Bournemouth,Premier League,England,Gary O'Neil,2022-11-28,2023-06-19,203,25,7,2,16,1
 Milan,Serie A,Italy,Gennaro Gattuso,2017-11-28,2019-05-28,546,83,41,22,20,1
 Napoli,Serie A,Italy,Gennaro Gattuso,2019-12-11,2021-06-30,567,81,47,12,22,2
 Valencia,LaLiga,Spain,Gennaro Gattuso,2022-07-01,2023-01-30,213,22,7,5,10,3
@@ -136,7 +125,6 @@ Sassuolo,Serie A,Italy,Giuseppe Iachini,2017-11-27,2018-06-05,190,26,9,8,9,2
 Empoli,Serie A,Italy,Giuseppe Iachini,2018-11-06,2019-03-13,127,16,4,4,8,3
 Fiorentina,Serie A,Italy,Giuseppe Iachini,2019-12-23,2020-11-09,322,31,12,10,9,4
 Fiorentina,Serie A,Italy,Giuseppe Iachini,2021-03-24,2021-06-30,98,10,2,5,3,5
-Chelsea,Premier League,England,Graham Potter,2022-09-08,2023-04-02,206,31,12,8,11,1
 Betis,LaLiga,Spain,Gustavo Poyet,2016-05-11,2016-11-11,184,11,3,2,6,1
 Stuttgart,Bundesliga,Germany,Hannes Wolf,2016-09-21,2018-01-28,494,52,25,8,19,1
 Bayern Munich,Bundesliga,Germany,Hansi Flick,2019-11-03,2021-06-30,605,86,70,8,8,1
@@ -146,12 +134,12 @@ Lille,Ligue 1,France,Hervé Renard,2015-05-26,2015-11-11,169,14,3,7,4,1
 Lyon,Ligue 1,France,Hubert Fournier,2014-07-01,2015-12-23,540,72,35,15,22,1
 Udinese,Serie A,Italy,Igor Tudor,2019-03-20,2019-11-01,226,21,8,4,9,2
 Hellas Verona,Serie A,Italy,Igor Tudor,2021-09-14,2022-05-28,256,36,14,11,11,3
-Marseille,Ligue 1,France,Igor Tudor,2022-07-04,2023-06-30,361,48,27,7,14,4
 Real Sociedad,LaLiga,Spain,Imanol Alguacil,2018-03-19,2018-06-30,103,9,5,1,3,1
 Genoa,Serie A,Italy,Ivan Juric,2016-07-01,2017-02-19,233,28,8,7,13,1
 Genoa,Serie A,Italy,Ivan Juric,2017-04-10,2017-11-05,209,20,4,4,12,2
 Genoa,Serie A,Italy,Ivan Juric,2018-10-09,2018-12-06,58,8,0,3,5,3
 Hellas Verona,Serie A,Italy,Ivan Juric,2019-07-01,2021-05-28,697,79,24,25,30,4
+Real Sociedad,LaLiga,Spain,Jagoba Arrasate,2013-07-01,2014-11-03,490,68,26,18,24,1
 Mainz 05,Bundesliga,Germany,Jan-Moritz Lichte,2020-09-28,2020-12-28,91,12,1,3,8,1
 Bournemouth,Premier League,England,Jason Tindall,2020-08-08,2021-02-03,179,31,14,9,8,1
 Valencia,LaLiga,Spain,Javi Gracia,2020-07-27,2021-05-03,280,38,11,12,15,1
@@ -168,7 +156,6 @@ Sevilla,LaLiga,Spain,Jorge Sampaoli,2016-07-01,2017-05-31,334,53,27,12,14,1
 Marseille,Ligue 1,France,Jorge Sampaoli,2021-03-08,2022-07-01,480,67,37,16,14,2
 Sevilla,LaLiga,Spain,Jorge Sampaoli,2022-10-06,2023-03-20,165,31,13,6,12,3
 Granada,LaLiga,Spain,José González,2016-02-22,2016-06-30,129,13,5,4,4,1
-Sevilla,LaLiga,Spain,José Luis Mendilibar,2023-03-21,2023-10-08,201,28,11,9,8,1
 Granada,LaLiga,Spain,José Luis Oltra,2017-07-01,2018-03-19,261,32,14,7,11,1
 Chelsea,Premier League,England,José Mourinho,2013-07-01,2015-12-17,899,136,80,27,29,1
 Manchester Utd,Premier League,England,José Mourinho,2016-07-01,2018-12-18,900,144,84,31,29,2
@@ -182,13 +169,13 @@ Sevilla,LaLiga,Spain,Julen Lopetegui,2019-07-01,2022-10-06,1193,170,90,44,36,2
 Hoffenheim,Bundesliga,Germany,Julian Nagelsmann,2016-02-11,2019-06-30,1235,136,55,43,38,1
 Bayern Munich,Bundesliga,Germany,Julian Nagelsmann,2021-07-01,2023-03-24,631,84,60,14,10,2
 Bastia,Ligue 1,France,Julien Stéphan,2018-12-04,2021-03-01,818,110,49,24,37,1
-Udinese,Serie A,Italy,Julio Velázquez,2018-07-01,2018-11-13,135,13,2,3,8,1
+Betis,LaLiga,Spain,Julio Velázquez,2014-07-01,2014-11-25,147,16,8,3,5,1
+Udinese,Serie A,Italy,Julio Velázquez,2018-07-01,2018-11-13,135,13,2,3,8,2
 Bayern Munich,Bundesliga,Germany,Jupp Heynckes,2017-10-09,2018-06-30,264,41,33,3,5,1
 Dortmund,Bundesliga,Germany,Jürgen Klopp,2008-07-01,2015-06-30,2555,319,181,65,73,1
 Stuttgart,Bundesliga,Germany,Jürgen Kramny,2015-12-21,2016-06-30,192,18,5,3,10,1
 Mainz 05,Bundesliga,Germany,Kasper Hjulmand,2014-07-01,2015-02-17,231,24,5,10,9,1
 Paris S-G,Ligue 1,France,Laurent Blanc,2013-06-25,2016-06-22,1093,173,126,31,16,1
-Lyon,Ligue 1,France,Laurent Blanc,2022-10-09,2023-09-11,337,37,18,7,12,2
 Monaco,Ligue 1,France,Leonardo Jardim,2014-07-01,2018-10-11,1563,233,127,51,55,1
 Monaco,Ligue 1,France,Leonardo Jardim,2019-01-27,2019-12-27,334,37,14,10,13,2
 Manchester Utd,Premier League,England,Louis van Gaal,2014-07-14,2016-05-23,679,103,54,24,25,1
@@ -196,11 +183,9 @@ Udinese,Serie A,Italy,Luca Gotti,2019-11-01,2021-12-07,767,87,25,25,37,1
 Granada,LaLiga,Spain,Lucas Alcaraz,2016-10-19,2017-04-10,173,25,5,6,14,1
 Roma,Serie A,Italy,Luciano Spalletti,2016-01-14,2017-05-30,502,75,50,11,14,1
 Milan,Serie A,Italy,Luciano Spalletti,2017-06-09,2019-05-30,720,90,46,24,20,2
-Napoli,Serie A,Italy,Luciano Spalletti,2021-07-01,2023-06-30,729,96,62,16,18,3
 M'Gladbach,Bundesliga,Germany,Lucien Favre,2011-02-14,2015-09-20,1679,189,89,45,55,1
 Nice,Ligue 1,France,Lucien Favre,2016-07-01,2018-06-30,729,99,43,23,33,2
 Dortmund,Bundesliga,Germany,Lucien Favre,2018-07-01,2020-12-13,896,110,68,17,25,3
-Nice,Ligue 1,France,Lucien Favre,2022-07-01,2023-01-09,192,26,8,9,9,4
 Udinese,Serie A,Italy,Luigi De Canio,2016-03-14,2016-06-30,108,9,2,3,4,1
 Hellas Verona,Serie A,Italy,Luigi Delneri,2015-12-01,2016-06-30,212,26,6,7,13,1
 Udinese,Serie A,Italy,Luigi Delneri,2016-10-03,2017-11-21,414,44,15,8,21,2
@@ -214,7 +199,6 @@ West Ham,Premier League,England,Manuel Pellegrini,2018-07-01,2019-12-28,545,64,2
 Villarreal,LaLiga,Spain,Marcelino,2013-01-15,2016-08-10,1303,177,87,44,46,1
 Valencia,LaLiga,Spain,Marcelino,2017-07-01,2019-09-11,802,110,56,29,25,2
 Athletic Club,LaLiga,Spain,Marcelino,2021-01-04,2022-06-30,542,75,29,25,21,3
-Marseille,Ligue 1,France,Marcelino,2023-07-01,2023-09-20,81,7,2,3,2,4
 Marseille,Ligue 1,France,Marcelo Bielsa,2014-07-01,2015-08-10,405,41,21,6,14,1
 Lille,Ligue 1,France,Marcelo Bielsa,2017-07-01,2017-11-22,144,14,4,3,7,3
 Frosinone,Serie A,Italy,Marco Baroni,2018-12-19,2019-06-02,165,22,4,5,13,1
@@ -224,7 +208,6 @@ Torino,Serie A,Italy,Marco Giampaolo,2020-08-07,2021-01-18,164,21,4,7,10,3
 M'Gladbach,Bundesliga,Germany,Marco Rose,2019-07-01,2021-06-30,730,88,41,19,28,1
 Dortmund,Bundesliga,Germany,Marco Rose,2021-07-01,2022-05-20,323,46,27,4,15,2
 Everton,Premier League,England,Marco Silva,2018-05-31,2019-12-05,553,60,24,11,25,1
-Hellas Verona,Serie A,Italy,Marco Zaffaroni,2022-12-03,2023-06-30,209,24,7,8,9,1
 Wolfsburg,Bundesliga,Germany,Mark van Bommel,2021-07-01,2021-10-24,115,13,4,3,6,1
 Köln,Bundesliga,Germany,Markus Anfang,2018-07-01,2019-04-27,300,33,19,5,9,1
 Darmstadt 98,Bundesliga,Germany,Markus Anfang,2020-07-01,2021-05-31,334,37,17,6,14,2
@@ -256,6 +239,7 @@ Celta Vigo,LaLiga,Spain,Miguel Cardoso,2018-11-12,2019-03-03,111,15,3,2,10,2
 Frosinone,Serie A,Italy,Moreno Longo,2017-06-14,2018-12-19,553,65,22,22,21,1
 Torino,Serie A,Italy,Moreno Longo,2020-02-04,2020-08-07,185,16,3,4,9,2
 Rayo Vallecano,LaLiga,Spain,Míchel,2017-02-21,2019-03-18,755,89,34,23,32,1
+Crystal Palace,Premier League,England,Neil Warnock,2014-08-27,2014-12-27,122,17,3,6,8,1
 Eint Frankfurt,Bundesliga,Germany,Niko Kovac,2016-03-08,2018-06-30,844,91,41,17,33,1
 Bayern Munich,Bundesliga,Germany,Niko Kovac,2018-07-01,2019-11-03,490,65,45,12,8,2
 Monaco,Ligue 1,France,Niko Kovac,2020-07-19,2022-01-01,531,74,43,15,16,3
@@ -264,22 +248,18 @@ Valencia,LaLiga,Spain,Nuno Espírito Santo,2014-07-01,2015-11-29,516,62,32,16,14
 Tottenham,Premier League,England,Nuno Espírito Santo,2021-07-01,2021-11-01,123,17,9,1,7,2
 Manchester Utd,Premier League,England,Ole Gunnar Solskjær,2019-03-28,2021-11-21,969,149,78,33,38,1
 Wolfsburg,Bundesliga,Germany,Oliver Glasner,2019-07-01,2021-06-30,730,87,41,22,24,1
-Eint Frankfurt,Bundesliga,Germany,Oliver Glasner,2021-07-01,2023-06-30,729,97,39,29,29,2
 Montpellier,Ligue 1,France,Olivier Dall'Oglio,2021-06-01,2022-10-17,503,52,18,7,27,1
 Reims,Ligue 1,France,Olivier Guégan,2015-04-07,2016-04-23,382,44,12,9,23,1
 Getafe,LaLiga,Spain,Pablo Franco,2015-02-27,2015-06-30,123,14,3,2,9,1
 Sevilla,LaLiga,Spain,Pablo Machín,2018-07-01,2019-03-15,257,50,26,9,15,1
-Villarreal,LaLiga,Spain,Pacheta,2023-09-09,2023-11-10,62,12,5,3,4,1
 Las Palmas,LaLiga,Spain,Paco Herrera,2014-07-04,2015-10-19,472,58,27,16,15,1
 Las Palmas,LaLiga,Spain,Paco Herrera,2018-11-17,2019-03-04,107,14,3,7,4,2
 Rayo Vallecano,LaLiga,Spain,Paco Jémez,2012-06-22,2016-06-30,1469,164,55,29,80,1
 Granada,LaLiga,Spain,Paco Jémez,2016-07-01,2016-09-28,89,6,0,2,4,2
 Las Palmas,LaLiga,Spain,Paco Jémez,2018-01-01,2018-06-30,180,23,2,6,15,3
 Rayo Vallecano,LaLiga,Spain,Paco Jémez,2019-03-19,2020-07-31,500,56,18,24,14,4
-Granada,LaLiga,Spain,Paco López,2022-11-09,2023-11-26,382,44,18,9,17,1
 Valencia,LaLiga,Spain,Pako Ayestarán,2016-03-30,2016-09-20,174,12,3,1,8,1
 Las Palmas,LaLiga,Spain,Pako Ayestarán,2017-09-28,2017-11-30,63,9,1,1,7,2
-Empoli,Serie A,Italy,Paolo Zanetti,2022-06-06,2023-09-19,470,44,10,13,21,1
 Toulouse,Ligue 1,France,Pascal Dupraz,2016-03-01,2018-01-22,692,77,24,22,31,1
 Frosinone,Serie A,Italy,Pasquale Marino,2016-07-01,2017-05-29,332,46,22,12,12,1
 Empoli,Serie A,Italy,Pasquale Marino,2020-01-26,2020-08-11,198,18,9,4,5,2
@@ -301,14 +281,10 @@ Leverkusen,Bundesliga,Germany,Peter Bosz,2018-12-23,2021-03-23,821,108,59,16,33,
 Lyon,Ligue 1,France,Peter Bosz,2021-05-29,2022-10-09,498,58,27,16,15,3
 Köln,Bundesliga,Germany,Peter Stöger,2013-07-01,2017-12-03,1616,168,61,53,54,1
 Dortmund,Bundesliga,Germany,Peter Stöger,2017-12-10,2018-06-30,202,24,10,8,6,2
-Monaco,Ligue 1,France,Philippe Clement,2022-01-03,2023-06-04,517,73,37,15,21,1
 Bastia,Ligue 1,France,Philippe Montanier,2013-07-01,2016-01-20,933,115,43,34,38,1
-Toulouse,Ligue 1,France,Philippe Montanier,2021-06-23,2023-06-30,737,87,46,19,22,2
-Nantes,Ligue 1,France,Pierre Aristouy,2023-05-09,2023-11-29,204,17,5,4,8,1
 Las Palmas,LaLiga,Spain,Quique Setién,2015-10-19,2017-06-30,620,78,26,18,34,1
 Betis,LaLiga,Spain,Quique Setién,2017-07-01,2019-06-30,729,94,39,22,33,2
 Barcelona,LaLiga,Spain,Quique Setién,2020-01-13,2020-08-17,217,25,16,4,5,3
-Villarreal,LaLiga,Spain,Quique Setién,2022-10-26,2023-09-05,314,39,18,6,15,4
 Getafe,LaLiga,Spain,Quique Sánchez Flores,2015-01-05,2015-02-26,52,11,4,1,6,1
 Getafe,LaLiga,Spain,Quique Sánchez Flores,2021-10-06,2023-04-27,568,66,18,24,24,2
 Napoli,Serie A,Italy,Rafael Benítez,2013-07-01,2015-06-30,729,112,61,26,25,1
@@ -326,6 +302,7 @@ Milan,Serie A,Italy,Roberto Mancini,2014-11-14,2016-08-08,633,77,36,18,23,1
 Everton,Premier League,England,Roberto Martínez,2013-06-05,2016-05-12,1072,143,62,37,44,1
 Empoli,Serie A,Italy,Roberto Muzzi,2019-11-14,2020-01-26,73,10,1,4,5,1
 Frosinone,Serie A,Italy,Roberto Stellone,2012-06-14,2016-06-30,1477,159,64,41,54,1
+Werder Bremen,Bundesliga,Germany,Robin Dutt,2013-07-01,2014-10-25,481,45,11,13,21,1
 Leverkusen,Bundesliga,Germany,Roger Schmidt,2014-07-01,2017-03-05,978,125,62,27,36,1
 Genoa,Serie A,Italy,Rolando Maran,2020-08-26,2020-12-21,117,15,3,4,8,1
 Montpellier,Ligue 1,France,Rolland Courbis,2013-12-09,2015-12-22,743,84,30,20,34,1
@@ -338,7 +315,6 @@ Rayo Vallecano,LaLiga,Spain,Rubén Baraja,2016-11-07,2017-02-20,105,13,3,4,6,1
 Roma,Serie A,Italy,Rudi Garcia,2013-07-01,2016-01-13,926,118,61,34,23,1
 Marseille,Ligue 1,France,Rudi Garcia,2016-10-20,2019-06-30,983,142,69,31,42,2
 Lyon,Ligue 1,France,Rudi Garcia,2019-10-14,2021-05-24,588,78,44,15,19,3
-Napoli,Serie A,Italy,Rudi Garcia,2023-07-01,2023-11-14,136,16,8,4,4,4
 Aston Villa,Premier League,England,Rémi Garde,2015-11-03,2016-03-29,147,23,3,7,13,1
 Bastia,Ligue 1,France,Sabri Lamouchi,2017-11-08,2018-12-03,390,50,20,12,18,1
 Hellas Verona,Serie A,Italy,Salvatore Bocchetti,2022-10-13,2022-12-02,50,6,0,0,6,1
@@ -359,7 +335,6 @@ Udinese,Serie A,Italy,Stefano Colantuono,2015-06-04,2016-03-14,284,32,10,6,16,2
 Lazio,Serie A,Italy,Stefano Pioli,2014-07-01,2016-04-03,642,91,44,20,27,1
 Milan,Serie A,Italy,Stefano Pioli,2016-11-08,2017-05-09,182,27,14,3,10,2
 Fiorentina,Serie A,Italy,Stefano Pioli,2017-07-01,2019-04-09,647,74,27,25,22,3
-Köln,Bundesliga,Germany,Steffen Baumgart,2021-07-01,2023-12-31,913,98,32,28,38,1
 Aston Villa,Premier League,England,Steve Bruce,2016-10-12,2018-10-03,721,102,46,25,31,1
 Newcastle Utd,Premier League,England,Steve Bruce,2019-07-17,2021-10-20,826,97,29,25,43,2
 Newcastle Utd,Premier League,England,Steve McClaren,2015-06-10,2016-03-11,275,31,7,6,18,1
@@ -377,6 +352,7 @@ Chelsea,Premier League,England,Thomas Tuchel,2021-01-26,2022-09-07,589,100,63,19
 Aston Villa,Premier League,England,Tim Sherwood,2015-02-16,2015-10-25,251,28,10,2,16,1
 Stuttgart,Bundesliga,Germany,Tim Walter,2019-07-01,2019-12-23,175,20,11,4,5,1
 Granada,LaLiga,Spain,Tony Adams,2017-04-10,2017-06-30,81,7,0,0,7,1
+Crystal Palace,Premier League,England,Tony Pulis,2013-11-24,2014-08-14,263,28,12,5,11,1
 Darmstadt 98,Bundesliga,Germany,Torsten Frings,2016-12-28,2017-12-09,346,36,9,8,19,1
 Sevilla,LaLiga,Spain,Unai Emery,2013-01-14,2016-06-30,1263,205,107,43,55,1
 Paris S-G,Ligue 1,France,Unai Emery,2016-07-01,2018-06-30,729,114,87,15,12,2
@@ -392,7 +368,8 @@ Fiorentina,Serie A,Italy,Vincenzo Montella,2019-04-10,2019-12-21,255,27,6,7,14,4
 Empoli,Serie A,Italy,Vincenzo Vivarini,2017-07-01,2017-12-17,169,20,8,6,6,1
 Valencia,LaLiga,Spain,Voro,2017-01-01,2017-06-30,180,25,10,4,11,1
 Betis,LaLiga,Spain,Víctor Sánchez,2016-11-12,2017-05-09,178,27,8,5,14,1
-Torino,Serie A,Italy,Walter Mazzarri,2018-01-04,2020-02-04,761,90,38,24,28,1
+Milan,Serie A,Italy,Walter Mazzarri,2013-05-24,2014-11-14,539,58,25,21,12,1
+Torino,Serie A,Italy,Walter Mazzarri,2018-01-04,2020-02-04,761,90,38,24,28,2
 Real Madrid,LaLiga,Spain,Zinédine Zidane,2016-01-04,2018-05-31,878,149,105,28,16,1
 Real Madrid,LaLiga,Spain,Zinédine Zidane,2019-03-11,2021-06-30,842,114,69,25,20,2
 Celta Vigo,LaLiga,Spain,Óscar García,2019-11-04,2020-11-09,371,38,8,17,13,1
