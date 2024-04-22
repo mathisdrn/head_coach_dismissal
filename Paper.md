@@ -9,7 +9,7 @@ date: 04/14/2024
 ---
 
 +++ {"part": "abstract"}
-This paper aims to explore the relationship between the team's performance and sports coach. To do that, we use traditional statistical methods applied to Men’s Football First Divisions of major leagues between 2017 and 2022. We investigate this relation on three different aspects: the effect of head coach tenure, the effect of regular renewal of sports coach by club, and the effect of changing clubs on the coach's performance. Our results show that there is a positive correlation between head coach tenure and team's performance, while the regular renewal of a sports coach by a club has a negative relation on the team's performance. We also find that head coach who regularly change club is negatively correlated with team's performance. These results suggest that stability and continuity are important factors for the success of a football team.
+This paper aims to explore the relationship between the team's performance and sports coach. To do that, we use traditional statistical methods applied to Men’s Football First Divisions of major leagues between 2015 and 2023. We investigate this relation on three different aspects: the effect of head coach tenure, the effect of regular renewal of sports coach by club, and the effect of changing clubs on the coach's performance. Our results show that there is a positive correlation between head coach tenure and team's performance, while the regular renewal of a sports coach by a club has a negative relation on the team's performance. We also find that head coach who regularly change club is negatively correlated with team's performance. These results suggest that stability and continuity are important factors for the success of a football team.
 +++
 
 ## Introduction 
@@ -52,10 +52,10 @@ MyST permet de réutiliser les entrées et les sorties des Notebooks Jupyter. Ai
 :::{code} r
 :filename: 00 Data extraction.ipynb
 country <- c("ENG", "ESP", "ITA", "GER", "FRA")
-year <- c(2018, 2019, 2020, 2021, 2022)
+year <- c(2015:2022)
 :::
 
-Enfin, la lecture de @DataViz a permis d'améliorer la qualité des graphiques et de la présentation des données en les rendants plus clairs et informatifs.
+Enfin, la lecture de Fundamentals of Data Visualization [@DataViz] a permis d'améliorer la qualité des graphiques et de la présentation des données en les rendants plus clairs et informatifs.
 
 ## Extraction des données
 
@@ -171,7 +171,7 @@ De plus, nous ajoutons aux données de match l'ancienneté du coach au sein de l
 :align: center
 :height: 2em
 :width: 2em
-Venue effect on team's performance (2017 - 2022)
+Venue effect on team's performance (2015 - 2023)
 :::
 
 ### Les dynamiques temporelles
@@ -181,7 +181,7 @@ Les saisons de football sont divisées en deux périodes : la saison régulière
 :::{figure} #match_distribution
 :name: match_distribution1
 :align: center
-Monthly Distribution of Matches (2017 - 2022)
+Monthly Distribution of Matches (2015 - 2023)
 :::
 
 % Ajouter describution figure
@@ -216,12 +216,12 @@ La p-value (valeur de $p$) est une mesure statistique utilisée pour déterminer
 
 % Paragraphe introductif
 
-La [](#hc_per_club1) nous informe quand à la distribution du nombre d'entraîneurs employés par les clubs durant la période 2017 - 2022. On observe que plus de 85% des clubs ont employés au moins 3 entraîneurs différents suggérant qu'il y a un renouvellement régulier des entraîneurs dans les clubs de football.
+La [](#hc_per_club1) nous informe quand à la distribution du nombre d'entraîneurs employés par les clubs durant la période 2015 - 2023. On observe que plus de 85% des clubs ont employés au moins 3 entraîneurs différents suggérant qu'il y a un renouvellement régulier des entraîneurs dans les clubs de football.
 
 :::{figure} #hc_per_club
 :name: hc_per_club1
 :align: center
-Proportion of Clubs by Number of Head Coaches Appointed (2017 - 2022)
+Proportion of Clubs by Number of Head Coaches Appointed (2015 - 2023)
 :::
 
 La [](#hc_per_club_per_league1) montre que les entraîneurs de la Premier League restent en poste plus longtemps que ceux des autres ligues. De plus, les équipes de la Premier League changent moins souvent d'entraîneur que celles des autres ligues. À l'inverse, la LaLiga renouvelle fréquemment ses entraîneur.
@@ -229,10 +229,10 @@ La [](#hc_per_club_per_league1) montre que les entraîneurs de la Premier League
 :::{figure} #hc_per_club_per_league
 :name: hc_per_club_per_league1
 :align: center
-Average Number of Head Coaches Appointed per Club versus League (2017 - 2022)
+Average Number of Head Coaches Appointed per Club versus League (2015 - 2023)
 :::
 
-Les [](#club_win_vs_cc), [](#club_draw_vs_cc) et [](#club_loss_vs_cc) s'intéressent aux ratios de victoires, de matchs nuls et de défaites des clubs en fonction du nombre d'entraîneurs nommés à la tête de l'équipe durant la période 2017 - 2022. Ces relations pourraient montrer l'effet de la fréquence de remplacement d'un coach sur les performances de l'équipe. 
+Les [](#club_win_vs_cc), [](#club_draw_vs_cc) et [](#club_loss_vs_cc) s'intéressent aux ratios de victoires, de matchs nuls et de défaites des clubs en fonction du nombre d'entraîneurs nommés à la tête de l'équipe durant la période 2015 - 2023. Ces relations pourraient montrer l'effet de la fréquence de remplacement d'un coach sur les performances de l'équipe. 
 
 :::{figure} #club_win_ratio_over_coach_count
 :name: club_win_vs_cc
@@ -267,10 +267,10 @@ Cela pourrait s'expliquer par le fait que les entraîneurs ont besoin de temps p
 :::{figure} #club_per_hc
 :name: club_per_hc1
 :align: center
-Proportion of Head Coaches by Number of Club Appointments (2017 - 2022)
+Proportion of Head Coaches by Number of Club Appointments (2015 - 2023)
 :::
 
-Au cours de la période 2017 - 2022, plus de 55% des entraîneurs sportifs n'ont entrainé qu'un seul club. Environ 30% des entraîneurs ont entraîné 2 clubs et seulement 10% des entraîneurs ont entraîné plus de 3 clubs au cours de cette période (voir [](#club_per_hc1)).
+Au cours de la période 2015 - 2023, plus de 55% des entraîneurs sportifs n'ont entrainé qu'un seul club. Environ 30% des entraîneurs ont entraîné 2 clubs et seulement 10% des entraîneurs ont entraîné plus de 3 clubs au cours de cette période (voir [](#club_per_hc1)).
 
 :::{figure}
 :name: hc_results_over_appointment_count
@@ -288,11 +288,11 @@ Au cours de la période 2017 - 2022, plus de 55% des entraîneurs sportifs n'ont
 Head Coach Appointment Performance versus Appointment Count
 :::
 
-La [](#hc_results_over_appointment_count) s'intéresse aux pourcentage de victoires, de matchs nuls et de défaites des mandats individuel des entraîneurs par rapport au nombre de clubs pour lesquel ils ont travaillés durant la saison 2017 - 2022. Ces graphiques permettent de visualiser la relation entre l'expérience acquise par l'entraîneur et l'impact sur la performance de leurs équipes. 
+La [](#hc_results_over_appointment_count) s'intéresse aux pourcentage de victoires, de matchs nuls et de défaites des mandats individuel des entraîneurs par rapport au nombre de clubs pour lesquel ils ont travaillés durant la saison 2015 - 2023. Ces graphiques permettent de visualiser la relation entre l'expérience acquise par l'entraîneur et l'impact sur la performance de leurs équipes. 
 
 Nous observons qu'il n'existe pas de corrélation entre le nombre de clubs pour lesquels un entraîneur a travaillé et son pourcentage de victoires ($p = 0.48$), de matchs nuls ($p = 0.09$) ou de défaites ($p = 0.07$). Cela suggère que l'expérience acquise par l'entraîneur en travaillant pour plusieurs clubs n'a pas d'impact statistiquement observable sur la performance de l'équipe.
 
-La [](#hc_results_over_club_count) suivante diffère quant à elle car elle s'intéresse à la performance agrégé des entraîneurs par rapport au nombre total de club pour lesquels ils ont travaillés durant la saison 2017 - 2022.
+La [](#hc_results_over_club_count) suivante diffère quant à elle car elle s'intéresse à la performance agrégé des entraîneurs par rapport au nombre total de club pour lesquels ils ont travaillés durant la saison 2015 - 2023.
 
 :::{figure}
 :name: hc_results_over_club_count
