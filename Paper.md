@@ -23,23 +23,22 @@ This paper aims to explore the relationship between the team's performance and s
 
 ### Source des données
 
-Les données utilisés au cours de cette analyse sont extraites de deux sites spécialisés dans les statistiques de football : [Fbref](https://fbref.com/) et [Transfermakt](https://www.transfermarkt.com/). 
+Les données utilisées au cours de cette analyse sont extraites de deux sites spécialisés dans les statistiques de football : [Fbref](https://fbref.com/) et [Transfermakt](https://www.transfermarkt.com/). 
 
 - FBref offre une gamme complète de données statistiques sur les joueurs, les équipes, les ligues et les compétitions de football du monde entier. Il propose des informations détaillées telles que les buts marqués, les passes décisives, les tirs au but, les interceptions et bien d'autres statistiques.
-
 - Transfermarkt est une ressource en ligne majeure pour tout ce qui concerne les transferts de joueurs de football, les rumeurs de transferts, les valeurs marchandes des joueurs ainsi que les informations sur les contrats. Il offre une base de données exhaustive des joueurs, des clubs et des agents, ainsi que des détails sur les transferts passés et actuels.
 
 Ces sites sont utilisés par les amateurs de football, les journalistes et les professionnels pour rester informés sur les évolutions au cours de la saison ou pendant les trêves/mercatos.
 
 ### Fiabilité des données 
 
-Ces sites sont très utilisés et considérés comme fiable. Fbref est entretenu par l’entreprise Sport Reference qui gère également d'autres sites spécialisés dans les statistiques sportives, comme Baseball-Reference et Basketball Reference. Les données sur Fbref sont souvent vérifiées et mises à jour régulièrement, ce qui contribue à leur fiabilité. Pour Transfermakt, c’est aussi un site très utilisé pour les rumeurs de transferts et les transferts en général, il a une réputation de site fiable. Le site recueille des données sur les transferts, les valeurs marchandes des joueurs et d'autres détails liés aux contrats à partir de diverses sources, y compris les médias et les communiqués officiels des clubs. Cependant, c’est un site reliant des rumeurs de transferts, donc il peut y avoir des inexactitudes ou des spéculations qui ne se concrétisent pas toujours. Il est donc conseillé de vérifier les informations avec d'autres sources fiables, notamment lorsqu'il s'agit de transferts non confirmés
+Ces sites sont très utilisés et considérés comme fiable. Fbref est entretenu par l’entreprise Sport Reference qui gère également d'autres sites spécialisés dans les statistiques sportives, comme Baseball-Reference et Basketball Reference. Les données sur Fbref sont souvent vérifiées et mises à jour régulièrement, ce qui contribue à leur fiabilité. Pour Transfermakt, c’est aussi un site très utilisé pour les rumeurs de transferts et les transferts en général, il a une réputation de site fiable. Le site recueille des données sur les transferts, les valeurs marchandes des joueurs et d'autres détails liés aux contrats à partir de diverses sources, y compris les médias et les communiqués officiels des clubs. Cependant, c’est un site reliant des rumeurs de transferts, donc il peut y avoir des inexactitudes ou des spéculations qui ne se concrétisent pas toujours. Il est donc conseillé de vérifier les informations avec d'autres sources fiables, notamment lorsqu'il s'agit de transferts non confirmés.
 
 ### Références et outils utilisés
 
 L'intégralité du travail de récupération, de pré-traitement, d'analyse et visualisation des données a été réalisé au sein de Notebook Jupyter. 
 
-La récupération des données footballistique a été effectué à l'aide du package R [WorldFootBallR](https://github.com/JaseZiv/worldfootballR/). Ce package est régulièrement mis à jour et implémente des outils de web scraping afin d'extraire les données des principaux sites footballistiques.
+La récupération des données footballistique a été effectuée à l'aide du package R [WorldFootBallR](https://github.com/JaseZiv/worldfootballR/). Ce package est régulièrement mis à jour et implémente des outils de web scraping afin d'extraire les données des principaux sites footballistiques.
 
 Le pré-traitement, l'analyse et la visualisation des données a été effectué sous Python à l'aide de librairies standards : Pandas, Numpy, Matplotlib, Seaborn, Scipy.
 
@@ -61,7 +60,7 @@ Enfin, la lecture de Fundamentals of Data Visualization [@DataViz] a permis d'am
 
 L'extraction se fait aisément à l'aide de [WorldFootballR](https://github.com/JaseZiv/worldfootballR/). 
 
-Un premier jeu de données concernant les matchs est récupéré à partir de [Fbref](). Il contient des informations sur les matchs de football, notamment les équipes qui ont joués, le score final, le lieu du match et la date du match.
+Un premier jeu de données concernant les matchs est récupéré à partir de [Fbref](). Il contient des informations sur les matchs de football, notamment les équipes qui ont joué, le score final, le lieu du match et la date du match.
 Un second jeu de données concernant les entraîneurs sportifs est récupéré à partir de [Transfermakt](). Il contient des informations sur les entraîneurs de football, notamment leur nom, leur date de naissance, leur nationalité, les dates de début et de fin de leur mandat, ainsi que des statistiques sur les matchs qu'ils ont dirigés.
 
 :::{table} Extrait du jeu de donnée sur les mandats des entraîneurs sportif
@@ -85,7 +84,7 @@ Davantage de détails sur le traitement des données sont disponibles dans les N
 ### Données d'interêts
 
 On exclut des données de résultat de matchs, les matchs ne concernant pas des équipes de première division.
-De plus, on exclut des données les entraîneurs sportifs n'ayant pas été actif entre le début de la saison 2015 et la fin de la saison 2023 (14/02/2024). 
+De plus, on exclut des données les entraîneurs sportifs n'ayant pas été actifs entre le début de la saison 2015 et la fin de la saison 2023 (14/02/2024). 
 
 ### Correspondance des noms d'équipes
 
@@ -128,6 +127,7 @@ for country in coach_teams_by_country.index:
 ### Intégrité des données
 
 La vérification de la qualité des données est une étape essentielle dans le processus d'analyse des données. Elle permet de s'assurer que les données sont complètes, cohérentes et fiables. Ces vérifications ont été effectués par le biais d'hypothèses simples sur les données :
+- toutes les équipes ont une league et un pays associé
 - un seul coach par équipe à une date donnée
 - le nombre total de match est égale à la somme du nombre de victoires, de matchs nuls et de défaites
 - etc.
@@ -176,7 +176,7 @@ Venue effect on team's performance (2015 - 2023)
 
 ### Les dynamiques temporelles
 
-Les saisons de football sont divisées en deux périodes : la saison régulière et la saison hors-saison. La saison régulière est la période pendant laquelle les équipes jouent des matchs de championnat et de coupe, tandis que la saison hors-saison est la période pendant laquelle les équipes se préparent pour la saison suivante, notamment en recrutant de nouveaux joueurs et en changeant d'entraîneur.
+Les saisons de football sont divisées en deux périodes : la saison régulière et la saison hors-saison. La saison régulière est la période pendant laquelle les équipes jouent des matchs de championnat et de coupe, tandis que la saison hors-saison marque une période de pause permettant à l'équipe de s'entraîner et de se préparer pour la saison suivante.
 
 :::{figure} #match_distribution
 :name: match_distribution1
@@ -184,8 +184,8 @@ Les saisons de football sont divisées en deux périodes : la saison régulière
 Monthly Distribution of Matches (2015 - 2023)
 :::
 
-% Ajouter describution figure
-
+Une proportion importante des nominations et licenciement des entraîneurs sportifs a lieu en période de hors-saison (([](#hc_appointment1)) et [](#hc_dismissal1)). 
+En effet, les clubs profitent de cette période pour revoir leur stratégie et renouveler certains membres de l'équipe. Le changement d'entraîneur au cours de la saison régulière est plus rare et risqué, car l'équipe est déjà engagée dans des compétitions et le changement d'entraîneur peut perturber la dynamique de l'équipe. Le licenciement d'un entraîneur en cours de saison pourrait indiquer une situation critique pour le club, comme une série de mauvais résultats ou des conflits internes.
 
 :::{figure} #hc_appointment 
 :name: hc_appointment1
@@ -199,7 +199,13 @@ Monthly Distribution of Head Coaches Appointments
 Monthly Distribution of Head Coaches Dismissals
 :::
 
-Les licenciements d'entraîneurs sportif sont plus fréquents en fin de saison (voir [](#hc_appointment1)), tandis que les nominations d'entraîneurs sportif sont plus fréquentes en début de saison (voir [](#hc_dismissal1)). Cela peut s'expliquer par le fait que les clubs cherchent à renouveler leur effectif et à se donner les meilleures chances de succès pour la saison suivante.
+Les périodes de nominations et de licenciement des entraîneurs sportifs sont relativement stables au cours des saisons, mais aussi entre les clubs ([](#hc_season_break1)).
+
+:::{figure} #hc_season_break
+:name: hc_season_break1
+:align: center
+Proportion of in-season vs off-season head coach dismissal per league
+:::
 
 ## Analyse statistique
 
@@ -208,7 +214,7 @@ Les licenciements d'entraîneurs sportif sont plus fréquents en fin de saison (
 Le coefficient de corrélation de Pearson (valeur de $r$) est une mesure statistique qui évalue la force et la direction de la relation linéaire entre deux variables continues. Il est souvent utilisé pour quantifier la relation entre deux variables. 
 - Lorsque $r = 1$, cela indique une corrélation linéaire parfaite positive.
 - Lorsque $r = -1$, cela indique une corrélation linéaire parfaite négative.
-- De plus, lorsque $r = 0$, cela signifife qu'il n'y a aucune correlation linéaire entre les deux variables.
+- De plus, lorsque $r = 0$, cela signifie qu'il n'y a aucune corrélation linéaire entre les deux variables.
 
 La p-value (valeur de $p$) est une mesure statistique utilisée pour déterminer la signification statistique d'un résultat. Dans le contexte de la corrélation de Pearson, la p-value est utilisée pour évaluer si la corrélation observée entre deux variables est statistiquement significative ou non. Si la p-value est inférieure à seuil (ici $p < 0.05$), on rejette l'hypothèse selon laquelle il n'y a pas de corrélation dans la population, et on conclut qu'il y a une corrélation significative entre les deux variables.
 
@@ -216,7 +222,7 @@ La p-value (valeur de $p$) est une mesure statistique utilisée pour déterminer
 
 Dans cette partie, nous allons étudier les effets de la fréquence de renouvellement des coachs sur la performance d'une équipe. L'objectif est de voir les effets sur les résultats obtenus lorsque qu'une équipe change régulièrement d'entraîneur.
 
-La [](#hc_per_club1) nous informe quand à la distribution du nombre d'entraîneurs employés par les clubs durant la période 2015 - 2023. On observe que plus de 85% des clubs ont employés au moins 3 entraîneurs différents suggérant qu'il y a un renouvellement régulier des entraîneurs dans les clubs de football.
+La [](#hc_per_club1) nous informe quant à la distribution du nombre d'entraîneurs employés par les clubs durant la période 2015 - 2023. On observe que plus de 85 % des clubs ont employés au moins 3 entraîneurs différents suggérant qu'il y a un renouvellement régulier des entraîneurs dans les clubs de football.
 
 :::{figure} #hc_per_club
 :name: hc_per_club1
@@ -224,7 +230,7 @@ La [](#hc_per_club1) nous informe quand à la distribution du nombre d'entraîne
 Proportion of Clubs by Number of Head Coaches Appointed (2015 - 2023)
 :::
 
-La [](#hc_per_club_per_league1) montre que les entraîneurs de la Premier League restent en poste plus longtemps que ceux des autres ligues. De plus, les équipes de la Premier League changent moins souvent d'entraîneur que celles des autres ligues. À l'inverse, la LaLiga renouvelle fréquemment ses entraîneur.
+La [](#hc_per_club_per_league1) montre que les entraîneurs de la Premier League restent en poste plus longtemps que ceux des autres ligues. De plus, les équipes de la Premier League changent moins souvent d'entraîneur que celles des autres ligues. À l'inverse, la LaLiga renouvelle fréquemment ses entraîneurs.
 
 :::{figure} #hc_per_club_per_league
 :name: hc_per_club_per_league1
@@ -270,7 +276,7 @@ Ici, nous allons observer la relation entre les performances des entraîneurs et
 Proportion of Head Coaches by Number of Club Appointments (2015 - 2023)
 :::
 
-Au cours de la période 2017 - 2022, plus de 60% des entraîneurs sportifs n'ont entrainé qu'un seul club. Environ 20% des entraîneurs ont entraîné 2 clubs et seulement 10% des entraîneurs ont entraîné plus de 3 clubs au cours de cette période (voir [](#club_per_hc1)).
+Au cours de la période 2017 - 2022, plus de 60 % des entraîneurs sportifs n'ont entraîné qu'un seul club. Environ 20 % des entraîneurs ont entraîné 2 clubs et seulement 10 % des entraîneurs ont entraîné plus de 3 clubs au cours de cette période (voir [](#club_per_hc1)).
 
 :::{figure}
 :name: hc_results_over_appointment_count
@@ -288,11 +294,11 @@ Au cours de la période 2017 - 2022, plus de 60% des entraîneurs sportifs n'ont
 Head Coach Appointment Performance versus Appointment Count
 :::
 
-La [](#hc_results_over_appointment_count) s'intéresse aux pourcentage de victoires, de matchs nuls et de défaites des mandats individuel des entraîneurs par rapport au nombre de clubs pour lesquel ils ont travaillés durant la saison 2015 - 2023. Ces graphiques permettent de visualiser la relation entre l'expérience acquise par l'entraîneur et l'impact sur la performance de leurs équipes. 
+La [](#hc_results_over_appointment_count) s'intéresse aux pourcentages de victoires, de matchs nuls et de défaites des mandats individuel des entraîneurs par rapport au nombre de clubs pour lesquels ils ont travaillés durant la saison 2015 - 2023. Ces graphiques permettent de visualiser la relation entre l'expérience acquise par l'entraîneur et l'impact sur la performance de leurs équipes. 
 
 Nous observons qu'il n'existe pas de corrélation entre le nombre de clubs pour lesquels un entraîneur a travaillé et son pourcentage de victoires ($p = 0.48$), de matchs nuls ($p = 0.09$) ou de défaites ($p = 0.07$). Cela suggère que l'expérience acquise par l'entraîneur en travaillant pour plusieurs clubs n'a pas d'impact statistiquement observable sur la performance de l'équipe.
 
-La [](#hc_results_over_club_count) suivante diffère quant à elle car elle s'intéresse à la performance agrégé des entraîneurs par rapport au nombre total de club pour lesquels ils ont travaillés durant la saison 2015 - 2023.
+La [](#hc_results_over_club_count) suivante diffère quant à elle car elle s'intéresse à la performance agrégée des entraîneurs par rapport au nombre total de club pour lesquels ils ont travaillés durant la saison 2015 - 2023.
 
 :::{figure}
 :name: hc_results_over_club_count
@@ -310,14 +316,14 @@ La [](#hc_results_over_club_count) suivante diffère quant à elle car elle s'in
 Performance of Head Coaches versus Number of Clubs Appointments
 :::
 
-Ces graphiques permettent de visualiser la relation entre la mobilité des entraîneurs par rapport à la performance de leurs équipes. Ainsi, nous observons :
+Ces graphiques permettent de visualiser la relation entre la mobilité des entraîneurs et la performance de leurs équipes. Ainsi, nous observons :
 - [({number})](#hc_win_vs_cc) une corrélation positive faible ($r = 0.23$) statistiquement significative ($p = 0.00$) entre le nombre de clubs entraînés par le coach et son ratio de victoires.
 - [({number})](#hc_draw_vs_cc) une corrélation positive très faible ($r = 0.01$) mais statistiquement non significative ($p = 0.89$) entre le nombre de clubs entraînés par le coach et son ratio de matchs nuls.
 - [({number})](#hc_loss_vs_cc) une corrélation négative faible ($r = -0.25$) statistiquement significative ($p = 0.00$) entre le nombre de clubs entraînés par le coach et son ratio de défaites.
 
-Ces graphiques ne suggèrent pas que le nombre de clubs pour lesquels un entraîneur a travaillé a un impact positif sur la performance des équipes qu'il entraîne car l'on a précédemment montré avec la [](#hc_results_over_appointment_count) qu'il n'existait pas de corrélation statistiquement significative. Cependant, ce graphique suggère que les entraîneurs qui ont montré une performance supérieure à celle de leurs pairs ont tendance à travailler pour un plus grand nombre de clubs.
+Ces graphiques ne suggèrent pas que le nombre de clubs pour lesquels un entraîneur a travaillé a un impact positif sur la performance des équipes qu'il entraîne, car l'on a précédemment montré avec la [](#hc_results_over_appointment_count) qu'il n'existait pas de corrélation statistiquement significative. Cependant, ce graphique suggère que les entraîneurs qui ont montré une performance supérieure à celle de leurs pairs ont tendance à travailler pour un plus grand nombre de clubs.
 
-Cela pourrait s'expliquer par le fait que les entraîneurs performant soient davantage reconnus et donc sollicité par d'autres clubs, favorisant ainsi leur mobilité entre les clubs.
+Cela pourrait s'expliquer par le fait que les entraîneurs performants soient davantage reconnus et donc sollicités par d'autres clubs, favorisant ainsi leur mobilité entre les clubs.
 
 ### Ancienneté du coach sur la performance de l'équipe 
 
@@ -329,7 +335,7 @@ Dans cette partie, nous cherchons une éventuelle relation entre l'expérience q
 Empirical Cumulative Distribution Function of Head Coaches Tenure For Completed Appointments
 :::
 
-La [](#hc_tenure1) montre la distribution de l'ancienneté des entraîneurs sportifs au sein de leur club. On observe que plus de 50% des entraîneurs sportifs sont renouvelés après 1 an de mandat. Ce pourcentage augmente à 80% après 2 ans de mandat et à 90% après 3 ans de mandat.
+La [](#hc_tenure1) montre la distribution de l'ancienneté des entraîneurs sportifs au sein de leur club. On observe que plus de 50 % des entraîneurs sportifs sont renouvelés après 1 an de mandat. Ce pourcentage augmente à 80 % après 2 ans de mandat et à 90 % après 3 ans de mandat.
 
 :::{figure} #hc_tenure_per_league 
 :name: hc_tenure_per_league1
@@ -337,7 +343,7 @@ La [](#hc_tenure1) montre la distribution de l'ancienneté des entraîneurs spor
 Average Head Coach Tenure for Completed Appointments per League
 :::
 
-La [](#hc_tenure_per_league1) s'intéresse à l'ancienneté des entraîneurs sportif et au renouvellement des entraîneurs sportifs par rapport aux ligues d'interêt.
+La [](#hc_tenure_per_league1) s'intéresse à l'ancienneté des entraîneurs sportif et au renouvellement des entraîneurs sportifs par rapport aux ligues d'intérêt.
 
 :::{figure} #hc_win_ratio_over_days
 :name: hc_win_vs_tenure
@@ -359,11 +365,11 @@ Loss Ratio of Head Coaches Appointments versus Head Coach Tenure
 
 Les [](#hc_win_vs_tenure) et [](#hc_draw_vs_tenure) et [](#hc_loss_vs_tenure) s'intéressent aux différents ratios de victoires, de matchs nuls et de défaites en fonction de la durée du coach au sein du club. Cette analyse permet de mettre en évidence le lien existant entre les résultats directs du coach et la durée de son mandat à la tête de l'équipe.
 - [({number})](#hc_win_vs_tenure) une corrélation positive modérée ($r = 0.38$) statistiquement significative ($p = 0.00$) entre la durée du coach et le ratio de victoires.
-- [({number})](#hc_draw_vs_tenure) une corrélation négative faible ($r = −0.06$) mais statistiquement non significative ($p = 0.25$) entre la durée du coach et le ratio de matchs nuls.
+- [({number})](#hc_draw_vs_tenure) une corrélation négative faible ($r = −0.06$) mais statistiquement-non significative ($p = 0.25$) entre la durée du coach et le ratio de matchs nuls.
 - [({number})](#hc_loss_vs_tenure) une corrélation négative modérée ($r = −0.37$) statistiquement significative ($p = 0.00$) entre la durée du coach et le ratio de défaites.
 
 % Réécrire en prenant example sur les autres paragraphes
-Il est à noter que deux des trois corrélations sont statistiquement significatives, étant donné que les valeurs de p sont inférieures à 0.05, qui est notre seuil d'acceptation. Ainsi, selon le coefficient de corrélation de Pearson r, nous observons que lorsque qu'un entraîneur gagne ses matchs, il augmente en même temps sa durée à la tête de l'équipe. En revanche, pour les défaites, plus il y en a, moins longtemps il reste coach de l'équipe. Les résultats neutres, représentés par les matchs nuls, non pas de signification statistique au vue du coefficient p > 0.05.
+Il est à noter que deux des trois corrélations sont statistiquement significatives, étant donné que les valeurs de p sont inférieures à 0.05, qui est notre seuil d'acceptation. Ainsi, selon le coefficient de corrélation de Pearson r, nous observons que lorsque qu'un entraîneur gagne ses matchs, il augmente en même temps sa durée à la tête de l'équipe. En revanche, pour les défaites, plus il y en a, moins longtemps il reste coach de l'équipe. Les résultats neutres, représentés par les matchs nuls, non pas de signification statistique au vu du coefficient p > 0.05.
 
 #### Lien plus fin entre ancienneté du coach et performance de l'équipe
 
@@ -405,7 +411,7 @@ Match Loss Outcome versus Head Coach Tenure on Match Day
 % Présenter les résultats
 
 L'ancienneté, tout entraîneurs confondus a un effet positif sur la performance de l'équipe. Cela peut s'expliquer par le fait que les entraîneurs ont besoin de temps pour s'adapter à leur nouvel environnement et pour mettre en place leur stratégie de jeu. De plus, les entraîneurs qui restent plus longtemps à la tête de l'équipe ont tendance à mieux connaître les joueurs et à mieux comprendre les forces et les faiblesses de l'équipe, ce qui peut contribuer à améliorer les performances de l'équipe.
-Néanmoins, il est aussi probable que les équipes qui ont de bons résultats ont tendance à garder leur entraîneurs plus longtemps, ce qui peut expliquer en partie la corrélation positive entre l'ancienneté du coach et la performance de l'équipe.
+Néanmoins, il est aussi probable que les équipes qui ont de bons résultats ont tendance à garder leurs entraîneurs plus longtemps, ce qui peut expliquer en partie la corrélation positive entre l'ancienneté du coach et la performance de l'équipe.
 
 #### Une visualisation graphique de l'effet de l'ancienneté du coach sur la performance de l'équipe
 
@@ -417,7 +423,7 @@ Néanmoins, il est aussi probable que les équipes qui ont de bons résultats on
 Weighted Rolling Average of Match Outcome versus Head Coach Tenure on Match Day
 :::
 
-Le [graphique](#match_outcome_vs_days) illustre la proportion des résultats des matchs en fonction de l'ancienneté de l'entraîneur principal lors du match. Cette proportion est calculé à l'aide d'une moyenne pondérée sur une période de 100 jours. La zone verte représente les victoires, la zone grise représente les matchs nuls et la zone rouge représente les défaites. On peut observer que les victoires tendent à augmenter avec l'ancienneté de l'entraîneur, tandis que les défaites ont tendance à diminuer.
+Le [graphique](#match_outcome_vs_days) illustre la proportion des résultats des matchs en fonction de l'ancienneté de l'entraîneur principal lors du match. Cette proportion est calculée à l'aide d'une moyenne pondérée sur une période de 100 jours. La zone verte représente les victoires, la zone grise représente les matchs nuls et la zone rouge représente les défaites. On peut observer que les victoires tendent à augmenter avec l'ancienneté de l'entraîneur, tandis que les défaites ont tendance à diminuer.
 
 :::{code} python
 :caption: Calcul des moyennes mobiles pondérées
@@ -433,12 +439,18 @@ def weighted_rolling_mean(data, weights, window_size=30):
 
 ## Conclusion
 
-L'analyse des données a permis de mettre en évidence trois corrélation entre la performance d'une équipe et l'entraîneur sportif. Les résultats montrent que l'ancienneté du coach au sein de l'équipe est corrélée positivement avec la performance de l'équipe. En d'autres termes, plus un coach reste longtemps à la tête de l'équipe, meilleures sont les performances de l'équipe. De plus, le renouvellement régulier d'un coach sportif est corrélé négativement avec la performance de l'équipe. Enfin, les entraîneurs qui changent régulièrement de club ont tendance à voir une amélioration de la performance de l'équipe.
+L'analyse des données a permis de mettre en évidence trois corrélations entre la performance d'une équipe et l'entraîneur sportif. Les résultats montrent que l'ancienneté du coach au sein de l'équipe est corrélée positivement avec la performance de l'équipe. En d'autres termes, plus un coach reste longtemps à la tête de l'équipe, meilleure sont les performances de l'équipe. De plus, le renouvellement régulier d'un coach sportif est corrélé négativement avec la performance de l'équipe. Enfin, les entraîneurs qui changent régulièrement de club ont tendance à voir une amélioration de la performance de l'équipe.
 
-Ces résultats suggèrent que la stabilité et la continuité sont des facteurs importants pour la réussite d'une équipe de football. Les entraîneurs qui restent longtemps à la tête de l'équipe ont tendance à mieux connaître les joueurs et à mieux comprendre les forces et les faiblesses de l'équipe, ce qui peut contribuer à améliorer les performances de l'équipe. En revanche, les entraîneurs qui changent régulièrement de club ont tendance à voir une amélioration de la performance de l'équipe.
+Ces résultats suggèrent que la stabilité et la continuité sont des facteurs importants de la performance sportive d'une équipe. Les entraîneurs qui restent longtemps à la tête de l'équipe ont tendance à mieux connaître les joueurs et à mieux comprendre les forces et les faiblesses de l'équipe, ce qui peut contribuer à améliorer les performances de l'équipe. En revanche, les entraîneurs qui changent régulièrement de club ont tendance à voir une amélioration de la performance de l'équipe.
 Cela semble indiquer qu'un renouvellement régulier des entraîneurs peut être bénéfique pour l'équipe, mais que la stabilité et la continuité d'un coach peuvent également avoir un impact significatif sur les performances de l'équipe, en particulier à court terme.
 
 Cependant, il est difficile de tirer des conclusions définitives sur la causalité de ces relations, car il existe de nombreux autres facteurs qui peuvent influencer la performance d'une équipe de football. Par exemple, la qualité des joueurs, la stratégie de jeu, la gestion du club et d'autres facteurs peuvent également jouer un rôle important dans la performance de l'équipe. Il est donc important de prendre en compte ces facteurs lors de l'analyse des données et de ne pas tirer de conclusions hâtives sur la relation entre le licenciement d'un coach et la performance de l'équipe.
+
+## Appronfondir et améliorer cette étude
+
+- Observer les causes et conséquences d'un licenciement en cours de saison sur la performance de l'équipe le reste de la saison
+- Agrandir la tailles des données d'interêts (expérience passé de l'entraîneur pas représentative car limité à certains clubs de 1ère division)
+- Ajouter les données manquantes des entraîneurs sportifs (proportion importante de matchs sans entraîneur)
 
 +++ {"part": "data_availability"}
 L'ensemble des fichiers et données relatif à ce travail sont disponible en accès libre sur le [dépot GitHub](https://github.com/mathisdrn/head_coach_dismissal) sous licence MIT.
