@@ -5923,6 +5923,7 @@ Bundesliga,Germany,2022-09-30,Bayern Munich,4.0,win,True,Julian Nagelsmann,456.0
 Bundesliga,Germany,2022-10-07,Hoffenheim,1.0,loss,True,André Breitenreiter,98.0
 Bundesliga,Germany,2022-10-09,M'Gladbach,5.0,win,True,Daniel Farke,100.0
 Bundesliga,Germany,2022-10-09,Stuttgart,0.0,loss,True,Pellegrino Matarazzo,1014.0
+Serie A,Italy,2014-08-30,Chievo,0.0,loss,True,Eugenio Corini,291.0
 Serie A,Italy,2014-08-30,Roma,2.0,win,True,Rudi Garcia,425.0
 Serie A,Italy,2014-08-31,Atalanta,0.0,draw,True,Stefano Colantuono,1539.0
 Serie A,Italy,2014-08-31,Milan,3.0,win,True,Filippo Inzaghi,83.0
@@ -5933,11 +5934,13 @@ Serie A,Italy,2014-08-31,Udinese,2.0,win,True,Andrea Stramaccioni,61.0
 Serie A,Italy,2014-11-01,Napoli,2.0,win,True,Rafael Benítez,488.0
 Serie A,Italy,2014-11-01,Empoli,0.0,loss,True,Maurizio Sarri,859.0
 Serie A,Italy,2014-11-02,Udinese,2.0,loss,True,Andrea Stramaccioni,124.0
+Serie A,Italy,2014-11-02,Chievo,0.0,draw,True,Rolando Maran,14.0
 Serie A,Italy,2014-11-02,Milan,0.0,loss,True,Filippo Inzaghi,146.0
 Serie A,Italy,2014-11-02,Milan,0.0,loss,True,Walter Mazzarri,527.0
 Serie A,Italy,2014-11-03,Lazio,4.0,win,True,Stefano Pioli,125.0
 Serie A,Italy,2014-11-08,Sassuolo,0.0,draw,True,Eusebio Di Francesco,250.0
 Serie A,Italy,2014-11-09,Empoli,2.0,win,True,Maurizio Sarri,867.0
+Serie A,Italy,2014-11-09,Chievo,2.0,win,True,Rolando Maran,21.0
 Serie A,Italy,2014-11-09,Juventus,7.0,win,True,Massimiliano Allegri,116.0
 Serie A,Italy,2014-11-09,Fiorentina,0.0,loss,True,Vincenzo Montella,881.0
 Serie A,Italy,2014-11-09,Roma,3.0,win,True,Rudi Garcia,496.0
@@ -5950,6 +5953,7 @@ Serie A,Italy,2014-11-23,Milan,1.0,draw,True,Filippo Inzaghi,167.0
 Serie A,Italy,2014-11-23,Milan,1.0,draw,True,Roberto Mancini,9.0
 Serie A,Italy,2014-11-24,Genoa,1.0,draw,True,Gian Piero Gasperini,421.0
 Serie A,Italy,2014-11-29,Sassuolo,2.0,win,True,Eusebio Di Francesco,271.0
+Serie A,Italy,2014-11-29,Chievo,0.0,draw,True,Rolando Maran,41.0
 Serie A,Italy,2014-11-30,Milan,2.0,win,True,Filippo Inzaghi,174.0
 Serie A,Italy,2014-11-30,Milan,2.0,win,True,Roberto Mancini,16.0
 Serie A,Italy,2014-11-30,Empoli,0.0,draw,True,Maurizio Sarri,888.0
@@ -5968,6 +5972,7 @@ Serie A,Italy,2014-12-14,Udinese,1.0,loss,True,Andrea Stramaccioni,166.0
 Serie A,Italy,2014-12-14,Milan,2.0,win,True,Filippo Inzaghi,188.0
 Serie A,Italy,2014-12-14,Milan,2.0,win,True,Roberto Mancini,30.0
 Serie A,Italy,2014-12-15,Empoli,0.0,draw,True,Maurizio Sarri,903.0
+Serie A,Italy,2014-12-15,Chievo,0.0,loss,True,Rolando Maran,57.0
 Serie A,Italy,2014-12-18,Napoli,2.0,win,True,Rafael Benítez,535.0
 Serie A,Italy,2014-12-20,Sassuolo,1.0,draw,True,Eusebio Di Francesco,292.0
 Serie A,Italy,2014-12-20,Roma,0.0,draw,True,Rudi Garcia,537.0
@@ -5977,6 +5982,7 @@ Serie A,Italy,2014-12-21,Fiorentina,1.0,draw,True,Vincenzo Montella,923.0
 Serie A,Italy,2015-01-05,Lazio,3.0,win,True,Stefano Pioli,188.0
 Serie A,Italy,2015-01-06,Udinese,0.0,loss,True,Andrea Stramaccioni,189.0
 Serie A,Italy,2015-01-06,Genoa,2.0,draw,True,Gian Piero Gasperini,464.0
+Serie A,Italy,2015-01-06,Chievo,0.0,draw,True,Rolando Maran,79.0
 Serie A,Italy,2015-01-06,Milan,1.0,loss,True,Filippo Inzaghi,211.0
 Serie A,Italy,2015-01-06,Milan,1.0,loss,True,Roberto Mancini,53.0
 Serie A,Italy,2015-01-06,Empoli,0.0,draw,True,Maurizio Sarri,925.0
@@ -5989,6 +5995,7 @@ Serie A,Italy,2015-01-11,Atalanta,1.0,draw,True,Stefano Colantuono,1672.0
 Serie A,Italy,2015-01-11,Napoli,1.0,loss,True,Rafael Benítez,559.0
 Serie A,Italy,2015-01-17,Empoli,0.0,draw,True,Maurizio Sarri,936.0
 Serie A,Italy,2015-01-18,Lazio,0.0,loss,True,Stefano Pioli,201.0
+Serie A,Italy,2015-01-18,Chievo,1.0,loss,True,Rolando Maran,91.0
 Serie A,Italy,2015-01-18,Udinese,2.0,draw,True,Andrea Stramaccioni,201.0
 Serie A,Italy,2015-01-18,Genoa,3.0,draw,True,Gian Piero Gasperini,476.0
 Serie A,Italy,2015-01-18,Milan,0.0,loss,True,Filippo Inzaghi,223.0
@@ -6009,6 +6016,7 @@ Serie A,Italy,2015-01-26,Napoli,2.0,win,True,Rafael Benítez,574.0
 Serie A,Italy,2015-01-31,Genoa,1.0,draw,True,Gian Piero Gasperini,489.0
 Serie A,Italy,2015-01-31,Roma,1.0,draw,True,Rudi Garcia,579.0
 Serie A,Italy,2015-02-01,Sassuolo,3.0,win,True,Eusebio Di Francesco,335.0
+Serie A,Italy,2015-02-01,Chievo,1.0,loss,True,Rolando Maran,105.0
 Serie A,Italy,2015-02-01,Atalanta,2.0,win,True,Stefano Colantuono,1693.0
 Serie A,Italy,2015-02-01,Udinese,0.0,draw,True,Andrea Stramaccioni,215.0
 Serie A,Italy,2015-02-01,Milan,3.0,win,True,Filippo Inzaghi,237.0
@@ -6026,6 +6034,7 @@ Serie A,Italy,2015-02-15,Genoa,5.0,win,True,Gian Piero Gasperini,504.0
 Serie A,Italy,2015-02-15,Udinese,0.0,loss,True,Andrea Stramaccioni,229.0
 Serie A,Italy,2015-02-15,Roma,0.0,draw,True,Rudi Garcia,594.0
 Serie A,Italy,2015-02-15,Atalanta,1.0,loss,True,Stefano Colantuono,1707.0
+Serie A,Italy,2015-02-15,Chievo,2.0,win,True,Rolando Maran,119.0
 Serie A,Italy,2015-02-20,Juventus,2.0,win,True,Massimiliano Allegri,219.0
 Serie A,Italy,2015-02-22,Lazio,2.0,win,True,Stefano Pioli,236.0
 Serie A,Italy,2015-02-22,Milan,2.0,win,True,Filippo Inzaghi,258.0
@@ -6034,6 +6043,7 @@ Serie A,Italy,2015-02-22,Hellas Verona,1.0,draw,True,Andrea Mandorlini,1566.0
 Serie A,Italy,2015-02-22,Empoli,3.0,win,True,Maurizio Sarri,972.0
 Serie A,Italy,2015-02-22,Fiorentina,1.0,draw,True,Vincenzo Montella,986.0
 Serie A,Italy,2015-02-23,Napoli,2.0,win,True,Rafael Benítez,602.0
+Serie A,Italy,2015-02-28,Chievo,0.0,draw,True,Rolando Maran,132.0
 Serie A,Italy,2015-03-01,Sassuolo,0.0,loss,True,Eusebio Di Francesco,363.0
 Serie A,Italy,2015-03-01,Atalanta,1.0,loss,True,Stefano Colantuono,1721.0
 Serie A,Italy,2015-03-02,Roma,1.0,draw,True,Rudi Garcia,609.0
@@ -6041,6 +6051,7 @@ Serie A,Italy,2015-04-15,Genoa,2.0,win,True,Gian Piero Gasperini,563.0
 Serie A,Italy,2015-03-07,Milan,2.0,draw,True,Filippo Inzaghi,271.0
 Serie A,Italy,2015-03-07,Milan,2.0,draw,True,Roberto Mancini,113.0
 Serie A,Italy,2015-03-08,Empoli,1.0,draw,True,Maurizio Sarri,986.0
+Serie A,Italy,2015-03-08,Chievo,0.0,draw,True,Rolando Maran,140.0
 Serie A,Italy,2015-03-08,Udinese,3.0,win,True,Andrea Stramaccioni,250.0
 Serie A,Italy,2015-03-08,Napoli,2.0,draw,True,Rafael Benítez,615.0
 Serie A,Italy,2015-03-09,Lazio,4.0,win,True,Stefano Pioli,251.0
@@ -6051,6 +6062,7 @@ Serie A,Italy,2015-03-15,Sassuolo,4.0,win,True,Eusebio Di Francesco,377.0
 Serie A,Italy,2015-03-15,Hellas Verona,2.0,win,True,Andrea Mandorlini,1587.0
 Serie A,Italy,2015-03-16,Fiorentina,2.0,win,True,Vincenzo Montella,1008.0
 Serie A,Italy,2015-03-16,Roma,0.0,loss,True,Rudi Garcia,623.0
+Serie A,Italy,2015-03-21,Chievo,1.0,win,True,Rolando Maran,153.0
 Serie A,Italy,2015-03-21,Milan,3.0,win,True,Filippo Inzaghi,285.0
 Serie A,Italy,2015-03-21,Milan,3.0,win,True,Roberto Mancini,127.0
 Serie A,Italy,2015-03-22,Empoli,3.0,win,True,Maurizio Sarri,1000.0
@@ -6067,6 +6079,7 @@ Serie A,Italy,2015-04-04,Fiorentina,2.0,win,True,Vincenzo Montella,1027.0
 Serie A,Italy,2015-04-04,Juventus,2.0,win,True,Massimiliano Allegri,262.0
 Serie A,Italy,2014-09-20,Milan,0.0,loss,True,Filippo Inzaghi,103.0
 Serie A,Italy,2014-09-20,Milan,0.0,loss,True,Walter Mazzarri,484.0
+Serie A,Italy,2014-09-21,Chievo,2.0,loss,True,Eugenio Corini,313.0
 Serie A,Italy,2014-09-21,Sassuolo,0.0,draw,True,Eusebio Di Francesco,202.0
 Serie A,Italy,2014-09-21,Roma,2.0,win,True,Rudi Garcia,447.0
 Serie A,Italy,2014-09-21,Genoa,1.0,win,True,Gian Piero Gasperini,357.0
@@ -6084,6 +6097,7 @@ Serie A,Italy,2015-04-18,Juventus,2.0,win,True,Massimiliano Allegri,276.0
 Serie A,Italy,2015-04-19,Sassuolo,1.0,draw,True,Eusebio Di Francesco,412.0
 Serie A,Italy,2015-04-19,Empoli,2.0,draw,True,Maurizio Sarri,1028.0
 Serie A,Italy,2015-04-19,Roma,1.0,draw,True,Rudi Garcia,657.0
+Serie A,Italy,2015-04-19,Chievo,1.0,draw,True,Rolando Maran,182.0
 Serie A,Italy,2015-04-20,Fiorentina,0.0,loss,True,Vincenzo Montella,1043.0
 Serie A,Italy,2015-04-25,Udinese,2.0,win,True,Andrea Stramaccioni,298.0
 Serie A,Italy,2015-04-26,Atalanta,2.0,draw,True,Edoardo Reja,53.0
@@ -6093,6 +6107,7 @@ Serie A,Italy,2015-04-26,Hellas Verona,3.0,win,True,Andrea Mandorlini,1629.0
 Serie A,Italy,2015-04-26,Fiorentina,1.0,loss,True,Vincenzo Montella,1049.0
 Serie A,Italy,2015-04-26,Napoli,4.0,win,True,Rafael Benítez,664.0
 Serie A,Italy,2015-04-28,Udinese,1.0,loss,True,Andrea Stramaccioni,301.0
+Serie A,Italy,2015-04-29,Chievo,1.0,win,True,Rolando Maran,192.0
 Serie A,Italy,2015-04-29,Sassuolo,0.0,loss,True,Eusebio Di Francesco,422.0
 Serie A,Italy,2015-04-29,Milan,1.0,loss,True,Filippo Inzaghi,324.0
 Serie A,Italy,2015-04-29,Milan,1.0,loss,True,Roberto Mancini,166.0
@@ -6108,6 +6123,7 @@ Serie A,Italy,2015-05-03,Napoli,3.0,win,True,Rafael Benítez,671.0
 Serie A,Italy,2015-05-09,Juventus,1.0,draw,True,Massimiliano Allegri,297.0
 Serie A,Italy,2015-05-09,Milan,2.0,win,True,Filippo Inzaghi,334.0
 Serie A,Italy,2015-05-09,Milan,2.0,win,True,Roberto Mancini,176.0
+Serie A,Italy,2015-05-10,Chievo,2.0,draw,True,Rolando Maran,203.0
 Serie A,Italy,2015-05-10,Udinese,1.0,loss,True,Andrea Stramaccioni,313.0
 Serie A,Italy,2015-05-10,Empoli,2.0,loss,True,Maurizio Sarri,1049.0
 Serie A,Italy,2015-05-10,Lazio,1.0,loss,True,Stefano Pioli,313.0
@@ -6121,6 +6137,7 @@ Serie A,Italy,2015-05-18,Napoli,3.0,win,True,Rafael Benítez,686.0
 Serie A,Italy,2015-05-23,Juventus,3.0,win,True,Massimiliano Allegri,311.0
 Serie A,Italy,2015-05-23,Genoa,3.0,win,True,Gian Piero Gasperini,601.0
 Serie A,Italy,2015-05-24,Empoli,1.0,draw,True,Maurizio Sarri,1063.0
+Serie A,Italy,2015-05-24,Chievo,1.0,draw,True,Rolando Maran,217.0
 Serie A,Italy,2015-05-24,Udinese,0.0,loss,True,Andrea Stramaccioni,327.0
 Serie A,Italy,2015-05-24,Milan,3.0,win,True,Filippo Inzaghi,349.0
 Serie A,Italy,2015-05-24,Milan,3.0,win,True,Roberto Mancini,191.0
@@ -6140,6 +6157,7 @@ Serie A,Italy,2014-09-25,Lazio,0.0,loss,True,Stefano Pioli,86.0
 Serie A,Italy,2014-09-27,Roma,2.0,win,True,Rudi Garcia,453.0
 Serie A,Italy,2014-09-27,Atalanta,0.0,loss,True,Stefano Colantuono,1566.0
 Serie A,Italy,2014-09-28,Sassuolo,0.0,loss,True,Eusebio Di Francesco,209.0
+Serie A,Italy,2014-09-28,Chievo,1.0,draw,True,Eugenio Corini,320.0
 Serie A,Italy,2014-09-28,Genoa,0.0,loss,True,Gian Piero Gasperini,364.0
 Serie A,Italy,2014-09-29,Udinese,4.0,win,True,Andrea Stramaccioni,90.0
 Serie A,Italy,2014-10-04,Hellas Verona,1.0,win,True,Andrea Mandorlini,1425.0
@@ -6158,6 +6176,7 @@ Serie A,Italy,2014-10-19,Hellas Verona,1.0,loss,True,Andrea Mandorlini,1440.0
 Serie A,Italy,2014-10-19,Atalanta,1.0,win,True,Stefano Colantuono,1588.0
 Serie A,Italy,2014-10-20,Genoa,1.0,draw,True,Gian Piero Gasperini,386.0
 Serie A,Italy,2014-10-25,Empoli,0.0,loss,True,Maurizio Sarri,852.0
+Serie A,Italy,2014-10-26,Chievo,1.0,loss,True,Rolando Maran,7.0
 Serie A,Italy,2014-10-26,Udinese,2.0,win,True,Andrea Stramaccioni,117.0
 Serie A,Italy,2014-10-26,Juventus,2.0,win,True,Massimiliano Allegri,102.0
 Serie A,Italy,2014-10-26,Lazio,2.0,win,True,Stefano Pioli,117.0
@@ -6192,6 +6211,7 @@ Serie A,Italy,2015-11-01,Bologna,3.0,win,True,Roberto Donadoni,4.0
 Serie A,Italy,2015-11-01,Genoa,0.0,draw,True,Gian Piero Gasperini,763.0
 Serie A,Italy,2015-11-01,Udinese,0.0,draw,True,Stefano Colantuono,150.0
 Serie A,Italy,2015-11-01,Lazio,1.0,loss,True,Stefano Pioli,488.0
+Serie A,Italy,2015-11-02,Chievo,1.0,draw,True,Rolando Maran,379.0
 Serie A,Italy,2015-11-07,Hellas Verona,0.0,loss,True,Andrea Mandorlini,1824.0
 Serie A,Italy,2015-11-07,Milan,0.0,draw,True,Roberto Mancini,358.0
 Serie A,Italy,2015-11-07,Milan,0.0,draw,True,Siniša Mihajlović,144.0
@@ -6210,6 +6230,7 @@ Serie A,Italy,2015-11-22,Fiorentina,2.0,draw,True,Paulo Sousa,154.0
 Serie A,Italy,2015-11-22,Genoa,2.0,win,True,Gian Piero Gasperini,784.0
 Serie A,Italy,2015-11-28,Milan,4.0,win,True,Roberto Mancini,379.0
 Serie A,Italy,2015-11-28,Milan,4.0,win,True,Siniša Mihajlović,165.0
+Serie A,Italy,2015-11-29,Chievo,2.0,loss,True,Rolando Maran,406.0
 Serie A,Italy,2015-11-29,Frosinone,3.0,win,True,Roberto Stellone,1263.0
 Serie A,Italy,2015-11-29,Roma,0.0,loss,True,Rudi Garcia,881.0
 Serie A,Italy,2015-11-29,Genoa,1.0,loss,True,Gian Piero Gasperini,791.0
@@ -6226,6 +6247,7 @@ Serie A,Italy,2015-12-12,Genoa,0.0,loss,True,Gian Piero Gasperini,804.0
 Serie A,Italy,2015-12-12,Udinese,0.0,loss,True,Stefano Colantuono,191.0
 Serie A,Italy,2015-12-13,Milan,1.0,draw,True,Roberto Mancini,394.0
 Serie A,Italy,2015-12-13,Milan,1.0,draw,True,Siniša Mihajlović,180.0
+Serie A,Italy,2015-12-13,Chievo,1.0,win,True,Rolando Maran,420.0
 Serie A,Italy,2015-12-13,Empoli,3.0,win,True,Marco Giampaolo,181.0
 Serie A,Italy,2015-12-13,Napoli,0.0,draw,True,Maurizio Sarri,185.0
 Serie A,Italy,2015-12-13,Juventus,3.0,win,True,Massimiliano Allegri,515.0
@@ -6242,6 +6264,7 @@ Serie A,Italy,2016-01-06,Udinese,2.0,win,True,Stefano Colantuono,216.0
 Serie A,Italy,2016-01-06,Lazio,0.0,draw,True,Stefano Pioli,554.0
 Serie A,Italy,2016-01-06,Milan,0.0,loss,True,Roberto Mancini,418.0
 Serie A,Italy,2016-01-06,Milan,0.0,loss,True,Siniša Mihajlović,204.0
+Serie A,Italy,2016-01-06,Chievo,3.0,draw,True,Rolando Maran,444.0
 Serie A,Italy,2016-01-06,Sassuolo,2.0,draw,True,Eusebio Di Francesco,674.0
 Serie A,Italy,2016-01-06,Juventus,3.0,win,True,Massimiliano Allegri,539.0
 Serie A,Italy,2016-01-06,Empoli,0.0,loss,True,Marco Giampaolo,205.0
@@ -6258,12 +6281,14 @@ Serie A,Italy,2015-08-29,Milan,2.0,win,True,Siniša Mihajlović,74.0
 Serie A,Italy,2015-08-30,Roma,2.0,win,True,Rudi Garcia,790.0
 Serie A,Italy,2015-08-30,Udinese,0.0,loss,True,Stefano Colantuono,87.0
 Serie A,Italy,2015-08-30,Atalanta,2.0,win,True,Edoardo Reja,179.0
+Serie A,Italy,2015-08-30,Chievo,4.0,win,True,Rolando Maran,315.0
 Serie A,Italy,2015-08-30,Genoa,2.0,win,True,Gian Piero Gasperini,700.0
 Serie A,Italy,2015-08-30,Napoli,2.0,draw,True,Maurizio Sarri,80.0
 Serie A,Italy,2016-01-16,Atalanta,1.0,draw,True,Edoardo Reja,318.0
 Serie A,Italy,2016-01-16,Napoli,3.0,win,True,Maurizio Sarri,219.0
 Serie A,Italy,2016-01-17,Genoa,4.0,win,True,Gian Piero Gasperini,840.0
 Serie A,Italy,2016-01-17,Udinese,0.0,loss,True,Stefano Colantuono,227.0
+Serie A,Italy,2016-01-17,Chievo,1.0,draw,True,Rolando Maran,455.0
 Serie A,Italy,2016-01-17,Roma,1.0,draw,True,Luciano Spalletti,3.0
 Serie A,Italy,2016-01-17,Bologna,2.0,draw,True,Roberto Donadoni,81.0
 Serie A,Italy,2016-01-17,Milan,2.0,win,True,Roberto Mancini,429.0
@@ -6277,6 +6302,7 @@ Serie A,Italy,2016-01-24,Sassuolo,0.0,loss,True,Eusebio Di Francesco,692.0
 Serie A,Italy,2016-01-24,Juventus,1.0,win,True,Massimiliano Allegri,557.0
 Serie A,Italy,2016-01-30,Atalanta,1.0,draw,True,Edoardo Reja,332.0
 Serie A,Italy,2016-01-30,Roma,3.0,win,True,Luciano Spalletti,16.0
+Serie A,Italy,2016-01-31,Chievo,0.0,loss,True,Rolando Maran,469.0
 Serie A,Italy,2016-01-31,Udinese,0.0,draw,True,Stefano Colantuono,241.0
 Serie A,Italy,2016-01-31,Napoli,5.0,win,True,Maurizio Sarri,234.0
 Serie A,Italy,2016-01-31,Bologna,3.0,win,True,Roberto Donadoni,95.0
@@ -6302,6 +6328,7 @@ Serie A,Italy,2016-02-07,Atalanta,0.0,draw,True,Edoardo Reja,340.0
 Serie A,Italy,2016-02-07,Roma,2.0,win,True,Luciano Spalletti,24.0
 Serie A,Italy,2016-02-11,Lazio,5.0,win,True,Stefano Pioli,590.0
 Serie A,Italy,2016-02-13,Empoli,1.0,loss,True,Marco Giampaolo,243.0
+Serie A,Italy,2016-02-13,Chievo,1.0,draw,True,Rolando Maran,482.0
 Serie A,Italy,2016-02-13,Juventus,1.0,win,True,Massimiliano Allegri,577.0
 Serie A,Italy,2016-02-14,Milan,2.0,win,True,Roberto Mancini,457.0
 Serie A,Italy,2016-02-14,Milan,2.0,win,True,Siniša Mihajlović,243.0
@@ -6319,6 +6346,7 @@ Serie A,Italy,2016-02-27,Empoli,1.0,loss,True,Marco Giampaolo,257.0
 Serie A,Italy,2016-02-27,Milan,1.0,win,True,Roberto Mancini,470.0
 Serie A,Italy,2016-02-27,Milan,1.0,win,True,Siniša Mihajlović,256.0
 Serie A,Italy,2016-02-28,Udinese,2.0,win,True,Stefano Colantuono,269.0
+Serie A,Italy,2016-02-28,Chievo,1.0,win,True,Rolando Maran,497.0
 Serie A,Italy,2016-02-28,Juventus,2.0,win,True,Massimiliano Allegri,592.0
 Serie A,Italy,2016-02-29,Lazio,0.0,loss,True,Stefano Pioli,608.0
 Serie A,Italy,2016-02-29,Fiorentina,1.0,draw,True,Paulo Sousa,253.0
@@ -6332,6 +6360,7 @@ Serie A,Italy,2016-03-06,Genoa,1.0,win,True,Gian Piero Gasperini,889.0
 Serie A,Italy,2016-03-06,Sassuolo,2.0,win,True,Eusebio Di Francesco,734.0
 Serie A,Italy,2016-03-11,Juventus,1.0,win,True,Massimiliano Allegri,604.0
 Serie A,Italy,2016-03-12,Empoli,1.0,draw,True,Marco Giampaolo,271.0
+Serie A,Italy,2016-03-13,Chievo,0.0,draw,True,Rolando Maran,511.0
 Serie A,Italy,2016-03-13,Udinese,1.0,loss,True,Stefano Colantuono,283.0
 Serie A,Italy,2016-03-13,Genoa,3.0,win,True,Gian Piero Gasperini,896.0
 Serie A,Italy,2016-03-13,Fiorentina,1.0,draw,True,Paulo Sousa,266.0
@@ -6357,10 +6386,12 @@ Serie A,Italy,2016-04-03,Udinese,3.0,win,True,Luigi De Canio,20.0
 Serie A,Italy,2016-04-03,Atalanta,2.0,win,True,Edoardo Reja,396.0
 Serie A,Italy,2016-04-03,Genoa,4.0,win,True,Gian Piero Gasperini,917.0
 Serie A,Italy,2016-04-03,Lazio,1.0,loss,True,Stefano Pioli,642.0
+Serie A,Italy,2016-04-03,Chievo,3.0,win,True,Rolando Maran,532.0
 Serie A,Italy,2016-04-03,Fiorentina,1.0,draw,True,Paulo Sousa,287.0
 Serie A,Italy,2016-04-04,Bologna,0.0,loss,True,Roberto Donadoni,159.0
 Serie A,Italy,2016-04-09,Frosinone,0.0,loss,True,Roberto Stellone,1395.0
 Serie A,Italy,2016-04-09,Sassuolo,0.0,loss,True,Eusebio Di Francesco,768.0
+Serie A,Italy,2016-04-09,Chievo,1.0,win,True,Rolando Maran,538.0
 Serie A,Italy,2016-04-09,Milan,1.0,loss,True,Roberto Mancini,512.0
 Serie A,Italy,2016-04-09,Milan,1.0,loss,True,Siniša Mihajlović,298.0
 Serie A,Italy,2016-04-10,Empoli,2.0,win,True,Marco Giampaolo,300.0
@@ -6379,6 +6410,7 @@ Serie A,Italy,2016-04-20,Roma,3.0,win,True,Luciano Spalletti,97.0
 Serie A,Italy,2016-04-20,Juventus,3.0,win,True,Massimiliano Allegri,644.0
 Serie A,Italy,2016-04-20,Udinese,2.0,win,True,Luigi De Canio,37.0
 Serie A,Italy,2016-04-20,Genoa,1.0,win,True,Gian Piero Gasperini,934.0
+Serie A,Italy,2016-04-20,Chievo,5.0,win,True,Rolando Maran,549.0
 Serie A,Italy,2016-04-21,Milan,0.0,draw,True,Roberto Mancini,524.0
 Serie A,Italy,2016-04-24,Frosinone,0.0,loss,True,Roberto Stellone,1410.0
 Serie A,Italy,2016-04-24,Atalanta,1.0,win,True,Edoardo Reja,417.0
@@ -6387,6 +6419,7 @@ Serie A,Italy,2016-04-24,Fiorentina,1.0,loss,True,Paulo Sousa,308.0
 Serie A,Italy,2016-04-25,Roma,1.0,win,True,Luciano Spalletti,102.0
 Serie A,Italy,2016-04-25,Hellas Verona,2.0,win,True,Luigi Delneri,146.0
 Serie A,Italy,2016-04-30,Udinese,1.0,loss,True,Luigi De Canio,47.0
+Serie A,Italy,2016-04-30,Chievo,0.0,draw,True,Rolando Maran,559.0
 Serie A,Italy,2016-05-01,Juventus,2.0,win,True,Massimiliano Allegri,655.0
 Serie A,Italy,2016-05-01,Milan,3.0,draw,True,Roberto Mancini,534.0
 Serie A,Italy,2016-05-01,Sassuolo,1.0,win,True,Eusebio Di Francesco,790.0
@@ -6403,12 +6436,14 @@ Serie A,Italy,2016-05-14,Juventus,5.0,win,True,Massimiliano Allegri,668.0
 Serie A,Italy,2016-05-14,Napoli,4.0,win,True,Maurizio Sarri,338.0
 Serie A,Italy,2016-05-14,Sassuolo,3.0,win,True,Eusebio Di Francesco,803.0
 Serie A,Italy,2016-05-14,Milan,1.0,loss,True,Roberto Mancini,547.0
+Serie A,Italy,2016-05-15,Chievo,0.0,draw,True,Rolando Maran,574.0
 Serie A,Italy,2016-05-15,Genoa,1.0,loss,True,Gian Piero Gasperini,959.0
 Serie A,Italy,2016-05-15,Empoli,2.0,win,True,Marco Giampaolo,335.0
 Serie A,Italy,2016-05-15,Udinese,1.0,loss,True,Luigi De Canio,62.0
 Serie A,Italy,2015-09-19,Udinese,1.0,loss,True,Stefano Colantuono,107.0
 Serie A,Italy,2015-09-19,Milan,3.0,win,True,Roberto Mancini,309.0
 Serie A,Italy,2015-09-19,Milan,3.0,win,True,Siniša Mihajlović,95.0
+Serie A,Italy,2015-09-20,Chievo,0.0,loss,True,Rolando Maran,336.0
 Serie A,Italy,2015-09-20,Atalanta,1.0,draw,True,Edoardo Reja,200.0
 Serie A,Italy,2015-09-20,Bologna,1.0,win,True,Delio Rossi,139.0
 Serie A,Italy,2015-09-20,Genoa,0.0,loss,True,Gian Piero Gasperini,721.0
@@ -6417,6 +6452,7 @@ Serie A,Italy,2015-09-20,Napoli,5.0,win,True,Maurizio Sarri,101.0
 Serie A,Italy,2015-09-22,Udinese,2.0,loss,True,Stefano Colantuono,110.0
 Serie A,Italy,2015-09-23,Lazio,2.0,win,True,Stefano Pioli,449.0
 Serie A,Italy,2015-09-23,Fiorentina,2.0,win,True,Paulo Sousa,94.0
+Serie A,Italy,2015-09-23,Chievo,1.0,win,True,Rolando Maran,339.0
 Serie A,Italy,2015-09-23,Juventus,1.0,draw,True,Massimiliano Allegri,434.0
 Serie A,Italy,2015-09-24,Empoli,0.0,loss,True,Marco Giampaolo,101.0
 Serie A,Italy,2015-09-26,Roma,5.0,win,True,Rudi Garcia,817.0
@@ -6427,6 +6463,7 @@ Serie A,Italy,2015-09-27,Sassuolo,1.0,draw,True,Eusebio Di Francesco,573.0
 Serie A,Italy,2015-09-27,Bologna,1.0,loss,True,Delio Rossi,146.0
 Serie A,Italy,2015-09-28,Frosinone,2.0,win,True,Roberto Stellone,1201.0
 Serie A,Italy,2015-09-28,Atalanta,2.0,win,True,Edoardo Reja,208.0
+Serie A,Italy,2015-10-03,Chievo,1.0,draw,True,Rolando Maran,349.0
 Serie A,Italy,2015-10-04,Empoli,1.0,win,True,Marco Giampaolo,111.0
 Serie A,Italy,2015-10-04,Udinese,1.0,draw,True,Stefano Colantuono,122.0
 Serie A,Italy,2015-10-04,Lazio,2.0,win,True,Stefano Pioli,460.0
@@ -6449,18 +6486,21 @@ Serie A,Italy,2015-10-25,Milan,2.0,win,True,Siniša Mihajlović,131.0
 Serie A,Italy,2015-10-25,Juventus,2.0,win,True,Massimiliano Allegri,466.0
 Serie A,Italy,2015-10-25,Lazio,3.0,win,True,Stefano Pioli,481.0
 Serie A,Italy,2015-10-25,Fiorentina,1.0,loss,True,Paulo Sousa,126.0
+Serie A,Italy,2015-10-25,Chievo,0.0,loss,True,Rolando Maran,371.0
 Serie A,Italy,2016-08-20,Roma,4.0,win,True,Luciano Spalletti,219.0
 Serie A,Italy,2016-08-20,Juventus,2.0,win,True,Massimiliano Allegri,766.0
 Serie A,Italy,2016-08-21,Milan,3.0,win,True,Frank de Boer,12.0
 Serie A,Italy,2016-08-21,Milan,3.0,win,True,Vincenzo Montella,53.0
 Serie A,Italy,2016-08-21,Genoa,3.0,win,True,Ivan Juric,51.0
 Serie A,Italy,2016-08-21,Bologna,1.0,win,True,Roberto Donadoni,298.0
+Serie A,Italy,2016-08-21,Chievo,2.0,win,True,Rolando Maran,672.0
 Serie A,Italy,2016-08-21,Empoli,0.0,loss,True,Giovanni Martusciello,51.0
 Serie A,Italy,2016-10-25,Genoa,3.0,win,True,Ivan Juric,116.0
 Serie A,Italy,2016-10-26,Sassuolo,1.0,loss,True,Eusebio Di Francesco,968.0
 Serie A,Italy,2016-10-26,Juventus,4.0,win,True,Massimiliano Allegri,833.0
 Serie A,Italy,2016-10-26,Napoli,2.0,win,True,Maurizio Sarri,503.0
 Serie A,Italy,2016-10-26,Lazio,4.0,win,True,Simone Inzaghi,110.0
+Serie A,Italy,2016-10-26,Chievo,1.0,draw,True,Rolando Maran,738.0
 Serie A,Italy,2016-10-26,Fiorentina,1.0,draw,True,Paulo Sousa,493.0
 Serie A,Italy,2016-10-29,Bologna,0.0,loss,True,Roberto Donadoni,367.0
 Serie A,Italy,2016-10-29,Juventus,2.0,win,True,Massimiliano Allegri,836.0
@@ -6473,8 +6513,10 @@ Serie A,Italy,2016-11-05,Torino,5.0,win,True,Siniša Mihajlović,164.0
 Serie A,Italy,2016-11-05,Napoli,1.0,draw,True,Maurizio Sarri,513.0
 Serie A,Italy,2016-11-06,Genoa,1.0,draw,True,Ivan Juric,128.0
 Serie A,Italy,2016-11-06,Sassuolo,0.0,loss,True,Eusebio Di Francesco,979.0
+Serie A,Italy,2016-11-06,Chievo,1.0,loss,True,Rolando Maran,749.0
 Serie A,Italy,2016-11-06,Fiorentina,1.0,draw,True,Paulo Sousa,504.0
 Serie A,Italy,2016-11-06,Roma,3.0,win,True,Luciano Spalletti,297.0
+Serie A,Italy,2016-11-19,Chievo,1.0,win,True,Rolando Maran,762.0
 Serie A,Italy,2016-11-19,Udinese,1.0,loss,True,Luigi Delneri,47.0
 Serie A,Italy,2016-11-19,Juventus,3.0,win,True,Massimiliano Allegri,857.0
 Serie A,Italy,2016-11-20,Lazio,3.0,win,True,Simone Inzaghi,135.0
@@ -6495,6 +6537,7 @@ Serie A,Italy,2016-12-04,Milan,2.0,win,True,Vincenzo Montella,158.0
 Serie A,Italy,2016-12-04,Lazio,0.0,loss,True,Simone Inzaghi,149.0
 Serie A,Italy,2016-12-04,Sassuolo,3.0,win,True,Eusebio Di Francesco,1007.0
 Serie A,Italy,2016-12-04,Fiorentina,2.0,win,True,Paulo Sousa,532.0
+Serie A,Italy,2016-12-05,Chievo,0.0,draw,True,Rolando Maran,778.0
 Serie A,Italy,2016-12-05,Udinese,1.0,win,True,Luigi Delneri,63.0
 Serie A,Italy,2016-12-11,Torino,1.0,loss,True,Siniša Mihajlović,200.0
 Serie A,Italy,2016-12-11,Bologna,0.0,draw,True,Roberto Donadoni,410.0
@@ -6507,6 +6550,7 @@ Serie A,Italy,2016-12-17,Juventus,1.0,win,True,Massimiliano Allegri,885.0
 Serie A,Italy,2016-12-18,Sassuolo,0.0,loss,True,Eusebio Di Francesco,1021.0
 Serie A,Italy,2016-12-18,Napoli,5.0,win,True,Maurizio Sarri,556.0
 Serie A,Italy,2016-12-18,Udinese,2.0,win,True,Luigi Delneri,76.0
+Serie A,Italy,2016-12-18,Chievo,2.0,win,True,Rolando Maran,791.0
 Serie A,Italy,2016-12-18,Lazio,3.0,win,True,Simone Inzaghi,163.0
 Serie A,Italy,2016-12-18,Genoa,3.0,loss,True,Ivan Juric,170.0
 Serie A,Italy,2016-12-22,Torino,1.0,win,True,Siniša Mihajlović,211.0
@@ -6516,6 +6560,7 @@ Serie A,Italy,2017-02-08,Bologna,0.0,loss,True,Roberto Donadoni,469.0
 Serie A,Italy,2017-01-07,Empoli,1.0,win,True,Giovanni Martusciello,190.0
 Serie A,Italy,2017-01-07,Napoli,2.0,win,True,Maurizio Sarri,576.0
 Serie A,Italy,2017-01-08,Udinese,1.0,loss,True,Luigi Delneri,97.0
+Serie A,Italy,2017-01-08,Chievo,1.0,loss,True,Rolando Maran,812.0
 Serie A,Italy,2017-01-08,Lazio,1.0,win,True,Simone Inzaghi,184.0
 Serie A,Italy,2017-01-08,Sassuolo,0.0,draw,True,Eusebio Di Francesco,1042.0
 Serie A,Italy,2017-01-08,Genoa,0.0,loss,True,Ivan Juric,191.0
@@ -6534,6 +6579,7 @@ Serie A,Italy,2017-01-15,Sassuolo,4.0,win,True,Eusebio Di Francesco,1049.0
 Serie A,Italy,2017-01-15,Lazio,2.0,win,True,Simone Inzaghi,191.0
 Serie A,Italy,2017-01-15,Fiorentina,2.0,win,True,Paulo Sousa,574.0
 Serie A,Italy,2017-01-16,Torino,2.0,draw,True,Siniša Mihajlović,236.0
+Serie A,Italy,2017-01-21,Chievo,0.0,loss,True,Rolando Maran,825.0
 Serie A,Italy,2017-01-21,Milan,1.0,loss,True,Stefano Pioli,74.0
 Serie A,Italy,2017-01-21,Milan,1.0,loss,True,Vincenzo Montella,206.0
 Serie A,Italy,2017-01-22,Juventus,2.0,win,True,Massimiliano Allegri,921.0
@@ -6551,6 +6597,7 @@ Serie A,Italy,2017-02-04,Bologna,1.0,loss,True,Roberto Donadoni,465.0
 Serie A,Italy,2017-02-05,Milan,0.0,loss,True,Stefano Pioli,89.0
 Serie A,Italy,2017-02-05,Milan,0.0,loss,True,Vincenzo Montella,221.0
 Serie A,Italy,2017-02-05,Genoa,0.0,loss,True,Ivan Juric,219.0
+Serie A,Italy,2017-02-05,Chievo,0.0,draw,True,Rolando Maran,840.0
 Serie A,Italy,2017-02-05,Empoli,1.0,draw,True,Giovanni Martusciello,219.0
 Serie A,Italy,2017-02-05,Juventus,1.0,win,True,Massimiliano Allegri,935.0
 Serie A,Italy,2017-02-07,Roma,4.0,win,True,Luciano Spalletti,390.0
@@ -6562,6 +6609,7 @@ Serie A,Italy,2017-02-13,Lazio,1.0,draw,True,Simone Inzaghi,220.0
 Serie A,Italy,2017-02-17,Juventus,4.0,win,True,Massimiliano Allegri,947.0
 Serie A,Italy,2017-02-18,Empoli,1.0,loss,True,Giovanni Martusciello,232.0
 Serie A,Italy,2017-02-19,Bologna,0.0,loss,True,Roberto Donadoni,480.0
+Serie A,Italy,2017-02-19,Chievo,1.0,loss,True,Rolando Maran,854.0
 Serie A,Italy,2017-02-19,Udinese,1.0,loss,True,Luigi Delneri,139.0
 Serie A,Italy,2017-02-19,Roma,4.0,win,True,Luciano Spalletti,402.0
 Serie A,Italy,2017-02-19,Milan,2.0,win,True,Stefano Pioli,103.0
@@ -6570,6 +6618,7 @@ Serie A,Italy,2017-02-25,Napoli,0.0,loss,True,Maurizio Sarri,625.0
 Serie A,Italy,2017-02-25,Juventus,2.0,win,True,Massimiliano Allegri,955.0
 Serie A,Italy,2017-02-26,Lazio,1.0,win,True,Simone Inzaghi,233.0
 Serie A,Italy,2017-02-26,Sassuolo,0.0,loss,True,Eusebio Di Francesco,1091.0
+Serie A,Italy,2017-02-26,Chievo,2.0,win,True,Rolando Maran,861.0
 Serie A,Italy,2017-02-26,Genoa,1.0,draw,True,Andrea Mandorlini,6.0
 Serie A,Italy,2017-02-27,Fiorentina,2.0,draw,True,Paulo Sousa,617.0
 Serie A,Italy,2017-03-04,Roma,1.0,loss,True,Luciano Spalletti,415.0
@@ -6582,6 +6631,7 @@ Serie A,Italy,2017-03-05,Bologna,0.0,loss,True,Roberto Donadoni,494.0
 Serie A,Italy,2017-03-10,Juventus,2.0,win,True,Massimiliano Allegri,968.0
 Serie A,Italy,2017-03-11,Genoa,0.0,loss,True,Andrea Mandorlini,19.0
 Serie A,Italy,2017-03-12,Sassuolo,0.0,loss,True,Eusebio Di Francesco,1105.0
+Serie A,Italy,2017-03-12,Chievo,4.0,win,True,Rolando Maran,875.0
 Serie A,Italy,2017-03-12,Napoli,3.0,win,True,Maurizio Sarri,640.0
 Serie A,Italy,2017-03-12,Fiorentina,1.0,win,True,Paulo Sousa,630.0
 Serie A,Italy,2017-03-13,Lazio,3.0,win,True,Simone Inzaghi,248.0
@@ -6596,6 +6646,7 @@ Serie A,Italy,2016-09-10,Juventus,3.0,win,True,Massimiliano Allegri,787.0
 Serie A,Italy,2016-09-11,Bologna,2.0,win,True,Roberto Donadoni,319.0
 Serie A,Italy,2016-09-11,Milan,0.0,loss,True,Frank de Boer,33.0
 Serie A,Italy,2016-09-11,Milan,0.0,loss,True,Vincenzo Montella,74.0
+Serie A,Italy,2016-09-11,Chievo,1.0,draw,True,Rolando Maran,693.0
 Serie A,Italy,2016-09-11,Roma,3.0,win,True,Luciano Spalletti,241.0
 Serie A,Italy,2016-09-12,Empoli,2.0,win,True,Giovanni Martusciello,73.0
 Serie A,Italy,2016-12-15,Genoa,1.0,win,True,Ivan Juric,167.0
@@ -6604,6 +6655,7 @@ Serie A,Italy,2017-04-01,Roma,2.0,win,True,Luciano Spalletti,443.0
 Serie A,Italy,2017-04-02,Torino,2.0,draw,True,Siniša Mihajlović,312.0
 Serie A,Italy,2017-04-02,Genoa,0.0,loss,True,Andrea Mandorlini,41.0
 Serie A,Italy,2017-04-02,Fiorentina,1.0,win,True,Paulo Sousa,651.0
+Serie A,Italy,2017-04-02,Chievo,1.0,loss,True,Rolando Maran,896.0
 Serie A,Italy,2017-04-02,Napoli,1.0,draw,True,Maurizio Sarri,661.0
 Serie A,Italy,2017-04-08,Empoli,1.0,draw,True,Giovanni Martusciello,281.0
 Serie A,Italy,2017-04-08,Juventus,2.0,win,True,Massimiliano Allegri,997.0
@@ -6622,6 +6674,7 @@ Serie A,Italy,2017-04-22,Fiorentina,5.0,win,True,Paulo Sousa,671.0
 Serie A,Italy,2017-04-23,Sassuolo,2.0,draw,True,Eusebio Di Francesco,1147.0
 Serie A,Italy,2017-04-23,Milan,1.0,loss,True,Stefano Pioli,166.0
 Serie A,Italy,2017-04-23,Milan,1.0,loss,True,Vincenzo Montella,298.0
+Serie A,Italy,2017-04-23,Chievo,1.0,loss,True,Rolando Maran,917.0
 Serie A,Italy,2017-04-23,Lazio,6.0,win,True,Simone Inzaghi,289.0
 Serie A,Italy,2017-04-23,Udinese,2.0,win,True,Luigi Delneri,202.0
 Serie A,Italy,2017-04-23,Juventus,4.0,win,True,Massimiliano Allegri,1012.0
@@ -6634,6 +6687,7 @@ Serie A,Italy,2017-05-06,Napoli,3.0,win,True,Maurizio Sarri,695.0
 Serie A,Italy,2017-05-06,Juventus,1.0,draw,True,Massimiliano Allegri,1025.0
 Serie A,Italy,2017-05-07,Udinese,1.0,draw,True,Luigi Delneri,216.0
 Serie A,Italy,2017-05-07,Lazio,7.0,win,True,Simone Inzaghi,303.0
+Serie A,Italy,2017-05-07,Chievo,1.0,draw,True,Rolando Maran,931.0
 Serie A,Italy,2017-05-07,Empoli,3.0,win,True,Giovanni Martusciello,310.0
 Serie A,Italy,2017-05-07,Genoa,1.0,win,True,Ivan Juric,27.0
 Serie A,Italy,2017-05-07,Sassuolo,2.0,draw,True,Eusebio Di Francesco,1161.0
@@ -6643,6 +6697,7 @@ Serie A,Italy,2017-05-13,Fiorentina,3.0,win,True,Paulo Sousa,692.0
 Serie A,Italy,2017-05-14,Torino,0.0,loss,True,Siniša Mihajlović,354.0
 Serie A,Italy,2017-05-14,Bologna,3.0,win,True,Roberto Donadoni,564.0
 Serie A,Italy,2017-05-14,Roma,3.0,win,True,Luciano Spalletti,486.0
+Serie A,Italy,2017-05-20,Chievo,3.0,loss,True,Rolando Maran,944.0
 Serie A,Italy,2017-05-20,Napoli,4.0,win,True,Maurizio Sarri,709.0
 Serie A,Italy,2017-05-21,Empoli,0.0,loss,True,Giovanni Martusciello,324.0
 Serie A,Italy,2017-05-21,Juventus,3.0,win,True,Massimiliano Allegri,1040.0
@@ -6667,6 +6722,7 @@ Serie A,Italy,2016-09-21,Bologna,2.0,win,True,Roberto Donadoni,329.0
 Serie A,Italy,2016-09-21,Udinese,2.0,draw,True,Giuseppe Iachini,82.0
 Serie A,Italy,2016-09-21,Juventus,4.0,win,True,Massimiliano Allegri,798.0
 Serie A,Italy,2016-09-21,Genoa,0.0,draw,True,Ivan Juric,82.0
+Serie A,Italy,2016-09-21,Chievo,2.0,win,True,Rolando Maran,703.0
 Serie A,Italy,2016-09-21,Roma,4.0,win,True,Luciano Spalletti,251.0
 Serie A,Italy,2016-09-21,Empoli,0.0,loss,True,Giovanni Martusciello,82.0
 Serie A,Italy,2016-09-24,Napoli,2.0,win,True,Maurizio Sarri,471.0
@@ -6688,6 +6744,7 @@ Serie A,Italy,2016-10-16,Fiorentina,0.0,draw,True,Paulo Sousa,483.0
 Serie A,Italy,2016-10-16,Sassuolo,2.0,win,True,Eusebio Di Francesco,958.0
 Serie A,Italy,2016-10-16,Lazio,1.0,draw,True,Simone Inzaghi,100.0
 Serie A,Italy,2016-10-16,Genoa,0.0,draw,True,Ivan Juric,107.0
+Serie A,Italy,2016-10-16,Chievo,1.0,loss,True,Rolando Maran,728.0
 Serie A,Italy,2016-10-22,Milan,1.0,win,True,Frank de Boer,74.0
 Serie A,Italy,2016-10-22,Milan,1.0,win,True,Vincenzo Montella,115.0
 Serie A,Italy,2016-10-23,Udinese,3.0,win,True,Luigi Delneri,20.0
@@ -6701,6 +6758,7 @@ Serie A,Italy,2017-08-20,Udinese,1.0,loss,True,Luigi Delneri,321.0
 Serie A,Italy,2017-08-20,Bologna,1.0,draw,True,Roberto Donadoni,662.0
 Serie A,Italy,2017-08-20,Lazio,0.0,draw,True,Simone Inzaghi,408.0
 Serie A,Italy,2017-08-20,Sassuolo,0.0,draw,True,Cristian Bucchi,61.0
+Serie A,Italy,2017-10-25,Chievo,1.0,loss,True,Rolando Maran,1102.0
 Serie A,Italy,2017-10-25,Juventus,4.0,win,True,Massimiliano Allegri,1197.0
 Serie A,Italy,2017-10-25,Roma,1.0,win,True,Eusebio Di Francesco,134.0
 Serie A,Italy,2017-10-25,Sassuolo,0.0,loss,True,Cristian Bucchi,127.0
@@ -6718,6 +6776,7 @@ Serie A,Italy,2017-11-04,Bologna,2.0,loss,True,Roberto Donadoni,738.0
 Serie A,Italy,2017-11-04,Genoa,0.0,loss,True,Ivan Juric,208.0
 Serie A,Italy,2017-11-05,Fiorentina,2.0,loss,True,Stefano Pioli,127.0
 Serie A,Italy,2017-11-05,Juventus,2.0,win,True,Massimiliano Allegri,1208.0
+Serie A,Italy,2017-11-05,Chievo,0.0,draw,True,Rolando Maran,1113.0
 Serie A,Italy,2017-11-05,Sassuolo,0.0,loss,True,Cristian Bucchi,138.0
 Serie A,Italy,2018-01-24,Lazio,3.0,win,True,Simone Inzaghi,565.0
 Serie A,Italy,2017-11-18,Roma,2.0,win,True,Eusebio Di Francesco,158.0
@@ -6727,6 +6786,7 @@ Serie A,Italy,2017-11-19,Udinese,0.0,loss,True,Luigi Delneri,412.0
 Serie A,Italy,2017-11-20,Hellas Verona,2.0,loss,True,Fabio Pecchia,507.0
 Serie A,Italy,2017-11-25,Bologna,3.0,win,True,Roberto Donadoni,759.0
 Serie A,Italy,2017-11-25,Sassuolo,0.0,loss,True,Cristian Bucchi,158.0
+Serie A,Italy,2017-11-25,Chievo,2.0,win,True,Rolando Maran,1133.0
 Serie A,Italy,2017-11-26,Udinese,0.0,loss,True,Massimo Oddo,5.0
 Serie A,Italy,2017-11-26,Milan,0.0,draw,True,Luciano Spalletti,170.0
 Serie A,Italy,2017-11-26,Milan,0.0,draw,True,Vincenzo Montella,515.0
@@ -6740,6 +6800,7 @@ Serie A,Italy,2017-12-03,Bologna,1.0,draw,True,Roberto Donadoni,767.0
 Serie A,Italy,2017-12-03,Fiorentina,3.0,win,True,Stefano Pioli,155.0
 Serie A,Italy,2017-12-04,Hellas Verona,0.0,loss,True,Fabio Pecchia,521.0
 Serie A,Italy,2017-12-09,Juventus,0.0,draw,True,Massimiliano Allegri,1242.0
+Serie A,Italy,2017-12-10,Chievo,0.0,draw,True,Rolando Maran,1148.0
 Serie A,Italy,2017-12-10,Napoli,0.0,draw,True,Maurizio Sarri,913.0
 Serie A,Italy,2017-12-10,Udinese,2.0,win,True,Massimo Oddo,19.0
 Serie A,Italy,2017-12-10,Sassuolo,2.0,win,True,Giuseppe Iachini,13.0
@@ -6752,6 +6813,7 @@ Serie A,Italy,2017-12-16,Roma,1.0,win,True,Eusebio Di Francesco,186.0
 Serie A,Italy,2017-12-17,Hellas Verona,3.0,win,True,Fabio Pecchia,534.0
 Serie A,Italy,2017-12-17,Bologna,0.0,loss,True,Roberto Donadoni,781.0
 Serie A,Italy,2017-12-17,Fiorentina,0.0,draw,True,Stefano Pioli,169.0
+Serie A,Italy,2017-12-22,Chievo,2.0,loss,True,Rolando Maran,1160.0
 Serie A,Italy,2017-12-23,Lazio,4.0,win,True,Simone Inzaghi,533.0
 Serie A,Italy,2017-12-23,Sassuolo,1.0,win,True,Giuseppe Iachini,26.0
 Serie A,Italy,2017-12-23,Udinese,4.0,win,True,Massimo Oddo,32.0
@@ -6772,6 +6834,8 @@ Serie A,Italy,2017-08-27,Napoli,3.0,win,True,Maurizio Sarri,808.0
 Serie A,Italy,2017-08-27,Milan,2.0,win,True,Luciano Spalletti,79.0
 Serie A,Italy,2017-08-27,Milan,2.0,win,True,Vincenzo Montella,424.0
 Serie A,Italy,2017-08-27,Fiorentina,1.0,loss,True,Stefano Pioli,57.0
+Serie A,Italy,2017-08-27,Chievo,1.0,loss,True,Rolando Maran,1043.0
+Serie A,Italy,2018-01-05,Chievo,1.0,draw,True,Rolando Maran,1174.0
 Serie A,Italy,2018-01-05,Fiorentina,1.0,draw,True,Stefano Pioli,188.0
 Serie A,Italy,2018-01-06,Torino,3.0,win,True,Walter Mazzarri,2.0
 Serie A,Italy,2018-01-06,Genoa,1.0,win,True,Davide Ballardini,61.0
@@ -6786,6 +6850,7 @@ Serie A,Italy,2018-01-21,Bologna,3.0,win,True,Roberto Donadoni,816.0
 Serie A,Italy,2018-01-21,Udinese,1.0,draw,True,Massimo Oddo,61.0
 Serie A,Italy,2018-01-22,Juventus,1.0,win,True,Massimiliano Allegri,1286.0
 Serie A,Italy,2018-01-27,Sassuolo,0.0,loss,True,Giuseppe Iachini,61.0
+Serie A,Italy,2018-01-27,Chievo,0.0,loss,True,Rolando Maran,1196.0
 Serie A,Italy,2018-01-28,Napoli,3.0,win,True,Maurizio Sarri,962.0
 Serie A,Italy,2018-01-28,Genoa,0.0,loss,True,Davide Ballardini,83.0
 Serie A,Italy,2018-01-28,Torino,3.0,win,True,Walter Mazzarri,24.0
@@ -6801,9 +6866,11 @@ Serie A,Italy,2018-02-05,Lazio,1.0,loss,True,Simone Inzaghi,577.0
 Serie A,Italy,2018-02-09,Fiorentina,0.0,loss,True,Stefano Pioli,223.0
 Serie A,Italy,2018-02-10,Napoli,4.0,win,True,Maurizio Sarri,975.0
 Serie A,Italy,2018-02-11,Sassuolo,0.0,draw,True,Giuseppe Iachini,76.0
+Serie A,Italy,2018-02-11,Chievo,0.0,loss,True,Rolando Maran,1211.0
 Serie A,Italy,2018-02-11,Torino,2.0,win,True,Walter Mazzarri,38.0
 Serie A,Italy,2018-02-11,Roma,5.0,win,True,Eusebio Di Francesco,243.0
 Serie A,Italy,2018-02-17,Udinese,0.0,loss,True,Massimo Oddo,88.0
+Serie A,Italy,2018-02-17,Chievo,2.0,win,True,Rolando Maran,1217.0
 Serie A,Italy,2018-02-17,Genoa,2.0,win,True,Davide Ballardini,103.0
 Serie A,Italy,2018-02-18,Torino,0.0,loss,True,Walter Mazzarri,45.0
 Serie A,Italy,2018-02-18,Napoli,1.0,win,True,Maurizio Sarri,983.0
@@ -6824,6 +6891,7 @@ Serie A,Italy,2018-04-03,Udinese,0.0,loss,True,Massimo Oddo,133.0
 Serie A,Italy,2018-04-04,Torino,4.0,win,True,Walter Mazzarri,90.0
 Serie A,Italy,2018-04-04,Milan,0.0,draw,True,Gennaro Gattuso,127.0
 Serie A,Italy,2018-04-04,Milan,0.0,draw,True,Luciano Spalletti,299.0
+Serie A,Italy,2018-04-04,Chievo,1.0,draw,True,Rolando Maran,1263.0
 Serie A,Italy,2018-03-09,Roma,3.0,win,True,Eusebio Di Francesco,269.0
 Serie A,Italy,2018-03-10,Hellas Verona,1.0,win,True,Fabio Pecchia,617.0
 Serie A,Italy,2018-03-11,Fiorentina,1.0,win,True,Stefano Pioli,253.0
@@ -6847,6 +6915,7 @@ Serie A,Italy,2018-03-31,Bologna,1.0,draw,True,Roberto Donadoni,885.0
 Serie A,Italy,2018-03-31,Fiorentina,2.0,win,True,Stefano Pioli,273.0
 Serie A,Italy,2018-03-31,Genoa,1.0,draw,True,Davide Ballardini,145.0
 Serie A,Italy,2018-03-31,Lazio,6.0,win,True,Simone Inzaghi,631.0
+Serie A,Italy,2018-03-31,Chievo,2.0,win,True,Rolando Maran,1259.0
 Serie A,Italy,2018-03-31,Sassuolo,1.0,draw,True,Giuseppe Iachini,124.0
 Serie A,Italy,2018-03-31,Juventus,3.0,win,True,Massimiliano Allegri,1354.0
 Serie A,Italy,2018-04-07,Roma,0.0,loss,True,Eusebio Di Francesco,298.0
@@ -6856,6 +6925,7 @@ Serie A,Italy,2018-04-08,Napoli,2.0,win,True,Maurizio Sarri,1032.0
 Serie A,Italy,2018-04-08,Udinese,1.0,loss,True,Massimo Oddo,138.0
 Serie A,Italy,2018-04-08,Milan,1.0,draw,True,Gennaro Gattuso,131.0
 Serie A,Italy,2018-04-08,Milan,1.0,draw,True,Luciano Spalletti,303.0
+Serie A,Italy,2018-04-14,Chievo,0.0,draw,True,Rolando Maran,1273.0
 Serie A,Italy,2018-04-14,Genoa,1.0,win,True,Davide Ballardini,159.0
 Serie A,Italy,2018-04-15,Fiorentina,0.0,draw,True,Stefano Pioli,288.0
 Serie A,Italy,2018-04-15,Milan,0.0,draw,True,Gennaro Gattuso,138.0
@@ -6874,6 +6944,7 @@ Serie A,Italy,2018-04-21,Milan,0.0,loss,True,Gennaro Gattuso,144.0
 Serie A,Italy,2018-04-21,Milan,0.0,loss,True,Luciano Spalletti,316.0
 Serie A,Italy,2018-04-22,Udinese,1.0,loss,True,Massimo Oddo,152.0
 Serie A,Italy,2018-04-22,Lazio,4.0,win,True,Simone Inzaghi,653.0
+Serie A,Italy,2018-04-22,Chievo,1.0,loss,True,Rolando Maran,1281.0
 Serie A,Italy,2018-04-22,Juventus,0.0,loss,True,Massimiliano Allegri,1376.0
 Serie A,Italy,2018-04-23,Genoa,3.0,win,True,Davide Ballardini,168.0
 Serie A,Italy,2018-04-28,Roma,4.0,win,True,Eusebio Di Francesco,319.0
@@ -6885,6 +6956,7 @@ Serie A,Italy,2018-05-05,Milan,4.0,win,True,Gennaro Gattuso,158.0
 Serie A,Italy,2018-05-05,Milan,4.0,win,True,Luciano Spalletti,330.0
 Serie A,Italy,2018-05-05,Juventus,3.0,win,True,Massimiliano Allegri,1389.0
 Serie A,Italy,2018-05-06,Napoli,2.0,draw,True,Maurizio Sarri,1060.0
+Serie A,Italy,2018-05-06,Chievo,2.0,win,True,Lorenzo D'Anna,7.0
 Serie A,Italy,2018-05-06,Genoa,2.0,loss,True,Davide Ballardini,181.0
 Serie A,Italy,2018-05-06,Lazio,1.0,draw,True,Simone Inzaghi,667.0
 Serie A,Italy,2018-05-06,Sassuolo,1.0,win,True,Giuseppe Iachini,160.0
@@ -6895,6 +6967,7 @@ Serie A,Italy,2018-05-13,Torino,2.0,win,True,Walter Mazzarri,129.0
 Serie A,Italy,2018-05-13,Roma,0.0,draw,True,Eusebio Di Francesco,334.0
 Serie A,Italy,2018-05-19,Juventus,2.0,win,True,Massimiliano Allegri,1403.0
 Serie A,Italy,2018-05-20,Genoa,1.0,loss,True,Davide Ballardini,195.0
+Serie A,Italy,2018-05-20,Chievo,1.0,win,True,Lorenzo D'Anna,21.0
 Serie A,Italy,2018-05-20,Napoli,2.0,win,True,Maurizio Sarri,1074.0
 Serie A,Italy,2018-05-20,Milan,5.0,win,True,Gennaro Gattuso,173.0
 Serie A,Italy,2018-05-20,Milan,5.0,win,True,Luciano Spalletti,345.0
@@ -6907,6 +6980,7 @@ Serie A,Italy,2017-09-17,Torino,2.0,draw,True,Siniša Mihajlović,480.0
 Serie A,Italy,2017-09-17,Milan,2.0,win,True,Luciano Spalletti,100.0
 Serie A,Italy,2017-09-17,Milan,2.0,win,True,Vincenzo Montella,445.0
 Serie A,Italy,2017-09-17,Napoli,6.0,win,True,Maurizio Sarri,829.0
+Serie A,Italy,2017-09-17,Chievo,1.0,draw,True,Rolando Maran,1064.0
 Serie A,Italy,2017-09-17,Genoa,2.0,loss,True,Ivan Juric,160.0
 Serie A,Italy,2017-09-19,Bologna,1.0,draw,True,Roberto Donadoni,692.0
 Serie A,Italy,2017-09-20,Hellas Verona,0.0,draw,True,Fabio Pecchia,446.0
@@ -6924,6 +6998,7 @@ Serie A,Italy,2017-09-24,Fiorentina,1.0,draw,True,Stefano Pioli,85.0
 Serie A,Italy,2017-09-30,Udinese,4.0,win,True,Luigi Delneri,362.0
 Serie A,Italy,2017-09-30,Genoa,0.0,loss,True,Ivan Juric,173.0
 Serie A,Italy,2017-10-01,Napoli,3.0,win,True,Maurizio Sarri,843.0
+Serie A,Italy,2017-10-01,Chievo,2.0,win,True,Rolando Maran,1078.0
 Serie A,Italy,2017-10-01,Torino,2.0,draw,True,Siniša Mihajlović,494.0
 Serie A,Italy,2017-10-01,Lazio,6.0,win,True,Simone Inzaghi,450.0
 Serie A,Italy,2017-10-01,Milan,0.0,loss,True,Luciano Spalletti,114.0
@@ -6935,11 +7010,13 @@ Serie A,Italy,2017-10-15,Sassuolo,0.0,draw,True,Cristian Bucchi,117.0
 Serie A,Italy,2017-10-15,Bologna,2.0,win,True,Roberto Donadoni,718.0
 Serie A,Italy,2017-10-16,Hellas Verona,1.0,win,True,Fabio Pecchia,472.0
 Serie A,Italy,2017-10-21,Napoli,0.0,draw,True,Maurizio Sarri,863.0
+Serie A,Italy,2017-10-22,Chievo,3.0,win,True,Rolando Maran,1099.0
 Serie A,Italy,2017-10-22,Torino,0.0,loss,True,Siniša Mihajlović,515.0
 Serie A,Italy,2017-10-22,Milan,0.0,draw,True,Luciano Spalletti,135.0
 Serie A,Italy,2017-10-22,Milan,0.0,draw,True,Vincenzo Montella,480.0
 Serie A,Italy,2017-10-22,Udinese,2.0,loss,True,Luigi Delneri,384.0
 Serie A,Italy,2017-10-22,Lazio,3.0,win,True,Simone Inzaghi,471.0
+Serie A,Italy,2018-08-18,Chievo,2.0,loss,True,Lorenzo D'Anna,111.0
 Serie A,Italy,2018-08-18,Lazio,1.0,loss,True,Simone Inzaghi,771.0
 Serie A,Italy,2018-08-19,Torino,0.0,loss,True,Walter Mazzarri,227.0
 Serie A,Italy,2018-08-19,Sassuolo,1.0,win,True,Roberto De Zerbi,49.0
@@ -6982,6 +7059,7 @@ Serie A,Italy,2018-12-02,Milan,2.0,win,True,Luciano Spalletti,541.0
 Serie A,Italy,2018-12-02,Torino,2.0,win,True,Walter Mazzarri,332.0
 Serie A,Italy,2018-12-02,Sassuolo,0.0,draw,True,Roberto De Zerbi,154.0
 Serie A,Italy,2018-12-02,Frosinone,1.0,draw,True,Moreno Longo,536.0
+Serie A,Italy,2018-12-02,Chievo,1.0,draw,True,Domenico Di Carlo,19.0
 Serie A,Italy,2018-12-02,Roma,2.0,draw,True,Eusebio Di Francesco,537.0
 Serie A,Italy,2018-12-07,Juventus,1.0,win,True,Massimiliano Allegri,1605.0
 Serie A,Italy,2018-12-08,Napoli,4.0,win,True,Carlo Ancelotti,160.0
@@ -7005,6 +7083,7 @@ Serie A,Italy,2018-12-22,Milan,0.0,loss,True,Gennaro Gattuso,389.0
 Serie A,Italy,2018-12-22,Milan,0.0,loss,True,Luciano Spalletti,561.0
 Serie A,Italy,2018-12-22,Genoa,3.0,win,True,Cesare Prandelli,15.0
 Serie A,Italy,2018-12-22,Udinese,1.0,draw,True,Davide Nicola,39.0
+Serie A,Italy,2018-12-22,Chievo,1.0,draw,True,Domenico Di Carlo,39.0
 Serie A,Italy,2018-12-22,Juventus,1.0,win,True,Massimiliano Allegri,1620.0
 Serie A,Italy,2018-12-26,Frosinone,0.0,draw,True,Marco Baroni,7.0
 Serie A,Italy,2018-12-26,Fiorentina,0.0,loss,True,Stefano Pioli,543.0
@@ -7015,6 +7094,7 @@ Serie A,Italy,2018-12-29,Juventus,2.0,win,True,Massimiliano Allegri,1627.0
 Serie A,Italy,2018-12-29,Udinese,2.0,win,True,Davide Nicola,46.0
 Serie A,Italy,2018-12-29,Sassuolo,2.0,loss,True,Roberto De Zerbi,181.0
 Serie A,Italy,2018-12-29,Genoa,0.0,draw,True,Cesare Prandelli,22.0
+Serie A,Italy,2018-12-29,Chievo,1.0,win,True,Domenico Di Carlo,46.0
 Serie A,Italy,2018-12-29,Lazio,1.0,draw,True,Simone Inzaghi,904.0
 Serie A,Italy,2018-12-29,Empoli,0.0,loss,True,Giuseppe Iachini,53.0
 Serie A,Italy,2018-12-29,Napoli,3.0,win,True,Carlo Ancelotti,181.0
@@ -7037,6 +7117,7 @@ Serie A,Italy,2019-01-21,Juventus,3.0,win,True,Massimiliano Allegri,1650.0
 Serie A,Italy,2019-01-26,Sassuolo,3.0,win,True,Roberto De Zerbi,209.0
 Serie A,Italy,2019-01-26,Milan,0.0,draw,True,Gennaro Gattuso,424.0
 Serie A,Italy,2019-01-26,Milan,0.0,draw,True,Luciano Spalletti,596.0
+Serie A,Italy,2019-01-27,Chievo,3.0,loss,True,Domenico Di Carlo,75.0
 Serie A,Italy,2019-01-27,Bologna,0.0,loss,True,Filippo Inzaghi,210.0
 Serie A,Italy,2019-01-27,Torino,1.0,win,True,Walter Mazzarri,388.0
 Serie A,Italy,2019-01-27,Lazio,1.0,loss,True,Simone Inzaghi,933.0
@@ -7049,6 +7130,7 @@ Serie A,Italy,2019-02-03,Udinese,1.0,draw,True,Davide Nicola,82.0
 Serie A,Italy,2019-02-03,Roma,1.0,draw,True,Eusebio Di Francesco,600.0
 Serie A,Italy,2019-02-04,Frosinone,0.0,loss,True,Marco Baroni,47.0
 Serie A,Italy,2019-02-07,Lazio,1.0,win,True,Simone Inzaghi,944.0
+Serie A,Italy,2019-02-08,Chievo,0.0,loss,True,Domenico Di Carlo,87.0
 Serie A,Italy,2019-02-09,Fiorentina,0.0,draw,True,Stefano Pioli,588.0
 Serie A,Italy,2019-02-10,Bologna,1.0,draw,True,Siniša Mihajlović,13.0
 Serie A,Italy,2019-02-10,Torino,1.0,win,True,Walter Mazzarri,402.0
@@ -7067,6 +7149,7 @@ Serie A,Italy,2019-02-23,Torino,2.0,win,True,Walter Mazzarri,415.0
 Serie A,Italy,2019-02-23,Frosinone,2.0,loss,True,Marco Baroni,66.0
 Serie A,Italy,2019-02-24,Sassuolo,1.0,draw,True,Roberto De Zerbi,238.0
 Serie A,Italy,2019-02-24,Bologna,0.0,loss,True,Siniša Mihajlović,27.0
+Serie A,Italy,2019-02-24,Chievo,0.0,draw,True,Domenico Di Carlo,103.0
 Serie A,Italy,2019-02-24,Fiorentina,3.0,draw,True,Stefano Pioli,603.0
 Serie A,Italy,2019-04-17,Lazio,2.0,win,True,Simone Inzaghi,1013.0
 Serie A,Italy,2019-03-02,Empoli,3.0,draw,True,Giuseppe Iachini,116.0
@@ -7078,6 +7161,7 @@ Serie A,Italy,2019-03-03,Genoa,0.0,draw,True,Cesare Prandelli,86.0
 Serie A,Italy,2019-03-03,Udinese,2.0,win,True,Davide Nicola,110.0
 Serie A,Italy,2019-03-03,Napoli,1.0,loss,True,Carlo Ancelotti,245.0
 Serie A,Italy,2019-03-08,Juventus,4.0,win,True,Massimiliano Allegri,1696.0
+Serie A,Italy,2019-03-09,Chievo,1.0,loss,True,Domenico Di Carlo,116.0
 Serie A,Italy,2019-03-10,Bologna,2.0,win,True,Siniša Mihajlović,41.0
 Serie A,Italy,2019-03-10,Frosinone,1.0,loss,True,Marco Baroni,81.0
 Serie A,Italy,2019-03-10,Sassuolo,1.0,draw,True,Roberto De Zerbi,252.0
@@ -7091,6 +7175,7 @@ Serie A,Italy,2019-03-17,Empoli,2.0,win,True,Aurelio Andreazzoli,4.0
 Serie A,Italy,2019-03-17,Napoli,4.0,win,True,Carlo Ancelotti,259.0
 Serie A,Italy,2019-03-17,Milan,2.0,loss,True,Gennaro Gattuso,474.0
 Serie A,Italy,2019-03-17,Milan,2.0,loss,True,Luciano Spalletti,646.0
+Serie A,Italy,2019-03-29,Chievo,0.0,loss,True,Domenico Di Carlo,136.0
 Serie A,Italy,2019-03-30,Udinese,2.0,win,True,Igor Tudor,10.0
 Serie A,Italy,2019-03-30,Juventus,1.0,win,True,Massimiliano Allegri,1718.0
 Serie A,Italy,2019-03-31,Fiorentina,1.0,draw,True,Stefano Pioli,638.0
@@ -7102,6 +7187,7 @@ Serie A,Italy,2018-08-31,Milan,2.0,win,True,Luciano Spalletti,448.0
 Serie A,Italy,2018-09-01,Bologna,0.0,loss,True,Filippo Inzaghi,62.0
 Serie A,Italy,2018-09-02,Fiorentina,1.0,win,True,Stefano Pioli,428.0
 Serie A,Italy,2018-09-02,Torino,1.0,win,True,Walter Mazzarri,241.0
+Serie A,Italy,2018-09-02,Chievo,0.0,draw,True,Lorenzo D'Anna,126.0
 Serie A,Italy,2018-09-02,Lazio,1.0,win,True,Simone Inzaghi,786.0
 Serie A,Italy,2018-09-02,Sassuolo,5.0,win,True,Roberto De Zerbi,63.0
 Serie A,Italy,2019-04-02,Milan,1.0,draw,True,Gennaro Gattuso,490.0
@@ -7124,6 +7210,7 @@ Serie A,Italy,2019-04-13,Milan,1.0,win,True,Luciano Spalletti,673.0
 Serie A,Italy,2019-04-14,Torino,1.0,draw,True,Walter Mazzarri,465.0
 Serie A,Italy,2019-04-14,Fiorentina,0.0,draw,True,Vincenzo Montella,4.0
 Serie A,Italy,2019-04-14,Sassuolo,0.0,draw,True,Roberto De Zerbi,287.0
+Serie A,Italy,2019-04-14,Chievo,1.0,loss,True,Domenico Di Carlo,152.0
 Serie A,Italy,2019-04-14,Frosinone,1.0,loss,True,Marco Baroni,116.0
 Serie A,Italy,2019-04-20,Bologna,3.0,win,True,Siniša Mihajlović,82.0
 Serie A,Italy,2019-04-20,Lazio,1.0,loss,True,Simone Inzaghi,1016.0
@@ -7135,9 +7222,11 @@ Serie A,Italy,2019-04-22,Napoli,1.0,loss,True,Carlo Ancelotti,295.0
 Serie A,Italy,2019-04-27,Bologna,3.0,win,True,Siniša Mihajlović,89.0
 Serie A,Italy,2019-04-27,Roma,3.0,win,True,Claudio Ranieri,50.0
 Serie A,Italy,2019-04-28,Frosinone,0.0,loss,True,Marco Baroni,130.0
+Serie A,Italy,2019-04-28,Chievo,1.0,draw,True,Domenico Di Carlo,166.0
 Serie A,Italy,2019-04-28,Torino,2.0,win,True,Walter Mazzarri,479.0
 Serie A,Italy,2019-04-29,Fiorentina,0.0,loss,True,Vincenzo Montella,19.0
 Serie A,Italy,2019-05-03,Juventus,1.0,draw,True,Massimiliano Allegri,1752.0
+Serie A,Italy,2019-05-04,Chievo,0.0,loss,True,Domenico Di Carlo,172.0
 Serie A,Italy,2019-05-04,Udinese,0.0,draw,True,Igor Tudor,45.0
 Serie A,Italy,2019-05-05,Empoli,1.0,win,True,Aurelio Andreazzoli,53.0
 Serie A,Italy,2019-05-05,Lazio,1.0,loss,True,Simone Inzaghi,1031.0
@@ -7154,6 +7243,7 @@ Serie A,Italy,2019-05-13,Bologna,4.0,win,True,Siniša Mihajlović,105.0
 Serie A,Italy,2019-05-18,Udinese,3.0,win,True,Igor Tudor,59.0
 Serie A,Italy,2019-05-18,Genoa,1.0,draw,True,Cesare Prandelli,162.0
 Serie A,Italy,2019-05-18,Sassuolo,0.0,draw,True,Roberto De Zerbi,321.0
+Serie A,Italy,2019-05-19,Chievo,0.0,draw,True,Domenico Di Carlo,187.0
 Serie A,Italy,2019-05-19,Empoli,4.0,win,True,Aurelio Andreazzoli,67.0
 Serie A,Italy,2019-05-19,Milan,2.0,win,True,Gennaro Gattuso,537.0
 Serie A,Italy,2019-05-19,Milan,2.0,win,True,Luciano Spalletti,709.0
@@ -7177,6 +7267,7 @@ Serie A,Italy,2018-09-22,Fiorentina,3.0,win,True,Stefano Pioli,448.0
 Serie A,Italy,2018-09-23,Torino,1.0,loss,True,Walter Mazzarri,262.0
 Serie A,Italy,2018-09-23,Lazio,4.0,win,True,Simone Inzaghi,807.0
 Serie A,Italy,2018-09-23,Bologna,2.0,win,True,Filippo Inzaghi,84.0
+Serie A,Italy,2018-09-23,Chievo,0.0,loss,True,Lorenzo D'Anna,147.0
 Serie A,Italy,2018-09-23,Milan,2.0,draw,True,Gennaro Gattuso,299.0
 Serie A,Italy,2018-09-23,Milan,2.0,draw,True,Luciano Spalletti,471.0
 Serie A,Italy,2018-09-23,Frosinone,0.0,loss,True,Moreno Longo,466.0
@@ -7189,6 +7280,7 @@ Serie A,Italy,2018-09-27,Empoli,1.0,draw,True,Aurelio Andreazzoli,284.0
 Serie A,Italy,2018-09-29,Roma,3.0,win,True,Eusebio Di Francesco,473.0
 Serie A,Italy,2018-09-29,Juventus,3.0,win,True,Massimiliano Allegri,1536.0
 Serie A,Italy,2018-09-30,Bologna,2.0,win,True,Filippo Inzaghi,91.0
+Serie A,Italy,2018-09-30,Chievo,0.0,loss,True,Lorenzo D'Anna,154.0
 Serie A,Italy,2018-09-30,Fiorentina,2.0,win,True,Stefano Pioli,456.0
 Serie A,Italy,2018-09-30,Frosinone,1.0,loss,True,Moreno Longo,473.0
 Serie A,Italy,2018-09-30,Sassuolo,1.0,loss,True,Roberto De Zerbi,91.0
@@ -13712,6 +13804,7 @@ Serie A,Italy,2014-11-09,Hellas Verona,2.0,draw,False,Andrea Mandorlini,1461.0
 Serie A,Italy,2014-11-22,Roma,2.0,win,False,Rudi Garcia,509.0
 Serie A,Italy,2014-11-22,Juventus,3.0,win,False,Massimiliano Allegri,129.0
 Serie A,Italy,2014-11-23,Sassuolo,1.0,win,False,Eusebio Di Francesco,265.0
+Serie A,Italy,2014-11-23,Chievo,1.0,draw,False,Rolando Maran,35.0
 Serie A,Italy,2014-11-23,Empoli,2.0,win,False,Maurizio Sarri,881.0
 Serie A,Italy,2014-11-23,Fiorentina,2.0,win,False,Vincenzo Montella,895.0
 Serie A,Italy,2014-11-29,Hellas Verona,1.0,loss,False,Andrea Mandorlini,1481.0
@@ -13728,6 +13821,7 @@ Serie A,Italy,2014-12-07,Lazio,2.0,win,False,Stefano Pioli,159.0
 Serie A,Italy,2014-12-07,Milan,0.0,loss,False,Filippo Inzaghi,181.0
 Serie A,Italy,2014-12-07,Milan,0.0,loss,False,Roberto Mancini,23.0
 Serie A,Italy,2014-12-07,Udinese,2.0,win,False,Andrea Stramaccioni,159.0
+Serie A,Italy,2014-12-08,Chievo,2.0,win,False,Rolando Maran,50.0
 Serie A,Italy,2014-12-13,Sassuolo,1.0,loss,False,Eusebio Di Francesco,285.0
 Serie A,Italy,2014-12-13,Atalanta,0.0,loss,False,Stefano Colantuono,1643.0
 Serie A,Italy,2014-12-14,Roma,1.0,win,False,Rudi Garcia,531.0
@@ -13737,6 +13831,7 @@ Serie A,Italy,2014-12-14,Napoli,0.0,loss,False,Rafael Benítez,531.0
 Serie A,Italy,2014-12-18,Juventus,3.0,win,False,Massimiliano Allegri,155.0
 Serie A,Italy,2014-12-20,Milan,0.0,draw,False,Filippo Inzaghi,194.0
 Serie A,Italy,2014-12-20,Milan,0.0,draw,False,Roberto Mancini,36.0
+Serie A,Italy,2014-12-21,Chievo,1.0,win,False,Rolando Maran,63.0
 Serie A,Italy,2014-12-21,Udinese,2.0,draw,False,Andrea Stramaccioni,173.0
 Serie A,Italy,2014-12-21,Empoli,1.0,draw,False,Maurizio Sarri,909.0
 Serie A,Italy,2014-12-21,Genoa,1.0,loss,False,Gian Piero Gasperini,448.0
@@ -13752,6 +13847,7 @@ Serie A,Italy,2015-01-10,Milan,1.0,draw,False,Filippo Inzaghi,215.0
 Serie A,Italy,2015-01-10,Milan,1.0,draw,False,Roberto Mancini,57.0
 Serie A,Italy,2015-01-11,Genoa,1.0,loss,False,Gian Piero Gasperini,469.0
 Serie A,Italy,2015-01-11,Lazio,2.0,draw,False,Stefano Pioli,194.0
+Serie A,Italy,2015-01-11,Chievo,1.0,draw,False,Rolando Maran,84.0
 Serie A,Italy,2015-01-11,Empoli,0.0,loss,False,Maurizio Sarri,930.0
 Serie A,Italy,2015-01-11,Juventus,3.0,win,False,Massimiliano Allegri,179.0
 Serie A,Italy,2015-01-17,Roma,1.0,draw,False,Rudi Garcia,565.0
@@ -13765,12 +13861,14 @@ Serie A,Italy,2014-09-13,Udinese,0.0,loss,False,Andrea Stramaccioni,74.0
 Serie A,Italy,2014-09-14,Atalanta,2.0,win,False,Stefano Colantuono,1553.0
 Serie A,Italy,2014-09-14,Genoa,0.0,draw,False,Gian Piero Gasperini,350.0
 Serie A,Italy,2014-09-14,Sassuolo,0.0,loss,False,Eusebio Di Francesco,195.0
+Serie A,Italy,2014-09-14,Chievo,1.0,win,False,Eugenio Corini,306.0
 Serie A,Italy,2014-09-14,Milan,5.0,win,False,Filippo Inzaghi,97.0
 Serie A,Italy,2014-09-14,Milan,5.0,win,False,Walter Mazzarri,478.0
 Serie A,Italy,2015-01-24,Sassuolo,1.0,loss,False,Eusebio Di Francesco,327.0
 Serie A,Italy,2015-01-24,Milan,1.0,loss,False,Filippo Inzaghi,229.0
 Serie A,Italy,2015-01-24,Milan,1.0,loss,False,Roberto Mancini,71.0
 Serie A,Italy,2015-01-25,Atalanta,0.0,loss,False,Stefano Colantuono,1686.0
+Serie A,Italy,2015-01-25,Chievo,0.0,loss,False,Rolando Maran,98.0
 Serie A,Italy,2015-01-25,Roma,1.0,draw,False,Rudi Garcia,573.0
 Serie A,Italy,2015-01-26,Udinese,2.0,win,False,Andrea Stramaccioni,209.0
 Serie A,Italy,2015-01-26,Genoa,1.0,loss,False,Gian Piero Gasperini,484.0
@@ -13787,6 +13885,7 @@ Serie A,Italy,2015-02-08,Udinese,1.0,loss,False,Andrea Stramaccioni,222.0
 Serie A,Italy,2015-02-08,Roma,2.0,win,False,Rudi Garcia,587.0
 Serie A,Italy,2015-02-08,Sassuolo,1.0,draw,False,Eusebio Di Francesco,342.0
 Serie A,Italy,2015-02-09,Genoa,1.0,win,False,Gian Piero Gasperini,498.0
+Serie A,Italy,2015-02-11,Chievo,1.0,win,False,Rolando Maran,115.0
 Serie A,Italy,2015-02-14,Fiorentina,3.0,win,False,Vincenzo Montella,978.0
 Serie A,Italy,2015-02-14,Napoli,1.0,loss,False,Rafael Benítez,593.0
 Serie A,Italy,2015-02-15,Empoli,1.0,draw,False,Maurizio Sarri,965.0
@@ -13795,6 +13894,7 @@ Serie A,Italy,2015-02-15,Lazio,1.0,win,False,Stefano Pioli,229.0
 Serie A,Italy,2015-02-15,Juventus,2.0,draw,False,Massimiliano Allegri,214.0
 Serie A,Italy,2015-02-20,Atalanta,1.0,loss,False,Stefano Colantuono,1712.0
 Serie A,Italy,2015-02-22,Roma,1.0,draw,False,Rudi Garcia,601.0
+Serie A,Italy,2015-02-22,Chievo,0.0,loss,False,Rolando Maran,126.0
 Serie A,Italy,2015-02-23,Sassuolo,0.0,loss,False,Eusebio Di Francesco,357.0
 Serie A,Italy,2015-02-24,Genoa,1.0,draw,False,Gian Piero Gasperini,513.0
 Serie A,Italy,2015-04-08,Udinese,0.0,loss,False,Andrea Stramaccioni,281.0
@@ -13815,6 +13915,7 @@ Serie A,Italy,2015-03-09,Fiorentina,0.0,loss,False,Vincenzo Montella,1001.0
 Serie A,Italy,2015-03-09,Sassuolo,0.0,loss,False,Eusebio Di Francesco,371.0
 Serie A,Italy,2015-03-14,Juventus,1.0,win,False,Massimiliano Allegri,241.0
 Serie A,Italy,2015-03-14,Empoli,1.0,draw,False,Maurizio Sarri,992.0
+Serie A,Italy,2015-03-15,Chievo,2.0,win,False,Rolando Maran,147.0
 Serie A,Italy,2015-03-15,Udinese,0.0,draw,False,Andrea Stramaccioni,257.0
 Serie A,Italy,2015-03-15,Napoli,0.0,loss,False,Rafael Benítez,622.0
 Serie A,Italy,2015-03-16,Milan,1.0,loss,False,Filippo Inzaghi,280.0
@@ -13830,6 +13931,7 @@ Serie A,Italy,2015-04-04,Napoli,0.0,loss,False,Rafael Benítez,642.0
 Serie A,Italy,2015-04-04,Udinese,1.0,draw,False,Andrea Stramaccioni,277.0
 Serie A,Italy,2015-04-04,Milan,2.0,win,False,Filippo Inzaghi,299.0
 Serie A,Italy,2015-04-04,Milan,2.0,win,False,Roberto Mancini,141.0
+Serie A,Italy,2015-04-04,Chievo,0.0,loss,False,Rolando Maran,167.0
 Serie A,Italy,2015-04-04,Lazio,3.0,win,False,Stefano Pioli,277.0
 Serie A,Italy,2015-04-04,Empoli,0.0,loss,False,Maurizio Sarri,1013.0
 Serie A,Italy,2014-09-20,Empoli,2.0,draw,False,Maurizio Sarri,817.0
@@ -13839,6 +13941,7 @@ Serie A,Italy,2014-09-21,Fiorentina,1.0,win,False,Vincenzo Montella,832.0
 Serie A,Italy,2014-09-21,Napoli,0.0,loss,False,Rafael Benítez,447.0
 Serie A,Italy,2014-09-21,Hellas Verona,1.0,win,False,Andrea Mandorlini,1412.0
 Serie A,Italy,2015-04-11,Juventus,0.0,loss,False,Massimiliano Allegri,269.0
+Serie A,Italy,2015-04-12,Chievo,1.0,win,False,Rolando Maran,175.0
 Serie A,Italy,2015-04-12,Roma,1.0,draw,False,Rudi Garcia,650.0
 Serie A,Italy,2015-04-12,Sassuolo,1.0,loss,False,Eusebio Di Francesco,405.0
 Serie A,Italy,2015-04-12,Fiorentina,0.0,loss,False,Vincenzo Montella,1035.0
@@ -13856,6 +13959,7 @@ Serie A,Italy,2015-04-25,Milan,1.0,loss,False,Roberto Mancini,162.0
 Serie A,Italy,2015-04-25,Roma,1.0,loss,False,Rudi Garcia,663.0
 Serie A,Italy,2015-04-26,Empoli,2.0,draw,False,Maurizio Sarri,1035.0
 Serie A,Italy,2015-04-26,Juventus,1.0,loss,False,Massimiliano Allegri,284.0
+Serie A,Italy,2015-04-26,Chievo,1.0,draw,False,Rolando Maran,189.0
 Serie A,Italy,2015-04-26,Sassuolo,2.0,loss,False,Eusebio Di Francesco,419.0
 Serie A,Italy,2015-04-29,Roma,3.0,win,False,Rudi Garcia,667.0
 Serie A,Italy,2015-04-29,Atalanta,2.0,draw,False,Edoardo Reja,56.0
@@ -13867,6 +13971,7 @@ Serie A,Italy,2015-05-02,Juventus,1.0,win,False,Massimiliano Allegri,290.0
 Serie A,Italy,2015-05-03,Genoa,0.0,loss,False,Gian Piero Gasperini,581.0
 Serie A,Italy,2015-05-03,Lazio,1.0,draw,False,Stefano Pioli,306.0
 Serie A,Italy,2015-05-03,Udinese,1.0,win,False,Andrea Stramaccioni,306.0
+Serie A,Italy,2015-05-03,Chievo,0.0,draw,False,Rolando Maran,196.0
 Serie A,Italy,2015-05-03,Milan,0.0,loss,False,Filippo Inzaghi,328.0
 Serie A,Italy,2015-05-03,Milan,0.0,loss,False,Roberto Mancini,170.0
 Serie A,Italy,2015-05-06,Empoli,1.0,win,False,Maurizio Sarri,1045.0
@@ -13882,6 +13987,7 @@ Serie A,Italy,2015-05-17,Milan,2.0,loss,False,Filippo Inzaghi,342.0
 Serie A,Italy,2015-05-17,Milan,2.0,loss,False,Roberto Mancini,184.0
 Serie A,Italy,2015-05-17,Empoli,1.0,loss,False,Maurizio Sarri,1056.0
 Serie A,Italy,2015-05-17,Genoa,4.0,win,False,Gian Piero Gasperini,595.0
+Serie A,Italy,2015-05-17,Chievo,0.0,loss,False,Rolando Maran,210.0
 Serie A,Italy,2015-05-17,Udinese,1.0,loss,False,Andrea Stramaccioni,320.0
 Serie A,Italy,2015-05-23,Napoli,1.0,loss,False,Rafael Benítez,691.0
 Serie A,Italy,2015-05-24,Fiorentina,3.0,win,False,Vincenzo Montella,1077.0
@@ -13895,6 +14001,7 @@ Serie A,Italy,2015-05-30,Milan,3.0,win,False,Roberto Mancini,197.0
 Serie A,Italy,2015-05-31,Udinese,3.0,loss,False,Andrea Stramaccioni,334.0
 Serie A,Italy,2015-05-31,Genoa,1.0,loss,False,Gian Piero Gasperini,609.0
 Serie A,Italy,2015-05-31,Empoli,3.0,loss,False,Maurizio Sarri,1070.0
+Serie A,Italy,2015-05-31,Chievo,0.0,loss,False,Rolando Maran,224.0
 Serie A,Italy,2015-05-31,Lazio,4.0,win,False,Stefano Pioli,334.0
 Serie A,Italy,2014-09-23,Milan,2.0,draw,False,Filippo Inzaghi,106.0
 Serie A,Italy,2014-09-23,Milan,2.0,draw,False,Walter Mazzarri,487.0
@@ -13902,6 +14009,7 @@ Serie A,Italy,2014-09-24,Genoa,2.0,draw,False,Gian Piero Gasperini,360.0
 Serie A,Italy,2014-09-24,Sassuolo,0.0,draw,False,Eusebio Di Francesco,205.0
 Serie A,Italy,2014-09-24,Roma,2.0,win,False,Rudi Garcia,450.0
 Serie A,Italy,2014-09-24,Atalanta,0.0,loss,False,Stefano Colantuono,1563.0
+Serie A,Italy,2014-09-24,Chievo,1.0,loss,False,Eugenio Corini,316.0
 Serie A,Italy,2014-09-25,Udinese,1.0,win,False,Andrea Stramaccioni,86.0
 Serie A,Italy,2014-09-27,Hellas Verona,0.0,loss,False,Andrea Mandorlini,1418.0
 Serie A,Italy,2014-09-27,Juventus,3.0,win,False,Massimiliano Allegri,73.0
@@ -13911,10 +14019,12 @@ Serie A,Italy,2014-09-28,Milan,1.0,draw,False,Filippo Inzaghi,111.0
 Serie A,Italy,2014-09-28,Milan,1.0,draw,False,Walter Mazzarri,492.0
 Serie A,Italy,2014-09-28,Fiorentina,1.0,draw,False,Vincenzo Montella,839.0
 Serie A,Italy,2014-09-29,Lazio,4.0,win,False,Stefano Pioli,90.0
+Serie A,Italy,2014-10-04,Chievo,0.0,loss,False,Eugenio Corini,326.0
 Serie A,Italy,2014-10-05,Genoa,2.0,win,False,Gian Piero Gasperini,371.0
 Serie A,Italy,2014-10-05,Sassuolo,2.0,loss,False,Eusebio Di Francesco,216.0
 Serie A,Italy,2014-10-05,Atalanta,0.0,loss,False,Stefano Colantuono,1574.0
 Serie A,Italy,2014-10-05,Roma,2.0,loss,False,Rudi Garcia,461.0
+Serie A,Italy,2014-10-18,Chievo,0.0,loss,False,Eugenio Corini,340.0
 Serie A,Italy,2014-10-18,Juventus,1.0,draw,False,Massimiliano Allegri,94.0
 Serie A,Italy,2014-10-19,Lazio,2.0,win,False,Stefano Pioli,110.0
 Serie A,Italy,2014-10-19,Milan,3.0,win,False,Filippo Inzaghi,132.0
@@ -13931,6 +14041,7 @@ Serie A,Italy,2014-10-26,Fiorentina,1.0,draw,False,Vincenzo Montella,867.0
 Serie A,Italy,2014-10-28,Empoli,1.0,loss,False,Maurizio Sarri,855.0
 Serie A,Italy,2014-10-29,Napoli,1.0,draw,False,Rafael Benítez,485.0
 Serie A,Italy,2014-10-29,Udinese,0.0,loss,False,Andrea Stramaccioni,120.0
+Serie A,Italy,2014-10-29,Chievo,0.0,loss,False,Rolando Maran,10.0
 Serie A,Italy,2014-10-29,Juventus,0.0,loss,False,Massimiliano Allegri,105.0
 Serie A,Italy,2014-10-29,Milan,1.0,draw,False,Filippo Inzaghi,142.0
 Serie A,Italy,2014-10-29,Milan,1.0,draw,False,Walter Mazzarri,523.0
@@ -13943,8 +14054,10 @@ Serie A,Italy,2015-08-23,Milan,0.0,loss,False,Siniša Mihajlović,68.0
 Serie A,Italy,2015-08-23,Atalanta,0.0,loss,False,Edoardo Reja,172.0
 Serie A,Italy,2015-08-23,Genoa,0.0,loss,False,Gian Piero Gasperini,693.0
 Serie A,Italy,2015-08-23,Napoli,1.0,loss,False,Maurizio Sarri,73.0
+Serie A,Italy,2015-08-23,Chievo,3.0,win,False,Rolando Maran,308.0
 Serie A,Italy,2015-10-28,Lazio,1.0,loss,False,Stefano Pioli,484.0
 Serie A,Italy,2015-10-28,Udinese,1.0,loss,False,Stefano Colantuono,146.0
+Serie A,Italy,2015-10-28,Chievo,0.0,loss,False,Rolando Maran,374.0
 Serie A,Italy,2015-10-28,Fiorentina,2.0,win,False,Paulo Sousa,129.0
 Serie A,Italy,2015-10-28,Genoa,3.0,draw,False,Gian Piero Gasperini,759.0
 Serie A,Italy,2015-10-28,Juventus,0.0,loss,False,Massimiliano Allegri,469.0
@@ -13960,6 +14073,7 @@ Serie A,Italy,2015-11-01,Milan,3.0,win,False,Siniša Mihajlović,138.0
 Serie A,Italy,2015-11-02,Empoli,1.0,win,False,Marco Giampaolo,140.0
 Serie A,Italy,2015-11-07,Bologna,2.0,win,False,Roberto Donadoni,10.0
 Serie A,Italy,2015-11-07,Atalanta,0.0,draw,False,Edoardo Reja,248.0
+Serie A,Italy,2015-11-08,Chievo,0.0,loss,False,Rolando Maran,385.0
 Serie A,Italy,2015-11-08,Lazio,0.0,loss,False,Stefano Pioli,495.0
 Serie A,Italy,2015-11-08,Genoa,2.0,draw,False,Gian Piero Gasperini,770.0
 Serie A,Italy,2015-11-08,Juventus,3.0,win,False,Massimiliano Allegri,480.0
@@ -13969,6 +14083,7 @@ Serie A,Italy,2015-11-21,Roma,2.0,draw,False,Rudi Garcia,873.0
 Serie A,Italy,2015-11-21,Milan,0.0,loss,False,Roberto Mancini,372.0
 Serie A,Italy,2015-11-21,Milan,0.0,loss,False,Siniša Mihajlović,158.0
 Serie A,Italy,2015-11-22,Napoli,2.0,win,False,Maurizio Sarri,164.0
+Serie A,Italy,2015-11-22,Chievo,2.0,win,False,Rolando Maran,399.0
 Serie A,Italy,2015-11-22,Empoli,2.0,draw,False,Marco Giampaolo,160.0
 Serie A,Italy,2015-11-22,Sassuolo,1.0,loss,False,Eusebio Di Francesco,629.0
 Serie A,Italy,2015-11-22,Frosinone,0.0,loss,False,Roberto Stellone,1256.0
@@ -13984,6 +14099,7 @@ Serie A,Italy,2015-12-05,Roma,1.0,draw,False,Rudi Garcia,887.0
 Serie A,Italy,2015-12-05,Genoa,0.0,loss,False,Gian Piero Gasperini,797.0
 Serie A,Italy,2015-12-06,Napoli,2.0,loss,False,Maurizio Sarri,178.0
 Serie A,Italy,2015-12-06,Udinese,0.0,loss,False,Stefano Colantuono,185.0
+Serie A,Italy,2015-12-06,Chievo,2.0,win,False,Rolando Maran,413.0
 Serie A,Italy,2015-12-06,Empoli,1.0,win,False,Marco Giampaolo,174.0
 Serie A,Italy,2015-12-06,Sassuolo,3.0,win,False,Eusebio Di Francesco,643.0
 Serie A,Italy,2015-12-06,Milan,0.0,draw,False,Roberto Mancini,387.0
@@ -13996,6 +14112,7 @@ Serie A,Italy,2015-12-13,Roma,0.0,draw,False,Rudi Garcia,895.0
 Serie A,Italy,2015-12-13,Fiorentina,1.0,loss,False,Paulo Sousa,175.0
 Serie A,Italy,2015-12-19,Empoli,3.0,win,False,Marco Giampaolo,187.0
 Serie A,Italy,2015-12-20,Juventus,3.0,win,False,Massimiliano Allegri,522.0
+Serie A,Italy,2015-12-20,Chievo,0.0,loss,False,Rolando Maran,427.0
 Serie A,Italy,2015-12-20,Napoli,3.0,win,False,Maurizio Sarri,192.0
 Serie A,Italy,2015-12-20,Sassuolo,1.0,draw,False,Eusebio Di Francesco,657.0
 Serie A,Italy,2015-12-20,Genoa,0.0,loss,False,Gian Piero Gasperini,812.0
@@ -14014,6 +14131,7 @@ Serie A,Italy,2016-01-09,Lazio,3.0,win,False,Stefano Pioli,557.0
 Serie A,Italy,2016-01-09,Milan,1.0,draw,False,Roberto Mancini,421.0
 Serie A,Italy,2016-01-09,Milan,1.0,draw,False,Siniša Mihajlović,207.0
 Serie A,Italy,2016-01-10,Sassuolo,1.0,win,False,Eusebio Di Francesco,678.0
+Serie A,Italy,2016-01-10,Chievo,1.0,win,False,Rolando Maran,448.0
 Serie A,Italy,2016-01-10,Genoa,2.0,win,False,Gian Piero Gasperini,833.0
 Serie A,Italy,2016-01-10,Napoli,5.0,win,False,Maurizio Sarri,213.0
 Serie A,Italy,2016-01-10,Empoli,1.0,win,False,Marco Giampaolo,209.0
@@ -14036,6 +14154,7 @@ Serie A,Italy,2016-01-23,Atalanta,0.0,draw,False,Edoardo Reja,325.0
 Serie A,Italy,2016-01-23,Milan,2.0,draw,False,Roberto Mancini,435.0
 Serie A,Italy,2016-01-23,Milan,2.0,draw,False,Siniša Mihajlović,221.0
 Serie A,Italy,2016-01-24,Udinese,1.0,loss,False,Stefano Colantuono,234.0
+Serie A,Italy,2016-01-24,Chievo,1.0,loss,False,Rolando Maran,462.0
 Serie A,Italy,2016-01-24,Genoa,1.0,draw,False,Gian Piero Gasperini,847.0
 Serie A,Italy,2016-01-24,Bologna,2.0,win,False,Roberto Donadoni,88.0
 Serie A,Italy,2016-01-24,Napoli,4.0,win,False,Maurizio Sarri,227.0
@@ -14055,10 +14174,12 @@ Serie A,Italy,2016-02-03,Milan,2.0,win,False,Siniša Mihajlović,232.0
 Serie A,Italy,2016-02-03,Atalanta,1.0,loss,False,Edoardo Reja,336.0
 Serie A,Italy,2016-02-03,Udinese,1.0,draw,False,Stefano Colantuono,244.0
 Serie A,Italy,2016-02-03,Genoa,0.0,loss,False,Gian Piero Gasperini,857.0
+Serie A,Italy,2016-02-03,Chievo,0.0,loss,False,Rolando Maran,472.0
 Serie A,Italy,2016-02-06,Fiorentina,1.0,draw,False,Paulo Sousa,230.0
 Serie A,Italy,2016-02-06,Lazio,0.0,draw,False,Stefano Pioli,585.0
 Serie A,Italy,2016-02-07,Juventus,2.0,win,False,Massimiliano Allegri,571.0
 Serie A,Italy,2016-02-07,Udinese,1.0,draw,False,Stefano Colantuono,248.0
+Serie A,Italy,2016-02-07,Chievo,2.0,win,False,Rolando Maran,476.0
 Serie A,Italy,2016-02-07,Empoli,0.0,draw,False,Marco Giampaolo,237.0
 Serie A,Italy,2016-02-11,Hellas Verona,2.0,loss,False,Luigi Delneri,72.0
 Serie A,Italy,2016-02-12,Roma,3.0,win,False,Luciano Spalletti,29.0
@@ -14069,6 +14190,7 @@ Serie A,Italy,2016-02-14,Genoa,1.0,loss,False,Gian Piero Gasperini,868.0
 Serie A,Italy,2016-02-14,Bologna,1.0,win,False,Roberto Donadoni,109.0
 Serie A,Italy,2016-02-14,Atalanta,0.0,draw,False,Edoardo Reja,347.0
 Serie A,Italy,2016-02-19,Juventus,0.0,draw,False,Massimiliano Allegri,583.0
+Serie A,Italy,2016-02-20,Chievo,1.0,loss,False,Rolando Maran,489.0
 Serie A,Italy,2016-02-21,Fiorentina,3.0,win,False,Paulo Sousa,245.0
 Serie A,Italy,2016-02-21,Empoli,2.0,loss,False,Marco Giampaolo,251.0
 Serie A,Italy,2016-02-21,Udinese,1.0,loss,False,Stefano Colantuono,262.0
@@ -14084,6 +14206,7 @@ Serie A,Italy,2016-02-28,Frosinone,0.0,loss,False,Roberto Stellone,1354.0
 Serie A,Italy,2016-02-29,Sassuolo,2.0,win,False,Eusebio Di Francesco,728.0
 Serie A,Italy,2016-02-29,Napoli,1.0,draw,False,Maurizio Sarri,263.0
 Serie A,Italy,2016-03-04,Fiorentina,1.0,loss,False,Paulo Sousa,257.0
+Serie A,Italy,2016-03-05,Chievo,1.0,loss,False,Rolando Maran,503.0
 Serie A,Italy,2016-03-06,Lazio,1.0,draw,False,Stefano Pioli,614.0
 Serie A,Italy,2016-03-06,Udinese,0.0,loss,False,Stefano Colantuono,276.0
 Serie A,Italy,2016-03-06,Juventus,2.0,win,False,Massimiliano Allegri,599.0
@@ -14101,6 +14224,7 @@ Serie A,Italy,2016-03-13,Napoli,1.0,win,False,Maurizio Sarri,276.0
 Serie A,Italy,2016-03-13,Atalanta,0.0,loss,False,Edoardo Reja,375.0
 Serie A,Italy,2015-09-12,Roma,2.0,win,False,Rudi Garcia,803.0
 Serie A,Italy,2015-09-12,Genoa,0.0,loss,False,Gian Piero Gasperini,713.0
+Serie A,Italy,2015-09-12,Chievo,1.0,draw,False,Rolando Maran,328.0
 Serie A,Italy,2015-09-13,Atalanta,2.0,draw,False,Edoardo Reja,193.0
 Serie A,Italy,2015-09-13,Napoli,2.0,draw,False,Maurizio Sarri,94.0
 Serie A,Italy,2015-09-13,Udinese,0.0,loss,False,Stefano Colantuono,101.0
@@ -14110,6 +14234,7 @@ Serie A,Italy,2015-09-14,Bologna,0.0,loss,False,Delio Rossi,133.0
 Serie A,Italy,2016-03-20,Bologna,0.0,loss,False,Roberto Donadoni,144.0
 Serie A,Italy,2016-03-20,Fiorentina,0.0,draw,False,Paulo Sousa,273.0
 Serie A,Italy,2016-03-20,Udinese,1.0,draw,False,Luigi De Canio,6.0
+Serie A,Italy,2016-03-20,Chievo,1.0,win,False,Rolando Maran,518.0
 Serie A,Italy,2016-03-20,Juventus,4.0,win,False,Massimiliano Allegri,613.0
 Serie A,Italy,2016-03-20,Genoa,1.0,loss,False,Gian Piero Gasperini,903.0
 Serie A,Italy,2016-03-20,Lazio,1.0,draw,False,Stefano Pioli,628.0
@@ -14133,6 +14258,7 @@ Serie A,Italy,2016-04-16,Napoli,0.0,loss,False,Maurizio Sarri,310.0
 Serie A,Italy,2016-04-17,Roma,3.0,draw,False,Luciano Spalletti,94.0
 Serie A,Italy,2016-04-17,Sassuolo,1.0,loss,False,Eusebio Di Francesco,776.0
 Serie A,Italy,2016-04-17,Frosinone,2.0,win,False,Roberto Stellone,1403.0
+Serie A,Italy,2016-04-17,Chievo,0.0,draw,False,Rolando Maran,546.0
 Serie A,Italy,2016-04-17,Empoli,0.0,loss,False,Marco Giampaolo,307.0
 Serie A,Italy,2016-04-17,Milan,1.0,win,False,Roberto Mancini,520.0
 Serie A,Italy,2016-04-19,Bologna,0.0,loss,False,Roberto Donadoni,174.0
@@ -14142,6 +14268,7 @@ Serie A,Italy,2016-04-20,Fiorentina,1.0,loss,False,Paulo Sousa,304.0
 Serie A,Italy,2016-04-20,Frosinone,1.0,loss,False,Roberto Stellone,1406.0
 Serie A,Italy,2016-04-23,Udinese,1.0,loss,False,Luigi De Canio,40.0
 Serie A,Italy,2016-04-24,Sassuolo,3.0,win,False,Eusebio Di Francesco,783.0
+Serie A,Italy,2016-04-24,Chievo,0.0,loss,False,Rolando Maran,553.0
 Serie A,Italy,2016-04-24,Genoa,0.0,loss,False,Gian Piero Gasperini,938.0
 Serie A,Italy,2016-04-24,Juventus,2.0,win,False,Massimiliano Allegri,648.0
 Serie A,Italy,2016-04-25,Napoli,0.0,loss,False,Maurizio Sarri,319.0
@@ -14155,6 +14282,7 @@ Serie A,Italy,2016-05-02,Roma,3.0,win,False,Luciano Spalletti,109.0
 Serie A,Italy,2016-05-02,Atalanta,1.0,loss,False,Edoardo Reja,425.0
 Serie A,Italy,2016-05-07,Empoli,1.0,loss,False,Marco Giampaolo,327.0
 Serie A,Italy,2016-05-07,Milan,1.0,win,False,Roberto Mancini,540.0
+Serie A,Italy,2016-05-08,Chievo,0.0,loss,False,Rolando Maran,567.0
 Serie A,Italy,2016-05-08,Sassuolo,1.0,win,False,Eusebio Di Francesco,797.0
 Serie A,Italy,2016-05-08,Udinese,1.0,draw,False,Luigi De Canio,55.0
 Serie A,Italy,2016-05-08,Genoa,3.0,win,False,Gian Piero Gasperini,952.0
@@ -14187,6 +14315,7 @@ Serie A,Italy,2015-09-26,Juventus,1.0,loss,False,Massimiliano Allegri,437.0
 Serie A,Italy,2015-09-27,Milan,0.0,loss,False,Roberto Mancini,317.0
 Serie A,Italy,2015-09-27,Milan,0.0,loss,False,Siniša Mihajlović,103.0
 Serie A,Italy,2015-09-27,Lazio,2.0,win,False,Stefano Pioli,453.0
+Serie A,Italy,2015-09-27,Chievo,1.0,draw,False,Rolando Maran,343.0
 Serie A,Italy,2015-09-27,Udinese,2.0,win,False,Stefano Colantuono,115.0
 Serie A,Italy,2015-09-27,Fiorentina,4.0,win,False,Paulo Sousa,98.0
 Serie A,Italy,2015-09-28,Empoli,0.0,loss,False,Marco Giampaolo,105.0
@@ -14201,6 +14330,7 @@ Serie A,Italy,2015-10-04,Napoli,4.0,win,False,Maurizio Sarri,115.0
 Serie A,Italy,2015-10-17,Empoli,1.0,loss,False,Marco Giampaolo,124.0
 Serie A,Italy,2015-10-17,Milan,1.0,draw,False,Roberto Mancini,337.0
 Serie A,Italy,2015-10-17,Milan,1.0,draw,False,Siniša Mihajlović,123.0
+Serie A,Italy,2015-10-18,Chievo,2.0,loss,False,Rolando Maran,364.0
 Serie A,Italy,2015-10-18,Fiorentina,1.0,loss,False,Paulo Sousa,119.0
 Serie A,Italy,2015-10-18,Lazio,1.0,loss,False,Stefano Pioli,474.0
 Serie A,Italy,2015-10-18,Udinese,1.0,draw,False,Stefano Colantuono,136.0
@@ -14231,6 +14361,7 @@ Serie A,Italy,2016-10-29,Napoli,1.0,loss,False,Maurizio Sarri,506.0
 Serie A,Italy,2016-10-30,Genoa,0.0,loss,False,Ivan Juric,121.0
 Serie A,Italy,2016-10-30,Sassuolo,1.0,loss,False,Eusebio Di Francesco,972.0
 Serie A,Italy,2016-10-30,Roma,0.0,draw,False,Luciano Spalletti,290.0
+Serie A,Italy,2016-10-30,Chievo,0.0,loss,False,Rolando Maran,742.0
 Serie A,Italy,2016-10-31,Torino,2.0,draw,False,Siniša Mihajlović,159.0
 Serie A,Italy,2016-11-05,Lazio,1.0,draw,False,Simone Inzaghi,120.0
 Serie A,Italy,2016-11-06,Empoli,4.0,win,False,Giovanni Martusciello,128.0
@@ -14244,6 +14375,7 @@ Serie A,Italy,2016-11-20,Genoa,1.0,loss,False,Ivan Juric,142.0
 Serie A,Italy,2016-11-20,Fiorentina,4.0,win,False,Paulo Sousa,518.0
 Serie A,Italy,2016-11-20,Roma,1.0,loss,False,Luciano Spalletti,311.0
 Serie A,Italy,2016-11-20,Torino,2.0,win,False,Siniša Mihajlović,179.0
+Serie A,Italy,2016-11-26,Chievo,1.0,loss,False,Rolando Maran,769.0
 Serie A,Italy,2016-11-26,Milan,4.0,win,False,Stefano Pioli,18.0
 Serie A,Italy,2016-11-26,Milan,4.0,win,False,Vincenzo Montella,150.0
 Serie A,Italy,2016-11-27,Lazio,1.0,win,False,Simone Inzaghi,142.0
@@ -14260,6 +14392,7 @@ Serie A,Italy,2016-12-10,Lazio,2.0,win,False,Simone Inzaghi,155.0
 Serie A,Italy,2016-12-11,Napoli,5.0,win,False,Maurizio Sarri,549.0
 Serie A,Italy,2016-12-11,Juventus,3.0,win,False,Massimiliano Allegri,879.0
 Serie A,Italy,2016-12-11,Udinese,3.0,win,False,Luigi Delneri,69.0
+Serie A,Italy,2016-12-11,Chievo,2.0,win,False,Rolando Maran,784.0
 Serie A,Italy,2016-12-11,Empoli,0.0,draw,False,Giovanni Martusciello,163.0
 Serie A,Italy,2016-12-11,Genoa,0.0,loss,False,Ivan Juric,163.0
 Serie A,Italy,2016-12-12,Sassuolo,1.0,loss,False,Eusebio Di Francesco,1015.0
@@ -14275,6 +14408,7 @@ Serie A,Italy,2016-12-22,Udinese,0.0,draw,False,Luigi Delneri,80.0
 Serie A,Italy,2016-12-22,Sassuolo,3.0,loss,False,Eusebio Di Francesco,1025.0
 Serie A,Italy,2016-12-22,Genoa,0.0,loss,False,Ivan Juric,174.0
 Serie A,Italy,2016-12-22,Napoli,3.0,draw,False,Maurizio Sarri,560.0
+Serie A,Italy,2016-12-22,Chievo,1.0,loss,False,Rolando Maran,795.0
 Serie A,Italy,2017-02-08,Juventus,2.0,win,False,Massimiliano Allegri,938.0
 Serie A,Italy,2017-02-08,Milan,1.0,win,False,Stefano Pioli,92.0
 Serie A,Italy,2017-02-08,Milan,1.0,win,False,Vincenzo Montella,224.0
@@ -14288,8 +14422,10 @@ Serie A,Italy,2016-08-27,Milan,2.0,loss,False,Vincenzo Montella,59.0
 Serie A,Italy,2016-08-28,Empoli,0.0,loss,False,Giovanni Martusciello,58.0
 Serie A,Italy,2016-08-28,Genoa,3.0,win,False,Ivan Juric,58.0
 Serie A,Italy,2016-08-28,Bologna,1.0,loss,False,Roberto Donadoni,305.0
+Serie A,Italy,2016-08-28,Chievo,0.0,loss,False,Rolando Maran,679.0
 Serie A,Italy,2016-08-28,Roma,2.0,draw,False,Luciano Spalletti,227.0
 Serie A,Italy,2017-01-14,Bologna,1.0,win,False,Roberto Donadoni,444.0
+Serie A,Italy,2017-01-14,Chievo,1.0,loss,False,Rolando Maran,818.0
 Serie A,Italy,2017-01-15,Genoa,1.0,loss,False,Ivan Juric,198.0
 Serie A,Italy,2017-01-15,Empoli,0.0,draw,False,Giovanni Martusciello,198.0
 Serie A,Italy,2017-01-15,Roma,1.0,win,False,Luciano Spalletti,367.0
@@ -14302,6 +14438,7 @@ Serie A,Italy,2017-01-22,Lazio,0.0,loss,False,Simone Inzaghi,198.0
 Serie A,Italy,2017-01-22,Torino,0.0,loss,False,Siniša Mihajlović,242.0
 Serie A,Italy,2017-01-22,Sassuolo,3.0,win,False,Eusebio Di Francesco,1056.0
 Serie A,Italy,2017-01-22,Udinese,0.0,loss,False,Luigi Delneri,111.0
+Serie A,Italy,2017-01-28,Chievo,1.0,win,False,Rolando Maran,832.0
 Serie A,Italy,2017-01-29,Genoa,3.0,draw,False,Ivan Juric,212.0
 Serie A,Italy,2017-01-29,Empoli,1.0,loss,False,Giovanni Martusciello,212.0
 Serie A,Italy,2017-01-29,Milan,1.0,loss,False,Stefano Pioli,82.0
@@ -14319,6 +14456,7 @@ Serie A,Italy,2017-02-10,Genoa,0.0,loss,False,Ivan Juric,224.0
 Serie A,Italy,2017-02-11,Udinese,0.0,loss,False,Luigi Delneri,131.0
 Serie A,Italy,2017-02-12,Roma,2.0,win,False,Luciano Spalletti,395.0
 Serie A,Italy,2017-02-12,Empoli,0.0,loss,False,Giovanni Martusciello,226.0
+Serie A,Italy,2017-02-12,Chievo,3.0,win,False,Rolando Maran,847.0
 Serie A,Italy,2017-02-12,Bologna,1.0,loss,False,Roberto Donadoni,473.0
 Serie A,Italy,2017-02-12,Juventus,2.0,win,False,Massimiliano Allegri,942.0
 Serie A,Italy,2017-02-13,Milan,1.0,draw,False,Stefano Pioli,97.0
@@ -14337,6 +14475,7 @@ Serie A,Italy,2017-02-26,Bologna,1.0,draw,False,Roberto Donadoni,487.0
 Serie A,Italy,2017-02-26,Roma,3.0,win,False,Luciano Spalletti,409.0
 Serie A,Italy,2017-02-27,Torino,2.0,draw,False,Siniša Mihajlović,278.0
 Serie A,Italy,2017-03-04,Napoli,2.0,win,False,Maurizio Sarri,632.0
+Serie A,Italy,2017-03-04,Chievo,1.0,loss,False,Rolando Maran,867.0
 Serie A,Italy,2017-03-05,Fiorentina,0.0,draw,False,Paulo Sousa,623.0
 Serie A,Italy,2017-03-05,Sassuolo,0.0,draw,False,Eusebio Di Francesco,1098.0
 Serie A,Italy,2017-03-05,Juventus,1.0,draw,False,Massimiliano Allegri,963.0
@@ -14354,6 +14493,7 @@ Serie A,Italy,2017-03-19,Napoli,3.0,win,False,Maurizio Sarri,647.0
 Serie A,Italy,2017-03-19,Fiorentina,1.0,win,False,Paulo Sousa,637.0
 Serie A,Italy,2017-03-19,Lazio,0.0,draw,False,Simone Inzaghi,254.0
 Serie A,Italy,2017-03-19,Juventus,1.0,win,False,Massimiliano Allegri,977.0
+Serie A,Italy,2017-03-19,Chievo,1.0,loss,False,Rolando Maran,882.0
 Serie A,Italy,2017-03-19,Sassuolo,1.0,loss,False,Eusebio Di Francesco,1112.0
 Serie A,Italy,2016-09-10,Sassuolo,1.0,loss,False,Eusebio Di Francesco,922.0
 Serie A,Italy,2016-09-10,Napoli,3.0,win,False,Maurizio Sarri,457.0
@@ -14369,6 +14509,7 @@ Serie A,Italy,2017-04-02,Milan,1.0,draw,False,Vincenzo Montella,277.0
 Serie A,Italy,2017-04-02,Bologna,0.0,loss,False,Roberto Donadoni,522.0
 Serie A,Italy,2017-04-02,Juventus,1.0,draw,False,Massimiliano Allegri,991.0
 Serie A,Italy,2017-04-08,Sassuolo,1.0,draw,False,Eusebio Di Francesco,1132.0
+Serie A,Italy,2017-04-08,Chievo,0.0,loss,False,Rolando Maran,902.0
 Serie A,Italy,2017-04-09,Fiorentina,2.0,draw,False,Paulo Sousa,658.0
 Serie A,Italy,2017-04-09,Genoa,0.0,loss,False,Andrea Mandorlini,48.0
 Serie A,Italy,2017-04-09,Torino,3.0,win,False,Siniša Mihajlović,319.0
@@ -14380,6 +14521,7 @@ Serie A,Italy,2017-04-15,Empoli,2.0,win,False,Giovanni Martusciello,288.0
 Serie A,Italy,2017-04-15,Lazio,2.0,draw,False,Simone Inzaghi,281.0
 Serie A,Italy,2017-04-15,Bologna,0.0,draw,False,Roberto Donadoni,535.0
 Serie A,Italy,2017-04-15,Juventus,2.0,win,False,Massimiliano Allegri,1004.0
+Serie A,Italy,2017-04-15,Chievo,0.0,loss,False,Rolando Maran,909.0
 Serie A,Italy,2017-04-15,Udinese,0.0,loss,False,Luigi Delneri,194.0
 Serie A,Italy,2017-04-22,Bologna,2.0,loss,False,Roberto Donadoni,542.0
 Serie A,Italy,2017-04-23,Napoli,2.0,draw,False,Maurizio Sarri,682.0
@@ -14392,6 +14534,7 @@ Serie A,Italy,2017-04-30,Lazio,3.0,win,False,Simone Inzaghi,296.0
 Serie A,Italy,2017-04-30,Milan,1.0,draw,False,Stefano Pioli,173.0
 Serie A,Italy,2017-04-30,Milan,1.0,draw,False,Vincenzo Montella,305.0
 Serie A,Italy,2017-04-30,Fiorentina,0.0,loss,False,Paulo Sousa,679.0
+Serie A,Italy,2017-04-30,Chievo,2.0,win,False,Rolando Maran,924.0
 Serie A,Italy,2017-04-30,Sassuolo,3.0,win,False,Eusebio Di Francesco,1154.0
 Serie A,Italy,2017-04-30,Udinese,0.0,loss,False,Luigi Delneri,209.0
 Serie A,Italy,2017-04-30,Napoli,1.0,win,False,Maurizio Sarri,689.0
@@ -14405,6 +14548,7 @@ Serie A,Italy,2017-05-14,Sassuolo,2.0,win,False,Eusebio Di Francesco,1168.0
 Serie A,Italy,2017-05-14,Napoli,5.0,win,False,Maurizio Sarri,703.0
 Serie A,Italy,2017-05-14,Udinese,0.0,loss,False,Luigi Delneri,223.0
 Serie A,Italy,2017-05-14,Genoa,0.0,loss,False,Ivan Juric,34.0
+Serie A,Italy,2017-05-14,Chievo,1.0,draw,False,Rolando Maran,938.0
 Serie A,Italy,2017-05-14,Empoli,2.0,loss,False,Giovanni Martusciello,317.0
 Serie A,Italy,2017-05-14,Juventus,1.0,loss,False,Massimiliano Allegri,1033.0
 Serie A,Italy,2017-05-20,Roma,5.0,win,False,Luciano Spalletti,492.0
@@ -14412,6 +14556,7 @@ Serie A,Italy,2017-05-20,Fiorentina,1.0,loss,False,Paulo Sousa,699.0
 Serie A,Italy,2017-05-21,Torino,1.0,loss,False,Siniša Mihajlović,361.0
 Serie A,Italy,2017-05-21,Bologna,0.0,loss,False,Roberto Donadoni,571.0
 Serie A,Italy,2017-05-27,Juventus,2.0,win,False,Massimiliano Allegri,1046.0
+Serie A,Italy,2017-05-27,Chievo,0.0,loss,False,Rolando Maran,951.0
 Serie A,Italy,2017-05-28,Milan,1.0,loss,False,Vincenzo Montella,333.0
 Serie A,Italy,2017-05-28,Napoli,4.0,win,False,Maurizio Sarri,717.0
 Serie A,Italy,2017-05-28,Genoa,2.0,loss,False,Ivan Juric,48.0
@@ -14422,6 +14567,7 @@ Serie A,Italy,2017-05-28,Lazio,1.0,loss,False,Simone Inzaghi,324.0
 Serie A,Italy,2016-09-16,Milan,1.0,win,False,Frank de Boer,38.0
 Serie A,Italy,2016-09-16,Milan,1.0,win,False,Vincenzo Montella,79.0
 Serie A,Italy,2016-09-17,Bologna,1.0,loss,False,Roberto Donadoni,325.0
+Serie A,Italy,2016-09-18,Chievo,2.0,win,False,Rolando Maran,700.0
 Serie A,Italy,2016-09-18,Genoa,0.0,loss,False,Ivan Juric,79.0
 Serie A,Italy,2016-09-18,Empoli,0.0,draw,False,Giovanni Martusciello,79.0
 Serie A,Italy,2016-09-18,Juventus,1.0,loss,False,Massimiliano Allegri,795.0
@@ -14432,12 +14578,14 @@ Serie A,Italy,2016-09-21,Torino,0.0,draw,False,Siniša Mihajlović,119.0
 Serie A,Italy,2016-09-21,Napoli,0.0,draw,False,Maurizio Sarri,468.0
 Serie A,Italy,2016-09-21,Sassuolo,1.0,loss,False,Eusebio Di Francesco,933.0
 Serie A,Italy,2016-09-24,Juventus,1.0,win,False,Massimiliano Allegri,801.0
+Serie A,Italy,2016-09-24,Chievo,0.0,loss,False,Rolando Maran,706.0
 Serie A,Italy,2016-09-25,Roma,1.0,loss,False,Luciano Spalletti,255.0
 Serie A,Italy,2016-09-25,Udinese,0.0,loss,False,Giuseppe Iachini,86.0
 Serie A,Italy,2016-09-25,Empoli,0.0,loss,False,Giovanni Martusciello,86.0
 Serie A,Italy,2016-09-25,Bologna,1.0,draw,False,Roberto Donadoni,333.0
 Serie A,Italy,2016-09-25,Milan,0.0,draw,False,Frank de Boer,47.0
 Serie A,Italy,2016-09-25,Milan,0.0,draw,False,Vincenzo Montella,88.0
+Serie A,Italy,2016-10-01,Chievo,2.0,win,False,Rolando Maran,713.0
 Serie A,Italy,2016-10-01,Lazio,3.0,win,False,Simone Inzaghi,85.0
 Serie A,Italy,2016-10-02,Juventus,3.0,win,False,Massimiliano Allegri,809.0
 Serie A,Italy,2016-10-02,Napoli,0.0,loss,False,Maurizio Sarri,479.0
@@ -14454,11 +14602,13 @@ Serie A,Italy,2016-10-17,Torino,4.0,win,False,Siniša Mihajlović,145.0
 Serie A,Italy,2016-10-22,Genoa,1.0,loss,False,Ivan Juric,113.0
 Serie A,Italy,2016-10-22,Juventus,0.0,loss,False,Massimiliano Allegri,829.0
 Serie A,Italy,2016-10-23,Napoli,2.0,win,False,Maurizio Sarri,500.0
+Serie A,Italy,2016-10-23,Chievo,0.0,draw,False,Rolando Maran,735.0
 Serie A,Italy,2016-10-23,Fiorentina,5.0,win,False,Paulo Sousa,490.0
 Serie A,Italy,2016-10-23,Lazio,2.0,draw,False,Simone Inzaghi,107.0
 Serie A,Italy,2016-10-23,Sassuolo,1.0,draw,False,Eusebio Di Francesco,965.0
 Serie A,Italy,2017-08-19,Napoli,3.0,win,False,Maurizio Sarri,800.0
 Serie A,Italy,2017-08-20,Roma,1.0,win,False,Eusebio Di Francesco,68.0
+Serie A,Italy,2017-08-20,Chievo,2.0,win,False,Rolando Maran,1036.0
 Serie A,Italy,2017-08-20,Fiorentina,0.0,loss,False,Stefano Pioli,50.0
 Serie A,Italy,2017-08-20,Torino,1.0,draw,False,Siniša Mihajlović,452.0
 Serie A,Italy,2017-08-20,Milan,3.0,win,False,Luciano Spalletti,72.0
@@ -14476,6 +14626,7 @@ Serie A,Italy,2017-10-28,Bologna,0.0,loss,False,Roberto Donadoni,731.0
 Serie A,Italy,2017-10-29,Lazio,5.0,win,False,Simone Inzaghi,478.0
 Serie A,Italy,2017-10-29,Genoa,0.0,loss,False,Ivan Juric,202.0
 Serie A,Italy,2017-10-29,Sassuolo,1.0,loss,False,Cristian Bucchi,131.0
+Serie A,Italy,2017-10-29,Chievo,1.0,loss,False,Rolando Maran,1106.0
 Serie A,Italy,2017-10-29,Fiorentina,1.0,loss,False,Stefano Pioli,120.0
 Serie A,Italy,2017-11-05,Torino,1.0,draw,False,Siniša Mihajlović,529.0
 Serie A,Italy,2017-11-05,Roma,4.0,win,False,Eusebio Di Francesco,145.0
@@ -14489,6 +14640,7 @@ Serie A,Italy,2017-11-18,Milan,1.0,loss,False,Luciano Spalletti,162.0
 Serie A,Italy,2017-11-18,Milan,1.0,loss,False,Vincenzo Montella,507.0
 Serie A,Italy,2017-11-19,Genoa,1.0,win,False,Davide Ballardini,13.0
 Serie A,Italy,2017-11-19,Sassuolo,2.0,win,False,Cristian Bucchi,152.0
+Serie A,Italy,2017-11-19,Chievo,1.0,draw,False,Rolando Maran,1127.0
 Serie A,Italy,2017-11-19,Fiorentina,1.0,draw,False,Stefano Pioli,141.0
 Serie A,Italy,2017-11-19,Juventus,2.0,loss,False,Massimiliano Allegri,1222.0
 Serie A,Italy,2017-11-20,Bologna,3.0,win,False,Roberto Donadoni,754.0
@@ -14500,6 +14652,7 @@ Serie A,Italy,2017-11-26,Fiorentina,1.0,draw,False,Stefano Pioli,148.0
 Serie A,Italy,2017-12-01,Juventus,1.0,win,False,Massimiliano Allegri,1234.0
 Serie A,Italy,2017-12-03,Milan,2.0,draw,False,Gennaro Gattuso,5.0
 Serie A,Italy,2017-12-03,Milan,2.0,draw,False,Luciano Spalletti,177.0
+Serie A,Italy,2017-12-03,Chievo,0.0,loss,False,Rolando Maran,1141.0
 Serie A,Italy,2017-12-03,Sassuolo,0.0,loss,False,Giuseppe Iachini,6.0
 Serie A,Italy,2017-12-03,Lazio,2.0,win,False,Simone Inzaghi,513.0
 Serie A,Italy,2017-12-04,Udinese,3.0,win,False,Massimo Oddo,13.0
@@ -14514,6 +14667,7 @@ Serie A,Italy,2017-12-16,Napoli,3.0,win,False,Maurizio Sarri,919.0
 Serie A,Italy,2017-12-17,Milan,0.0,loss,False,Gennaro Gattuso,19.0
 Serie A,Italy,2017-12-17,Milan,0.0,loss,False,Luciano Spalletti,191.0
 Serie A,Italy,2017-12-17,Juventus,3.0,win,False,Massimiliano Allegri,1250.0
+Serie A,Italy,2017-12-17,Chievo,0.0,loss,False,Rolando Maran,1155.0
 Serie A,Italy,2017-12-17,Genoa,0.0,draw,False,Davide Ballardini,41.0
 Serie A,Italy,2017-12-17,Sassuolo,1.0,win,False,Giuseppe Iachini,20.0
 Serie A,Italy,2017-12-17,Lazio,3.0,draw,False,Simone Inzaghi,527.0
@@ -14526,6 +14680,7 @@ Serie A,Italy,2017-12-29,Napoli,1.0,win,False,Maurizio Sarri,932.0
 Serie A,Italy,2017-12-30,Milan,1.0,draw,False,Gennaro Gattuso,32.0
 Serie A,Italy,2017-12-30,Milan,1.0,draw,False,Luciano Spalletti,204.0
 Serie A,Italy,2017-12-30,Genoa,0.0,draw,False,Davide Ballardini,54.0
+Serie A,Italy,2017-12-30,Chievo,0.0,loss,False,Rolando Maran,1168.0
 Serie A,Italy,2017-12-30,Sassuolo,1.0,draw,False,Giuseppe Iachini,33.0
 Serie A,Italy,2017-12-30,Udinese,2.0,win,False,Massimo Oddo,39.0
 Serie A,Italy,2017-12-30,Lazio,0.0,draw,False,Simone Inzaghi,540.0
@@ -14544,6 +14699,7 @@ Serie A,Italy,2018-01-06,Lazio,5.0,win,False,Simone Inzaghi,547.0
 Serie A,Italy,2018-01-06,Juventus,1.0,win,False,Massimiliano Allegri,1270.0
 Serie A,Italy,2018-01-21,Napoli,1.0,win,False,Maurizio Sarri,955.0
 Serie A,Italy,2018-01-21,Torino,1.0,draw,False,Walter Mazzarri,17.0
+Serie A,Italy,2018-01-21,Chievo,1.0,loss,False,Rolando Maran,1190.0
 Serie A,Italy,2018-01-21,Fiorentina,1.0,loss,False,Stefano Pioli,204.0
 Serie A,Italy,2018-01-21,Milan,2.0,win,False,Gennaro Gattuso,54.0
 Serie A,Italy,2018-01-21,Milan,2.0,win,False,Luciano Spalletti,226.0
@@ -14558,6 +14714,7 @@ Serie A,Italy,2018-02-03,Torino,1.0,draw,False,Walter Mazzarri,30.0
 Serie A,Italy,2018-02-04,Roma,1.0,win,False,Eusebio Di Francesco,236.0
 Serie A,Italy,2018-02-04,Milan,1.0,draw,False,Gennaro Gattuso,68.0
 Serie A,Italy,2018-02-04,Milan,1.0,draw,False,Luciano Spalletti,240.0
+Serie A,Italy,2018-02-04,Chievo,0.0,loss,False,Rolando Maran,1204.0
 Serie A,Italy,2018-02-04,Fiorentina,2.0,win,False,Stefano Pioli,218.0
 Serie A,Italy,2018-02-04,Sassuolo,0.0,loss,False,Giuseppe Iachini,69.0
 Serie A,Italy,2018-02-04,Napoli,2.0,win,False,Maurizio Sarri,969.0
@@ -14578,6 +14735,7 @@ Serie A,Italy,2018-02-19,Hellas Verona,0.0,loss,False,Fabio Pecchia,598.0
 Serie A,Italy,2018-02-24,Genoa,0.0,loss,False,Davide Ballardini,110.0
 Serie A,Italy,2018-02-25,Udinese,1.0,loss,False,Massimo Oddo,96.0
 Serie A,Italy,2018-02-25,Lazio,3.0,win,False,Simone Inzaghi,597.0
+Serie A,Italy,2018-02-25,Chievo,0.0,loss,False,Rolando Maran,1225.0
 Serie A,Italy,2018-02-25,Torino,1.0,loss,False,Walter Mazzarri,52.0
 Serie A,Italy,2018-02-25,Milan,2.0,win,False,Gennaro Gattuso,89.0
 Serie A,Italy,2018-02-25,Milan,2.0,win,False,Luciano Spalletti,261.0
@@ -14589,6 +14747,7 @@ Serie A,Italy,2018-04-03,Fiorentina,2.0,win,False,Stefano Pioli,276.0
 Serie A,Italy,2018-04-04,Hellas Verona,0.0,loss,False,Fabio Pecchia,642.0
 Serie A,Italy,2018-04-04,Sassuolo,1.0,draw,False,Giuseppe Iachini,128.0
 Serie A,Italy,2018-03-09,Torino,0.0,loss,False,Walter Mazzarri,64.0
+Serie A,Italy,2018-03-10,Chievo,0.0,loss,False,Rolando Maran,1238.0
 Serie A,Italy,2018-03-11,Udinese,0.0,loss,False,Massimo Oddo,110.0
 Serie A,Italy,2018-03-11,Lazio,2.0,draw,False,Simone Inzaghi,611.0
 Serie A,Italy,2018-03-11,Milan,1.0,win,False,Gennaro Gattuso,103.0
@@ -14598,8 +14757,10 @@ Serie A,Italy,2018-03-17,Sassuolo,2.0,win,False,Giuseppe Iachini,110.0
 Serie A,Italy,2018-03-17,Juventus,0.0,draw,False,Massimiliano Allegri,1340.0
 Serie A,Italy,2018-03-18,Fiorentina,2.0,win,False,Stefano Pioli,260.0
 Serie A,Italy,2018-03-18,Roma,2.0,win,False,Eusebio Di Francesco,278.0
+Serie A,Italy,2018-03-18,Chievo,2.0,loss,False,Rolando Maran,1246.0
 Serie A,Italy,2018-03-18,Genoa,0.0,loss,False,Davide Ballardini,132.0
 Serie A,Italy,2018-03-18,Bologna,1.0,draw,False,Roberto Donadoni,872.0
+Serie A,Italy,2017-09-09,Chievo,0.0,loss,False,Rolando Maran,1056.0
 Serie A,Italy,2017-09-10,Genoa,0.0,loss,False,Ivan Juric,153.0
 Serie A,Italy,2017-09-10,Sassuolo,1.0,loss,False,Cristian Bucchi,82.0
 Serie A,Italy,2017-09-10,Fiorentina,5.0,win,False,Stefano Pioli,71.0
@@ -14618,6 +14779,7 @@ Serie A,Italy,2018-03-31,Milan,1.0,loss,False,Luciano Spalletti,295.0
 Serie A,Italy,2018-04-07,Juventus,4.0,win,False,Massimiliano Allegri,1361.0
 Serie A,Italy,2018-04-07,Fiorentina,2.0,win,False,Stefano Pioli,280.0
 Serie A,Italy,2018-04-07,Genoa,0.0,draw,False,Davide Ballardini,152.0
+Serie A,Italy,2018-04-08,Chievo,1.0,loss,False,Rolando Maran,1267.0
 Serie A,Italy,2018-04-08,Bologna,0.0,loss,False,Roberto Donadoni,893.0
 Serie A,Italy,2018-04-08,Lazio,2.0,win,False,Simone Inzaghi,639.0
 Serie A,Italy,2018-04-08,Sassuolo,1.0,draw,False,Giuseppe Iachini,132.0
@@ -14626,6 +14788,7 @@ Serie A,Italy,2018-04-14,Torino,0.0,draw,False,Walter Mazzarri,100.0
 Serie A,Italy,2018-04-15,Napoli,0.0,draw,False,Maurizio Sarri,1039.0
 Serie A,Italy,2018-04-15,Hellas Verona,0.0,loss,False,Fabio Pecchia,653.0
 Serie A,Italy,2018-04-15,Roma,0.0,draw,False,Eusebio Di Francesco,306.0
+Serie A,Italy,2018-04-18,Chievo,0.0,draw,False,Rolando Maran,1277.0
 Serie A,Italy,2018-04-18,Bologna,0.0,loss,False,Roberto Donadoni,903.0
 Serie A,Italy,2018-04-18,Juventus,1.0,draw,False,Massimiliano Allegri,1372.0
 Serie A,Italy,2018-04-18,Genoa,1.0,loss,False,Davide Ballardini,163.0
@@ -14640,6 +14803,7 @@ Serie A,Italy,2018-04-22,Bologna,0.0,draw,False,Roberto Donadoni,907.0
 Serie A,Italy,2018-04-22,Torino,1.0,loss,False,Walter Mazzarri,108.0
 Serie A,Italy,2018-04-22,Napoli,1.0,win,False,Maurizio Sarri,1046.0
 Serie A,Italy,2018-04-23,Hellas Verona,1.0,loss,False,Fabio Pecchia,661.0
+Serie A,Italy,2018-04-28,Chievo,1.0,loss,False,Rolando Maran,1287.0
 Serie A,Italy,2018-04-28,Juventus,3.0,win,False,Massimiliano Allegri,1382.0
 Serie A,Italy,2018-04-29,Sassuolo,1.0,loss,False,Giuseppe Iachini,153.0
 Serie A,Italy,2018-04-29,Genoa,1.0,loss,False,Davide Ballardini,174.0
@@ -14654,6 +14818,7 @@ Serie A,Italy,2018-05-06,Fiorentina,3.0,win,False,Stefano Pioli,309.0
 Serie A,Italy,2018-05-06,Roma,1.0,win,False,Eusebio Di Francesco,327.0
 Serie A,Italy,2018-05-12,Genoa,0.0,loss,False,Davide Ballardini,187.0
 Serie A,Italy,2018-05-12,Sassuolo,2.0,win,False,Giuseppe Iachini,166.0
+Serie A,Italy,2018-05-13,Chievo,2.0,win,False,Lorenzo D'Anna,14.0
 Serie A,Italy,2018-05-13,Lazio,2.0,draw,False,Simone Inzaghi,674.0
 Serie A,Italy,2018-05-13,Milan,1.0,draw,False,Gennaro Gattuso,166.0
 Serie A,Italy,2018-05-13,Milan,1.0,draw,False,Luciano Spalletti,338.0
@@ -14674,11 +14839,13 @@ Serie A,Italy,2017-09-20,Torino,3.0,win,False,Siniša Mihajlović,483.0
 Serie A,Italy,2017-09-20,Napoli,4.0,win,False,Maurizio Sarri,832.0
 Serie A,Italy,2017-09-20,Fiorentina,0.0,loss,False,Stefano Pioli,81.0
 Serie A,Italy,2017-09-20,Sassuolo,1.0,win,False,Cristian Bucchi,92.0
+Serie A,Italy,2017-09-20,Chievo,1.0,draw,False,Rolando Maran,1067.0
 Serie A,Italy,2017-09-23,Udinese,1.0,loss,False,Luigi Delneri,355.0
 Serie A,Italy,2017-09-23,Napoli,3.0,win,False,Maurizio Sarri,835.0
 Serie A,Italy,2017-09-23,Torino,0.0,loss,False,Siniša Mihajlović,486.0
 Serie A,Italy,2017-09-24,Milan,0.0,loss,False,Luciano Spalletti,107.0
 Serie A,Italy,2017-09-24,Milan,0.0,loss,False,Vincenzo Montella,452.0
+Serie A,Italy,2017-09-24,Chievo,2.0,win,False,Rolando Maran,1071.0
 Serie A,Italy,2017-09-24,Lazio,3.0,win,False,Simone Inzaghi,443.0
 Serie A,Italy,2017-09-24,Genoa,0.0,loss,False,Ivan Juric,167.0
 Serie A,Italy,2017-09-24,Bologna,1.0,win,False,Roberto Donadoni,697.0
@@ -14691,6 +14858,7 @@ Serie A,Italy,2017-10-01,Juventus,2.0,draw,False,Massimiliano Allegri,1173.0
 Serie A,Italy,2017-10-14,Lazio,2.0,win,False,Simone Inzaghi,463.0
 Serie A,Italy,2017-10-14,Napoli,1.0,win,False,Maurizio Sarri,856.0
 Serie A,Italy,2017-10-15,Udinese,1.0,loss,False,Luigi Delneri,377.0
+Serie A,Italy,2017-10-15,Chievo,0.0,draw,False,Rolando Maran,1092.0
 Serie A,Italy,2017-10-15,Genoa,3.0,win,False,Ivan Juric,188.0
 Serie A,Italy,2017-10-15,Torino,2.0,draw,False,Siniša Mihajlović,508.0
 Serie A,Italy,2017-10-15,Milan,2.0,loss,False,Luciano Spalletti,128.0
@@ -14733,6 +14901,7 @@ Serie A,Italy,2018-11-24,Roma,0.0,loss,False,Eusebio Di Francesco,529.0
 Serie A,Italy,2018-11-24,Frosinone,0.0,loss,False,Moreno Longo,528.0
 Serie A,Italy,2018-11-25,Sassuolo,1.0,loss,False,Roberto De Zerbi,147.0
 Serie A,Italy,2018-11-25,Fiorentina,0.0,draw,False,Stefano Pioli,512.0
+Serie A,Italy,2018-11-25,Chievo,0.0,draw,False,Domenico Di Carlo,12.0
 Serie A,Italy,2018-11-25,Milan,1.0,draw,False,Gennaro Gattuso,362.0
 Serie A,Italy,2018-11-25,Milan,1.0,draw,False,Luciano Spalletti,534.0
 Serie A,Italy,2018-11-26,Torino,0.0,draw,False,Walter Mazzarri,326.0
@@ -14746,10 +14915,12 @@ Serie A,Italy,2018-12-03,Napoli,2.0,win,False,Carlo Ancelotti,155.0
 Serie A,Italy,2018-12-08,Frosinone,0.0,loss,False,Moreno Longo,542.0
 Serie A,Italy,2018-12-08,Roma,2.0,draw,False,Eusebio Di Francesco,543.0
 Serie A,Italy,2018-12-09,Fiorentina,3.0,draw,False,Stefano Pioli,526.0
+Serie A,Italy,2018-12-09,Chievo,1.0,draw,False,Domenico Di Carlo,26.0
 Serie A,Italy,2018-12-09,Bologna,1.0,loss,False,Filippo Inzaghi,161.0
 Serie A,Italy,2018-12-09,Torino,0.0,draw,False,Walter Mazzarri,339.0
 Serie A,Italy,2018-12-15,Udinese,0.0,loss,False,Davide Nicola,32.0
 Serie A,Italy,2018-12-15,Juventus,1.0,win,False,Massimiliano Allegri,1613.0
+Serie A,Italy,2018-12-16,Chievo,0.0,draw,False,Domenico Di Carlo,33.0
 Serie A,Italy,2018-12-16,Sassuolo,2.0,win,False,Roberto De Zerbi,168.0
 Serie A,Italy,2018-12-16,Empoli,1.0,loss,False,Giuseppe Iachini,40.0
 Serie A,Italy,2018-12-16,Napoli,1.0,win,False,Carlo Ancelotti,168.0
@@ -14765,6 +14936,7 @@ Serie A,Italy,2018-12-22,Roma,0.0,loss,False,Eusebio Di Francesco,557.0
 Serie A,Italy,2018-12-26,Milan,0.0,draw,False,Gennaro Gattuso,393.0
 Serie A,Italy,2018-12-26,Milan,0.0,draw,False,Luciano Spalletti,565.0
 Serie A,Italy,2018-12-26,Juventus,2.0,draw,False,Massimiliano Allegri,1624.0
+Serie A,Italy,2018-12-26,Chievo,0.0,loss,False,Domenico Di Carlo,43.0
 Serie A,Italy,2018-12-26,Genoa,0.0,loss,False,Cesare Prandelli,19.0
 Serie A,Italy,2018-12-26,Lazio,2.0,win,False,Simone Inzaghi,901.0
 Serie A,Italy,2018-12-26,Udinese,0.0,draw,False,Davide Nicola,43.0
@@ -14783,6 +14955,7 @@ Serie A,Italy,2018-08-26,Sassuolo,2.0,draw,False,Roberto De Zerbi,56.0
 Serie A,Italy,2018-08-26,Empoli,1.0,loss,False,Aurelio Andreazzoli,252.0
 Serie A,Italy,2018-08-26,Torino,2.0,draw,False,Walter Mazzarri,234.0
 Serie A,Italy,2018-08-26,Bologna,0.0,draw,False,Filippo Inzaghi,56.0
+Serie A,Italy,2018-08-26,Chievo,1.0,loss,False,Lorenzo D'Anna,119.0
 Serie A,Italy,2019-01-19,Torino,2.0,loss,False,Walter Mazzarri,380.0
 Serie A,Italy,2019-01-19,Sassuolo,0.0,draw,False,Roberto De Zerbi,202.0
 Serie A,Italy,2019-01-20,Bologna,1.0,draw,False,Filippo Inzaghi,203.0
@@ -14790,6 +14963,7 @@ Serie A,Italy,2019-01-20,Empoli,2.0,draw,False,Giuseppe Iachini,75.0
 Serie A,Italy,2019-01-20,Lazio,1.0,loss,False,Simone Inzaghi,926.0
 Serie A,Italy,2019-01-21,Milan,2.0,win,False,Gennaro Gattuso,419.0
 Serie A,Italy,2019-01-21,Milan,2.0,win,False,Luciano Spalletti,591.0
+Serie A,Italy,2019-01-21,Chievo,0.0,loss,False,Domenico Di Carlo,69.0
 Serie A,Italy,2019-01-26,Udinese,0.0,loss,False,Davide Nicola,74.0
 Serie A,Italy,2019-01-26,Napoli,0.0,draw,False,Carlo Ancelotti,209.0
 Serie A,Italy,2019-01-27,Fiorentina,4.0,win,False,Stefano Pioli,575.0
@@ -14797,6 +14971,7 @@ Serie A,Italy,2019-01-27,Roma,3.0,draw,False,Eusebio Di Francesco,593.0
 Serie A,Italy,2019-01-27,Frosinone,4.0,win,False,Marco Baroni,39.0
 Serie A,Italy,2019-01-27,Juventus,2.0,win,False,Massimiliano Allegri,1656.0
 Serie A,Italy,2019-01-28,Genoa,3.0,win,False,Cesare Prandelli,52.0
+Serie A,Italy,2019-02-02,Chievo,2.0,draw,False,Domenico Di Carlo,81.0
 Serie A,Italy,2019-02-03,Torino,0.0,draw,False,Walter Mazzarri,395.0
 Serie A,Italy,2019-02-03,Sassuolo,1.0,draw,False,Roberto De Zerbi,217.0
 Serie A,Italy,2019-02-03,Fiorentina,1.0,draw,False,Stefano Pioli,582.0
@@ -14817,6 +14992,7 @@ Serie A,Italy,2019-02-16,Milan,3.0,win,False,Luciano Spalletti,617.0
 Serie A,Italy,2019-02-17,Fiorentina,4.0,win,False,Stefano Pioli,596.0
 Serie A,Italy,2019-02-17,Sassuolo,0.0,loss,False,Roberto De Zerbi,231.0
 Serie A,Italy,2019-02-17,Lazio,1.0,loss,False,Simone Inzaghi,954.0
+Serie A,Italy,2019-02-17,Chievo,0.0,loss,False,Domenico Di Carlo,96.0
 Serie A,Italy,2019-02-17,Torino,0.0,draw,False,Walter Mazzarri,409.0
 Serie A,Italy,2019-02-18,Bologna,1.0,loss,False,Siniša Mihajlović,21.0
 Serie A,Italy,2019-02-22,Empoli,0.0,loss,False,Giuseppe Iachini,108.0
@@ -14827,6 +15003,7 @@ Serie A,Italy,2019-02-24,Napoli,4.0,win,False,Carlo Ancelotti,238.0
 Serie A,Italy,2019-04-17,Udinese,0.0,loss,False,Igor Tudor,28.0
 Serie A,Italy,2019-03-02,Sassuolo,0.0,loss,False,Roberto De Zerbi,244.0
 Serie A,Italy,2019-03-02,Roma,0.0,loss,False,Eusebio Di Francesco,627.0
+Serie A,Italy,2019-03-03,Chievo,0.0,loss,False,Domenico Di Carlo,110.0
 Serie A,Italy,2019-03-03,Frosinone,0.0,draw,False,Marco Baroni,74.0
 Serie A,Italy,2019-03-03,Bologna,1.0,loss,False,Siniša Mihajlović,34.0
 Serie A,Italy,2019-03-03,Fiorentina,1.0,loss,False,Stefano Pioli,610.0
@@ -14844,6 +15021,7 @@ Serie A,Italy,2019-03-16,Roma,1.0,loss,False,Claudio Ranieri,8.0
 Serie A,Italy,2019-03-16,Bologna,3.0,win,False,Siniša Mihajlović,47.0
 Serie A,Italy,2019-03-17,Juventus,0.0,loss,False,Massimiliano Allegri,1705.0
 Serie A,Italy,2019-03-17,Frosinone,1.0,loss,False,Marco Baroni,88.0
+Serie A,Italy,2019-03-17,Chievo,1.0,draw,False,Domenico Di Carlo,124.0
 Serie A,Italy,2019-03-17,Udinese,2.0,loss,False,Davide Nicola,124.0
 Serie A,Italy,2019-03-30,Genoa,0.0,loss,False,Cesare Prandelli,113.0
 Serie A,Italy,2019-03-30,Empoli,0.0,loss,False,Aurelio Andreazzoli,17.0
@@ -14865,6 +15043,7 @@ Serie A,Italy,2019-04-02,Juventus,2.0,win,False,Massimiliano Allegri,1721.0
 Serie A,Italy,2019-04-03,Napoli,1.0,loss,False,Carlo Ancelotti,276.0
 Serie A,Italy,2019-04-03,Lazio,0.0,loss,False,Simone Inzaghi,999.0
 Serie A,Italy,2019-04-03,Fiorentina,2.0,draw,False,Stefano Pioli,641.0
+Serie A,Italy,2019-04-04,Chievo,0.0,loss,False,Domenico Di Carlo,142.0
 Serie A,Italy,2019-04-04,Bologna,1.0,loss,False,Siniša Mihajlović,66.0
 Serie A,Italy,2019-04-06,Torino,0.0,draw,False,Walter Mazzarri,457.0
 Serie A,Italy,2019-04-06,Milan,1.0,loss,False,Gennaro Gattuso,494.0
@@ -14874,6 +15053,7 @@ Serie A,Italy,2019-04-07,Frosinone,1.0,win,False,Marco Baroni,109.0
 Serie A,Italy,2019-04-07,Empoli,2.0,loss,False,Aurelio Andreazzoli,25.0
 Serie A,Italy,2019-04-07,Sassuolo,2.0,draw,False,Roberto De Zerbi,280.0
 Serie A,Italy,2019-04-07,Genoa,1.0,draw,False,Cesare Prandelli,121.0
+Serie A,Italy,2019-04-08,Chievo,0.0,loss,False,Domenico Di Carlo,146.0
 Serie A,Italy,2019-04-13,Juventus,1.0,loss,False,Massimiliano Allegri,1732.0
 Serie A,Italy,2019-04-13,Udinese,0.0,loss,False,Igor Tudor,24.0
 Serie A,Italy,2019-04-13,Lazio,0.0,loss,False,Simone Inzaghi,1009.0
@@ -14884,6 +15064,7 @@ Serie A,Italy,2019-04-15,Empoli,0.0,draw,False,Aurelio Andreazzoli,33.0
 Serie A,Italy,2019-04-20,Milan,1.0,draw,False,Gennaro Gattuso,508.0
 Serie A,Italy,2019-04-20,Milan,1.0,draw,False,Luciano Spalletti,680.0
 Serie A,Italy,2019-04-20,Frosinone,0.0,loss,False,Marco Baroni,122.0
+Serie A,Italy,2019-04-20,Chievo,2.0,win,False,Domenico Di Carlo,158.0
 Serie A,Italy,2019-04-20,Torino,1.0,win,False,Walter Mazzarri,471.0
 Serie A,Italy,2019-04-20,Sassuolo,1.0,draw,False,Roberto De Zerbi,293.0
 Serie A,Italy,2019-04-20,Fiorentina,1.0,loss,False,Vincenzo Montella,10.0
@@ -14911,11 +15092,13 @@ Serie A,Italy,2019-05-12,Udinese,3.0,win,False,Igor Tudor,53.0
 Serie A,Italy,2019-05-12,Empoli,2.0,win,False,Aurelio Andreazzoli,60.0
 Serie A,Italy,2019-05-12,Napoli,2.0,win,False,Carlo Ancelotti,315.0
 Serie A,Italy,2019-05-12,Juventus,0.0,loss,False,Massimiliano Allegri,1761.0
+Serie A,Italy,2019-05-13,Chievo,0.0,loss,False,Domenico Di Carlo,181.0
 Serie A,Italy,2019-05-18,Roma,0.0,draw,False,Claudio Ranieri,71.0
 Serie A,Italy,2019-05-19,Fiorentina,0.0,loss,False,Vincenzo Montella,39.0
 Serie A,Italy,2019-05-19,Torino,1.0,loss,False,Walter Mazzarri,500.0
 Serie A,Italy,2019-05-19,Frosinone,0.0,loss,False,Marco Baroni,151.0
 Serie A,Italy,2019-05-20,Bologna,3.0,draw,False,Siniša Mihajlović,112.0
+Serie A,Italy,2019-05-25,Chievo,0.0,draw,False,Domenico Di Carlo,193.0
 Serie A,Italy,2019-05-25,Napoli,2.0,loss,False,Carlo Ancelotti,328.0
 Serie A,Italy,2019-05-26,Lazio,1.0,loss,False,Simone Inzaghi,1052.0
 Serie A,Italy,2019-05-26,Juventus,0.0,loss,False,Massimiliano Allegri,1775.0
@@ -14926,6 +15109,7 @@ Serie A,Italy,2019-05-26,Empoli,1.0,loss,False,Aurelio Andreazzoli,74.0
 Serie A,Italy,2019-05-26,Udinese,2.0,win,False,Igor Tudor,67.0
 Serie A,Italy,2019-05-26,Genoa,0.0,draw,False,Cesare Prandelli,170.0
 Serie A,Italy,2018-09-15,Fiorentina,0.0,loss,False,Stefano Pioli,441.0
+Serie A,Italy,2018-09-16,Chievo,2.0,draw,False,Lorenzo D'Anna,140.0
 Serie A,Italy,2018-09-16,Torino,1.0,draw,False,Walter Mazzarri,255.0
 Serie A,Italy,2018-09-16,Sassuolo,1.0,loss,False,Roberto De Zerbi,77.0
 Serie A,Italy,2018-09-16,Bologna,0.0,loss,False,Filippo Inzaghi,77.0
@@ -14940,6 +15124,7 @@ Serie A,Italy,2018-09-23,Udinese,2.0,win,False,Julio Velázquez,84.0
 Serie A,Italy,2018-09-23,Juventus,2.0,win,False,Massimiliano Allegri,1530.0
 Serie A,Italy,2018-09-25,Fiorentina,1.0,loss,False,Stefano Pioli,451.0
 Serie A,Italy,2018-09-26,Lazio,2.0,win,False,Simone Inzaghi,810.0
+Serie A,Italy,2018-09-26,Chievo,0.0,loss,False,Lorenzo D'Anna,150.0
 Serie A,Italy,2018-09-26,Frosinone,0.0,loss,False,Moreno Longo,469.0
 Serie A,Italy,2018-09-26,Bologna,0.0,loss,False,Filippo Inzaghi,87.0
 Serie A,Italy,2018-09-26,Torino,0.0,draw,False,Walter Mazzarri,265.0
@@ -14958,6 +15143,7 @@ Serie A,Italy,2018-10-05,Frosinone,2.0,loss,False,Moreno Longo,478.0
 Serie A,Italy,2018-10-06,Bologna,0.0,loss,False,Filippo Inzaghi,97.0
 Serie A,Italy,2018-10-06,Juventus,2.0,win,False,Massimiliano Allegri,1543.0
 Serie A,Italy,2018-10-06,Roma,2.0,win,False,Eusebio Di Francesco,480.0
+Serie A,Italy,2018-10-07,Chievo,1.0,loss,False,Lorenzo D'Anna,161.0
 Serie A,Italy,2018-10-07,Fiorentina,0.0,loss,False,Stefano Pioli,463.0
 Serie A,Italy,2018-10-07,Sassuolo,0.0,loss,False,Roberto De Zerbi,98.0
 Serie A,Italy,2018-10-20,Genoa,1.0,draw,False,Ivan Juric,11.0
@@ -21098,21 +21284,17 @@ Bundesliga,Germany,2022-10-02,Schalke 04,2.0,loss,True,,
 Bundesliga,Germany,2022-10-08,Bochum,3.0,win,True,,
 Bundesliga,Germany,2022-10-09,Hertha BSC,2.0,draw,True,,
 Bundesliga,Germany,2023-06-05,Hamburger SV,1.0,loss,True,,
-Serie A,Italy,2014-08-30,Chievo,0.0,loss,True,,
 Serie A,Italy,2014-08-31,Palermo,1.0,draw,True,,
 Serie A,Italy,2014-08-31,Cesena,1.0,win,True,,
 Serie A,Italy,2014-11-01,Parma,2.0,win,True,,
 Serie A,Italy,2014-11-02,Sampdoria,3.0,win,True,,
-Serie A,Italy,2014-11-02,Chievo,0.0,draw,True,,
 Serie A,Italy,2014-11-03,Cesena,1.0,draw,True,,
 Serie A,Italy,2014-11-08,Sampdoria,2.0,draw,True,,
 Serie A,Italy,2014-11-09,Cagliari,1.0,draw,True,,
-Serie A,Italy,2014-11-09,Chievo,2.0,win,True,,
 Serie A,Italy,2014-11-09,Palermo,1.0,draw,True,,
 Serie A,Italy,2014-11-09,Inter,2.0,draw,True,,
 Serie A,Italy,2014-11-23,Parma,0.0,loss,True,,
 Serie A,Italy,2014-11-23,Cesena,1.0,draw,True,,
-Serie A,Italy,2014-11-29,Chievo,0.0,draw,True,,
 Serie A,Italy,2014-11-30,Palermo,2.0,win,True,,
 Serie A,Italy,2014-11-30,Cagliari,0.0,loss,True,,
 Serie A,Italy,2014-11-30,Cesena,0.0,loss,True,,
@@ -21123,11 +21305,9 @@ Serie A,Italy,2014-12-08,Cagliari,0.0,loss,True,,
 Serie A,Italy,2014-12-13,Palermo,2.0,win,True,,
 Serie A,Italy,2014-12-14,Parma,0.0,draw,True,,
 Serie A,Italy,2014-12-14,Cesena,1.0,loss,True,,
-Serie A,Italy,2014-12-15,Chievo,0.0,loss,True,,
 Serie A,Italy,2014-12-18,Cagliari,1.0,loss,True,,
 Serie A,Italy,2014-12-21,Sampdoria,2.0,draw,True,,
 Serie A,Italy,2014-12-21,Inter,2.0,draw,True,,
-Serie A,Italy,2015-01-06,Chievo,0.0,draw,True,,
 Serie A,Italy,2015-01-06,Parma,1.0,win,True,,
 Serie A,Italy,2015-01-06,Palermo,5.0,win,True,,
 Serie A,Italy,2015-01-06,Cesena,1.0,loss,True,,
@@ -21135,7 +21315,6 @@ Serie A,Italy,2015-01-11,Inter,3.0,win,True,,
 Serie A,Italy,2015-01-11,Cagliari,2.0,win,True,,
 Serie A,Italy,2015-01-11,Sampdoria,1.0,win,True,,
 Serie A,Italy,2015-01-17,Palermo,1.0,draw,True,,
-Serie A,Italy,2015-01-18,Chievo,1.0,loss,True,,
 Serie A,Italy,2015-01-18,Cesena,2.0,loss,True,,
 Serie A,Italy,2015-01-18,Parma,0.0,loss,True,,
 Serie A,Italy,2014-09-14,Sampdoria,2.0,win,True,,
@@ -21146,7 +21325,6 @@ Serie A,Italy,2015-01-24,Cagliari,2.0,win,True,,
 Serie A,Italy,2015-01-25,Inter,0.0,loss,True,,
 Serie A,Italy,2015-01-25,Sampdoria,1.0,draw,True,,
 Serie A,Italy,2015-01-25,Parma,1.0,loss,True,,
-Serie A,Italy,2015-02-01,Chievo,1.0,loss,True,,
 Serie A,Italy,2015-02-01,Cesena,2.0,win,True,,
 Serie A,Italy,2015-02-01,Palermo,2.0,win,True,,
 Serie A,Italy,2015-02-08,Cagliari,1.0,loss,True,,
@@ -21154,24 +21332,20 @@ Serie A,Italy,2015-02-08,Sampdoria,1.0,draw,True,,
 Serie A,Italy,2015-02-08,Inter,3.0,win,True,,
 Serie A,Italy,2015-02-11,Parma,0.0,loss,True,,
 Serie A,Italy,2015-02-14,Palermo,3.0,win,True,,
-Serie A,Italy,2015-02-15,Chievo,2.0,win,True,,
 Serie A,Italy,2015-02-15,Cesena,2.0,draw,True,,
 Serie A,Italy,2015-02-23,Cagliari,1.0,loss,True,,
 Serie A,Italy,2015-02-24,Sampdoria,1.0,draw,True,,
 Serie A,Italy,2015-04-08,Parma,1.0,win,True,,
-Serie A,Italy,2015-02-28,Chievo,0.0,draw,True,,
 Serie A,Italy,2015-03-01,Cagliari,1.0,loss,True,,
 Serie A,Italy,2015-03-01,Cesena,1.0,win,True,,
 Serie A,Italy,2015-03-01,Palermo,0.0,draw,True,,
 Serie A,Italy,2015-03-01,Inter,0.0,loss,True,,
 Serie A,Italy,2015-03-07,Sampdoria,2.0,win,True,,
 Serie A,Italy,2015-03-08,Cesena,0.0,draw,True,,
-Serie A,Italy,2015-03-08,Chievo,0.0,draw,True,,
 Serie A,Italy,2015-03-08,Parma,0.0,draw,True,,
 Serie A,Italy,2015-03-14,Palermo,0.0,loss,True,,
 Serie A,Italy,2015-03-14,Cagliari,1.0,draw,True,,
 Serie A,Italy,2015-03-15,Inter,1.0,draw,True,,
-Serie A,Italy,2015-03-21,Chievo,1.0,win,True,,
 Serie A,Italy,2015-03-22,Sampdoria,1.0,win,True,,
 Serie A,Italy,2015-03-22,Cesena,0.0,loss,True,,
 Serie A,Italy,2015-03-22,Parma,0.0,loss,True,,
@@ -21179,25 +21353,21 @@ Serie A,Italy,2015-04-04,Inter,1.0,draw,True,,
 Serie A,Italy,2015-04-04,Palermo,1.0,loss,True,,
 Serie A,Italy,2015-04-04,Cagliari,1.0,loss,True,,
 Serie A,Italy,2014-09-20,Cesena,2.0,draw,True,,
-Serie A,Italy,2014-09-21,Chievo,2.0,loss,True,,
 Serie A,Italy,2014-09-21,Palermo,1.0,draw,True,,
 Serie A,Italy,2015-04-11,Parma,1.0,win,True,,
 Serie A,Italy,2015-04-12,Cesena,0.0,loss,True,,
 Serie A,Italy,2015-04-18,Sampdoria,0.0,draw,True,,
 Serie A,Italy,2015-04-19,Palermo,2.0,win,True,,
-Serie A,Italy,2015-04-19,Chievo,1.0,draw,True,,
 Serie A,Italy,2015-04-19,Cagliari,0.0,loss,True,,
 Serie A,Italy,2015-04-19,Inter,0.0,draw,True,,
 Serie A,Italy,2015-04-25,Inter,2.0,win,True,,
 Serie A,Italy,2015-04-26,Parma,1.0,win,True,,
-Serie A,Italy,2015-04-29,Chievo,1.0,win,True,,
 Serie A,Italy,2015-04-29,Palermo,2.0,draw,True,,
 Serie A,Italy,2015-04-29,Cesena,2.0,draw,True,,
 Serie A,Italy,2015-04-29,Sampdoria,1.0,draw,True,,
 Serie A,Italy,2015-05-02,Sampdoria,0.0,loss,True,,
 Serie A,Italy,2015-05-03,Inter,0.0,draw,True,,
 Serie A,Italy,2015-05-04,Cagliari,4.0,win,True,,
-Serie A,Italy,2015-05-10,Chievo,2.0,draw,True,,
 Serie A,Italy,2015-05-10,Palermo,2.0,loss,True,,
 Serie A,Italy,2015-05-10,Cesena,2.0,loss,True,,
 Serie A,Italy,2015-05-10,Parma,2.0,draw,True,,
@@ -21207,7 +21377,6 @@ Serie A,Italy,2015-05-17,Cagliari,0.0,loss,True,,
 Serie A,Italy,2015-05-24,Cesena,0.0,loss,True,,
 Serie A,Italy,2015-05-24,Palermo,2.0,loss,True,,
 Serie A,Italy,2015-05-24,Parma,2.0,draw,True,,
-Serie A,Italy,2015-05-24,Chievo,1.0,draw,True,,
 Serie A,Italy,2015-05-31,Cagliari,4.0,win,True,,
 Serie A,Italy,2015-05-31,Sampdoria,2.0,draw,True,,
 Serie A,Italy,2015-05-31,Inter,4.0,win,True,,
@@ -21215,7 +21384,6 @@ Serie A,Italy,2014-09-24,Cagliari,1.0,loss,True,,
 Serie A,Italy,2014-09-24,Parma,1.0,loss,True,,
 Serie A,Italy,2014-09-24,Inter,2.0,win,True,,
 Serie A,Italy,2014-09-24,Sampdoria,2.0,win,True,,
-Serie A,Italy,2014-09-28,Chievo,1.0,draw,True,,
 Serie A,Italy,2014-09-28,Inter,1.0,loss,True,,
 Serie A,Italy,2014-09-28,Cesena,1.0,draw,True,,
 Serie A,Italy,2014-09-29,Palermo,0.0,loss,True,,
@@ -21226,7 +21394,6 @@ Serie A,Italy,2014-10-19,Palermo,2.0,win,True,,
 Serie A,Italy,2014-10-19,Inter,2.0,draw,True,,
 Serie A,Italy,2014-10-25,Parma,1.0,loss,True,,
 Serie A,Italy,2014-10-25,Sampdoria,0.0,draw,True,,
-Serie A,Italy,2014-10-26,Chievo,1.0,loss,True,,
 Serie A,Italy,2014-10-26,Cesena,0.0,loss,True,,
 Serie A,Italy,2014-10-29,Inter,1.0,win,True,,
 Serie A,Italy,2014-10-29,Palermo,1.0,win,True,,
@@ -21237,51 +21404,41 @@ Serie A,Italy,2015-08-23,Palermo,1.0,win,True,,
 Serie A,Italy,2015-10-29,Sampdoria,1.0,draw,True,,
 Serie A,Italy,2015-10-31,Inter,1.0,win,True,,
 Serie A,Italy,2015-11-01,Carpi,0.0,draw,True,,
-Serie A,Italy,2015-11-02,Chievo,1.0,draw,True,,
 Serie A,Italy,2015-11-02,Palermo,0.0,loss,True,,
 Serie A,Italy,2015-11-08,Palermo,1.0,win,True,,
 Serie A,Italy,2015-11-08,Sampdoria,0.0,loss,True,,
 Serie A,Italy,2015-11-22,Carpi,1.0,loss,True,,
 Serie A,Italy,2015-11-22,Inter,4.0,win,True,,
-Serie A,Italy,2015-11-29,Chievo,2.0,loss,True,,
 Serie A,Italy,2015-11-29,Palermo,0.0,loss,True,,
 Serie A,Italy,2015-12-05,Inter,1.0,win,True,,
 Serie A,Italy,2015-12-06,Sampdoria,1.0,loss,True,,
 Serie A,Italy,2015-12-06,Carpi,0.0,draw,True,,
 Serie A,Italy,2015-12-12,Palermo,4.0,win,True,,
-Serie A,Italy,2015-12-13,Chievo,1.0,win,True,,
 Serie A,Italy,2015-12-20,Carpi,2.0,loss,True,,
 Serie A,Italy,2015-12-20,Sampdoria,2.0,win,True,,
 Serie A,Italy,2015-12-20,Inter,1.0,loss,True,,
-Serie A,Italy,2016-01-06,Chievo,3.0,draw,True,,
 Serie A,Italy,2016-01-06,Palermo,1.0,loss,True,,
 Serie A,Italy,2016-01-09,Carpi,2.0,win,True,,
 Serie A,Italy,2016-01-10,Inter,0.0,loss,True,,
 Serie A,Italy,2016-01-10,Sampdoria,1.0,loss,True,,
-Serie A,Italy,2015-08-30,Chievo,4.0,win,True,,
 Serie A,Italy,2015-08-30,Carpi,1.0,loss,True,,
-Serie A,Italy,2016-01-17,Chievo,1.0,draw,True,,
 Serie A,Italy,2016-01-17,Carpi,2.0,win,True,,
 Serie A,Italy,2016-01-24,Inter,1.0,draw,True,,
 Serie A,Italy,2016-01-24,Palermo,4.0,win,True,,
 Serie A,Italy,2016-01-24,Sampdoria,2.0,loss,True,,
 Serie A,Italy,2016-01-30,Carpi,1.0,draw,True,,
-Serie A,Italy,2016-01-31,Chievo,0.0,loss,True,,
 Serie A,Italy,2016-02-03,Palermo,0.0,loss,True,,
 Serie A,Italy,2016-02-03,Inter,1.0,win,True,,
 Serie A,Italy,2016-02-03,Sampdoria,2.0,draw,True,,
 Serie A,Italy,2016-02-12,Carpi,1.0,loss,True,,
-Serie A,Italy,2016-02-13,Chievo,1.0,draw,True,,
 Serie A,Italy,2016-02-14,Sampdoria,0.0,draw,True,,
 Serie A,Italy,2016-02-14,Palermo,1.0,loss,True,,
 Serie A,Italy,2016-02-20,Inter,3.0,win,True,,
 Serie A,Italy,2016-02-28,Palermo,0.0,draw,True,,
 Serie A,Italy,2016-02-28,Carpi,1.0,draw,True,,
-Serie A,Italy,2016-02-28,Chievo,1.0,win,True,,
 Serie A,Italy,2016-02-28,Sampdoria,2.0,win,True,,
 Serie A,Italy,2016-03-06,Inter,3.0,win,True,,
 Serie A,Italy,2016-03-12,Inter,2.0,win,True,,
-Serie A,Italy,2016-03-13,Chievo,0.0,draw,True,,
 Serie A,Italy,2016-03-13,Carpi,2.0,win,True,,
 Serie A,Italy,2016-03-13,Palermo,0.0,loss,True,,
 Serie A,Italy,2015-09-13,Palermo,2.0,draw,True,,
@@ -21289,58 +21446,45 @@ Serie A,Italy,2015-09-13,Inter,1.0,win,True,,
 Serie A,Italy,2015-09-14,Sampdoria,2.0,win,True,,
 Serie A,Italy,2016-03-20,Sampdoria,0.0,loss,True,,
 Serie A,Italy,2016-04-02,Carpi,1.0,loss,True,,
-Serie A,Italy,2016-04-03,Chievo,3.0,win,True,,
 Serie A,Italy,2016-04-03,Inter,1.0,loss,True,,
-Serie A,Italy,2016-04-09,Chievo,1.0,win,True,,
 Serie A,Italy,2016-04-10,Sampdoria,2.0,win,True,,
 Serie A,Italy,2016-04-10,Palermo,0.0,loss,True,,
 Serie A,Italy,2016-04-16,Carpi,4.0,win,True,,
 Serie A,Italy,2016-04-16,Inter,2.0,win,True,,
 Serie A,Italy,2016-04-17,Sampdoria,0.0,loss,True,,
 Serie A,Italy,2016-04-20,Palermo,2.0,draw,True,,
-Serie A,Italy,2016-04-20,Chievo,5.0,win,True,,
 Serie A,Italy,2016-04-23,Inter,3.0,win,True,,
 Serie A,Italy,2016-04-24,Sampdoria,2.0,win,True,,
 Serie A,Italy,2016-04-25,Carpi,1.0,win,True,,
-Serie A,Italy,2016-04-30,Chievo,0.0,draw,True,,
 Serie A,Italy,2016-05-01,Palermo,2.0,win,True,,
 Serie A,Italy,2016-05-07,Inter,2.0,win,True,,
 Serie A,Italy,2016-05-08,Carpi,1.0,loss,True,,
 Serie A,Italy,2016-05-08,Sampdoria,0.0,loss,True,,
-Serie A,Italy,2016-05-15,Chievo,0.0,draw,True,,
 Serie A,Italy,2016-05-15,Palermo,3.0,win,True,,
-Serie A,Italy,2015-09-20,Chievo,0.0,loss,True,,
 Serie A,Italy,2015-09-20,Carpi,0.0,loss,True,,
 Serie A,Italy,2015-09-23,Sampdoria,2.0,win,True,,
 Serie A,Italy,2015-09-23,Inter,1.0,win,True,,
 Serie A,Italy,2015-09-23,Carpi,0.0,draw,True,,
-Serie A,Italy,2015-09-23,Chievo,1.0,win,True,,
 Serie A,Italy,2015-09-23,Palermo,0.0,loss,True,,
 Serie A,Italy,2015-09-27,Inter,1.0,loss,True,,
 Serie A,Italy,2015-10-03,Carpi,2.0,win,True,,
-Serie A,Italy,2015-10-03,Chievo,1.0,draw,True,,
 Serie A,Italy,2015-10-04,Sampdoria,1.0,draw,True,,
 Serie A,Italy,2015-10-04,Palermo,2.0,loss,True,,
 Serie A,Italy,2015-10-18,Inter,0.0,draw,True,,
 Serie A,Italy,2015-10-24,Carpi,1.0,loss,True,,
 Serie A,Italy,2015-10-24,Palermo,1.0,draw,True,,
 Serie A,Italy,2015-10-25,Sampdoria,4.0,win,True,,
-Serie A,Italy,2015-10-25,Chievo,0.0,loss,True,,
 Serie A,Italy,2016-08-21,Palermo,0.0,loss,True,,
 Serie A,Italy,2016-08-21,Pescara,2.0,draw,True,,
-Serie A,Italy,2016-08-21,Chievo,2.0,win,True,,
 Serie A,Italy,2016-10-26,Pescara,0.0,loss,True,,
-Serie A,Italy,2016-10-26,Chievo,1.0,draw,True,,
 Serie A,Italy,2016-10-26,Inter,2.0,win,True,,
 Serie A,Italy,2016-10-27,Palermo,1.0,loss,True,,
 Serie A,Italy,2016-10-30,Crotone,2.0,win,True,,
 Serie A,Italy,2016-10-30,Sampdoria,1.0,win,True,,
 Serie A,Italy,2016-10-31,Cagliari,2.0,win,True,,
 Serie A,Italy,2016-11-06,Pescara,0.0,loss,True,,
-Serie A,Italy,2016-11-06,Chievo,1.0,loss,True,,
 Serie A,Italy,2016-11-06,Palermo,1.0,loss,True,,
 Serie A,Italy,2016-11-06,Inter,3.0,win,True,,
-Serie A,Italy,2016-11-19,Chievo,1.0,win,True,,
 Serie A,Italy,2016-11-20,Sampdoria,3.0,win,True,,
 Serie A,Italy,2016-11-20,Crotone,0.0,loss,True,,
 Serie A,Italy,2016-11-27,Palermo,0.0,loss,True,,
@@ -21349,20 +21493,17 @@ Serie A,Italy,2016-11-27,Crotone,1.0,draw,True,,
 Serie A,Italy,2016-11-28,Inter,4.0,win,True,,
 Serie A,Italy,2016-12-04,Pescara,1.0,draw,True,,
 Serie A,Italy,2016-12-04,Sampdoria,2.0,win,True,,
-Serie A,Italy,2016-12-05,Chievo,0.0,draw,True,,
 Serie A,Italy,2016-12-10,Crotone,2.0,win,True,,
 Serie A,Italy,2016-12-10,Sampdoria,1.0,loss,True,,
 Serie A,Italy,2016-12-11,Cagliari,0.0,loss,True,,
 Serie A,Italy,2016-12-11,Palermo,0.0,loss,True,,
 Serie A,Italy,2016-12-11,Inter,2.0,win,True,,
 Serie A,Italy,2016-12-18,Pescara,0.0,loss,True,,
-Serie A,Italy,2016-12-18,Chievo,2.0,win,True,,
 Serie A,Italy,2016-12-21,Inter,3.0,win,True,,
 Serie A,Italy,2016-12-22,Sampdoria,0.0,draw,True,,
 Serie A,Italy,2016-12-22,Cagliari,4.0,win,True,,
 Serie A,Italy,2016-12-22,Palermo,1.0,draw,True,,
 Serie A,Italy,2017-02-08,Crotone,0.0,loss,True,,
-Serie A,Italy,2017-01-08,Chievo,1.0,loss,True,,
 Serie A,Italy,2017-02-01,Pescara,1.0,loss,True,,
 Serie A,Italy,2016-08-28,Inter,1.0,draw,True,,
 Serie A,Italy,2016-08-28,Crotone,1.0,loss,True,,
@@ -21372,14 +21513,12 @@ Serie A,Italy,2017-01-14,Crotone,0.0,loss,True,,
 Serie A,Italy,2017-01-14,Inter,3.0,win,True,,
 Serie A,Italy,2017-01-15,Cagliari,4.0,win,True,,
 Serie A,Italy,2017-01-15,Sampdoria,0.0,draw,True,,
-Serie A,Italy,2017-01-21,Chievo,0.0,loss,True,,
 Serie A,Italy,2017-01-22,Palermo,0.0,loss,True,,
 Serie A,Italy,2017-01-22,Pescara,1.0,loss,True,,
 Serie A,Italy,2017-01-28,Inter,3.0,win,True,,
 Serie A,Italy,2017-01-29,Crotone,4.0,win,True,,
 Serie A,Italy,2017-01-29,Cagliari,1.0,draw,True,,
 Serie A,Italy,2017-01-29,Sampdoria,3.0,win,True,,
-Serie A,Italy,2017-02-05,Chievo,0.0,draw,True,,
 Serie A,Italy,2017-02-05,Pescara,2.0,loss,True,,
 Serie A,Italy,2017-02-05,Palermo,1.0,win,True,,
 Serie A,Italy,2017-02-12,Crotone,0.0,loss,True,,
@@ -21389,27 +21528,22 @@ Serie A,Italy,2017-02-12,Sampdoria,3.0,win,True,,
 Serie A,Italy,2017-02-12,Cagliari,0.0,loss,True,,
 Serie A,Italy,2017-02-19,Pescara,5.0,win,True,,
 Serie A,Italy,2017-02-19,Sampdoria,1.0,draw,True,,
-Serie A,Italy,2017-02-19,Chievo,1.0,loss,True,,
 Serie A,Italy,2017-02-26,Palermo,1.0,draw,True,,
 Serie A,Italy,2017-02-26,Crotone,1.0,loss,True,,
-Serie A,Italy,2017-02-26,Chievo,2.0,win,True,,
 Serie A,Italy,2017-02-26,Inter,1.0,loss,True,,
 Serie A,Italy,2017-03-04,Sampdoria,3.0,win,True,,
 Serie A,Italy,2017-03-05,Cagliari,1.0,loss,True,,
 Serie A,Italy,2017-03-05,Crotone,0.0,draw,True,,
 Serie A,Italy,2017-03-12,Inter,7.0,win,True,,
-Serie A,Italy,2017-03-12,Chievo,4.0,win,True,,
 Serie A,Italy,2017-03-12,Pescara,1.0,loss,True,,
 Serie A,Italy,2017-03-12,Palermo,0.0,loss,True,,
 Serie A,Italy,2017-03-19,Crotone,0.0,loss,True,,
 Serie A,Italy,2017-03-19,Cagliari,0.0,draw,True,,
 Serie A,Italy,2017-03-19,Sampdoria,0.0,loss,True,,
 Serie A,Italy,2016-09-10,Palermo,0.0,loss,True,,
-Serie A,Italy,2016-09-11,Chievo,1.0,draw,True,,
 Serie A,Italy,2016-09-11,Pescara,1.0,loss,True,,
 Serie A,Italy,2017-04-02,Palermo,1.0,loss,True,,
 Serie A,Italy,2017-04-02,Pescara,1.0,draw,True,,
-Serie A,Italy,2017-04-02,Chievo,1.0,loss,True,,
 Serie A,Italy,2017-04-03,Inter,1.0,loss,True,,
 Serie A,Italy,2017-04-09,Sampdoria,2.0,draw,True,,
 Serie A,Italy,2017-04-09,Cagliari,2.0,loss,True,,
@@ -21418,21 +21552,18 @@ Serie A,Italy,2017-04-15,Inter,2.0,draw,True,,
 Serie A,Italy,2017-04-15,Palermo,0.0,draw,True,,
 Serie A,Italy,2017-04-15,Pescara,0.0,loss,True,,
 Serie A,Italy,2017-04-15,Cagliari,4.0,win,True,,
-Serie A,Italy,2017-04-23,Chievo,1.0,loss,True,,
 Serie A,Italy,2017-04-23,Sampdoria,1.0,loss,True,,
 Serie A,Italy,2017-04-24,Pescara,1.0,loss,True,,
 Serie A,Italy,2017-04-30,Crotone,1.0,draw,True,,
 Serie A,Italy,2017-04-30,Palermo,2.0,win,True,,
 Serie A,Italy,2017-04-30,Cagliari,1.0,win,True,,
 Serie A,Italy,2017-04-30,Inter,0.0,loss,True,,
-Serie A,Italy,2017-05-07,Chievo,1.0,draw,True,,
 Serie A,Italy,2017-05-07,Pescara,0.0,loss,True,,
 Serie A,Italy,2017-05-14,Inter,1.0,loss,True,,
 Serie A,Italy,2017-05-14,Crotone,1.0,win,True,,
 Serie A,Italy,2017-05-14,Palermo,1.0,win,True,,
 Serie A,Italy,2017-05-14,Sampdoria,1.0,draw,True,,
 Serie A,Italy,2017-05-14,Cagliari,3.0,win,True,,
-Serie A,Italy,2017-05-20,Chievo,3.0,loss,True,,
 Serie A,Italy,2017-05-22,Pescara,2.0,win,True,,
 Serie A,Italy,2017-05-28,Cagliari,2.0,win,True,,
 Serie A,Italy,2017-05-28,Sampdoria,2.0,loss,True,,
@@ -21444,7 +21575,6 @@ Serie A,Italy,2016-09-18,Crotone,1.0,draw,True,,
 Serie A,Italy,2016-09-18,Cagliari,3.0,win,True,,
 Serie A,Italy,2016-09-18,Inter,2.0,win,True,,
 Serie A,Italy,2016-09-21,Pescara,0.0,draw,True,,
-Serie A,Italy,2016-09-21,Chievo,2.0,win,True,,
 Serie A,Italy,2016-09-24,Palermo,0.0,loss,True,,
 Serie A,Italy,2016-09-25,Inter,1.0,draw,True,,
 Serie A,Italy,2016-09-26,Crotone,1.0,loss,True,,
@@ -21454,7 +21584,6 @@ Serie A,Italy,2016-10-02,Sampdoria,1.0,draw,True,,
 Serie A,Italy,2016-10-02,Cagliari,2.0,win,True,,
 Serie A,Italy,2016-10-15,Pescara,1.0,draw,True,,
 Serie A,Italy,2016-10-16,Inter,1.0,loss,True,,
-Serie A,Italy,2016-10-16,Chievo,1.0,loss,True,,
 Serie A,Italy,2016-10-17,Palermo,1.0,loss,True,,
 Serie A,Italy,2016-10-22,Sampdoria,2.0,win,True,,
 Serie A,Italy,2016-10-23,Crotone,1.0,loss,True,,
@@ -21464,33 +21593,28 @@ Serie A,Italy,2017-08-20,Sampdoria,2.0,win,True,,
 Serie A,Italy,2017-08-20,Crotone,0.0,loss,True,,
 Serie A,Italy,2017-10-24,Inter,3.0,win,True,,
 Serie A,Italy,2017-10-25,Cagliari,2.0,win,True,,
-Serie A,Italy,2017-10-25,Chievo,1.0,loss,True,,
 Serie A,Italy,2017-10-29,Benevento,1.0,loss,True,,
 Serie A,Italy,2017-10-29,SPAL,1.0,win,True,,
 Serie A,Italy,2017-10-29,Sampdoria,4.0,win,True,,
 Serie A,Italy,2017-10-29,Crotone,2.0,win,True,,
 Serie A,Italy,2017-11-05,Inter,1.0,draw,True,,
 Serie A,Italy,2017-11-05,Cagliari,2.0,win,True,,
-Serie A,Italy,2017-11-05,Chievo,0.0,draw,True,,
 Serie A,Italy,2017-11-19,Crotone,0.0,loss,True,,
 Serie A,Italy,2017-11-19,Benevento,1.0,loss,True,,
 Serie A,Italy,2017-11-19,SPAL,1.0,draw,True,,
 Serie A,Italy,2017-11-19,Sampdoria,3.0,win,True,,
 Serie A,Italy,2017-11-19,Inter,2.0,win,True,,
-Serie A,Italy,2017-11-25,Chievo,2.0,win,True,,
 Serie A,Italy,2017-11-25,Cagliari,1.0,loss,True,,
 Serie A,Italy,2017-12-03,Benevento,2.0,draw,True,,
 Serie A,Italy,2017-12-03,Inter,5.0,win,True,,
 Serie A,Italy,2017-12-03,Sampdoria,1.0,loss,True,,
 Serie A,Italy,2017-12-04,Crotone,0.0,loss,True,,
 Serie A,Italy,2017-12-09,Cagliari,2.0,draw,True,,
-Serie A,Italy,2017-12-10,Chievo,0.0,draw,True,,
 Serie A,Italy,2017-12-10,SPAL,2.0,draw,True,,
 Serie A,Italy,2017-12-16,Inter,1.0,loss,True,,
 Serie A,Italy,2017-12-17,Crotone,1.0,win,True,,
 Serie A,Italy,2017-12-17,Sampdoria,0.0,loss,True,,
 Serie A,Italy,2017-12-17,Benevento,1.0,loss,True,,
-Serie A,Italy,2017-12-22,Chievo,2.0,loss,True,,
 Serie A,Italy,2017-12-22,Cagliari,0.0,loss,True,,
 Serie A,Italy,2017-12-23,SPAL,2.0,draw,True,,
 Serie A,Italy,2017-12-29,Crotone,0.0,loss,True,,
@@ -21500,15 +21624,12 @@ Serie A,Italy,2017-12-30,Inter,0.0,draw,True,,
 Serie A,Italy,2017-08-26,Benevento,0.0,loss,True,,
 Serie A,Italy,2017-08-27,SPAL,3.0,win,True,,
 Serie A,Italy,2017-08-27,Crotone,0.0,draw,True,,
-Serie A,Italy,2017-08-27,Chievo,1.0,loss,True,,
-Serie A,Italy,2018-01-05,Chievo,1.0,draw,True,,
 Serie A,Italy,2018-01-06,SPAL,2.0,loss,True,,
 Serie A,Italy,2018-01-06,Benevento,3.0,win,True,,
 Serie A,Italy,2018-01-06,Cagliari,0.0,loss,True,,
 Serie A,Italy,2018-01-21,Sampdoria,3.0,win,True,,
 Serie A,Italy,2018-01-21,Cagliari,1.0,loss,True,,
 Serie A,Italy,2018-01-21,Inter,1.0,draw,True,,
-Serie A,Italy,2018-01-27,Chievo,0.0,loss,True,,
 Serie A,Italy,2018-01-28,SPAL,1.0,draw,True,,
 Serie A,Italy,2018-01-28,Crotone,1.0,draw,True,,
 Serie A,Italy,2018-02-03,Sampdoria,1.0,draw,True,,
@@ -21518,9 +21639,7 @@ Serie A,Italy,2018-02-04,Benevento,0.0,loss,True,,
 Serie A,Italy,2018-02-10,SPAL,0.0,loss,True,,
 Serie A,Italy,2018-02-10,Crotone,1.0,draw,True,,
 Serie A,Italy,2018-02-11,Inter,2.0,win,True,,
-Serie A,Italy,2018-02-11,Chievo,0.0,loss,True,,
 Serie A,Italy,2018-02-11,Sampdoria,2.0,win,True,,
-Serie A,Italy,2018-02-17,Chievo,2.0,win,True,,
 Serie A,Italy,2018-02-18,Benevento,3.0,win,True,,
 Serie A,Italy,2018-02-24,Inter,2.0,win,True,,
 Serie A,Italy,2018-02-25,Crotone,2.0,loss,True,,
@@ -21528,7 +21647,6 @@ Serie A,Italy,2018-02-25,Sampdoria,2.0,win,True,,
 Serie A,Italy,2018-02-26,Cagliari,0.0,loss,True,,
 Serie A,Italy,2018-03-03,SPAL,1.0,win,True,,
 Serie A,Italy,2018-04-04,Benevento,3.0,win,True,,
-Serie A,Italy,2018-04-04,Chievo,1.0,draw,True,,
 Serie A,Italy,2018-03-11,Cagliari,2.0,draw,True,,
 Serie A,Italy,2018-03-11,Crotone,4.0,win,True,,
 Serie A,Italy,2018-03-11,Inter,0.0,draw,True,,
@@ -21542,13 +21660,11 @@ Serie A,Italy,2017-09-10,Benevento,0.0,loss,True,,
 Serie A,Italy,2018-01-24,Sampdoria,1.0,draw,True,,
 Serie A,Italy,2018-03-31,Cagliari,0.0,loss,True,,
 Serie A,Italy,2018-03-31,Inter,3.0,win,True,,
-Serie A,Italy,2018-03-31,Chievo,2.0,win,True,,
 Serie A,Italy,2018-04-07,Benevento,2.0,loss,True,,
 Serie A,Italy,2018-04-07,SPAL,1.0,draw,True,,
 Serie A,Italy,2018-04-07,Sampdoria,0.0,draw,True,,
 Serie A,Italy,2018-04-08,Crotone,1.0,win,True,,
 Serie A,Italy,2018-04-14,Cagliari,2.0,win,True,,
-Serie A,Italy,2018-04-14,Chievo,0.0,draw,True,,
 Serie A,Italy,2018-04-17,Inter,4.0,win,True,,
 Serie A,Italy,2018-04-18,Benevento,0.0,loss,True,,
 Serie A,Italy,2018-04-18,SPAL,0.0,draw,True,,
@@ -21556,12 +21672,10 @@ Serie A,Italy,2018-04-18,Sampdoria,1.0,win,True,,
 Serie A,Italy,2018-04-18,Crotone,1.0,draw,True,,
 Serie A,Italy,2018-04-21,SPAL,0.0,loss,True,,
 Serie A,Italy,2018-04-22,Cagliari,0.0,draw,True,,
-Serie A,Italy,2018-04-22,Chievo,1.0,loss,True,,
 Serie A,Italy,2018-04-28,Inter,2.0,loss,True,,
 Serie A,Italy,2018-04-29,Crotone,4.0,win,True,,
 Serie A,Italy,2018-04-29,Sampdoria,4.0,win,True,,
 Serie A,Italy,2018-04-29,Benevento,3.0,draw,True,,
-Serie A,Italy,2018-05-06,Chievo,2.0,win,True,,
 Serie A,Italy,2018-05-06,SPAL,2.0,win,True,,
 Serie A,Italy,2018-05-06,Cagliari,0.0,loss,True,,
 Serie A,Italy,2018-05-12,Benevento,1.0,win,True,,
@@ -21569,11 +21683,9 @@ Serie A,Italy,2018-05-12,Inter,1.0,loss,True,,
 Serie A,Italy,2018-05-13,Crotone,2.0,draw,True,,
 Serie A,Italy,2018-05-13,Sampdoria,0.0,loss,True,,
 Serie A,Italy,2018-05-20,Cagliari,1.0,win,True,,
-Serie A,Italy,2018-05-20,Chievo,1.0,win,True,,
 Serie A,Italy,2018-05-20,SPAL,3.0,win,True,,
 Serie A,Italy,2017-09-16,Crotone,0.0,loss,True,,
 Serie A,Italy,2017-09-17,SPAL,0.0,loss,True,,
-Serie A,Italy,2017-09-17,Chievo,1.0,draw,True,,
 Serie A,Italy,2017-09-20,Benevento,0.0,loss,True,,
 Serie A,Italy,2017-09-20,Cagliari,0.0,loss,True,,
 Serie A,Italy,2017-09-23,SPAL,2.0,loss,True,,
@@ -21581,7 +21693,6 @@ Serie A,Italy,2017-09-24,Sampdoria,2.0,win,True,,
 Serie A,Italy,2017-09-24,Cagliari,0.0,loss,True,,
 Serie A,Italy,2017-09-24,Crotone,2.0,win,True,,
 Serie A,Italy,2017-09-24,Inter,1.0,win,True,,
-Serie A,Italy,2017-10-01,Chievo,2.0,win,True,,
 Serie A,Italy,2017-10-01,Benevento,1.0,loss,True,,
 Serie A,Italy,2017-10-01,SPAL,1.0,draw,True,,
 Serie A,Italy,2017-10-15,Sampdoria,3.0,win,True,,
@@ -21589,10 +21700,8 @@ Serie A,Italy,2017-10-15,Cagliari,2.0,loss,True,,
 Serie A,Italy,2017-10-15,Crotone,2.0,draw,True,,
 Serie A,Italy,2017-10-15,Inter,3.0,win,True,,
 Serie A,Italy,2017-10-21,Sampdoria,5.0,win,True,,
-Serie A,Italy,2017-10-22,Chievo,3.0,win,True,,
 Serie A,Italy,2017-10-22,Benevento,0.0,loss,True,,
 Serie A,Italy,2017-10-22,SPAL,0.0,loss,True,,
-Serie A,Italy,2018-08-18,Chievo,2.0,loss,True,,
 Serie A,Italy,2018-08-19,Parma,2.0,draw,True,,
 Serie A,Italy,2018-09-19,Sampdoria,1.0,draw,True,,
 Serie A,Italy,2018-10-28,SPAL,0.0,loss,True,,
@@ -21600,28 +21709,23 @@ Serie A,Italy,2018-10-28,Cagliari,2.0,win,True,,
 Serie A,Italy,2018-11-03,Inter,5.0,win,True,,
 Serie A,Italy,2018-11-04,Sampdoria,1.0,loss,True,,
 Serie A,Italy,2018-11-04,Parma,0.0,draw,True,,
-Serie A,Italy,2018-11-04,Chievo,0.0,loss,True,,
 Serie A,Italy,2018-11-10,SPAL,2.0,draw,True,,
-Serie A,Italy,2018-11-11,Chievo,2.0,draw,True,,
 Serie A,Italy,2018-11-24,Inter,3.0,win,True,,
 Serie A,Italy,2018-11-25,Parma,2.0,win,True,,
 Serie A,Italy,2018-11-26,Cagliari,0.0,draw,True,,
 Serie A,Italy,2018-12-01,SPAL,2.0,draw,True,,
 Serie A,Italy,2018-12-01,Sampdoria,4.0,win,True,,
-Serie A,Italy,2018-12-02,Chievo,1.0,draw,True,,
 Serie A,Italy,2018-12-08,Cagliari,2.0,draw,True,,
 Serie A,Italy,2018-12-09,Parma,1.0,draw,True,,
 Serie A,Italy,2018-12-15,Inter,1.0,win,True,,
 Serie A,Italy,2018-12-16,SPAL,0.0,draw,True,,
 Serie A,Italy,2018-12-16,Sampdoria,2.0,win,True,,
 Serie A,Italy,2018-12-16,Cagliari,0.0,loss,True,,
-Serie A,Italy,2018-12-22,Chievo,1.0,draw,True,,
 Serie A,Italy,2018-12-22,Parma,0.0,draw,True,,
 Serie A,Italy,2018-12-26,Sampdoria,2.0,win,True,,
 Serie A,Italy,2018-12-26,Cagliari,1.0,win,True,,
 Serie A,Italy,2018-12-26,SPAL,0.0,draw,True,,
 Serie A,Italy,2018-12-26,Inter,1.0,win,True,,
-Serie A,Italy,2018-12-29,Chievo,1.0,win,True,,
 Serie A,Italy,2018-12-29,Parma,0.0,loss,True,,
 Serie A,Italy,2018-08-26,SPAL,1.0,win,True,,
 Serie A,Italy,2018-08-26,Cagliari,2.0,draw,True,,
@@ -21630,34 +21734,28 @@ Serie A,Italy,2019-01-19,Inter,0.0,draw,True,,
 Serie A,Italy,2019-01-20,SPAL,1.0,draw,True,,
 Serie A,Italy,2019-01-20,Cagliari,2.0,draw,True,,
 Serie A,Italy,2019-01-26,Sampdoria,4.0,win,True,,
-Serie A,Italy,2019-01-27,Chievo,3.0,loss,True,,
 Serie A,Italy,2019-01-27,Parma,2.0,loss,True,,
 Serie A,Italy,2019-02-03,SPAL,0.0,draw,True,,
 Serie A,Italy,2019-02-03,Inter,0.0,loss,True,,
 Serie A,Italy,2019-02-04,Cagliari,0.0,loss,True,,
-Serie A,Italy,2019-02-08,Chievo,0.0,loss,True,,
 Serie A,Italy,2019-02-09,Parma,0.0,loss,True,,
 Serie A,Italy,2019-02-10,Sampdoria,0.0,loss,True,,
 Serie A,Italy,2019-02-16,Cagliari,2.0,win,True,,
 Serie A,Italy,2019-02-17,SPAL,1.0,loss,True,,
 Serie A,Italy,2019-02-17,Inter,2.0,win,True,,
 Serie A,Italy,2019-02-24,Sampdoria,1.0,win,True,,
-Serie A,Italy,2019-02-24,Chievo,0.0,draw,True,,
 Serie A,Italy,2019-02-24,Parma,0.0,loss,True,,
 Serie A,Italy,2019-03-01,Cagliari,2.0,win,True,,
 Serie A,Italy,2019-03-03,SPAL,1.0,loss,True,,
 Serie A,Italy,2019-03-09,Parma,1.0,win,True,,
-Serie A,Italy,2019-03-09,Chievo,1.0,loss,True,,
 Serie A,Italy,2019-03-10,Sampdoria,1.0,loss,True,,
 Serie A,Italy,2019-03-10,Inter,2.0,win,True,,
 Serie A,Italy,2019-03-15,Cagliari,2.0,win,True,,
 Serie A,Italy,2019-03-16,SPAL,2.0,win,True,,
-Serie A,Italy,2019-03-29,Chievo,0.0,loss,True,,
 Serie A,Italy,2019-03-30,Sampdoria,1.0,win,True,,
 Serie A,Italy,2019-03-31,Parma,1.0,loss,True,,
 Serie A,Italy,2019-03-31,Inter,0.0,loss,True,,
 Serie A,Italy,2018-09-01,Parma,1.0,loss,True,,
-Serie A,Italy,2018-09-02,Chievo,0.0,draw,True,,
 Serie A,Italy,2018-09-02,Sampdoria,3.0,win,True,,
 Serie A,Italy,2019-04-02,Cagliari,0.0,loss,True,,
 Serie A,Italy,2019-04-03,SPAL,1.0,win,True,,
@@ -21667,21 +21765,17 @@ Serie A,Italy,2019-04-07,Cagliari,2.0,win,True,,
 Serie A,Italy,2019-04-07,Inter,0.0,draw,True,,
 Serie A,Italy,2019-04-13,SPAL,2.0,win,True,,
 Serie A,Italy,2019-04-14,Sampdoria,2.0,win,True,,
-Serie A,Italy,2019-04-14,Chievo,1.0,loss,True,,
 Serie A,Italy,2019-04-20,Parma,1.0,draw,True,,
 Serie A,Italy,2019-04-20,Cagliari,1.0,win,True,,
 Serie A,Italy,2019-04-20,Inter,1.0,draw,True,,
 Serie A,Italy,2019-04-27,Inter,1.0,draw,True,,
-Serie A,Italy,2019-04-28,Chievo,1.0,draw,True,,
 Serie A,Italy,2019-04-28,SPAL,1.0,draw,True,,
 Serie A,Italy,2019-04-28,Sampdoria,1.0,loss,True,,
-Serie A,Italy,2019-05-04,Chievo,0.0,loss,True,,
 Serie A,Italy,2019-05-05,Parma,3.0,draw,True,,
 Serie A,Italy,2019-05-11,Cagliari,1.0,loss,True,,
 Serie A,Italy,2019-05-12,Sampdoria,1.0,loss,True,,
 Serie A,Italy,2019-05-12,SPAL,1.0,loss,True,,
 Serie A,Italy,2019-05-13,Inter,2.0,win,True,,
-Serie A,Italy,2019-05-19,Chievo,0.0,draw,True,,
 Serie A,Italy,2019-05-19,Parma,1.0,win,True,,
 Serie A,Italy,2019-05-26,Sampdoria,2.0,win,True,,
 Serie A,Italy,2019-05-26,SPAL,2.0,loss,True,,
@@ -21692,17 +21786,14 @@ Serie A,Italy,2018-09-16,Cagliari,1.0,draw,True,,
 Serie A,Italy,2018-09-17,SPAL,2.0,win,True,,
 Serie A,Italy,2018-09-22,Parma,2.0,win,True,,
 Serie A,Italy,2018-09-22,Sampdoria,0.0,loss,True,,
-Serie A,Italy,2018-09-23,Chievo,0.0,loss,True,,
 Serie A,Italy,2018-09-25,Inter,2.0,win,True,,
 Serie A,Italy,2018-09-26,Cagliari,0.0,draw,True,,
 Serie A,Italy,2018-09-27,SPAL,0.0,loss,True,,
 Serie A,Italy,2018-09-29,Inter,2.0,win,True,,
-Serie A,Italy,2018-09-30,Chievo,0.0,loss,True,,
 Serie A,Italy,2018-09-30,Parma,1.0,win,True,,
 Serie A,Italy,2018-10-01,Sampdoria,2.0,win,True,,
 Serie A,Italy,2018-10-06,Cagliari,2.0,win,True,,
 Serie A,Italy,2018-10-07,SPAL,1.0,loss,True,,
-Serie A,Italy,2018-10-21,Chievo,1.0,loss,True,,
 Serie A,Italy,2018-10-21,Parma,0.0,loss,True,,
 Serie A,Italy,2018-10-21,Inter,1.0,win,True,,
 Serie A,Italy,2018-10-22,Sampdoria,0.0,draw,True,,
@@ -27796,7 +27887,6 @@ Serie A,Italy,2014-11-02,Palermo,2.0,win,False,,
 Serie A,Italy,2014-11-03,Cagliari,2.0,loss,False,,
 Serie A,Italy,2014-11-09,Cesena,1.0,loss,False,,
 Serie A,Italy,2014-11-09,Parma,0.0,loss,False,,
-Serie A,Italy,2014-11-23,Chievo,1.0,draw,False,,
 Serie A,Italy,2014-11-23,Cagliari,3.0,draw,False,,
 Serie A,Italy,2014-11-23,Sampdoria,1.0,draw,False,,
 Serie A,Italy,2014-11-23,Inter,1.0,draw,False,,
@@ -27805,14 +27895,12 @@ Serie A,Italy,2014-11-30,Parma,1.0,loss,False,,
 Serie A,Italy,2014-11-30,Inter,2.0,loss,False,,
 Serie A,Italy,2014-12-06,Palermo,2.0,draw,False,,
 Serie A,Italy,2014-12-07,Cesena,2.0,loss,False,,
-Serie A,Italy,2014-12-08,Chievo,2.0,win,False,,
 Serie A,Italy,2014-12-08,Sampdoria,3.0,win,False,,
 Serie A,Italy,2014-12-14,Sampdoria,1.0,draw,False,,
 Serie A,Italy,2014-12-14,Cagliari,0.0,draw,False,,
 Serie A,Italy,2014-12-15,Inter,2.0,win,False,,
 Serie A,Italy,2014-12-18,Parma,0.0,loss,False,,
 Serie A,Italy,2014-12-20,Cesena,1.0,draw,False,,
-Serie A,Italy,2014-12-21,Chievo,1.0,win,False,,
 Serie A,Italy,2014-12-21,Palermo,3.0,draw,False,,
 Serie A,Italy,2015-01-05,Sampdoria,0.0,loss,False,,
 Serie A,Italy,2015-01-06,Cagliari,0.0,loss,False,,
@@ -27820,14 +27908,11 @@ Serie A,Italy,2015-01-06,Inter,1.0,draw,False,,
 Serie A,Italy,2015-01-11,Cesena,1.0,loss,False,,
 Serie A,Italy,2015-01-11,Parma,1.0,loss,False,,
 Serie A,Italy,2015-01-11,Palermo,3.0,loss,False,,
-Serie A,Italy,2015-01-11,Chievo,1.0,draw,False,,
 Serie A,Italy,2015-01-17,Inter,0.0,draw,False,,
 Serie A,Italy,2015-01-18,Cagliari,2.0,draw,False,,
 Serie A,Italy,2015-01-18,Sampdoria,2.0,win,False,,
 Serie A,Italy,2014-09-14,Cesena,0.0,loss,False,,
-Serie A,Italy,2014-09-14,Chievo,1.0,win,False,,
 Serie A,Italy,2014-09-15,Palermo,1.0,loss,False,,
-Serie A,Italy,2015-01-25,Chievo,0.0,loss,False,,
 Serie A,Italy,2015-01-25,Palermo,1.0,draw,False,,
 Serie A,Italy,2015-01-25,Cesena,2.0,win,False,,
 Serie A,Italy,2015-02-01,Inter,1.0,loss,False,,
@@ -27836,21 +27921,18 @@ Serie A,Italy,2015-02-01,Cagliari,1.0,loss,False,,
 Serie A,Italy,2015-02-01,Parma,1.0,loss,False,,
 Serie A,Italy,2015-02-08,Cesena,0.0,loss,False,,
 Serie A,Italy,2015-02-08,Palermo,0.0,loss,False,,
-Serie A,Italy,2015-02-11,Chievo,1.0,win,False,,
 Serie A,Italy,2015-02-15,Cagliari,1.0,draw,False,,
 Serie A,Italy,2015-02-15,Parma,0.0,draw,False,,
 Serie A,Italy,2015-02-15,Inter,4.0,win,False,,
 Serie A,Italy,2015-02-15,Sampdoria,1.0,loss,False,,
 Serie A,Italy,2015-02-22,Palermo,1.0,loss,False,,
 Serie A,Italy,2015-02-22,Cesena,0.0,loss,False,,
-Serie A,Italy,2015-02-22,Chievo,0.0,loss,False,,
 Serie A,Italy,2015-02-23,Inter,2.0,win,False,,
 Serie A,Italy,2015-03-01,Sampdoria,2.0,win,False,,
 Serie A,Italy,2015-04-15,Parma,0.0,loss,False,,
 Serie A,Italy,2015-03-07,Cagliari,0.0,loss,False,,
 Serie A,Italy,2015-03-08,Palermo,0.0,draw,False,,
 Serie A,Italy,2015-03-08,Inter,2.0,draw,False,,
-Serie A,Italy,2015-03-15,Chievo,2.0,win,False,,
 Serie A,Italy,2015-03-15,Parma,1.0,loss,False,,
 Serie A,Italy,2015-03-15,Cesena,1.0,draw,False,,
 Serie A,Italy,2015-03-16,Sampdoria,2.0,win,False,,
@@ -27858,7 +27940,6 @@ Serie A,Italy,2015-03-21,Palermo,0.0,loss,False,,
 Serie A,Italy,2015-03-21,Cagliari,1.0,loss,False,,
 Serie A,Italy,2015-03-22,Inter,0.0,loss,False,,
 Serie A,Italy,2015-04-04,Parma,1.0,draw,False,,
-Serie A,Italy,2015-04-04,Chievo,0.0,loss,False,,
 Serie A,Italy,2015-04-04,Cesena,3.0,draw,False,,
 Serie A,Italy,2015-04-04,Sampdoria,0.0,loss,False,,
 Serie A,Italy,2014-09-21,Parma,3.0,win,False,,
@@ -27867,28 +27948,24 @@ Serie A,Italy,2014-09-21,Cagliari,0.0,loss,False,,
 Serie A,Italy,2014-09-21,Inter,1.0,draw,False,,
 Serie A,Italy,2015-04-11,Cagliari,0.0,loss,False,,
 Serie A,Italy,2015-04-11,Inter,3.0,win,False,,
-Serie A,Italy,2015-04-12,Chievo,1.0,win,False,,
 Serie A,Italy,2015-04-12,Palermo,3.0,win,False,,
 Serie A,Italy,2015-04-12,Sampdoria,1.0,draw,False,,
 Serie A,Italy,2015-04-18,Cesena,0.0,draw,False,,
 Serie A,Italy,2015-04-19,Parma,2.0,draw,False,,
 Serie A,Italy,2015-04-26,Cesena,1.0,loss,False,,
 Serie A,Italy,2015-04-26,Palermo,0.0,loss,False,,
-Serie A,Italy,2015-04-26,Chievo,1.0,draw,False,,
 Serie A,Italy,2015-04-26,Cagliari,3.0,win,False,,
 Serie A,Italy,2015-04-26,Sampdoria,2.0,loss,False,,
 Serie A,Italy,2015-04-28,Inter,2.0,win,False,,
 Serie A,Italy,2015-04-29,Cagliari,0.0,loss,False,,
 Serie A,Italy,2015-04-29,Parma,0.0,loss,False,,
 Serie A,Italy,2015-05-02,Palermo,0.0,draw,False,,
-Serie A,Italy,2015-05-03,Chievo,0.0,draw,False,,
 Serie A,Italy,2015-05-03,Cesena,1.0,loss,False,,
 Serie A,Italy,2015-05-04,Parma,0.0,loss,False,,
 Serie A,Italy,2015-05-09,Cagliari,1.0,draw,False,,
 Serie A,Italy,2015-05-10,Sampdoria,4.0,win,False,,
 Serie A,Italy,2015-05-10,Inter,2.0,win,False,,
 Serie A,Italy,2015-05-17,Palermo,1.0,win,False,,
-Serie A,Italy,2015-05-17,Chievo,0.0,loss,False,,
 Serie A,Italy,2015-05-18,Parma,0.0,loss,False,,
 Serie A,Italy,2015-05-18,Cesena,2.0,loss,False,,
 Serie A,Italy,2015-05-23,Inter,2.0,loss,False,,
@@ -27896,20 +27973,16 @@ Serie A,Italy,2015-05-24,Sampdoria,1.0,draw,False,,
 Serie A,Italy,2015-05-24,Cagliari,1.0,win,False,,
 Serie A,Italy,2015-05-31,Parma,2.0,draw,False,,
 Serie A,Italy,2015-05-31,Palermo,2.0,win,False,,
-Serie A,Italy,2015-05-31,Chievo,0.0,loss,False,,
 Serie A,Italy,2015-05-31,Cesena,0.0,loss,False,,
 Serie A,Italy,2014-09-24,Palermo,3.0,draw,False,,
 Serie A,Italy,2014-09-24,Cesena,0.0,loss,False,,
-Serie A,Italy,2014-09-24,Chievo,1.0,loss,False,,
 Serie A,Italy,2014-09-28,Cagliari,4.0,win,False,,
 Serie A,Italy,2014-09-28,Sampdoria,1.0,win,False,,
 Serie A,Italy,2014-09-29,Parma,2.0,loss,False,,
 Serie A,Italy,2014-10-04,Cagliari,0.0,loss,False,,
-Serie A,Italy,2014-10-04,Chievo,0.0,loss,False,,
 Serie A,Italy,2014-10-05,Palermo,0.0,loss,False,,
 Serie A,Italy,2014-10-05,Cesena,1.0,draw,False,,
 Serie A,Italy,2014-10-05,Inter,0.0,loss,False,,
-Serie A,Italy,2014-10-18,Chievo,0.0,loss,False,,
 Serie A,Italy,2014-10-19,Sampdoria,2.0,draw,False,,
 Serie A,Italy,2014-10-19,Cesena,1.0,loss,False,,
 Serie A,Italy,2014-10-19,Parma,0.0,loss,False,,
@@ -27918,35 +27991,27 @@ Serie A,Italy,2014-10-26,Palermo,0.0,loss,False,,
 Serie A,Italy,2014-10-26,Inter,1.0,win,False,,
 Serie A,Italy,2014-10-29,Sampdoria,0.0,loss,False,,
 Serie A,Italy,2014-10-29,Cesena,0.0,loss,False,,
-Serie A,Italy,2014-10-29,Chievo,0.0,loss,False,,
 Serie A,Italy,2014-10-29,Parma,0.0,loss,False,,
 Serie A,Italy,2015-08-23,Carpi,2.0,loss,False,,
-Serie A,Italy,2015-08-23,Chievo,3.0,win,False,,
 Serie A,Italy,2015-10-27,Inter,1.0,win,False,,
-Serie A,Italy,2015-10-28,Chievo,0.0,loss,False,,
 Serie A,Italy,2015-10-28,Carpi,1.0,loss,False,,
 Serie A,Italy,2015-10-28,Palermo,0.0,loss,False,,
 Serie A,Italy,2015-11-02,Sampdoria,1.0,draw,False,,
 Serie A,Italy,2015-11-08,Inter,1.0,win,False,,
-Serie A,Italy,2015-11-08,Chievo,0.0,loss,False,,
 Serie A,Italy,2015-11-08,Carpi,0.0,loss,False,,
 Serie A,Italy,2015-11-22,Palermo,1.0,draw,False,,
-Serie A,Italy,2015-11-22,Chievo,2.0,win,False,,
 Serie A,Italy,2015-11-22,Sampdoria,0.0,loss,False,,
 Serie A,Italy,2015-11-28,Sampdoria,1.0,loss,False,,
 Serie A,Italy,2015-11-29,Carpi,2.0,win,False,,
 Serie A,Italy,2015-11-30,Inter,1.0,loss,False,,
 Serie A,Italy,2015-12-06,Palermo,0.0,loss,False,,
-Serie A,Italy,2015-12-06,Chievo,2.0,win,False,,
 Serie A,Italy,2015-12-12,Inter,4.0,win,False,,
 Serie A,Italy,2015-12-13,Carpi,0.0,loss,False,,
 Serie A,Italy,2015-12-14,Sampdoria,1.0,draw,False,,
-Serie A,Italy,2015-12-20,Chievo,0.0,loss,False,,
 Serie A,Italy,2015-12-20,Palermo,0.0,loss,False,,
 Serie A,Italy,2016-01-05,Sampdoria,3.0,win,False,,
 Serie A,Italy,2016-01-06,Carpi,0.0,draw,False,,
 Serie A,Italy,2016-01-06,Inter,1.0,win,False,,
-Serie A,Italy,2016-01-10,Chievo,1.0,win,False,,
 Serie A,Italy,2016-01-10,Palermo,1.0,win,False,,
 Serie A,Italy,2015-08-30,Palermo,1.0,win,False,,
 Serie A,Italy,2015-08-30,Sampdoria,2.0,draw,False,,
@@ -27955,49 +28020,39 @@ Serie A,Italy,2016-01-16,Inter,1.0,draw,False,,
 Serie A,Italy,2016-01-17,Palermo,0.0,loss,False,,
 Serie A,Italy,2016-01-17,Sampdoria,1.0,loss,False,,
 Serie A,Italy,2016-01-24,Carpi,1.0,draw,False,,
-Serie A,Italy,2016-01-24,Chievo,1.0,loss,False,,
 Serie A,Italy,2016-01-30,Palermo,1.0,draw,False,,
 Serie A,Italy,2016-01-31,Sampdoria,2.0,loss,False,,
 Serie A,Italy,2016-01-31,Inter,0.0,loss,False,,
-Serie A,Italy,2016-02-03,Chievo,0.0,loss,False,,
 Serie A,Italy,2016-02-03,Carpi,1.0,loss,False,,
 Serie A,Italy,2016-02-07,Inter,3.0,draw,False,,
 Serie A,Italy,2016-02-07,Palermo,2.0,draw,False,,
 Serie A,Italy,2016-02-07,Carpi,0.0,loss,False,,
-Serie A,Italy,2016-02-07,Chievo,2.0,win,False,,
 Serie A,Italy,2016-02-07,Sampdoria,1.0,loss,False,,
 Serie A,Italy,2016-02-14,Inter,1.0,loss,False,,
-Serie A,Italy,2016-02-20,Chievo,1.0,loss,False,,
 Serie A,Italy,2016-02-20,Sampdoria,1.0,loss,False,,
 Serie A,Italy,2016-02-21,Carpi,0.0,draw,False,,
 Serie A,Italy,2016-02-21,Palermo,0.0,loss,False,,
 Serie A,Italy,2016-02-28,Inter,0.0,loss,False,,
 Serie A,Italy,2016-03-05,Sampdoria,3.0,win,False,,
-Serie A,Italy,2016-03-05,Chievo,1.0,loss,False,,
 Serie A,Italy,2016-03-06,Carpi,0.0,draw,False,,
 Serie A,Italy,2016-03-06,Palermo,1.0,loss,False,,
 Serie A,Italy,2016-03-12,Sampdoria,1.0,draw,False,,
-Serie A,Italy,2015-09-12,Chievo,1.0,draw,False,,
 Serie A,Italy,2015-09-13,Carpi,2.0,draw,False,,
 Serie A,Italy,2016-03-19,Palermo,0.0,draw,False,,
 Serie A,Italy,2016-03-19,Inter,1.0,draw,False,,
-Serie A,Italy,2016-03-20,Chievo,1.0,win,False,,
 Serie A,Italy,2016-03-20,Carpi,2.0,win,False,,
 Serie A,Italy,2016-04-03,Palermo,1.0,loss,False,,
 Serie A,Italy,2016-04-03,Sampdoria,1.0,draw,False,,
 Serie A,Italy,2016-04-09,Inter,1.0,win,False,,
 Serie A,Italy,2016-04-09,Carpi,0.0,loss,False,,
 Serie A,Italy,2016-04-17,Palermo,0.0,loss,False,,
-Serie A,Italy,2016-04-17,Chievo,0.0,draw,False,,
 Serie A,Italy,2016-04-20,Sampdoria,0.0,draw,False,,
 Serie A,Italy,2016-04-20,Inter,0.0,loss,False,,
 Serie A,Italy,2016-04-21,Carpi,0.0,draw,False,,
 Serie A,Italy,2016-04-24,Palermo,2.0,win,False,,
-Serie A,Italy,2016-04-24,Chievo,0.0,loss,False,,
 Serie A,Italy,2016-05-01,Carpi,0.0,loss,False,,
 Serie A,Italy,2016-05-01,Sampdoria,0.0,loss,False,,
 Serie A,Italy,2016-05-01,Inter,0.0,loss,False,,
-Serie A,Italy,2016-05-08,Chievo,0.0,loss,False,,
 Serie A,Italy,2016-05-08,Palermo,0.0,draw,False,,
 Serie A,Italy,2016-05-14,Sampdoria,0.0,loss,False,,
 Serie A,Italy,2016-05-14,Inter,1.0,loss,False,,
@@ -28007,11 +28062,9 @@ Serie A,Italy,2015-09-20,Inter,1.0,win,False,,
 Serie A,Italy,2015-09-20,Sampdoria,0.0,loss,False,,
 Serie A,Italy,2015-09-26,Carpi,1.0,loss,False,,
 Serie A,Italy,2015-09-27,Palermo,1.0,loss,False,,
-Serie A,Italy,2015-09-27,Chievo,1.0,draw,False,,
 Serie A,Italy,2015-09-28,Sampdoria,1.0,loss,False,,
 Serie A,Italy,2015-10-04,Inter,1.0,draw,False,,
 Serie A,Italy,2015-10-18,Palermo,1.0,win,False,,
-Serie A,Italy,2015-10-18,Chievo,2.0,loss,False,,
 Serie A,Italy,2015-10-18,Carpi,0.0,loss,False,,
 Serie A,Italy,2015-10-18,Sampdoria,0.0,loss,False,,
 Serie A,Italy,2015-10-24,Inter,1.0,draw,False,,
@@ -28023,7 +28076,6 @@ Serie A,Italy,2016-10-26,Sampdoria,1.0,loss,False,,
 Serie A,Italy,2016-10-26,Cagliari,1.0,loss,False,,
 Serie A,Italy,2016-10-26,Crotone,1.0,draw,False,,
 Serie A,Italy,2016-10-30,Pescara,0.0,loss,False,,
-Serie A,Italy,2016-10-30,Chievo,0.0,loss,False,,
 Serie A,Italy,2016-10-30,Inter,0.0,loss,False,,
 Serie A,Italy,2016-10-31,Palermo,1.0,loss,False,,
 Serie A,Italy,2016-11-05,Cagliari,1.0,loss,False,,
@@ -28033,7 +28085,6 @@ Serie A,Italy,2016-11-19,Cagliari,0.0,loss,False,,
 Serie A,Italy,2016-11-19,Pescara,0.0,loss,False,,
 Serie A,Italy,2016-11-20,Palermo,1.0,loss,False,,
 Serie A,Italy,2016-11-20,Inter,2.0,draw,False,,
-Serie A,Italy,2016-11-26,Chievo,1.0,loss,False,,
 Serie A,Italy,2016-11-27,Sampdoria,1.0,draw,False,,
 Serie A,Italy,2016-11-27,Pescara,2.0,loss,False,,
 Serie A,Italy,2016-12-02,Inter,0.0,loss,False,,
@@ -28041,14 +28092,12 @@ Serie A,Italy,2016-12-04,Crotone,1.0,loss,False,,
 Serie A,Italy,2016-12-04,Cagliari,1.0,draw,False,,
 Serie A,Italy,2016-12-04,Palermo,1.0,loss,False,,
 Serie A,Italy,2016-12-10,Pescara,1.0,loss,False,,
-Serie A,Italy,2016-12-11,Chievo,2.0,win,False,,
 Serie A,Italy,2016-12-17,Cagliari,0.0,loss,False,,
 Serie A,Italy,2016-12-18,Inter,1.0,win,False,,
 Serie A,Italy,2016-12-18,Crotone,0.0,loss,False,,
 Serie A,Italy,2016-12-18,Sampdoria,1.0,loss,False,,
 Serie A,Italy,2016-12-18,Palermo,4.0,win,False,,
 Serie A,Italy,2016-12-22,Pescara,1.0,draw,False,,
-Serie A,Italy,2016-12-22,Chievo,1.0,loss,False,,
 Serie A,Italy,2017-01-07,Palermo,0.0,loss,False,,
 Serie A,Italy,2017-01-07,Sampdoria,1.0,loss,False,,
 Serie A,Italy,2017-01-08,Inter,2.0,win,False,,
@@ -28056,15 +28105,12 @@ Serie A,Italy,2017-01-08,Crotone,0.0,loss,False,,
 Serie A,Italy,2017-01-08,Cagliari,0.0,loss,False,,
 Serie A,Italy,2016-08-28,Palermo,1.0,draw,False,,
 Serie A,Italy,2016-08-28,Pescara,3.0,win,False,,
-Serie A,Italy,2016-08-28,Chievo,0.0,loss,False,,
-Serie A,Italy,2017-01-14,Chievo,1.0,loss,False,,
 Serie A,Italy,2017-01-15,Pescara,1.0,loss,False,,
 Serie A,Italy,2017-01-15,Palermo,1.0,loss,False,,
 Serie A,Italy,2017-01-22,Crotone,2.0,draw,False,,
 Serie A,Italy,2017-01-22,Inter,1.0,win,False,,
 Serie A,Italy,2017-01-22,Sampdoria,0.0,loss,False,,
 Serie A,Italy,2017-01-22,Cagliari,0.0,loss,False,,
-Serie A,Italy,2017-01-28,Chievo,1.0,win,False,,
 Serie A,Italy,2017-01-28,Pescara,0.0,loss,False,,
 Serie A,Italy,2017-01-29,Palermo,1.0,draw,False,,
 Serie A,Italy,2017-02-05,Sampdoria,1.0,win,False,,
@@ -28072,7 +28118,6 @@ Serie A,Italy,2017-02-05,Cagliari,0.0,loss,False,,
 Serie A,Italy,2017-02-05,Crotone,0.0,loss,False,,
 Serie A,Italy,2017-02-05,Inter,0.0,loss,False,,
 Serie A,Italy,2017-02-12,Pescara,3.0,loss,False,,
-Serie A,Italy,2017-02-12,Chievo,3.0,win,False,,
 Serie A,Italy,2017-02-17,Palermo,1.0,loss,False,,
 Serie A,Italy,2017-02-18,Crotone,0.0,loss,False,,
 Serie A,Italy,2017-02-19,Inter,1.0,win,False,,
@@ -28081,7 +28126,6 @@ Serie A,Italy,2017-02-26,Sampdoria,1.0,draw,False,,
 Serie A,Italy,2017-02-26,Cagliari,2.0,win,False,,
 Serie A,Italy,2017-02-26,Pescara,0.0,loss,False,,
 Serie A,Italy,2017-03-04,Pescara,1.0,loss,False,,
-Serie A,Italy,2017-03-04,Chievo,1.0,loss,False,,
 Serie A,Italy,2017-03-05,Palermo,1.0,loss,False,,
 Serie A,Italy,2017-03-05,Inter,5.0,win,False,,
 Serie A,Italy,2017-03-11,Sampdoria,1.0,win,False,,
@@ -28089,7 +28133,6 @@ Serie A,Italy,2017-03-12,Crotone,0.0,loss,False,,
 Serie A,Italy,2017-03-12,Cagliari,0.0,loss,False,,
 Serie A,Italy,2017-03-18,Inter,2.0,draw,False,,
 Serie A,Italy,2017-03-19,Pescara,0.0,loss,False,,
-Serie A,Italy,2017-03-19,Chievo,1.0,loss,False,,
 Serie A,Italy,2017-03-19,Palermo,1.0,loss,False,,
 Serie A,Italy,2016-09-11,Cagliari,1.0,loss,False,,
 Serie A,Italy,2016-09-11,Sampdoria,2.0,loss,False,,
@@ -28099,18 +28142,15 @@ Serie A,Italy,2017-04-02,Cagliari,3.0,win,False,,
 Serie A,Italy,2017-04-02,Crotone,2.0,win,False,,
 Serie A,Italy,2017-04-03,Sampdoria,2.0,win,False,,
 Serie A,Italy,2017-04-08,Pescara,1.0,draw,False,,
-Serie A,Italy,2017-04-08,Chievo,0.0,loss,False,,
 Serie A,Italy,2017-04-09,Palermo,0.0,loss,False,,
 Serie A,Italy,2017-04-09,Inter,1.0,loss,False,,
 Serie A,Italy,2017-04-15,Crotone,1.0,draw,False,,
-Serie A,Italy,2017-04-15,Chievo,0.0,loss,False,,
 Serie A,Italy,2017-04-15,Sampdoria,1.0,loss,False,,
 Serie A,Italy,2017-04-22,Inter,4.0,loss,False,,
 Serie A,Italy,2017-04-23,Palermo,2.0,loss,False,,
 Serie A,Italy,2017-04-23,Cagliari,1.0,loss,False,,
 Serie A,Italy,2017-04-23,Crotone,2.0,win,False,,
 Serie A,Italy,2017-04-29,Sampdoria,1.0,draw,False,,
-Serie A,Italy,2017-04-30,Chievo,2.0,win,False,,
 Serie A,Italy,2017-04-30,Pescara,0.0,loss,False,,
 Serie A,Italy,2017-05-06,Cagliari,1.0,loss,False,,
 Serie A,Italy,2017-05-07,Sampdoria,3.0,loss,False,,
@@ -28118,26 +28158,21 @@ Serie A,Italy,2017-05-07,Palermo,1.0,draw,False,,
 Serie A,Italy,2017-05-07,Inter,0.0,loss,False,,
 Serie A,Italy,2017-05-07,Crotone,1.0,win,False,,
 Serie A,Italy,2017-05-14,Pescara,1.0,loss,False,,
-Serie A,Italy,2017-05-14,Chievo,1.0,draw,False,,
 Serie A,Italy,2017-05-21,Crotone,0.0,loss,False,,
 Serie A,Italy,2017-05-21,Sampdoria,1.0,draw,False,,
 Serie A,Italy,2017-05-21,Cagliari,2.0,loss,False,,
 Serie A,Italy,2017-05-21,Inter,3.0,win,False,,
 Serie A,Italy,2017-05-22,Palermo,0.0,loss,False,,
-Serie A,Italy,2017-05-27,Chievo,0.0,loss,False,,
 Serie A,Italy,2017-05-28,Pescara,2.0,draw,False,,
 Serie A,Italy,2016-09-17,Pescara,0.0,loss,False,,
-Serie A,Italy,2016-09-18,Chievo,2.0,win,False,,
 Serie A,Italy,2016-09-18,Palermo,1.0,draw,False,,
 Serie A,Italy,2016-09-21,Sampdoria,0.0,loss,False,,
 Serie A,Italy,2016-09-21,Cagliari,0.0,loss,False,,
 Serie A,Italy,2016-09-21,Crotone,0.0,loss,False,,
 Serie A,Italy,2016-09-21,Palermo,1.0,win,False,,
 Serie A,Italy,2016-09-21,Inter,2.0,win,False,,
-Serie A,Italy,2016-09-24,Chievo,0.0,loss,False,,
 Serie A,Italy,2016-09-25,Pescara,1.0,draw,False,,
 Serie A,Italy,2016-09-26,Sampdoria,1.0,loss,False,,
-Serie A,Italy,2016-10-01,Chievo,2.0,win,False,,
 Serie A,Italy,2016-10-02,Palermo,1.0,draw,False,,
 Serie A,Italy,2016-10-02,Crotone,1.0,loss,False,,
 Serie A,Italy,2016-10-02,Inter,1.0,loss,False,,
@@ -28146,24 +28181,20 @@ Serie A,Italy,2016-10-16,Cagliari,2.0,win,False,,
 Serie A,Italy,2016-10-16,Crotone,1.0,loss,False,,
 Serie A,Italy,2016-10-23,Pescara,1.0,loss,False,,
 Serie A,Italy,2016-10-23,Inter,1.0,loss,False,,
-Serie A,Italy,2016-10-23,Chievo,0.0,draw,False,,
 Serie A,Italy,2016-10-23,Palermo,1.0,loss,False,,
 Serie A,Italy,2017-08-19,Cagliari,0.0,loss,False,,
-Serie A,Italy,2017-08-20,Chievo,2.0,win,False,,
 Serie A,Italy,2017-08-20,Benevento,1.0,loss,False,,
 Serie A,Italy,2017-08-20,SPAL,0.0,draw,False,,
 Serie A,Italy,2017-10-24,Sampdoria,2.0,loss,False,,
 Serie A,Italy,2017-10-25,Benevento,1.0,loss,False,,
 Serie A,Italy,2017-10-25,SPAL,1.0,loss,False,,
 Serie A,Italy,2017-10-25,Crotone,0.0,loss,False,,
-Serie A,Italy,2017-10-29,Chievo,1.0,loss,False,,
 Serie A,Italy,2017-10-29,Cagliari,1.0,loss,False,,
 Serie A,Italy,2017-10-30,Inter,2.0,win,False,,
 Serie A,Italy,2017-11-04,Crotone,3.0,win,False,,
 Serie A,Italy,2017-11-04,Sampdoria,2.0,win,False,,
 Serie A,Italy,2017-11-05,Benevento,1.0,loss,False,,
 Serie A,Italy,2017-11-05,SPAL,1.0,draw,False,,
-Serie A,Italy,2017-11-19,Chievo,1.0,draw,False,,
 Serie A,Italy,2017-11-19,Cagliari,1.0,win,False,,
 Serie A,Italy,2017-11-25,Sampdoria,0.0,loss,False,,
 Serie A,Italy,2017-11-25,SPAL,1.0,loss,False,,
@@ -28171,14 +28202,12 @@ Serie A,Italy,2017-11-25,Inter,3.0,win,False,,
 Serie A,Italy,2017-11-26,Crotone,0.0,loss,False,,
 Serie A,Italy,2017-11-27,Benevento,0.0,loss,False,,
 Serie A,Italy,2017-12-01,SPAL,1.0,loss,False,,
-Serie A,Italy,2017-12-03,Chievo,0.0,loss,False,,
 Serie A,Italy,2017-12-03,Cagliari,1.0,draw,False,,
 Serie A,Italy,2017-12-09,Sampdoria,2.0,draw,False,,
 Serie A,Italy,2017-12-09,Inter,0.0,draw,False,,
 Serie A,Italy,2017-12-10,Benevento,0.0,loss,False,,
 Serie A,Italy,2017-12-10,Crotone,1.0,loss,False,,
 Serie A,Italy,2017-12-16,Cagliari,0.0,loss,False,,
-Serie A,Italy,2017-12-17,Chievo,0.0,loss,False,,
 Serie A,Italy,2017-12-17,SPAL,2.0,win,False,,
 Serie A,Italy,2017-12-23,Crotone,0.0,loss,False,,
 Serie A,Italy,2017-12-23,Inter,0.0,loss,False,,
@@ -28186,14 +28215,12 @@ Serie A,Italy,2017-12-23,Benevento,0.0,loss,False,,
 Serie A,Italy,2017-12-23,Sampdoria,2.0,loss,False,,
 Serie A,Italy,2017-12-30,SPAL,0.0,loss,False,,
 Serie A,Italy,2017-12-30,Cagliari,2.0,win,False,,
-Serie A,Italy,2017-12-30,Chievo,0.0,loss,False,,
 Serie A,Italy,2017-08-26,Inter,3.0,win,False,,
 Serie A,Italy,2017-08-27,Cagliari,1.0,loss,False,,
 Serie A,Italy,2017-08-27,Sampdoria,2.0,win,False,,
 Serie A,Italy,2018-01-05,Inter,1.0,draw,False,,
 Serie A,Italy,2018-01-06,Crotone,0.0,loss,False,,
 Serie A,Italy,2018-01-06,Sampdoria,2.0,loss,False,,
-Serie A,Italy,2018-01-21,Chievo,1.0,loss,False,,
 Serie A,Italy,2018-01-21,Crotone,3.0,win,False,,
 Serie A,Italy,2018-01-21,Benevento,0.0,loss,False,,
 Serie A,Italy,2018-01-21,SPAL,1.0,draw,False,,
@@ -28202,7 +28229,6 @@ Serie A,Italy,2018-01-28,Benevento,0.0,loss,False,,
 Serie A,Italy,2018-01-28,Cagliari,1.0,draw,False,,
 Serie A,Italy,2018-01-28,Sampdoria,1.0,win,False,,
 Serie A,Italy,2018-02-03,Crotone,1.0,draw,False,,
-Serie A,Italy,2018-02-04,Chievo,0.0,loss,False,,
 Serie A,Italy,2018-02-04,SPAL,0.0,loss,False,,
 Serie A,Italy,2018-02-11,Cagliari,0.0,draw,False,,
 Serie A,Italy,2018-02-11,Benevento,2.0,loss,False,,
@@ -28213,19 +28239,15 @@ Serie A,Italy,2018-02-18,Crotone,2.0,loss,False,,
 Serie A,Italy,2018-02-18,Sampdoria,0.0,loss,False,,
 Serie A,Italy,2018-02-24,Benevento,0.0,loss,False,,
 Serie A,Italy,2018-02-25,SPAL,3.0,win,False,,
-Serie A,Italy,2018-02-25,Chievo,0.0,loss,False,,
 Serie A,Italy,2018-04-03,Cagliari,1.0,loss,False,,
 Serie A,Italy,2018-04-03,Sampdoria,2.0,win,False,,
 Serie A,Italy,2018-04-04,Crotone,1.0,loss,False,,
 Serie A,Italy,2018-04-04,Inter,0.0,draw,False,,
-Serie A,Italy,2018-03-10,Chievo,0.0,loss,False,,
 Serie A,Italy,2018-03-11,Benevento,0.0,loss,False,,
 Serie A,Italy,2018-03-11,Sampdoria,1.0,loss,False,,
 Serie A,Italy,2018-03-11,SPAL,1.0,draw,False,,
 Serie A,Italy,2018-03-18,Inter,5.0,win,False,,
 Serie A,Italy,2018-03-18,Cagliari,2.0,win,False,,
-Serie A,Italy,2018-03-18,Chievo,2.0,loss,False,,
-Serie A,Italy,2017-09-09,Chievo,0.0,loss,False,,
 Serie A,Italy,2017-09-10,SPAL,0.0,loss,False,,
 Serie A,Italy,2017-09-10,Crotone,0.0,loss,False,,
 Serie A,Italy,2018-03-31,Crotone,0.0,loss,False,,
@@ -28234,19 +28256,16 @@ Serie A,Italy,2018-03-31,Benevento,2.0,loss,False,,
 Serie A,Italy,2018-03-31,Sampdoria,1.0,loss,False,,
 Serie A,Italy,2018-04-08,Inter,0.0,loss,False,,
 Serie A,Italy,2018-04-08,Cagliari,0.0,loss,False,,
-Serie A,Italy,2018-04-08,Chievo,1.0,loss,False,,
 Serie A,Italy,2018-04-14,Crotone,0.0,loss,False,,
 Serie A,Italy,2018-04-14,Inter,0.0,draw,False,,
 Serie A,Italy,2018-04-15,SPAL,0.0,draw,False,,
 Serie A,Italy,2018-04-15,Benevento,2.0,draw,False,,
 Serie A,Italy,2018-04-15,Sampdoria,0.0,loss,False,,
 Serie A,Italy,2018-04-17,Cagliari,0.0,loss,False,,
-Serie A,Italy,2018-04-18,Chievo,0.0,draw,False,,
 Serie A,Italy,2018-04-21,Benevento,1.0,win,False,,
 Serie A,Italy,2018-04-22,Crotone,2.0,win,False,,
 Serie A,Italy,2018-04-22,Sampdoria,0.0,loss,False,,
 Serie A,Italy,2018-04-22,Inter,2.0,win,False,,
-Serie A,Italy,2018-04-28,Chievo,1.0,loss,False,,
 Serie A,Italy,2018-04-29,SPAL,3.0,win,False,,
 Serie A,Italy,2018-04-29,Cagliari,1.0,loss,False,,
 Serie A,Italy,2018-05-06,Inter,4.0,win,False,,
@@ -28254,7 +28273,6 @@ Serie A,Italy,2018-05-06,Crotone,1.0,loss,False,,
 Serie A,Italy,2018-05-06,Benevento,0.0,loss,False,,
 Serie A,Italy,2018-05-06,Sampdoria,0.0,loss,False,,
 Serie A,Italy,2018-05-13,Cagliari,1.0,win,False,,
-Serie A,Italy,2018-05-13,Chievo,2.0,win,False,,
 Serie A,Italy,2018-05-13,SPAL,1.0,loss,False,,
 Serie A,Italy,2018-05-20,Benevento,0.0,loss,False,,
 Serie A,Italy,2018-05-20,Crotone,1.0,loss,False,,
@@ -28268,14 +28286,11 @@ Serie A,Italy,2017-09-19,Inter,1.0,draw,False,,
 Serie A,Italy,2017-09-20,Sampdoria,0.0,draw,False,,
 Serie A,Italy,2017-09-20,SPAL,0.0,loss,False,,
 Serie A,Italy,2017-09-20,Crotone,1.0,loss,False,,
-Serie A,Italy,2017-09-20,Chievo,1.0,draw,False,,
-Serie A,Italy,2017-09-24,Chievo,2.0,win,False,,
 Serie A,Italy,2017-09-24,Benevento,0.0,loss,False,,
 Serie A,Italy,2017-09-30,Sampdoria,0.0,loss,False,,
 Serie A,Italy,2017-10-01,Cagliari,0.0,loss,False,,
 Serie A,Italy,2017-10-01,Inter,2.0,win,False,,
 Serie A,Italy,2017-10-01,Crotone,1.0,draw,False,,
-Serie A,Italy,2017-10-15,Chievo,0.0,draw,False,,
 Serie A,Italy,2017-10-15,SPAL,1.0,loss,False,,
 Serie A,Italy,2017-10-16,Benevento,0.0,loss,False,,
 Serie A,Italy,2017-10-21,Crotone,0.0,loss,False,,
@@ -28285,7 +28300,6 @@ Serie A,Italy,2018-08-19,Inter,0.0,loss,False,,
 Serie A,Italy,2018-08-19,Cagliari,0.0,loss,False,,
 Serie A,Italy,2018-08-19,SPAL,1.0,win,False,,
 Serie A,Italy,2018-10-27,Parma,0.0,loss,False,,
-Serie A,Italy,2018-10-28,Chievo,1.0,loss,False,,
 Serie A,Italy,2018-10-28,Sampdoria,2.0,loss,False,,
 Serie A,Italy,2018-10-29,Inter,3.0,win,False,,
 Serie A,Italy,2018-11-03,Cagliari,1.0,loss,False,,
@@ -28295,57 +28309,47 @@ Serie A,Italy,2018-11-10,Cagliari,2.0,draw,False,,
 Serie A,Italy,2018-11-11,Inter,1.0,loss,False,,
 Serie A,Italy,2018-11-11,Sampdoria,1.0,loss,False,,
 Serie A,Italy,2018-11-24,SPAL,0.0,loss,False,,
-Serie A,Italy,2018-11-25,Chievo,0.0,draw,False,,
 Serie A,Italy,2018-11-25,Sampdoria,1.0,draw,False,,
 Serie A,Italy,2018-12-02,Parma,1.0,loss,False,,
 Serie A,Italy,2018-12-02,Cagliari,1.0,draw,False,,
 Serie A,Italy,2018-12-02,Inter,2.0,draw,False,,
 Serie A,Italy,2018-12-07,Inter,0.0,loss,False,,
 Serie A,Italy,2018-12-08,Sampdoria,2.0,draw,False,,
-Serie A,Italy,2018-12-09,Chievo,1.0,draw,False,,
 Serie A,Italy,2018-12-09,SPAL,1.0,draw,False,,
-Serie A,Italy,2018-12-16,Chievo,0.0,draw,False,,
 Serie A,Italy,2018-12-16,Parma,0.0,loss,False,,
 Serie A,Italy,2018-12-22,Cagliari,1.0,loss,False,,
 Serie A,Italy,2018-12-22,Sampdoria,4.0,win,False,,
 Serie A,Italy,2018-12-22,SPAL,0.0,loss,False,,
 Serie A,Italy,2018-12-22,Inter,1.0,draw,False,,
 Serie A,Italy,2018-12-26,Parma,1.0,win,False,,
-Serie A,Italy,2018-12-26,Chievo,0.0,loss,False,,
 Serie A,Italy,2018-12-29,Sampdoria,1.0,loss,False,,
 Serie A,Italy,2018-12-29,Cagliari,0.0,loss,False,,
 Serie A,Italy,2018-12-29,Inter,1.0,win,False,,
 Serie A,Italy,2018-12-29,SPAL,1.0,loss,False,,
 Serie A,Italy,2018-08-26,Parma,0.0,loss,False,,
 Serie A,Italy,2018-08-26,Sampdoria,0.0,loss,False,,
-Serie A,Italy,2018-08-26,Chievo,1.0,loss,False,,
 Serie A,Italy,2019-01-19,Parma,2.0,win,False,,
 Serie A,Italy,2019-01-20,Sampdoria,3.0,draw,False,,
-Serie A,Italy,2019-01-21,Chievo,0.0,loss,False,,
 Serie A,Italy,2019-01-26,Cagliari,0.0,loss,False,,
 Serie A,Italy,2019-01-27,SPAL,3.0,win,False,,
 Serie A,Italy,2019-01-27,Inter,0.0,loss,False,,
-Serie A,Italy,2019-02-02,Chievo,2.0,draw,False,,
 Serie A,Italy,2019-02-02,Sampdoria,0.0,loss,False,,
 Serie A,Italy,2019-02-02,Parma,3.0,draw,False,,
 Serie A,Italy,2019-02-09,Inter,1.0,win,False,,
 Serie A,Italy,2019-02-10,SPAL,1.0,loss,False,,
 Serie A,Italy,2019-02-10,Cagliari,0.0,loss,False,,
 Serie A,Italy,2019-02-16,Parma,1.0,loss,False,,
-Serie A,Italy,2019-02-17,Chievo,0.0,loss,False,,
 Serie A,Italy,2019-02-17,Sampdoria,1.0,loss,False,,
 Serie A,Italy,2019-02-24,Cagliari,0.0,loss,False,,
 Serie A,Italy,2019-02-24,SPAL,1.0,draw,False,,
 Serie A,Italy,2019-02-24,Inter,3.0,draw,False,,
 Serie A,Italy,2019-03-01,Inter,1.0,loss,False,,
 Serie A,Italy,2019-03-02,Parma,3.0,draw,False,,
-Serie A,Italy,2019-03-03,Chievo,0.0,loss,False,,
 Serie A,Italy,2019-03-03,Sampdoria,2.0,win,False,,
 Serie A,Italy,2019-03-10,Cagliari,0.0,loss,False,,
 Serie A,Italy,2019-03-10,SPAL,0.0,loss,False,,
 Serie A,Italy,2019-03-16,Sampdoria,5.0,win,False,,
 Serie A,Italy,2019-03-17,Parma,1.0,loss,False,,
-Serie A,Italy,2019-03-17,Chievo,1.0,draw,False,,
 Serie A,Italy,2019-03-17,Inter,3.0,win,False,,
 Serie A,Italy,2019-03-29,Cagliari,3.0,win,False,,
 Serie A,Italy,2019-03-31,SPAL,1.0,win,False,,
@@ -28355,14 +28359,11 @@ Serie A,Italy,2018-09-02,Cagliari,1.0,win,False,,
 Serie A,Italy,2019-04-03,Sampdoria,1.0,loss,False,,
 Serie A,Italy,2019-04-03,Parma,2.0,loss,False,,
 Serie A,Italy,2019-04-03,Inter,4.0,win,False,,
-Serie A,Italy,2019-04-04,Chievo,0.0,loss,False,,
 Serie A,Italy,2019-04-07,SPAL,1.0,loss,False,,
-Serie A,Italy,2019-04-08,Chievo,0.0,loss,False,,
 Serie A,Italy,2019-04-14,Cagliari,1.0,draw,False,,
 Serie A,Italy,2019-04-14,Parma,0.0,draw,False,,
 Serie A,Italy,2019-04-14,Inter,3.0,win,False,,
 Serie A,Italy,2019-04-20,Sampdoria,0.0,loss,False,,
-Serie A,Italy,2019-04-20,Chievo,2.0,win,False,,
 Serie A,Italy,2019-04-20,SPAL,4.0,win,False,,
 Serie A,Italy,2019-04-27,Cagliari,0.0,loss,False,,
 Serie A,Italy,2019-04-28,Parma,1.0,draw,False,,
@@ -28371,26 +28372,21 @@ Serie A,Italy,2019-05-04,Inter,0.0,draw,False,,
 Serie A,Italy,2019-05-05,Sampdoria,3.0,draw,False,,
 Serie A,Italy,2019-05-05,Cagliari,1.0,loss,False,,
 Serie A,Italy,2019-05-13,Parma,1.0,loss,False,,
-Serie A,Italy,2019-05-13,Chievo,0.0,loss,False,,
 Serie A,Italy,2019-05-18,SPAL,2.0,loss,False,,
 Serie A,Italy,2019-05-18,Cagliari,1.0,draw,False,,
 Serie A,Italy,2019-05-19,Sampdoria,0.0,draw,False,,
 Serie A,Italy,2019-05-19,Inter,1.0,loss,False,,
-Serie A,Italy,2019-05-25,Chievo,0.0,draw,False,,
 Serie A,Italy,2019-05-26,Parma,1.0,loss,False,,
 Serie A,Italy,2018-09-15,Parma,1.0,win,False,,
 Serie A,Italy,2018-09-15,Sampdoria,5.0,win,False,,
-Serie A,Italy,2018-09-16,Chievo,2.0,draw,False,,
 Serie A,Italy,2018-09-22,Cagliari,0.0,loss,False,,
 Serie A,Italy,2018-09-22,SPAL,0.0,loss,False,,
 Serie A,Italy,2018-09-22,Inter,1.0,win,False,,
 Serie A,Italy,2018-09-26,Parma,0.0,loss,False,,
-Serie A,Italy,2018-09-26,Chievo,0.0,loss,False,,
 Serie A,Italy,2018-09-26,Sampdoria,0.0,draw,False,,
 Serie A,Italy,2018-09-29,Cagliari,0.0,loss,False,,
 Serie A,Italy,2018-10-01,SPAL,1.0,loss,False,,
 Serie A,Italy,2018-10-07,Parma,3.0,win,False,,
-Serie A,Italy,2018-10-07,Chievo,1.0,loss,False,,
 Serie A,Italy,2018-10-07,Sampdoria,1.0,win,False,,
 Serie A,Italy,2018-10-07,Inter,2.0,win,False,,
 Serie A,Italy,2018-10-20,SPAL,2.0,win,False,,

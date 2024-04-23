@@ -18,6 +18,7 @@ Werder Bremen,Bundesliga,Germany,Alexander Nouri,2016-10-02,2017-10-30,393,40,14
 Stuttgart,Bundesliga,Germany,Alexander Zorniger,2015-07-01,2015-11-24,146,15,5,1,9,1
 Hoffenheim,Bundesliga,Germany,Alfred Schreuder,2019-07-01,2020-06-09,344,33,14,7,12,1
 Hellas Verona,Serie A,Italy,Alfredo Aglietti,2019-05-02,2019-06-30,59,7,4,1,2,1
+Chievo,Serie A,Italy,Alfredo Aglietti,2020-03-01,2021-06-30,486,55,20,19,16,2
 Hellas Verona,Serie A,Italy,Andrea Mandorlini,2010-11-09,2015-11-30,1847,216,94,59,63,1
 Genoa,Serie A,Italy,Andrea Mandorlini,2017-02-20,2017-04-10,49,6,1,1,4,2
 Juventus,Serie A,Italy,Andrea Pirlo,2020-08-08,2021-05-28,293,52,34,10,8,1
@@ -82,6 +83,7 @@ Darmstadt 98,Bundesliga,Germany,Dimitrios Grammozis,2019-02-24,2020-06-30,492,47
 Darmstadt 98,Bundesliga,Germany,Dirk Schuster,2012-12-28,2016-06-30,1280,138,60,41,37,1
 Augsburg,Bundesliga,Germany,Dirk Schuster,2016-07-01,2016-12-14,166,16,4,5,7,2
 Darmstadt 98,Bundesliga,Germany,Dirk Schuster,2017-12-11,2019-02-18,434,41,13,12,16,3
+Chievo,Serie A,Italy,Domenico Di Carlo,2018-11-13,2019-05-31,199,27,2,11,14,1
 Toulouse,Ligue 1,France,Dominique Arribagé,2015-03-20,2016-02-28,345,43,12,11,20,1
 Bournemouth,Premier League,England,Eddie Howe,2012-10-14,2020-08-01,2848,355,144,75,136,1
 Dortmund,Bundesliga,Germany,Edin Terzic,2020-12-29,2021-06-30,183,29,18,4,7,1
@@ -92,6 +94,7 @@ Athletic Club,LaLiga,Spain,Eduardo Berizzo,2018-07-01,2018-12-04,156,15,2,8,5,3
 Celta Vigo,LaLiga,Spain,Eduardo Coudet,2020-11-12,2022-11-02,720,84,31,19,34,1
 Athletic Club,LaLiga,Spain,Ernesto Valverde,2013-07-01,2017-06-30,1460,213,101,46,66,1
 Barcelona,LaLiga,Spain,Ernesto Valverde,2017-07-01,2020-01-13,926,145,97,32,16,2
+Chievo,Serie A,Italy,Eugenio Corini,2013-11-12,2014-10-19,341,36,11,4,21,1
 Real Sociedad,LaLiga,Spain,Eusebio,2015-11-09,2018-03-18,860,112,46,23,43,1
 Sassuolo,Serie A,Italy,Eusebio Di Francesco,2014-03-03,2017-06-12,1197,142,52,39,51,1
 Roma,Serie A,Italy,Eusebio Di Francesco,2017-06-13,2019-03-07,632,87,46,18,23,2
@@ -178,6 +181,7 @@ Mainz 05,Bundesliga,Germany,Kasper Hjulmand,2014-07-01,2015-02-17,231,24,5,10,9,
 Paris S-G,Ligue 1,France,Laurent Blanc,2013-06-25,2016-06-22,1093,173,126,31,16,1
 Monaco,Ligue 1,France,Leonardo Jardim,2014-07-01,2018-10-11,1563,233,127,51,55,1
 Monaco,Ligue 1,France,Leonardo Jardim,2019-01-27,2019-12-27,334,37,14,10,13,2
+Chievo,Serie A,Italy,Lorenzo D'Anna,2018-04-29,2018-10-09,163,12,4,2,6,1
 Manchester Utd,Premier League,England,Louis van Gaal,2014-07-14,2016-05-23,679,103,54,24,25,1
 Udinese,Serie A,Italy,Luca Gotti,2019-11-01,2021-12-07,767,87,25,25,37,1
 Granada,LaLiga,Spain,Lucas Alcaraz,2016-10-19,2017-04-10,173,25,5,6,14,1
@@ -233,6 +237,7 @@ Getafe,LaLiga,Spain,Michel,2021-07-01,2021-10-04,95,8,0,1,7,2
 Nantes,Ligue 1,France,Michel Der Zakarian,2012-05-31,2016-06-30,1491,171,65,47,59,1
 Reims,Ligue 1,France,Michel Der Zakarian,2016-07-01,2017-05-22,325,41,15,13,13,2
 Montpellier,Ligue 1,France,Michel Der Zakarian,2017-05-23,2021-05-24,1462,161,63,51,47,3
+Chievo,Serie A,Italy,Michele Marcolini,2019-07-04,2020-03-01,241,28,10,10,8,1
 Lorient,Ligue 1,France,Mickaël Landreau,2017-05-30,2019-05-28,728,88,43,20,25,1
 Nantes,Ligue 1,France,Miguel Cardoso,2018-06-13,2018-10-02,111,8,1,3,4,1
 Celta Vigo,LaLiga,Spain,Miguel Cardoso,2018-11-12,2019-03-03,111,15,3,2,10,2
@@ -304,7 +309,8 @@ Empoli,Serie A,Italy,Roberto Muzzi,2019-11-14,2020-01-26,73,10,1,4,5,1
 Frosinone,Serie A,Italy,Roberto Stellone,2012-06-14,2016-06-30,1477,159,64,41,54,1
 Werder Bremen,Bundesliga,Germany,Robin Dutt,2013-07-01,2014-10-25,481,45,11,13,21,1
 Leverkusen,Bundesliga,Germany,Roger Schmidt,2014-07-01,2017-03-05,978,125,62,27,36,1
-Genoa,Serie A,Italy,Rolando Maran,2020-08-26,2020-12-21,117,15,3,4,8,1
+Chievo,Serie A,Italy,Rolando Maran,2014-10-19,2018-04-29,1288,148,44,40,64,1
+Genoa,Serie A,Italy,Rolando Maran,2020-08-26,2020-12-21,117,15,3,4,8,2
 Montpellier,Ligue 1,France,Rolland Courbis,2013-12-09,2015-12-22,743,84,30,20,34,1
 Montpellier,Ligue 1,France,Romain Pitau,2022-10-17,2023-02-07,113,12,2,2,8,1
 Everton,Premier League,England,Ronald Koeman,2016-07-01,2017-10-23,479,58,24,14,20,1

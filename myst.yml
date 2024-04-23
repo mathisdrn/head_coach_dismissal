@@ -31,21 +31,6 @@ project:
   - file: https://raw.githubusercontent.com/mathisdrn/head_coach_dismissal/master/exports/head_coach_dismissal.pdf
     title: PDF version
     filename: head_coach_dismissal.pdf
-    # - format: pdf
-    #   template: arxiv_two_column
-    #   output: ./exports/head_coach_dismissal_arxiv.pdf
-    #   articles:
-    #       - file: Paper.md
-    # - format: pdf
-    #   template: lapreprint
-    #   output: ./exports/head_coach_dismissal_lapreprint.pdf
-    #   articles:
-    #       - file: Paper.md
-    # - format: pdf
-    #   template: arxiv_nips
-    #   output: ./exports/head_coach_dismissal_arxiv_nips.pdf
-    #   articles:
-    #       - file: Paper.md
 site:
   title: "Head coach dismissal effect on team performance"
   template: article-theme
