@@ -3912,50 +3912,11 @@ Ligue 1,France,2020-03-01,Lyon,2.0,win,True,Rudi Garcia,139.0
 Ligue 1,France,2020-03-06,Marseille,2.0,draw,True,André Villas-Boas,249.0
 Ligue 1,France,2020-03-07,Nice,2.0,win,True,Patrick Vieira,615.0
 Ligue 1,France,2020-03-08,Lille,1.0,win,True,Christophe Galtier,800.0
-Ligue 1,France,2020-03-13,Lyon,,draw,True,Rudi Garcia,151.0
-Ligue 1,France,2020-03-14,Montpellier,,draw,True,Michel Der Zakarian,1026.0
-Ligue 1,France,2020-03-14,Nantes,,draw,True,Christian Gourcuff,219.0
-Ligue 1,France,2020-03-15,Monaco,,draw,True,Robert Moreno,78.0
-Ligue 1,France,2020-03-15,Paris S-G,,draw,True,Thomas Tuchel,623.0
 Ligue 1,France,2019-08-25,Monaco,2.0,draw,True,Leonardo Jardim,210.0
 Ligue 1,France,2019-08-25,Paris S-G,4.0,win,True,Thomas Tuchel,420.0
 Ligue 1,France,2019-08-27,Montpellier,1.0,win,True,Michel Der Zakarian,826.0
 Ligue 1,France,2019-08-28,Lille,3.0,win,True,Christophe Galtier,607.0
 Ligue 1,France,2019-08-28,Nice,1.0,loss,True,Patrick Vieira,423.0
-Ligue 1,France,2020-03-20,Lille,,draw,True,Christophe Galtier,812.0
-Ligue 1,France,2020-03-21,Nice,,draw,True,Patrick Vieira,629.0
-Ligue 1,France,2020-03-22,Marseille,,draw,True,André Villas-Boas,265.0
-Ligue 1,France,2020-04-04,Montpellier,,draw,True,Michel Der Zakarian,1047.0
-Ligue 1,France,2020-04-05,Lyon,,draw,True,Rudi Garcia,174.0
-Ligue 1,France,2020-04-05,Paris S-G,,draw,True,Thomas Tuchel,644.0
-Ligue 1,France,2020-04-05,Monaco,,draw,True,Robert Moreno,99.0
-Ligue 1,France,2020-04-11,Nantes,,draw,True,Christian Gourcuff,247.0
-Ligue 1,France,2020-04-11,Marseille,,draw,True,André Villas-Boas,285.0
-Ligue 1,France,2020-04-11,Nice,,draw,True,Patrick Vieira,650.0
-Ligue 1,France,2020-04-18,Monaco,,draw,True,Robert Moreno,112.0
-Ligue 1,France,2020-04-18,Lyon,,draw,True,Rudi Garcia,187.0
-Ligue 1,France,2020-04-18,Paris S-G,,draw,True,Thomas Tuchel,657.0
-Ligue 1,France,2020-04-18,Montpellier,,draw,True,Michel Der Zakarian,1061.0
-Ligue 1,France,2020-04-18,Lille,,draw,True,Christophe Galtier,841.0
-Ligue 1,France,2020-04-26,Nantes,,draw,True,Christian Gourcuff,262.0
-Ligue 1,France,2020-04-26,Lyon,,draw,True,Rudi Garcia,195.0
-Ligue 1,France,2020-04-26,Marseille,,draw,True,André Villas-Boas,300.0
-Ligue 1,France,2020-05-02,Paris S-G,,draw,True,Thomas Tuchel,671.0
-Ligue 1,France,2020-05-02,Monaco,,draw,True,Robert Moreno,126.0
-Ligue 1,France,2020-05-02,Lille,,draw,True,Christophe Galtier,855.0
-Ligue 1,France,2020-05-02,Nice,,draw,True,Patrick Vieira,671.0
-Ligue 1,France,2020-05-02,Montpellier,,draw,True,Michel Der Zakarian,1075.0
-Ligue 1,France,2020-05-09,Marseille,,draw,True,André Villas-Boas,313.0
-Ligue 1,France,2020-05-09,Lyon,,draw,True,Rudi Garcia,208.0
-Ligue 1,France,2020-05-09,Nantes,,draw,True,Christian Gourcuff,275.0
-Ligue 1,France,2020-05-16,Nice,,draw,True,Patrick Vieira,685.0
-Ligue 1,France,2020-05-16,Lille,,draw,True,Christophe Galtier,869.0
-Ligue 1,France,2020-05-16,Montpellier,,draw,True,Michel Der Zakarian,1089.0
-Ligue 1,France,2020-05-16,Monaco,,draw,True,Robert Moreno,140.0
-Ligue 1,France,2020-05-16,Paris S-G,,draw,True,Thomas Tuchel,685.0
-Ligue 1,France,2020-05-16,Marseille,,draw,True,André Villas-Boas,320.0
-Ligue 1,France,2020-05-23,Nantes,,draw,True,Christian Gourcuff,289.0
-Ligue 1,France,2020-05-23,Lyon,,draw,True,Rudi Garcia,222.0
 Ligue 1,France,2019-08-31,Lyon,1.0,draw,True,Sylvinho,61.0
 Ligue 1,France,2019-08-31,Toulouse,2.0,win,True,Alain Casanova,432.0
 Ligue 1,France,2019-08-31,Nantes,1.0,win,True,Christian Gourcuff,23.0
@@ -11775,52 +11736,10 @@ Ligue 1,France,2020-03-07,Monaco,1.0,loss,False,Robert Moreno,70.0
 Ligue 1,France,2020-03-07,Nantes,0.0,loss,False,Christian Gourcuff,212.0
 Ligue 1,France,2020-03-08,Montpellier,0.0,loss,False,Michel Der Zakarian,1020.0
 Ligue 1,France,2020-03-08,Lyon,0.0,loss,False,Rudi Garcia,146.0
-Ligue 1,France,2020-03-18,Paris S-G,,draw,False,Thomas Tuchel,626.0
-Ligue 1,France,2020-03-14,Marseille,,draw,False,André Villas-Boas,257.0
-Ligue 1,France,2020-03-14,Lille,,draw,False,Christophe Galtier,806.0
-Ligue 1,France,2020-03-15,Nice,,draw,False,Patrick Vieira,623.0
 Ligue 1,France,2019-08-24,Nantes,2.0,win,False,Christian Gourcuff,16.0
 Ligue 1,France,2019-08-25,Toulouse,0.0,loss,False,Alain Casanova,426.0
 Ligue 1,France,2019-08-27,Lyon,0.0,loss,False,Sylvinho,57.0
 Ligue 1,France,2019-08-28,Marseille,2.0,win,False,André Villas-Boas,58.0
-Ligue 1,France,2020-03-20,Monaco,,draw,False,Robert Moreno,83.0
-Ligue 1,France,2020-03-21,Lyon,,draw,False,Rudi Garcia,159.0
-Ligue 1,France,2020-03-21,Montpellier,,draw,False,Michel Der Zakarian,1033.0
-Ligue 1,France,2020-03-22,Nantes,,draw,False,Christian Gourcuff,227.0
-Ligue 1,France,2020-03-22,Paris S-G,,draw,False,Thomas Tuchel,630.0
-Ligue 1,France,2020-04-04,Lille,,draw,False,Christophe Galtier,827.0
-Ligue 1,France,2020-04-05,Nantes,,draw,False,Christian Gourcuff,241.0
-Ligue 1,France,2020-04-05,Nice,,draw,False,Patrick Vieira,644.0
-Ligue 1,France,2020-04-05,Marseille,,draw,False,André Villas-Boas,279.0
-Ligue 1,France,2020-04-11,Montpellier,,draw,False,Michel Der Zakarian,1054.0
-Ligue 1,France,2020-04-11,Monaco,,draw,False,Robert Moreno,105.0
-Ligue 1,France,2020-04-11,Paris S-G,,draw,False,Thomas Tuchel,650.0
-Ligue 1,France,2020-04-11,Lyon,,draw,False,Rudi Garcia,180.0
-Ligue 1,France,2020-04-11,Lille,,draw,False,Christophe Galtier,834.0
-Ligue 1,France,2020-04-18,Marseille,,draw,False,André Villas-Boas,292.0
-Ligue 1,France,2020-04-18,Nantes,,draw,False,Christian Gourcuff,254.0
-Ligue 1,France,2020-04-18,Nice,,draw,False,Patrick Vieira,657.0
-Ligue 1,France,2020-04-26,Lille,,draw,False,Christophe Galtier,849.0
-Ligue 1,France,2020-04-26,Montpellier,,draw,False,Michel Der Zakarian,1069.0
-Ligue 1,France,2020-04-26,Paris S-G,,draw,False,Thomas Tuchel,665.0
-Ligue 1,France,2020-04-26,Monaco,,draw,False,Robert Moreno,120.0
-Ligue 1,France,2020-04-26,Nice,,draw,False,Patrick Vieira,665.0
-Ligue 1,France,2020-05-02,Lyon,,draw,False,Rudi Garcia,201.0
-Ligue 1,France,2020-05-02,Nantes,,draw,False,Christian Gourcuff,268.0
-Ligue 1,France,2020-05-02,Marseille,,draw,False,André Villas-Boas,306.0
-Ligue 1,France,2020-05-09,Lille,,draw,False,Christophe Galtier,862.0
-Ligue 1,France,2020-05-09,Paris S-G,,draw,False,Thomas Tuchel,678.0
-Ligue 1,France,2020-05-09,Monaco,,draw,False,Robert Moreno,133.0
-Ligue 1,France,2020-05-09,Montpellier,,draw,False,Michel Der Zakarian,1082.0
-Ligue 1,France,2020-05-09,Nice,,draw,False,Patrick Vieira,678.0
-Ligue 1,France,2020-05-16,Nantes,,draw,False,Christian Gourcuff,282.0
-Ligue 1,France,2020-05-16,Lyon,,draw,False,Rudi Garcia,215.0
-Ligue 1,France,2020-05-23,Marseille,,draw,False,André Villas-Boas,327.0
-Ligue 1,France,2020-05-23,Monaco,,draw,False,Robert Moreno,147.0
-Ligue 1,France,2020-05-23,Montpellier,,draw,False,Michel Der Zakarian,1096.0
-Ligue 1,France,2020-05-23,Nice,,draw,False,Patrick Vieira,692.0
-Ligue 1,France,2020-05-23,Paris S-G,,draw,False,Thomas Tuchel,692.0
-Ligue 1,France,2020-05-23,Lille,,draw,False,Christophe Galtier,876.0
 Ligue 1,France,2019-08-30,Paris S-G,2.0,win,False,Thomas Tuchel,425.0
 Ligue 1,France,2019-08-31,Montpellier,0.0,loss,False,Michel Der Zakarian,830.0
 Ligue 1,France,2019-09-01,Nice,2.0,win,False,Patrick Vieira,427.0
@@ -19682,62 +19601,11 @@ Ligue 1,France,2020-03-07,Dijon,2.0,win,True,,
 Ligue 1,France,2020-03-07,Metz,2.0,win,True,,
 Ligue 1,France,2020-03-08,Saint-Étienne,1.0,draw,True,,
 Ligue 1,France,2020-03-08,Rennes,5.0,win,True,,
-Ligue 1,France,2020-03-18,Strasbourg,,draw,True,,
-Ligue 1,France,2020-03-14,Strasbourg,,draw,True,,
-Ligue 1,France,2020-03-14,Brest,,draw,True,,
-Ligue 1,France,2020-03-14,Amiens,,draw,True,,
-Ligue 1,France,2020-03-15,Bordeaux,,draw,True,,
 Ligue 1,France,2019-08-24,Amiens,1.0,loss,True,,
 Ligue 1,France,2019-08-24,Dijon,0.0,loss,True,,
 Ligue 1,France,2019-08-24,Brest,1.0,win,True,,
 Ligue 1,France,2019-08-24,Angers,3.0,win,True,,
 Ligue 1,France,2019-08-25,Strasbourg,0.0,loss,True,,
-Ligue 1,France,2020-03-21,Rennes,,draw,True,,
-Ligue 1,France,2020-03-21,Dijon,,draw,True,,
-Ligue 1,France,2020-03-21,Metz,,draw,True,,
-Ligue 1,France,2020-03-21,Nîmes,,draw,True,,
-Ligue 1,France,2020-03-21,Angers,,draw,True,,
-Ligue 1,France,2020-03-22,Saint-Étienne,,draw,True,,
-Ligue 1,France,2020-04-05,Strasbourg,,draw,True,,
-Ligue 1,France,2020-04-05,Dijon,,draw,True,,
-Ligue 1,France,2020-04-05,Bordeaux,,draw,True,,
-Ligue 1,France,2020-04-05,Amiens,,draw,True,,
-Ligue 1,France,2020-04-05,Brest,,draw,True,,
-Ligue 1,France,2020-04-11,Nîmes,,draw,True,,
-Ligue 1,France,2020-04-11,Brest,,draw,True,,
-Ligue 1,France,2020-04-11,Angers,,draw,True,,
-Ligue 1,France,2020-04-11,Bordeaux,,draw,True,,
-Ligue 1,France,2020-04-11,Saint-Étienne,,draw,True,,
-Ligue 1,France,2020-04-11,Metz,,draw,True,,
-Ligue 1,France,2020-04-18,Dijon,,draw,True,,
-Ligue 1,France,2020-04-18,Strasbourg,,draw,True,,
-Ligue 1,France,2020-04-18,Amiens,,draw,True,,
-Ligue 1,France,2020-04-18,Rennes,,draw,True,,
-Ligue 1,France,2020-04-26,Rennes,,draw,True,,
-Ligue 1,France,2020-04-26,Nîmes,,draw,True,,
-Ligue 1,France,2020-04-26,Saint-Étienne,,draw,True,,
-Ligue 1,France,2020-04-26,Bordeaux,,draw,True,,
-Ligue 1,France,2020-04-26,Brest,,draw,True,,
-Ligue 1,France,2020-04-26,Metz,,draw,True,,
-Ligue 1,France,2020-05-02,Angers,,draw,True,,
-Ligue 1,France,2020-05-02,Dijon,,draw,True,,
-Ligue 1,France,2020-05-02,Amiens,,draw,True,,
-Ligue 1,France,2020-05-02,Strasbourg,,draw,True,,
-Ligue 1,France,2020-05-09,Saint-Étienne,,draw,True,,
-Ligue 1,France,2020-05-09,Rennes,,draw,True,,
-Ligue 1,France,2020-05-09,Nîmes,,draw,True,,
-Ligue 1,France,2020-05-09,Bordeaux,,draw,True,,
-Ligue 1,France,2020-05-09,Metz,,draw,True,,
-Ligue 1,France,2020-05-16,Strasbourg,,draw,True,,
-Ligue 1,France,2020-05-16,Dijon,,draw,True,,
-Ligue 1,France,2020-05-16,Angers,,draw,True,,
-Ligue 1,France,2020-05-16,Brest,,draw,True,,
-Ligue 1,France,2020-05-23,Metz,,draw,True,,
-Ligue 1,France,2020-05-23,Rennes,,draw,True,,
-Ligue 1,France,2020-05-23,Amiens,,draw,True,,
-Ligue 1,France,2020-05-23,Nîmes,,draw,True,,
-Ligue 1,France,2020-05-23,Bordeaux,,draw,True,,
-Ligue 1,France,2020-05-23,Saint-Étienne,,draw,True,,
 Ligue 1,France,2019-08-30,Metz,0.0,loss,True,,
 Ligue 1,France,2019-08-31,Angers,2.0,win,True,,
 Ligue 1,France,2019-08-31,Nîmes,3.0,win,True,,
@@ -26277,61 +26145,11 @@ Ligue 1,France,2020-03-06,Amiens,2.0,draw,False,,
 Ligue 1,France,2020-03-07,Nîmes,1.0,loss,False,,
 Ligue 1,France,2020-03-07,Brest,0.0,loss,False,,
 Ligue 1,France,2020-03-08,Bordeaux,1.0,draw,False,,
-Ligue 1,France,2020-03-14,Nîmes,,draw,False,,
-Ligue 1,France,2020-03-14,Dijon,,draw,False,,
-Ligue 1,France,2020-03-14,Metz,,draw,False,,
-Ligue 1,France,2020-03-14,Angers,,draw,False,,
-Ligue 1,France,2020-03-15,Rennes,,draw,False,,
-Ligue 1,France,2020-03-15,Saint-Étienne,,draw,False,,
 Ligue 1,France,2019-08-24,Bordeaux,2.0,win,False,,
 Ligue 1,France,2019-08-24,Metz,0.0,loss,False,,
 Ligue 1,France,2019-08-25,Nîmes,2.0,draw,False,,
 Ligue 1,France,2019-08-25,Rennes,2.0,win,False,,
 Ligue 1,France,2019-08-28,Saint-Étienne,0.0,loss,False,,
-Ligue 1,France,2020-03-21,Amiens,,draw,False,,
-Ligue 1,France,2020-03-21,Brest,,draw,False,,
-Ligue 1,France,2020-03-21,Bordeaux,,draw,False,,
-Ligue 1,France,2020-03-22,Strasbourg,,draw,False,,
-Ligue 1,France,2020-04-04,Saint-Étienne,,draw,False,,
-Ligue 1,France,2020-04-05,Nîmes,,draw,False,,
-Ligue 1,France,2020-04-05,Metz,,draw,False,,
-Ligue 1,France,2020-04-05,Angers,,draw,False,,
-Ligue 1,France,2020-04-05,Rennes,,draw,False,,
-Ligue 1,France,2020-04-11,Amiens,,draw,False,,
-Ligue 1,France,2020-04-11,Dijon,,draw,False,,
-Ligue 1,France,2020-04-11,Rennes,,draw,False,,
-Ligue 1,France,2020-04-11,Strasbourg,,draw,False,,
-Ligue 1,France,2020-04-18,Bordeaux,,draw,False,,
-Ligue 1,France,2020-04-18,Saint-Étienne,,draw,False,,
-Ligue 1,France,2020-04-18,Angers,,draw,False,,
-Ligue 1,France,2020-04-18,Brest,,draw,False,,
-Ligue 1,France,2020-04-18,Nîmes,,draw,False,,
-Ligue 1,France,2020-04-18,Metz,,draw,False,,
-Ligue 1,France,2020-04-26,Strasbourg,,draw,False,,
-Ligue 1,France,2020-04-26,Amiens,,draw,False,,
-Ligue 1,France,2020-04-26,Angers,,draw,False,,
-Ligue 1,France,2020-04-26,Dijon,,draw,False,,
-Ligue 1,France,2020-05-02,Rennes,,draw,False,,
-Ligue 1,France,2020-05-02,Brest,,draw,False,,
-Ligue 1,France,2020-05-02,Metz,,draw,False,,
-Ligue 1,France,2020-05-02,Nîmes,,draw,False,,
-Ligue 1,France,2020-05-02,Saint-Étienne,,draw,False,,
-Ligue 1,France,2020-05-02,Bordeaux,,draw,False,,
-Ligue 1,France,2020-05-09,Dijon,,draw,False,,
-Ligue 1,France,2020-05-09,Strasbourg,,draw,False,,
-Ligue 1,France,2020-05-09,Brest,,draw,False,,
-Ligue 1,France,2020-05-09,Angers,,draw,False,,
-Ligue 1,France,2020-05-09,Amiens,,draw,False,,
-Ligue 1,France,2020-05-16,Saint-Étienne,,draw,False,,
-Ligue 1,France,2020-05-16,Amiens,,draw,False,,
-Ligue 1,France,2020-05-16,Bordeaux,,draw,False,,
-Ligue 1,France,2020-05-16,Rennes,,draw,False,,
-Ligue 1,France,2020-05-16,Metz,,draw,False,,
-Ligue 1,France,2020-05-16,Nîmes,,draw,False,,
-Ligue 1,France,2020-05-23,Angers,,draw,False,,
-Ligue 1,France,2020-05-23,Strasbourg,,draw,False,,
-Ligue 1,France,2020-05-23,Brest,,draw,False,,
-Ligue 1,France,2020-05-23,Dijon,,draw,False,,
 Ligue 1,France,2019-08-31,Bordeaux,1.0,draw,False,,
 Ligue 1,France,2019-08-31,Amiens,0.0,loss,False,,
 Ligue 1,France,2019-08-31,Dijon,0.0,loss,False,,
