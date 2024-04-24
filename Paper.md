@@ -425,17 +425,15 @@ Match Outcome versus Head Coach Tenure on Match Day
 L'ancienneté, tout entraîneurs confondus a un effet positif sur la performance de l'équipe. Cela peut s'expliquer par le fait que les entraîneurs ont besoin de temps pour s'adapter à leur nouvel environnement et pour mettre en place leur stratégie de jeu. De plus, les entraîneurs qui restent plus longtemps à la tête de l'équipe ont tendance à mieux connaître les joueurs et à mieux comprendre les forces et les faiblesses de l'équipe, ce qui peut contribuer à améliorer les performances de l'équipe.
 Néanmoins, il est aussi probable que les équipes qui ont de bons résultats ont tendance à garder leurs entraîneurs plus longtemps, ce qui peut expliquer en partie la corrélation positive entre l'ancienneté du coach et la performance de l'équipe.
 
-#### Une visualisation graphique de l'effet de l'ancienneté du coach sur la performance de l'équipe
-
 ![](#match_stats)
+
+La [](#match_outcome_vs_days) illustre la proportion des résultats des matchs en fonction de l'ancienneté de l'entraîneur principal lors du match. Cette proportion est calculée à l'aide d'une moyenne pondérée sur une période de 100 jours. La zone verte représente les victoires, la zone grise les matchs nuls et la zone rouge les défaites. On n'observe pas de tendance claire dans les résultats des matchs en fonction de l'ancienneté de l'entraîneur lors du match.
 
 :::{figure} #match_outcome_over_coach_tenure
 :name: match_outcome_vs_days
 :align: center
 Weighted Rolling Average of Match Outcome versus Head Coach Tenure on Match Day
 :::
-
-Le [graphique](#match_outcome_vs_days) illustre la proportion des résultats des matchs en fonction de l'ancienneté de l'entraîneur principal lors du match. Cette proportion est calculée à l'aide d'une moyenne pondérée sur une période de 100 jours. La zone verte représente les victoires, la zone grise représente les matchs nuls et la zone rouge représente les défaites. On peut observer que les victoires tendent à augmenter avec l'ancienneté de l'entraîneur, tandis que les défaites ont tendance à diminuer.
 
 :::{code} python
 :caption: Calcul des moyennes mobiles pondérées
@@ -449,8 +447,7 @@ def weighted_rolling_mean(data, weights, window_size=30):
     return data.rolling(window_size, min_periods=1).apply(weighted_mean, raw=False)
 :::
 
-
-## Perspectives d'amélioration
+## Pistes d'améliorations
 
 Voici plusieurs pistes afin d'améliorer et compléter cette étude :
 - Ajouter les données manquantes des mandants des entraîneurs sportifs
