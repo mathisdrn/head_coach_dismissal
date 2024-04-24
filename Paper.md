@@ -391,12 +391,19 @@ Team Results of Head Coach Appointment versus Appointment Tenure
 :::
 
 Nous observons : 
-- [({number})](#hc_win_vs_tenure) une corrélation positive modérée ($r = 0.38$) statistiquement significative ($p = 0.00$) entre la durée du coach et le ratio de victoires.
-- [({number})](#hc_draw_vs_tenure) une corrélation négative faible ($r = −0.05$) mais statistiquement-non significative ($p = 0.32$) entre la durée du coach et le ratio de matchs nuls.
-- [({number})](#hc_loss_vs_tenure) une corrélation négative modérée ($r = −0.38$) statistiquement significative ($p = 0.00$) entre la durée du coach et le ratio de défaites.
+- [({number})](#hc_win_vs_tenure) une corrélation positive modérée ($r = 0.38$) statistiquement significative ($p = 0.00$) entre la durée du mandat de l'entraîneur et le pourcentage de victoires.
+- [({number})](#hc_draw_vs_tenure) une corrélation négative faible ($r = −0.05$) mais statistiquement-non significative ($p = 0.32$) entre la durée du mandat de l'entraîneur et le pourcentage de matchs nuls.
+- [({number})](#hc_loss_vs_tenure) une corrélation négative modérée ($r = −0.38$) statistiquement significative ($p = 0.00$) entre la durée du mandat de l'entraîneur et le pourcentage de défaites.
 
-% to review
-Ces résultats suggèrent que l'ancienneté du coach au sein de l'équipe a un impact positif sur les performances de l'équipe. Cela peut s'expliquer par le fait que les entraîneurs ont besoin de temps pour s'adapter à leur nouvel environnement et pour mettre en place leur stratégie de jeu. De plus, les entraîneurs qui restent plus longtemps à la tête de l'équipe ont tendance à mieux connaître les joueurs et à mieux comprendre les forces et les faiblesses de l'équipe, ce qui peut contribuer à améliorer les performances de l'équipe.
+Les hypothèses explicatives du lien entre la durée du mandat de l'entraîneur et la performance de l'équipe sont similaires aux hypothèses fournies pour expliquer le lien entre la fréquence du renouvellement des entraîneurs par les clubs et la performance du club :
+
+1. La durée du mandat comme facteur explicatif de la performance de l'équipe :
+    - Les entraîneurs qui restent plus longtemps à la tête de l'équipe ont tendance à mieux connaître les joueurs et à mieux comprendre les forces et les faiblesses de l'équipe, ce qui peut contribuer à améliorer les performances de l'équipe.
+    - Les entraîneurs qui restent moins longtemps à la tête de l'équipe n'ont pas eu le temps de mettre en place leur stratégie de jeu et de s'adapter à leur nouvel environnement, ce qui peut affecter négativement les performances de l'équipe.
+2. La performance de l'équipe comme facteur explicatif de la durée du mandat de l'entraîneur :
+    - Les équipes qui obtiennent de bons résultats ont tendance à garder leur entraîneur plus longtemps, car il est une partie intégrante de la stabilité et de la performance actuelle de l'équipe.
+    - Les équipe qui obtiennent de mauvais résultats ont tendance à renouveler leurs entraîneurs plus fréquemment pour tenter d'améliorer leurs performances.
+3. Existence de facteurs tiers qui affecte à la fois la durée du mandat de l'entraîneur et la performance de l'équipe.
 
 ### Ancienneté de l'entraîneur lors du match
 
@@ -426,9 +433,6 @@ La [](#match_result_over_coach_tenure) montre le résultat individuel des matchs
 
 Match Outcome versus Head Coach Tenure on Match Day
 :::
-
-L'ancienneté, tout entraîneurs confondus a un effet positif sur la performance de l'équipe. Cela peut s'expliquer par le fait que les entraîneurs ont besoin de temps pour s'adapter à leur nouvel environnement et pour mettre en place leur stratégie de jeu. De plus, les entraîneurs qui restent plus longtemps à la tête de l'équipe ont tendance à mieux connaître les joueurs et à mieux comprendre les forces et les faiblesses de l'équipe, ce qui peut contribuer à améliorer les performances de l'équipe.
-Néanmoins, il est aussi probable que les équipes qui ont de bons résultats ont tendance à garder leurs entraîneurs plus longtemps, ce qui peut expliquer en partie la corrélation positive entre l'ancienneté du coach et la performance de l'équipe.
 
 ![](#match_stats)
 
@@ -462,13 +466,14 @@ Voici plusieurs pistes afin d'améliorer et compléter cette étude :
 
 ## Conclusion
 
-L'analyse des données a permis de mettre en évidence trois corrélations entre la performance d'une équipe et l'entraîneur sportif. Les résultats montrent que l'ancienneté du coach au sein de l'équipe est corrélée positivement avec la performance de l'équipe. En d'autres termes, plus un coach reste longtemps à la tête de l'équipe, meilleure sont les performances de l'équipe. De plus, le renouvellement régulier d'un coach sportif est corrélé négativement avec la performance de l'équipe. Enfin, les entraîneurs qui changent régulièrement de club ont tendance à voir une amélioration de la performance de l'équipe.
+L'analyse des données a permis de mettre en évidence plusieurs corrélations :
+- La fréquence de renouvellement des entraîneurs par les clubs est corrélée négativement avec la performance de l'équipe.
+- La mobilité des entraîneurs est corrélée positivement avec la performance des équipes entraînées.
+- La durée du mandat de l'entraîneur est corrélée positivement avec la performance de l'équipe.
 
-Ces résultats suggèrent que la stabilité et la continuité sont des facteurs importants de la performance sportive d'une équipe. Les entraîneurs qui restent longtemps à la tête de l'équipe ont tendance à mieux connaître les joueurs et à mieux comprendre les forces et les faiblesses de l'équipe, ce qui peut contribuer à améliorer les performances de l'équipe. En revanche, les entraîneurs qui changent régulièrement de club ont tendance à voir une amélioration de la performance de l'équipe.
-Cela semble indiquer qu'un renouvellement régulier des entraîneurs peut être bénéfique pour l'équipe, mais que la stabilité et la continuité d'un coach peuvent également avoir un impact significatif sur les performances de l'équipe, en particulier à court terme.
+Ces résultats suggèrent que la stabilité et la continuité sont des facteurs importants de la performance sportive d'une équipe. Les entraîneurs qui restent longtemps à la tête de l'équipe ont tendance à mieux connaître les joueurs et à mieux comprendre les forces et les faiblesses de l'équipe, ce qui peut contribuer à améliorer les performances de l'équipe. En revanche, les entraîneurs qui changent régulièrement de club ont tendance à voir une amélioration de la performance de l'équipe. Aussi, les entraîneurs qui changent régulièrement de club semblent acquérir une expérience plus diversifiée qui leur permet d'obtenir de meilleurs résultats.
 
-Cependant, il est difficile de tirer des conclusions définitives sur la causalité de ces relations, car il existe de nombreux autres facteurs qui peuvent influencer la performance d'une équipe de football. Par exemple, la qualité des joueurs, la stratégie de jeu, la gestion du club et d'autres facteurs peuvent également jouer un rôle important dans la performance de l'équipe. Il est donc important de prendre en compte ces facteurs lors de l'analyse des données et de ne pas tirer de conclusions hâtives sur la relation entre le licenciement d'un coach et la performance de l'équipe.
-
+Cependant, il est difficile de tirer des conclusions définitives sur la causalité de ces relations, car il existe de nombreux autres facteurs qui peuvent influencer la performance d'une équipe de football. Par exemple, la qualité des joueurs, la stratégie de jeu, la gestion du club et d'autres facteurs peuvent également jouer un rôle important dans la performance de l'équipe. Il est donc important de prendre en compte ces facteurs lors de l'analyse des données et de ne pas tirer de conclusions hâtives.
 
 +++ {"part": "data_availability"}
 L'ensemble des fichiers et données relatif à ce travail sont disponible en accès libre sur le [dépot GitHub](https://github.com/mathisdrn/head_coach_dismissal) sous licence MIT.
