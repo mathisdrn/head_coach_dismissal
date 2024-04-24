@@ -393,7 +393,7 @@ Nous observons :
 % to review
 Ces résultats suggèrent que l'ancienneté du coach au sein de l'équipe a un impact positif sur les performances de l'équipe. Cela peut s'expliquer par le fait que les entraîneurs ont besoin de temps pour s'adapter à leur nouvel environnement et pour mettre en place leur stratégie de jeu. De plus, les entraîneurs qui restent plus longtemps à la tête de l'équipe ont tendance à mieux connaître les joueurs et à mieux comprendre les forces et les faiblesses de l'équipe, ce qui peut contribuer à améliorer les performances de l'équipe.
 
-#### Ancienneté de l'entraîneur lors du match
+### Ancienneté de l'entraîneur lors du match
 
 La [](#match_distribution1) montre la distribution des matchs en fonction de l'ancienneté de l'entraîneur lors du match. On observe qu'environ 63 % des matchs sont supervisé par un entraîneur ayant moins de 500 jours d'ancienneté au sein du club. 
 
