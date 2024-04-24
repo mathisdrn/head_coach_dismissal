@@ -64,7 +64,7 @@ Enfin, la lecture de Fundamentals of Data Visualization [@DataViz] a permis d'am
 
 Il est essentiel de préparer les données avant de les analyser. Cette étape consiste à nettoyer les données, à les transformer et à les organiser de manière à ce qu'elles soient exploitables pour l'analyse statistique. De plus, il est important de vérifier l'intégrité et la complétude des données afin de s'assurer de leur cohérence et de leur fiabilité dans le cadre de l'analyse statistique.
 
-Ces différentes étapes de préparation des données sont réalisées de manière itérative et suivent rarement un chemin linéaire. L'évolution des besoins de l'étude, les contraintes imposées par les données disponibles et les données d'interêts et la détection d'incohérences dans les données sont autant de facteurs qui amènent à faire évoluer la pipeline de préparation des données. Davantage de détails sur le traitement des données sont disponibles dans les Notebooks Jupyter associés à ce papier.
+Ces différentes étapes de préparation des données sont réalisées de manière itérative et suivent rarement un chemin linéaire. L'évolution des besoins de l'étude, les contraintes imposées par les données disponibles et les données d'intérêts et la détection d'incohérences dans les données sont autant de facteurs qui amènent à faire évoluer la pipeline de préparation des données. Davantage de détails sur le traitement des données sont disponibles dans les Notebooks Jupyter associés à ce papier.
 
 ### Données extraites 
 
@@ -96,12 +96,12 @@ On exclut des mandats des entraîneurs, les entraîneurs sportifs ayant eu moins
 
 Certains matchs ne possèdent pas d'informations sur le résultat final. Ces matchs correspondent en réalité à des matchs qui ont été annulés ou reportés notamment en lien avec le COVID-19. Ces matchs sont exclus de l'analyse.
 
-Certains enregistrements de mandats d'entraîneurs ne possèdent pas d'information sur le pays et la league du club concerné. Ces informations ont été ajoutées manuellement en se basant sur le nom du club avant le filtrage sur les données d'interêts.
+Certains enregistrements de mandats d'entraîneurs ne possèdent pas d'information sur le pays et la ligue du club concerné. Ces informations ont été ajoutées manuellement en se basant sur le nom du club avant le filtrage sur les données d'intérêts.
 
 Un nombre important d'équipe a des informations incomplètes sur les mandats des entraîneurs sportifs. Certaines de ces données manquantes correspondent à des périodes de changement d'entraîneurs, durant laquelle le club n'a plus d'entraîneur sportif en poste.
-Toutefois, un nombre significatif d'équipes ne possède aucune information sur l'entraîneur sportif à la tête du club entre 2015 et 2023. L'absence de mandat entre 2015 et 2023 concerne 95 équipes sur les 161 équipes d'interêts. Le problème provient de la liste de liens TransferMarkt retournée par la fonction `tm_league_team_urls(country_name, start_year)` de worldfootballR qui ne contient pas l'ensemble des équipes des pays d'interêts.
+Toutefois, un nombre significatif d'équipes ne possèdent aucune information sur l'entraîneur sportif à la tête du club entre 2015 et 2023. L'absence de mandat entre 2015 et 2023 concerne 95 équipes sur les 161 équipes d'intérêts. Le problème provient de la liste de liens TransferMarkt retournée par la fonction `tm_league_team_urls(country_name, start_year)` de worldfootballR qui ne contient pas l'ensemble des équipes des pays d'intérêts.
 
-Ce problème a été détecté à la fin de l'analyse et n'a pu être corrigé. Une correction possible consisterait à ajouter manuellement les liens TransferMarkt des 95 équipes pour lesquelles il n'y a aucun enregistrement d'entraîneurs sportifs.
+Ce problème a été détecté à la fin de l'analyse et n'a pas pu être corrigé. Une des solutions consisterait à ajouter manuellement les liens TransferMarkt des 95 équipes pour lesquelles il n'y a aucun enregistrement d'entraîneurs sportifs.
 
 ![](#overlapping_coach)
 
@@ -252,7 +252,7 @@ La [](#hc_per_club_per_league1) montre que les entraîneurs de la Premier League
 Average Number of Head Coaches Appointed per Club versus League (2015 - 2023)
 :::
 
-La [](#club_results_over_coach_count) s'intéresse aux ratios de victoires, de matchs nuls et de défaites des clubs en fonction du nombre d'entraîneurs nommés à la tête de l'équipe au cours de la période 2015 - 2023. Ces relations montre la relation entre la fréquence de remplacement d'un coach et les performances de l'équipe. 
+La [](#club_results_over_coach_count) s'intéresse aux ratios de victoires, de matchs nuls et de défaites des clubs en fonction du nombre d'entraîneurs nommés à la tête de l'équipe au cours de la période 2015 - 2023. Ces graphiques permettent de visualiser la relation entre la fréquence de renouvellement des entraîneurs et la performance des équipes.
 
 :::{figure}
 :name: club_results_over_coach_count
@@ -298,7 +298,7 @@ Au cours de la période 2017 - 2022, plus de 60 % des entraîneurs sportifs n'on
 Proportion of Head Coaches by Number of Club Appointments (2015 - 2023)
 :::
 
-La [](#hc_results_over_appointment_count) s'intéresse aux pourcentages de victoires, de matchs nuls et de défaites des mandats individuel des entraîneurs par rapport au nombre de clubs pour lesquels ils ont travaillés durant la saison 2015 - 2023. Ces graphiques permettent de visualiser la relation entre l'expérience acquise par l'entraîneur et l'impact sur la performance de leurs équipes. 
+La [](#hc_results_over_appointment_count) s'intéresse aux pourcentages de victoires, de matchs nuls et de défaites de chaque mandat des entraîneurs par rapport au nombre d'équipe qu'ils ont entraîné jusqu'à présent au sein des équipes d'intérêts pour la saison 2015 - 2023. Ces graphiques permettent de visualiser la relation entre l'expérience acquise par l'entraîneur au cours de son passage successif au sein de plusieurs clubs et l'impact sur la performance de leurs équipes.
 
 :::{figure}
 :name: hc_results_over_appointment_count
@@ -318,9 +318,9 @@ Head Coach Appointment Performance versus Appointment Count
 
 Il n'existe pas de corrélation statistiques significative entre le nombre de clubs pour lesquels un entraîneur a travaillé et son pourcentage de victoires ($p = 0.95$), de matchs nuls ($p = 0.05$) ou de défaites ($p = 0.24$).
 
-Il est possible que l'absence de corrélation stastiquement significative soit dû à l'absence d'information sur l'expérience antérieure des entraîneurs.
+Il est possible que l'absence de corrélation stastiquement significative soit dû à l'absence d'une information complète sur l'expérience passés des entraîneurs.
 
-La [](#hc_results_over_club_count) suivante diffère quant à elle car elle s'intéresse à la performance agrégée des entraîneurs par rapport au nombre total de club pour lesquels ils ont travaillés durant la saison 2015 - 2023. Ces graphiques permettent de visualiser la relation entre la mobilité des entraîneurs et la performance de leurs équipes.
+La [](#hc_results_over_club_count) suivante diffère quant à elle car elle s'intéresse à la performance agrégée des entraîneurs au cours de leurs carrières au sein des équipes et saisons d'intérêt par rapport au nombre total de club pour lesquels ils ont travaillés durant la saison 2015 - 2023. Ces graphiques permettent de visualiser la relation entre la mobilité des entraîneurs et la performance de leurs équipes.
 
 :::{figure}
 :name: hc_results_over_club_count
@@ -343,9 +343,14 @@ Ainsi, nous observons :
 - [({number})](#hc_draw_vs_cc) une corrélation positive très faible ($r = 0.03$) mais statistiquement non significative ($p = 0.67$) entre le nombre de clubs entraînés par le coach et son ratio de matchs nuls.
 - [({number})](#hc_loss_vs_cc) une corrélation négative faible ($r = -0.21$) statistiquement significative ($p = 0.00$) entre le nombre de clubs entraînés par le coach et son ratio de défaites.
 
-Ces graphiques suggèrent que les entraîneurs qui ont travaillé pour un plus grand nombre de clubs ont tendance à obtenir de meilleurs résultats que ceux qui ont travaillé pour un nombre plus restreint de clubs. Cela peut s'expliquer par le fait que les entraîneurs qui ont travaillé pour un plus grand nombre de clubs ont acquis une expérience plus diversifiée et ont pu développer des compétences et des connaissances qui leur permettent d'obtenir de meilleurs résultats.
-
-Cela pourrait aussi s'expliquer par le fait que les entraîneurs performants soient davantage reconnus et donc sollicités par d'autres clubs, favorisant ainsi leur mobilité entre les clubs.
+Plusieurs hypothèses peuvent être émises pour expliquer ces résultats :
+1. La performance de l'équipe comme facteur explicatif de la mobilité du coach :
+    - Les entraîneurs qui obtiennent de bons résultats sont plus susceptibles d'être sollicités par d'autres clubs, ce qui peut expliquer pourquoi ils ont travaillé pour un plus grand nombre de clubs.
+    - Les entraîneurs qui obtiennent de mauvais résultats sont potentiellement relégué à des ligues de division 2 ne faisant pas parti de nos ligues d'intérêts.
+2. La mobilité du coach comme facteur explicatif de la performance de l'équipe :
+    - Les entraîneurs qui ont travaillé pour un plus grand nombre de clubs ont acquis une expérience plus diversifiée et ont pu développer des compétences et des connaissances qui leur permettent d'obtenir de meilleurs résultats.
+    - Les entraîneurs qui ont travaillé pour un plus petit nombre de club n'ont pas eu l'opportunité de développer des compétences et des connaissances aussi diversifiées, ce qui peut affecter négativement leurs performances et donc la performance de l'équipe.
+3. Le biais des données : en effet, nous n'avons collecté que les données des entraîneurs qui ont été actifs entre 2015 et 2023 et pour les ligues d'interêts. Il est possible que les entraîneurs qui ont réussi leurs mandats soient plus susceptibles d'être sollicités par d'autres clubs faisant partie des ligues d'intérêts.
 
 ### Ancienneté de l'entraîneur et performance de l'équipe 
 
