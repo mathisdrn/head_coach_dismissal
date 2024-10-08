@@ -105,7 +105,7 @@ Ce problème a été détecté à la fin de l'analyse et n'a pas pu être corrig
 
 ![](#overlapping_coach)
 
-:::{table} Example of inconsistency in the head coach data
+:::{table} Exemple d'inconsistences dans les données des entraîneurs sportifs
 :label: hc_inconsistency1
 :align: center
 ![](#hc_inconsistency)
