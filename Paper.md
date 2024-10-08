@@ -5,7 +5,7 @@ short_title: Paper
 banner: ./misc/banner.jpg
 license: CC-BY-4.0
 keywords: coach dismissal, team performance
-date: 04/14/2024
+date: 2024-04-14
 ---
 
 +++ {"part": "abstract"}

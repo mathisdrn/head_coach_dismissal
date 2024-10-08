@@ -17,10 +17,10 @@ conda env create -f requirements.yml
 
 Then, you can activate the environment and run the code in the Jupyter notebooks.
 
-You can build the paper by running the following command in your terminal:
+You can build the paper by installing [Typst](https://github.com/typst/typst) and running the following command in your terminal:
 
 ```bash
-myst build Paper.md
+myst build Paper.md --pdf
 ```
 
 You can also serve a static webpage of the paper by running the following command in your terminal:
