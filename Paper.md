@@ -4,7 +4,9 @@ subject: Statistical analysis
 short_title: Paper
 banner: ./misc/banner.jpg
 license: CC-BY-4.0
-keywords: coach dismissal, team performance
+keywords: 
+    - coach dismissal
+    - team performance
 date: 2024-04-14
 ---
 
