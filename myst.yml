@@ -31,6 +31,8 @@ project:
   - file: https://raw.githubusercontent.com/mathisdrn/head_coach_dismissal/master/exports/head_coach_dismissal.pdf
     title: PDF version
     filename: head_coach_dismissal.pdf
+  settings:
+    output_matplotlib_strings: remove
 site:
   title: "Head coach dismissal effect on team performance"
   template: article-theme
