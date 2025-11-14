@@ -178,12 +178,10 @@ Nous ajoutons également aux [données des mandats des entraîneurs sportifs](#h
 
 ![](#home_advantage_text)
 
-:::{figure} #venue_effect
-:name: venue_effect1
+:::{table} Venue effect on team's performance (2015 - 2023)
+:label: venue_effect1
 :align: center
-:height: 2em
-:width: 2em
-Venue effect on team's performance (2015 - 2023)
+![](#venue_effect)
 :::
 
 ### Les dynamiques temporelles
@@ -213,10 +211,10 @@ Monthly Distribution of Head Coaches Dismissals
 
 Les périodes de nominations et de licenciement des entraîneurs sportifs sont relativement stables au cours des saisons, mais aussi entre les ligues ([](#hc_season_break1)).
 
-:::{figure} #hc_season_break
-:name: hc_season_break1
+:::{table} Proportion of in-season vs off-season head coach dismissal per league
+:label: hc_season_break1
 :align: center
-Proportion of in-season vs off-season head coach dismissal per league
+![](#hc_season_break)
 :::
 
 ## Analyse statistique
